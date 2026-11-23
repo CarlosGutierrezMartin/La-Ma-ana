@@ -1,0 +1,21 @@
+# Podcast diario con Google Gemini (plan gratuito). Solo se genera si existe
+# el secreto GEMINI_API_KEY en el repositorio.
+#
+# topics: entre 3 y 5 ids de config/topics.yaml. La app la reescribe desde
+#   Ajustes → Podcast, así que déjala EN UNA SOLA LÍNEA. Un cambio aquí no
+#   lanza el workflow: se aplica en el podcast del día siguiente.
+topics: [optica, pharma, medtech, marketing, ia]
+
+minutes: 5                 # duración aproximada del episodio
+hosts:                     # voces prebuilt de Gemini: Kore, Charon, Puck, Aoede, Achird...
+  - name: Lucía
+    voice: Kore
+  - name: Álex
+    voice: Charon
+style: "Tono de informativo matinal, cercano y ágil, en español de España."
+models:
+  script: gemini-3.8-flash      # guion (texto)
+  tts: gemini-3.8-flash-tts     # voces
+max_chars_per_request: 2500     # el guion se locuta en trozos de este tamaño
+seconds_between_requests: 25    # pausa entre trozos (cupo por minuto del plan gratuito)
+retention_days: 14              # episodios que se conservan en el feed

@@ -1,5 +1,5 @@
 /* Service worker: la app abre al instante y sin conexión muestra la última edición. */
-const VERSION = "lm-v2";
+const VERSION = "lm-v3";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -16,6 +16,8 @@ self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET") return;
   const url = new URL(req.url);
+  // Audios del podcast: directos a la red (el navegador los pide por trozos)
+  if (url.pathname.includes("/podcast/")) return;
 
   // Datos del día: red primero, caché si no hay conexión
   if (url.origin === location.origin && url.pathname.includes("/data/")) {

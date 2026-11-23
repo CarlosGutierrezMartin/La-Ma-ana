@@ -243,3 +243,27 @@ legend { font-size: 10.5px; text-transform: uppercase; color: var(--ink-3); padd
   .story .thumb { width: 132px; height: 100px; }
 }
 .today-btn { border: 0; background: var(--ink); color: var(--paper); font-family: var(--f-meta); font-size: 11px; text-transform: uppercase; padding: 6px 10px; cursor: pointer; }
+
+/* Podcast */
+.podcast {
+  margin: 22px 0 6px; padding: 14px 16px 12px; background: var(--card);
+  border: 1px solid var(--rule); box-shadow: 4px 4px 0 var(--accent);
+}
+.podcast .kicker { font-family: var(--f-meta); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); }
+.podcast h2 { font-family: var(--f-mast); font-weight: 400; font-size: calc(24px * var(--scale)); line-height: 1.1; margin: 4px 0 10px; }
+.podcast audio { width: 100%; height: 40px; }
+.podcast .pod-topics { font-family: var(--f-meta); font-size: 10.5px; color: var(--ink-3); margin: 8px 0 0; }
+.podcast details { margin-top: 8px; font-size: calc(15px * var(--scale)); }
+.podcast summary { font-family: var(--f-meta); font-size: 11px; color: var(--ink-2); cursor: pointer; }
+.podcast details p { margin: 6px 0; }
+.podcast details b { font-family: var(--f-meta); font-size: 11px; font-weight: 500; color: var(--accent); }
+.gh-row { display: flex; gap: 8px; align-items: center; margin: 10px 0 4px; flex-wrap: wrap; }
+.gh-row input {
+  flex: 1 1 180px; min-width: 0; font: inherit; font-size: 14px; padding: 8px 10px;
+  border: 1px solid var(--hair); background: var(--paper); color: var(--ink);
+}
+.btn {
+  font-family: var(--f-meta); font-size: 12px; padding: 9px 12px; cursor: pointer;
+  border: 1px solid var(--rule); background: var(--ink); color: var(--paper);
+}
+.btn:disabled { opacity: .4; cursor: default; }

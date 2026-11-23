@@ -6,9 +6,20 @@ on:
     # (GitHub puede retrasar los cron unos minutos en horas punta.)
     - cron: "20 5 * * *"
   workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
+    inputs:
+      podcast:
+        description: "Podcast"
+        type: choice
+        default: regenerar
+        options:
+          - regenerar     # genera el episodio de hoy aunque ya exista
+          - auto          # solo si hoy aún no hay episodio
+          - solo-guion    # escribe el guion y lo muestra en el log, sin voz
+          - "no"          # no gasta cupo de Gemini
   push:
     branches: [main]
-    paths: ["config/**", "docs/**", "scripts/**", "!docs/data/**"]
+    # podcast.yaml se aplica al día siguiente: cambiarlo no lanza el workflow
+    paths: ["config/**", "docs/**", "scripts/**", "!docs/data/**", "!config/podcast.yaml"]
 
 permissions:
   contents: write
@@ -46,11 +57,20 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/build_digest.py
 
+      - name: Podcast
+        # Si falla, la edición escrita se publica igual (ese día sin podcast)
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          python scripts/build_podcast.py --mode "${{ inputs.podcast || 'auto' }}"
+
       - name: Guardar histórico en el repo
         run: |
           git config user.name  "la-manana-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data
+          git add docs/data $(ls docs/podcast.xml 2>/dev/null)
           git diff --cached --quiet || git commit -m "Edición $(TZ=Europe/Madrid date +%F)"
           # Los JSON se regeneran enteros en cada edición: si alguien ha subido
           # otra mientras tanto, gana la que acabamos de generar.

@@ -51,6 +51,7 @@
 
   async function loadIndex() {
     try { state.days = (await getJSON("data/index.json")).days || []; } catch { state.days = []; }
+    try { state.podcast = await getJSON("data/podcast.json"); } catch { state.podcast = null; }
   }
 
   async function loadDay(idx) {
@@ -123,6 +124,17 @@
     const items = visibleItems(sec.items);
     let html = "";
 
+    const ep = sec.id === "top" && state.podcast?.episodes?.find((e) => e.date === d.date);
+    if (ep) {
+      const mins = Math.max(1, Math.round(ep.duration / 60));
+      html += `<section class="podcast reveal" style="--i:0">
+        <span class="kicker">Podcast · ${mins} min</span>
+        <h2>${esc(ep.title)}</h2>
+        <audio controls preload="none" src="podcast/${esc(ep.file)}"></audio>
+        <p class="pod-topics">${esc((ep.topic_names || []).join(" · "))}</p>
+        ${ep.transcript?.length ? `<details><summary>Leer el guion</summary>${ep.transcript.map((t) => `<p><b>${esc(t.speaker)}</b> ${esc(t.text)}</p>`).join("")}</details>` : ""}
+      </section>`;
+    }
     if (sec.id === "top" && d.brief?.length) {
       html += `<section class="brief reveal" style="--i:0"><h2>Las claves del día</h2><ol>${d.brief
         .map((b) => `<li data-goto="${esc(b.ids?.[0] || "")}">${esc(b.text)}</li>`)
@@ -148,6 +160,7 @@
     $(`input[name=size][value=${state.prefs.size}]`).checked = true;
     $("#hideRead").checked = state.prefs.hideRead;
     $("#showImages").checked = state.prefs.showImages;
+    renderPodcastSettings();
     $("#topicToggles").innerHTML = d.sections
       .filter((s) => s.id !== "top")
       .map((s) => `<label class="switch"><input type="checkbox" data-topic="${esc(s.id)}" ${state.hiddenTopics.has(s.id) ? "" : "checked"}><span>${esc(s.name)}</span></label>`)
@@ -155,6 +168,108 @@
     $("#sourceToggles").innerHTML = d.sources
       .map((s) => `<label class="switch"><input type="checkbox" data-src="${esc(s.id)}" ${state.hiddenSources.has(s.id) ? "" : "checked"}><span>${esc(s.name)}</span></label>`)
       .join("");
+  }
+
+  /* ----------------------------------------------------------- podcast: temas en el repo */
+  // La app guarda la elección en config/podcast.yaml del repositorio con un token
+  // de GitHub (solo este repo, Contents: read/write) que vive en este dispositivo.
+  const gh = {
+    repo: () => state.podcast?.repo || `${location.hostname.split(".")[0]}/${location.pathname.split("/")[1]}`,
+    token: () => store.get("ghToken", ""),
+    async req(path, opts = {}) {
+      const r = await fetch(`https://api.github.com/repos/${gh.repo()}${path}`, {
+        ...opts,
+        headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${gh.token()}`, "X-GitHub-Api-Version": "2022-11-28", ...(opts.headers || {}) },
+      });
+      if (!r.ok) throw new Error(`GitHub ${r.status}`);
+      return r.json();
+    },
+  };
+  const b64enc = (str) => { let bin = ""; new TextEncoder().encode(str).forEach((b) => (bin += String.fromCharCode(b))); return btoa(bin); };
+  const b64dec = (b64) => new TextDecoder().decode(Uint8Array.from(atob(b64.replace(/\s/g, "")), (c) => c.charCodeAt(0)));
+  const TOPICS_RE = /^topics:\s*\[([^\]]*)\].*$/m;
+  const pod = { file: null, chosen: null };
+
+  async function loadPodcastConfig() {
+    const f = await gh.req("/contents/config/podcast.yaml");
+    const text = b64dec(f.content);
+    const m = text.match(TOPICS_RE);
+    pod.file = { sha: f.sha, text };
+    pod.chosen = new Set(m ? m[1].split(",").map((x) => x.trim()).filter(Boolean) : []);
+  }
+
+  function renderPodcastSettings() {
+    const secs = state.digest.sections.filter((s) => s.id !== "top");
+    const chosen = pod.chosen || new Set(state.podcast?.topics_next || []);
+    const connected = !!gh.token();
+    $("#podcastTopics").innerHTML = secs
+      .map((s) => `<label class="switch"><input type="checkbox" data-ptopic="${esc(s.id)}" ${chosen.has(s.id) ? "checked" : ""} ${connected ? "" : "disabled"}><span>${esc(s.short || s.name)}</span></label>`)
+      .join("");
+    $("#ghBox").innerHTML = connected
+      ? `<div class="gh-row"><button type="button" class="btn" id="podSave">Guardar temas del podcast</button><button type="button" class="link-btn" id="ghOut">Desconectar GitHub</button></div>`
+      : `<p class="hint">Para cambiar los temas desde aquí, conecta GitHub una vez en este dispositivo con tu token (solo este repo, permiso Contents: Read and write).</p>
+         <div class="gh-row"><input type="password" id="ghToken" placeholder="github_pat_…" autocomplete="off"><button type="button" class="btn" id="ghIn">Conectar</button></div>`;
+    $("#feedHint").innerHTML = state.podcast?.feed
+      ? `Suscríbete en tu app de podcasts con esta URL: <code>${esc(state.podcast.feed)}</code> <button type="button" class="link-btn" id="feedCopy">Copiar</button>`
+      : "";
+    updatePodSave();
+    if (connected && !pod.file) {
+      loadPodcastConfig().then(renderPodcastSettings).catch((e) => toast("No se pudo leer la configuración: " + e.message));
+    }
+  }
+
+  function podChecked() { return [...document.querySelectorAll("[data-ptopic]:checked")].map((x) => x.dataset.ptopic); }
+  function updatePodSave() {
+    const b = $("#podSave");
+    if (!b) return;
+    const n = podChecked().length;
+    b.disabled = n < 3 || n > 5 || !pod.file;
+    b.textContent = n < 3 ? `Elige ${3 - n} más` : "Guardar temas del podcast";
+  }
+
+  async function podcastSettingsClick(e) {
+    const id = e.target.id;
+    if (id === "ghIn") {
+      const tok = $("#ghToken").value.trim();
+      if (!tok) return;
+      store.set("ghToken", tok);
+      try {
+        const r = await gh.req("");
+        if (!r.permissions?.push) throw new Error("el token no tiene permiso de escritura");
+        await loadPodcastConfig();
+        toast("GitHub conectado");
+      } catch (err) {
+        store.set("ghToken", "");
+        toast("No se pudo conectar: " + err.message);
+      }
+      renderPodcastSettings();
+    } else if (id === "ghOut") {
+      store.set("ghToken", "");
+      pod.file = pod.chosen = null;
+      renderPodcastSettings();
+      toast("GitHub desconectado de este dispositivo");
+    } else if (id === "podSave") {
+      const topics = podChecked();
+      const b = e.target;
+      b.disabled = true; b.textContent = "Guardando…";
+      try {
+        const text = pod.file.text.replace(TOPICS_RE, `topics: [${topics.join(", ")}]`);
+        const names = topics.map((t) => state.digest.sections.find((s) => s.id === t)?.short || t);
+        const r = await gh.req("/contents/config/podcast.yaml", {
+          method: "PUT",
+          body: JSON.stringify({ message: `Podcast: ${names.join(", ")}`, content: b64enc(text), sha: pod.file.sha }),
+        });
+        pod.file = { sha: r.content.sha, text };
+        pod.chosen = new Set(topics);
+        toast("Guardado: el podcast de mañana tratará " + names.join(", "));
+      } catch (err) {
+        toast("No se pudo guardar: " + err.message);
+        pod.file = null; // relee por si cambió en GitHub
+      }
+      renderPodcastSettings();
+    } else if (id === "feedCopy") {
+      navigator.clipboard?.writeText(state.podcast.feed).then(() => toast("URL copiada"), () => toast(state.podcast.feed));
+    }
   }
 
   function render() {
@@ -204,8 +319,14 @@
     const dlg = $("#settings");
     $("#openSettings").addEventListener("click", () => { renderSettings(); dlg.showModal(); });
     dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
+    dlg.addEventListener("click", (e) => { if (e.target.closest("#ghBox, #feedHint")) podcastSettingsClick(e); });
+    dlg.addEventListener("keydown", (e) => { if (e.key === "Enter" && e.target.id === "ghToken") { e.preventDefault(); $("#ghIn").click(); } });
     dlg.addEventListener("change", (e) => {
       const t = e.target;
+      if (t.dataset.ptopic) {
+        if (podChecked().length > 5) { t.checked = false; toast("Como mucho 5 temas"); }
+        return updatePodSave();
+      }
       if (t.name === "theme") state.prefs.theme = t.value;
       else if (t.name === "size") state.prefs.size = t.value;
       else if (t.id === "hideRead") state.prefs.hideRead = t.checked;
