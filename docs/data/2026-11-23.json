@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T16:14:41.132139+00:00",
+ "generated_at": "2026-11-23T16:20:52.839351+00:00",
  "stats": {
-  "fetched": 1765,
-  "fresh": 681,
-  "stories": 641,
-  "selected": 88
+  "fetched": 1760,
+  "fresh": 675,
+  "stories": 634,
+  "selected": 87
  },
  "brief": null,
  "ai_model": null,
@@ -24,8 +24,8 @@
     "58c2527b36",
     "e10a54d444",
     "02ea7b5321",
-    "e4b12870dd",
     "aefe2fb3f5",
+    "43393413fe",
     "ab33412673",
     "ea9fa1507b",
     "0b7525d017",
@@ -46,8 +46,8 @@
     "58c2527b36",
     "94e0e3d950",
     "8fa6f24d75",
-    "aa93777566",
     "ab33412673",
+    "68d47bc56c",
     "90f831b4fd",
     "743c66de3d",
     "f3dd4003e1",
@@ -123,7 +123,7 @@
     "ed24ecec5c",
     "f3dd4003e1",
     "70f9818cda",
-    "8bdbb6d9cf"
+    "06aa0ea8a3"
    ]
   },
   {
@@ -131,16 +131,16 @@
    "name": "Óptica y optometría",
    "short": "Óptica",
    "items": [
-    "a4bae11b09",
     "e44a11c1f6",
-    "14f0fff5d7",
     "5320043ce8",
     "ffa17286a8",
-    "d385192900",
-    "f8cc59acbc",
+    "1c93d024fa",
     "0f37f7e9e6",
+    "ee72d044de",
+    "5a30473aaa",
     "ac8b6d1aab",
-    "a1ea71a98c"
+    "a1ea71a98c",
+    "856ebb8b54"
    ]
   },
   {
@@ -152,7 +152,7 @@
     "dc42a73f7e",
     "6f5322db93",
     "02ea7b5321",
-    "e4b12870dd",
+    "43393413fe",
     "69343500b5",
     "74b514dbc9",
     "26cb8d2aa5",
@@ -167,14 +167,14 @@
    "items": [
     "aefe2fb3f5",
     "8da34bf647",
-    "e4b12870dd",
+    "43393413fe",
     "e252349a0c",
     "988fb944df",
     "8fa6f24d75",
     "f4c1a1d8e2",
     "7004274ff1",
-    "71eae63a3e",
-    "d3561ea80e"
+    "68d47bc56c",
+    "71eae63a3e"
    ]
   },
   {
@@ -188,7 +188,7 @@
     "cac1e87497",
     "1ddff4a50d",
     "19d402410a",
-    "9a6a5c9356",
+    "ada284ba64",
     "68c3085284",
     "3588888e17",
     "de138162ba"
@@ -226,7 +226,7 @@
     "ia",
     "negocios"
    ],
-   "score": 30.236,
+   "score": 30.154,
    "also": [
     {
      "source_id": "elpais",
@@ -280,7 +280,7 @@
     "ia",
     "medtech"
    ],
-   "score": 15.794,
+   "score": 15.751,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -308,7 +308,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.584,
+   "score": 11.554,
    "also": []
   },
   "b205246cdc": {
@@ -323,7 +323,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.332,
+   "score": 11.303,
    "also": []
   },
   "dc42a73f7e": {
@@ -339,7 +339,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.029,
+   "score": 11.002,
    "also": []
   },
   "cac1e87497": {
@@ -356,7 +356,7 @@
     "tech",
     "medtech"
    ],
-   "score": 11.019,
+   "score": 10.989,
    "also": [
     {
      "source_id": "medtech_search",
@@ -380,7 +380,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.614,
+   "score": 10.588,
    "also": [
     {
      "source_id": "medtech_search",
@@ -402,7 +402,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.518,
+   "score": 10.491,
    "also": []
   },
   "e252349a0c": {
@@ -418,7 +418,7 @@
     "salud",
     "pharma"
    ],
-   "score": 10.477,
+   "score": 10.45,
    "also": []
   },
   "94e0e3d950": {
@@ -433,7 +433,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.825,
+   "score": 9.798,
    "also": [
     {
      "source_id": "reuters",
@@ -458,7 +458,7 @@
     "economia",
     "negocios"
    ],
-   "score": 9.334,
+   "score": 9.309,
    "also": []
   },
   "02ea7b5321": {
@@ -474,36 +474,13 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.277,
+   "score": 9.254,
    "also": [
     {
      "source_id": "marketingdirecto",
      "source": "Marketing Directo",
      "url": "https://www.marketingdirecto.com/marketing-general/gente/javier-matallana-nuevo-ceo-webedia-espana",
      "title": "Javier Matallana, nuevo CEO de Webedia España"
-    }
-   ]
-  },
-  "e4b12870dd": {
-   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOME5zWmhJYjVoX3NWUTdjSlhoWXRDZHdiM1REYy1QTWFwZ25aclNOOU05aWUxdGxWcjdxdXRYNDBoUUIzbTRhZnN5WUR2bENaaDBRYjN1OWtENFFEMlJfZUJRaWYzbkI2bkwxNTNFRTVvSGQzb1dMbE45UFJTTm5VWXJLUDRTd0JhcEF5TnlR?oc=5",
-   "source": "PMLiVE",
-   "source_id": "pmlive",
-   "published": "2026-11-23T13:33:28+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "marketing"
-   ],
-   "score": 9.074,
-   "also": [
-    {
-     "source_id": "mmm",
-     "source": "MM+M",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
-     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
     }
    ]
   },
@@ -520,8 +497,31 @@
     "pharma",
     "salud"
    ],
-   "score": 9.015,
+   "score": 8.995,
    "also": []
+  },
+  "43393413fe": {
+   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
+   "url": "https://pmlive.com/pmea-2026-a-celebration-of-excellence-in-pharmaceutical-marketing/",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-23T12:26:40+00:00",
+   "summary": "This year’s Awards, held at the Sheraton Park Lane London, included 17 categories",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "marketing"
+   ],
+   "score": 8.8,
+   "also": [
+    {
+     "source_id": "mmm",
+     "source": "MM+M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
+     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
+    }
+   ]
   },
   "716c53fa8f": {
    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -535,35 +535,13 @@
    "topics": [
     "ia"
    ],
-   "score": 8.794,
+   "score": 8.782,
    "also": [
     {
      "source_id": "reuters",
      "source": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric"
-    }
-   ]
-  },
-  "aa93777566": {
-   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-   "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T15:04:01+00:00",
-   "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 8.715,
-   "also": [
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-     "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors"
     }
    ]
   },
@@ -579,7 +557,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.437,
+   "score": 8.418,
    "also": []
   },
   "f944bb368b": {
@@ -594,7 +572,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.248,
+   "score": 8.227,
    "also": []
   },
   "006b384510": {
@@ -609,7 +587,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.12,
+   "score": 8.1,
    "also": []
   },
   "f1b33dc12f": {
@@ -624,7 +602,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.083,
+   "score": 8.063,
    "also": []
   },
   "90f831b4fd": {
@@ -640,13 +618,13 @@
     "ia",
     "negocios"
    ],
-   "score": 7.977,
+   "score": 7.955,
    "also": [
     {
      "source_id": "reuters",
      "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
-     "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+     "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors"
     }
    ]
   },
@@ -664,7 +642,7 @@
     "ia",
     "espana"
    ],
-   "score": 7.754,
+   "score": 7.732,
    "also": []
   },
   "8fa6f24d75": {
@@ -681,7 +659,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.678,
+   "score": 7.663,
    "also": []
   },
   "ab33412673": {
@@ -697,7 +675,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.648,
+   "score": 7.629,
    "also": []
   },
   "15c9134c35": {
@@ -712,7 +690,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.489,
+   "score": 7.472,
    "also": []
   },
   "ea9fa1507b": {
@@ -727,7 +705,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.356,
+   "score": 7.338,
    "also": []
   },
   "0b7525d017": {
@@ -742,7 +720,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.259,
+   "score": 7.239,
    "also": [
     {
      "source_id": "elpais",
@@ -751,22 +729,6 @@
      "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
     }
    ]
-  },
-  "8bdbb6d9cf": {
-   "title": "Azcón fichará 135 médicos extra para la Primaria aragonesa si el PP gana las elecciones",
-   "url": "https://www.redaccionmedica.com/autonomias/20261123/azcon-fichara-medicos-extra-para-la-primaria-aragonesa-si-el-pp-gana-las-elecciones/366340_0.html",
-   "source": "Redacción Médica",
-   "source_id": "redaccionmedica",
-   "published": "2026-11-23T13:06:48+00:00",
-   "summary": "Ha anunciado que el PP reconocerá la singularidad de los médicos reconociendo un ámbito de actuación propio sobre sus condiciones laborales. Y además : Azcón: \"Resulta imprescindible desarrollar las competencias de Enfermería\"",
-   "ai_summary": null,
-   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160467.jpg?p=w:1706/h:960&h=3eL2TcrJ",
-   "topics": [
-    "salud",
-    "espana"
-   ],
-   "score": 7.177,
-   "also": []
   },
   "1c35030178": {
    "title": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
@@ -780,7 +742,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.17,
+   "score": 7.151,
    "also": []
   },
   "9b513f1c62": {
@@ -796,22 +758,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.023,
-   "also": []
-  },
-  "a4bae11b09": {
-   "title": "Rusia y China desarrollan ópticas compactas para reducir peso en gafas de VR",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTIzTUpnZXpZeU1zMHVuWi1qakRlN1luU2ZNX2txcEVQVDRTcThTc05IMFNjOFdKZk9TU2tXLS1NYU1sM3JyVEg2Z3I4TTF4NEVNSjRGSFQ2bDlBNXdVUlV5X0pmZXJoTUdLN1Z1aTU4SjAzRVdzUFB4dVp4cExaN05heGtmOWtJbnIzMkZoQXFVQUsydGVjWlE3dEUzYkVNNnJ5WWRGZWw5OXJ4V1E?oc=5",
-   "source": "Foro3D",
-   "source_id": "optica_es",
-   "published": "2026-11-23T10:00:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 6.827,
+   "score": 7.005,
    "also": []
   },
   "8da34bf647": {
@@ -826,7 +773,23 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.795,
+   "score": 6.779,
+   "also": []
+  },
+  "68d47bc56c": {
+   "title": "Patients are asking AI first. Advocacy groups can help shape the answers",
+   "url": "https://pmlive.com/blogs/patients-are-asking-ai-first-advocacy-groups-can-help-shape-the-answers/",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-23T16:07:23+00:00",
+   "summary": "Exploring how advocacy groups can help patients make sense of AI-generated health information – and what that means for pharma",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "pharma"
+   ],
+   "score": 6.708,
    "also": []
   },
   "4bfc072ba7": {
@@ -842,7 +805,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.586,
+   "score": 6.57,
    "also": []
   },
   "6f5322db93": {
@@ -857,7 +820,22 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.414,
+   "score": 6.397,
+   "also": []
+  },
+  "790c1aab79": {
+   "title": "Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
+   "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261122/del-estatuto-marco-listas-de-espera-los-programas-sanitarios-cada-partido-para-el-al-detalle/365755_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-22T17:15:19+00:00",
+   "summary": "Redacción Médica pone las principales claves sanitarias de los programas electorales en el centro del debate a modo de tertulia Y además: Sánchez convoca elecciones: los españoles decidirán el futuro de su sanidad el próximo 29 de noviembre",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160024.jpg?p=g:fp:0.5:0.38/w:1706/h:960&h=x-rWInCd",
+   "topics": [
+    "salud"
+   ],
+   "score": 6.386,
    "also": []
   },
   "743c66de3d": {
@@ -873,22 +851,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.399,
-   "also": []
-  },
-  "790c1aab79": {
-   "title": "Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
-   "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261122/del-estatuto-marco-listas-de-espera-los-programas-sanitarios-cada-partido-para-el-al-detalle/365755_0.html",
-   "source": "Redacción Médica",
-   "source_id": "redaccionmedica",
-   "published": "2026-11-22T17:15:19+00:00",
-   "summary": "Redacción Médica pone las principales claves sanitarias de los programas electorales en el centro del debate a modo de tertulia Y además: Sánchez convoca elecciones: los españoles decidirán el futuro de su sanidad el próximo 29 de noviembre",
-   "ai_summary": null,
-   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160024.jpg?p=g:fp:0.5:0.38/w:1706/h:960&h=x-rWInCd",
-   "topics": [
-    "salud"
-   ],
-   "score": 6.394,
+   "score": 6.382,
    "also": []
   },
   "5320043ce8": {
@@ -904,7 +867,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.35,
+   "score": 6.334,
    "also": []
   },
   "ed24ecec5c": {
@@ -919,7 +882,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.176,
+   "score": 6.16,
    "also": []
   },
   "e44a11c1f6": {
@@ -934,7 +897,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.152,
+   "score": 6.139,
    "also": []
   },
   "2f9c65df28": {
@@ -949,7 +912,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.083,
+   "score": 6.071,
    "also": []
   },
   "ffa17286a8": {
@@ -966,7 +929,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.04,
+   "score": 6.025,
    "also": []
   },
   "378e2b2dc1": {
@@ -982,7 +945,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.957,
+   "score": 5.943,
    "also": []
   },
   "988fb944df": {
@@ -997,7 +960,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.789,
+   "score": 5.773,
    "also": []
   },
   "17b2c2dee1": {
@@ -1014,7 +977,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.785,
+   "score": 5.77,
    "also": []
   },
   "70f9818cda": {
@@ -1029,7 +992,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.77,
+   "score": 5.757,
    "also": []
   },
   "4100869d1c": {
@@ -1046,7 +1009,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.738,
+   "score": 5.732,
    "also": []
   },
   "1b24c54950": {
@@ -1063,7 +1026,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.729,
+   "score": 5.714,
    "also": []
   },
   "e25be61dcd": {
@@ -1078,7 +1041,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.688,
+   "score": 5.68,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1095,22 +1058,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.542,
-   "also": []
-  },
-  "14f0fff5d7": {
-   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
-   "url": "http://www.visionmonday.com/eyecare/article/suny-optometry-research-plays-key-role-in-bringing-breakthrough-vision-technology-to-us-children/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:18:00+00:00",
-   "summary": "NEW YORK— SUNY College of Optometry played a pivotal role in the clinical research that helped bring the Essilor Stellest spectacle lenses to market, the school recently shared. Stellest lenses received U.S. FDA market authorization in September 2025.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 5.405,
+   "score": 5.534,
    "also": []
   },
   "69343500b5": {
@@ -1125,7 +1073,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.354,
+   "score": 5.339,
    "also": []
   },
   "133404e6a4": {
@@ -1142,7 +1090,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.317,
+   "score": 5.304,
    "also": []
   },
   "74b514dbc9": {
@@ -1158,7 +1106,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.285,
+   "score": 5.274,
    "also": []
   },
   "e326412a2a": {
@@ -1174,7 +1122,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.25,
+   "score": 5.236,
    "also": []
   },
   "1ddff4a50d": {
@@ -1190,7 +1138,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 5.221,
+   "score": 5.206,
    "also": []
   },
   "afd32742f0": {
@@ -1206,7 +1154,7 @@
     "ia",
     "economia"
    ],
-   "score": 5.195,
+   "score": 5.18,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1222,7 +1170,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.181,
+   "score": 5.169,
    "also": []
   },
   "4704f794ba": {
@@ -1239,7 +1187,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.127,
+   "score": 5.115,
    "also": []
   },
   "6cce577396": {
@@ -1254,7 +1202,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.115,
+   "score": 5.103,
    "also": []
   },
   "7eccd90ac9": {
@@ -1270,7 +1218,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.1,
+   "score": 5.087,
    "also": []
   },
   "b5f425ec8b": {
@@ -1287,7 +1235,7 @@
     "negocios",
     "salud"
    ],
-   "score": 5.097,
+   "score": 5.083,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1302,7 +1250,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.077,
+   "score": 5.065,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1317,7 +1265,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.969,
+   "score": 4.957,
    "also": []
   },
   "a457bdd4df": {
@@ -1334,7 +1282,7 @@
     "tech",
     "espana"
    ],
-   "score": 4.907,
+   "score": 4.897,
    "also": []
   },
   "19d402410a": {
@@ -1350,7 +1298,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.872,
+   "score": 4.859,
    "also": []
   },
   "7e6255878c": {
@@ -1365,7 +1313,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.866,
+   "score": 4.857,
    "also": []
   },
   "7004274ff1": {
@@ -1380,7 +1328,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.866,
+   "score": 4.853,
    "also": []
   },
   "2f5e60e6ef": {
@@ -1395,15 +1343,30 @@
    "topics": [
     "economia"
    ],
-   "score": 4.837,
+   "score": 4.824,
    "also": []
   },
-  "9a6a5c9356": {
-   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEExR3NHRkpTQ0t0UV9kNlN3TEVlbTVIcFV0Ujl6aFBfLWtVb1B2ay1icmEwb3FzaWdUMHJmRVdwZHFZcGdxbVN4WnNQN3JXYUpuWjM0TUNVRGRlb3kwWks0NFJGMEJDRVR2SlhpR19NdVBaaV8xUm5zbllzVmdBbXZOYUtQNV80RG9nWFRaTWF4aXpFQUFrbXZQZl9MUDZ0Z0xiTzlIZmdyYW5wb04xNVgzemdnSWd0NU9BYUZTM3c?oc=5",
-   "source": "Investing.com India",
+  "1c93d024fa": {
+   "title": "Entrega alcalde Pedro Miguel Rosaldo 50 mil lentes graduados para apoyar la salud visual de los porteños",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BKOXZOV1hDeFd4OWNSSU91cXJZajhQQUpGT0tlSXFwbk1aSnpEa1RsNjMzUlVfUEhMSzJtdUlvTXZ2NmRUeUR4TVN6X1JMZkpKWXY2OVE1WElsVzRmb0pXb240Q2dxUkhWenoxY3htSkU3cnJvb1BRSEhIckppMkJwZ1BxX2NWVzZNLUZuRTl0ZTQzMjBVYlZBd3lLZmNzdWZGR0lvQzN1b1lSLU0tNnYzTjhCNDdiWmpURlhBQUdZYUludkx6dl93dWlabFVaQzNHa0dQUQ?oc=5",
+   "source": "Diario Gráfico",
+   "source_id": "optica_es",
+   "published": "2026-11-23T14:47:47+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.794,
+   "also": []
+  },
+  "ada284ba64": {
+   "title": "MIMEDX Announces FDA 510(k) Clearance for HELIOGEN® AMS",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXgzZmxYc3YtR3VpQlJfLWVYNG5FRWpCR1ZnbFd2RVBQLVBRUExMUEtCalQ4TmxzSUZfMnh5eFBkNHdOS2JneFFleVJ6b1d4QjdhdWNqdDVucURvR1VLRlk2WnJkTWZQR1FLT1FvTmRzYy1ESkxiN1dfUTNlRGxwczFkOE5ma2ZCQk1CX2FHSjlzUlhRWjVrTE8xQXFER2hVWlpoYXpTSGlPMUFsU2NlZFBidy14d0ZPdU9mMGRoTTViY0R20gHKAUFVX3lxTE1STlhaVnA1Q1A3bmU5TkV6MlZNLW5ROUM0bS1rR3I2RjM1LWp6QXdFeFdBaUZqOUdid3NHc0FibXNmSzRwZTVMMUJVbWNCWEJvcHJZZ2JtS1U2LUY2dG1OdGJ1Rk1RSWlsUUlwdG5vdVRFdXBhTXRoZmxoX0wzQW5rbmpiZ3g5TkVyY1JaWUxiRm80QkJCOWZWa1MzamVQTWtSQnJxNFo3dm1MYkItY25UcXNEa2tKbWYzTFRtNm80TkFOc3FtT09Tcmc?oc=5",
+   "source": "The Manila Times",
    "source_id": "medtech_search",
-   "published": "2026-11-23T13:22:38+00:00",
+   "published": "2026-11-23T13:22:12+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
@@ -1411,7 +1374,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.794,
+   "score": 4.78,
    "also": []
   },
   "71eae63a3e": {
@@ -1426,37 +1389,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.709,
-   "also": []
-  },
-  "d385192900": {
-   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
-   "url": "http://www.visionmonday.com/people/optical-community/article/vsp-eyes-of-hope-kendra-scott-foundation-partner-to-expand-access-to-vision-care-and-literacy-resources/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:21:00+00:00",
-   "summary": "RANCHO CORDOVA, Calif., and AUSTIN, Texas— VSP Eyes of Hope and the Kendra Scott Foundation announced that they have joined forces to help students learn, read and dream by expanding access to vision care and books.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.638,
-   "also": []
-  },
-  "f8cc59acbc": {
-   "title": "‘It All Came Together’: Donation Brings Eyewear to 100 Children in Florida",
-   "url": "http://www.visionmonday.com/business/article/it-all-came-together-donation-brings-eyewear-to-100-children-in-florida/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:15:00+00:00",
-   "summary": "BOSTON—Approximately 100 children in Florida now have new eyewear, GoodVision USA has shared, thanks to a set of introductions arranged by the organization that brought together the brand Vontélle Eyewear with the Crestview Lions Foundation .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.629,
+   "score": 4.696,
    "also": []
   },
   "130257fb00": {
@@ -1472,22 +1405,22 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.618,
+   "score": 4.606,
    "also": []
   },
-  "d3561ea80e": {
-   "title": "Trial helps Novartis build its blockbuster case for Leqvio",
-   "url": "https://pharmaphorum.com/news/trial-helps-novartis-build-its-blockbuster-case-leqvio",
-   "source": "pharmaphorum",
-   "source_id": "pharmaphorum",
-   "published": "2026-11-23T13:13:38+00:00",
-   "summary": "Phil.Taylor Mon, 23/11/2026 - 13:13 Phil.Taylor Mon, 23/11/2026 - 13:13",
+  "06aa0ea8a3": {
+   "title": "El Gobierno exigirá a la Comunidad de Madrid revocar las instrucciones que prohíben carteles sobre la huelga o implicar a los alumnos",
+   "url": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-22T11:48:55+00:00",
+   "summary": "Pedro Sánchez compara los formularios con los utilizados en el franquismo; Isabel Díaz Ayuso le acusa de usar “ideológicamente y sectariamente a los niños” y jalear las huelgas educativas “más feroces que se recuerdan”",
    "ai_summary": null,
-   "image": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/MR5BNW56FBO4JDUESPHQ66QUQ4.jpg?auth=4497cb76cdc1f4c3625807fcba14fcbfe0b8db70b231320f29a347085cf66cae",
    "topics": [
-    "pharma"
+    "espana"
    ],
-   "score": 4.614,
+   "score": 4.579,
    "also": []
   },
   "7d99e0f411": {
@@ -1503,7 +1436,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.461,
+   "score": 4.454,
    "also": []
   },
   "1dab1bd477": {
@@ -1518,7 +1451,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.233,
+   "score": 4.224,
    "also": []
   },
   "63706cb843": {
@@ -1534,7 +1467,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.162,
+   "score": 4.151,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1549,7 +1482,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.027,
+   "score": 4.017,
    "also": []
   },
   "106e5d1cff": {
@@ -1565,7 +1498,7 @@
     "tech",
     "ia"
    ],
-   "score": 3.879,
+   "score": 3.869,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1581,7 +1514,7 @@
     "negocios",
     "salud"
    ],
-   "score": 3.878,
+   "score": 3.868,
    "also": []
   },
   "1e82ded39f": {
@@ -1597,7 +1530,37 @@
     "economia",
     "salud"
    ],
-   "score": 3.87,
+   "score": 3.862,
+   "also": []
+  },
+  "ee72d044de": {
+   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUjNES1JzRU1PNmEwWGFHQTZyLXVSMzY3YTQwN0k3TGFRZGkwdnhONUc0cXV4SDFMUUNBSlV5T0JScVU4Q0tyX1JmbG12ekVEMmFZVjNXeU1CTkpNWGlCTUsxMHpHa05fOHpsOUJmX2J5ZjhQZ3dBVkg5ZjJjSTRJaFZkRkhWOFRPNTFvSWt5U1VXcmJuY0R6djkzeDFJYVRYcFIzQzBWZFVEaVZSSFN1UndLdnJ3aUM5T1VFMUJvTTZVLUhCSjV4XzJHOFVUb2hCMGR3WVF2ZGpGRHVMT1hJdEtHczR4RUFscjFMQ0VzajNiM2NRRU5OY1l3?oc=5",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:21:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 3.857,
+   "also": []
+  },
+  "5a30473aaa": {
+   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQV9GVTdxRTAtZjdka0FNLUJfOXZiX1RtZHc2WjUxNVptS1lGNDR4MHBJOHFPelo2WmUxRTRSamtZLWJoZ3JrQ0hPTUxKRXZaZERlX3BwZVdVN2JrWUQ3Y1puR3QteVFsUGFibUIxRUVBMm5qYnZUSDdzdlNXb1NpZzlmLXpqTDV3N1plWmJDRUVkVU1QcXBWZC0wSHZTMmRCMTh4MklVYW1WV3AyT1B2UkJtdXRwZENscFgzQWJCVERDaTZuMXVmSE4zeWRuYzhEVzN3NURpeWdXZw?oc=5",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:18:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 3.853,
    "also": []
   },
   "fb0c832b2c": {
@@ -1612,7 +1575,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.802,
+   "score": 3.794,
    "also": []
   },
   "852c829d5d": {
@@ -1627,7 +1590,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.041,
+   "score": 3.036,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1642,7 +1605,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.759,
+   "score": 2.758,
    "also": []
   },
   "a1ea71a98c": {
@@ -1657,7 +1620,22 @@
    "topics": [
     "optica"
    ],
-   "score": 2.759,
+   "score": 2.758,
+   "also": []
+  },
+  "856ebb8b54": {
+   "title": "Takeaways from this week in optometry: November 16-20",
+   "url": "https://www.optometrytimes.com/view/takeaways-from-this-week-in-optometry-november-16-20",
+   "source": "Optometry Times",
+   "source_id": "optometrytimes",
+   "published": "2026-11-21T11:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 2.629,
    "also": []
   },
   "68c3085284": {
@@ -1688,7 +1666,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.345,
+   "score": 2.34,
    "also": []
   },
   "de138162ba": {
@@ -1703,7 +1681,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.314,
+   "score": 2.308,
    "also": []
   }
  },
@@ -1809,10 +1787,12 @@
   {
    "id": "visionmonday",
    "name": "Vision Monday",
-   "via": "rss",
-   "count": 10,
+   "via": "google-news",
+   "count": 7,
    "ok": true,
-   "errors": []
+   "errors": [
+    "https://www.visionmonday.com/rss/latest-news/: HTTPError: HTTP Error 503: Service Unavailable"
+   ]
   },
   {
    "id": "healio_eye",
@@ -1834,7 +1814,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 24,
+   "count": 23,
    "ok": true,
    "errors": []
   },
@@ -1905,12 +1885,10 @@
   {
    "id": "pmlive",
    "name": "PMLiVE",
-   "via": "google-news",
+   "via": "rss",
    "count": 10,
    "ok": true,
-   "errors": [
-    "https://www.pmlive.com/rss: HTTPError: HTTP Error 403: Forbidden"
-   ]
+   "errors": []
   },
   {
    "id": "pharmexec",
@@ -1956,7 +1934,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 38,
+   "count": 37,
    "ok": true,
    "errors": []
   },
