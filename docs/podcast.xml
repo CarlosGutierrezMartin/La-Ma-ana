@@ -11,6 +11,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-
+    <item>
+      <title>La Mañana: Noticias de Óptica, Farma, MedTech, Marketing e IA</title>
+      <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Demócrata, Diario Información, El Dia.com.do, El Global, El Mundo, IPMARK, Marketing Directo, Medical Device Network, PMLiVE, TechCrunch, Vision Monday, Yahoo Finance. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
+      <pubDate>Mon, 23 Nov 2026 15:10:26 +0000</pubDate>
+      <guid isPermaLink="false">la-manana-2026-11-23</guid>
+      <enclosure url="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast/2026-11-23.mp3" length="1819533" type="audio/mpeg"/>
+      <itunes:duration>227</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>

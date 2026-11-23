@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T14:56:21.852994+00:00",
+ "generated_at": "2026-11-23T15:00:19.403639+00:00",
  "stats": {
-  "fetched": 1754,
-  "fresh": 657,
-  "stories": 620,
-  "selected": 88
+  "fetched": 1755,
+  "fresh": 656,
+  "stories": 619,
+  "selected": 89
  },
  "brief": null,
  "ai_model": null,
@@ -17,18 +17,18 @@
    "items": [
     "9c18fd8d23",
     "2be98cfc04",
+    "90f831b4fd",
     "b205246cdc",
-    "0b7525d017",
     "dc42a73f7e",
     "58c2527b36",
     "e10a54d444",
     "8558835d9e",
-    "9edcdf98db",
     "02ea7b5321",
     "aefe2fb3f5",
     "43393413fe",
     "ab33412673",
     "ea9fa1507b",
+    "0b7525d017",
     "9b513f1c62"
    ]
   },
@@ -41,12 +41,12 @@
     "dc42a73f7e",
     "716c53fa8f",
     "58c2527b36",
+    "90f831b4fd",
     "9edcdf98db",
     "8fa6f24d75",
     "8558835d9e",
     "bc5a53032c",
     "ab33412673",
-    "90f831b4fd",
     "743c66de3d",
     "2f9c65df28",
     "378e2b2dc1",
@@ -79,9 +79,9 @@
    "short": "Negocios",
    "items": [
     "9c18fd8d23",
+    "90f831b4fd",
     "02ea7b5321",
     "4bfc072ba7",
-    "90f831b4fd",
     "bc5a53032c",
     "17b2c2dee1",
     "1b24c54950",
@@ -116,14 +116,14 @@
    "items": [
     "e10a54d444",
     "ea9fa1507b",
-    "0b7525d017",
     "1c35030178",
     "4100869d1c",
     "e25be61dcd",
     "7e6255878c",
     "ed24ecec5c",
     "70f9818cda",
-    "8bdbb6d9cf"
+    "8bdbb6d9cf",
+    "06aa0ea8a3"
    ]
   },
   {
@@ -187,11 +187,11 @@
     "19d402410a",
     "9a6a5c9356",
     "167adc3c0c",
-    "9275de2b49",
     "68c3085284",
     "3588888e17",
     "de138162ba",
-    "38075cbb90"
+    "38075cbb90",
+    "76aaff30a7"
    ]
   },
   {
@@ -226,7 +226,7 @@
     "ia",
     "negocios"
    ],
-   "score": 27.357,
+   "score": 27.307,
    "also": [
     {
      "source_id": "elpais",
@@ -272,8 +272,37 @@
    "topics": [
     "salud"
    ],
-   "score": 11.981,
+   "score": 11.961,
    "also": []
+  },
+  "90f831b4fd": {
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T14:21:59+00:00",
+   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 11.783,
+   "also": [
+    {
+     "source_id": "eleconomista",
+     "source": "elEconomista",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
+     "title": "Nvidia recupera a Jensen Huang como CEO de forma inmediata"
+    },
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
+     "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+    }
+   ]
   },
   "b205246cdc": {
    "title": "Los pacientes trasplantados tienen hasta cuatro veces más riesgo de desarrollar cáncer",
@@ -287,36 +316,8 @@
    "topics": [
     "salud"
    ],
-   "score": 11.711,
+   "score": 11.691,
    "also": []
-  },
-  "0b7525d017": {
-   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
-   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-23T14:33:00+00:00",
-   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 11.476,
-   "also": [
-    {
-     "source_id": "elpais",
-     "source": "El País",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
-     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
-    },
-    {
-     "source_id": "eleconomista",
-     "source": "elEconomista",
-     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNllncGRsNzB1ZTdmdHpzekQyVzVFRDhWNHBlZk5FWGtkVkhzcEFnUk4zVHRhV1FGV3lvSHVyYUlGOFA5dm1XQWlkOHpVLWJMNWQ0bzVRNldXT09Mc1A0QjRhdmpFbXRZdHdLSkpHWkE5RlhUa3VaU1dJRUp2bk41S1RvRWIyWFE5MlZmOXdxS0R6WWc3RWJ2aVlseWNVYzFrX2lsdnNxTHNuTWQ2NFRTa3BaRWJFVFI2MVRxXzkzUFowRXVrVE95N0haYk92aWFJc0liSjczQlh0bDNDU01JN1puMFRQOWh1RkFYQ3VHSTdjREtONTEyM3FYcWRfNXlFb0RkTGlRRzdoSFFOSFppUmxmY0w3YmxNbTBGdU9NSjd2U2kyTWhXM1ZZa01mTW5oOGZzTk45RURBQdIBpAJBVV95cUxONnpVdVQ0bUx6T0FhNGdpWWRfNmZHUUZkdThJaWI1cTZOd3JrWXp4RnlpODVzOGNYUEREdENVWGVJX1lCeXNiYlNZWUltV0o2TUpLZ243aDhXdnl4M09Kblh2dU9nS0JNT2RfNzQtTkplM0Izb1l1WjB0Y2hPRENkS2VVdWx0aE9CMzY1Smk2NmJ0VXBkQVp5UGlQbGNuMTV5djhpaXdUWWpIb29zSndaVmJWbkZhbFNwSjVfVXJOY3RQVFh6Rm1DMkMyRGxaMmEzYkVVYkZpZUZnSVlKbGM2M2tLazVuVk5jSGpaMzNDM3d1SURWOHVNYkw3UURkZm5wdU1zeDNTQTdYQjBTeFpXMFYxbnU5cFFMZjNkSGRYZjM5ZjFa?oc=5",
-     "title": "Felipe González responde a José Bono después de que este dijera que no hiciera \"el tonto\" con su voto: \"Yo soy una persona seria, no como otros\""
-    }
-   ]
   },
   "dc42a73f7e": {
    "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
@@ -331,7 +332,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.379,
+   "score": 11.361,
    "also": []
   },
   "58c2527b36": {
@@ -348,7 +349,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.955,
+   "score": 10.937,
    "also": [
     {
      "source_id": "medtech_search",
@@ -370,7 +371,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.873,
+   "score": 10.855,
    "also": []
   },
   "8558835d9e": {
@@ -387,7 +388,7 @@
     "ia",
     "pharma"
    ],
-   "score": 10.872,
+   "score": 10.853,
    "also": [
     {
      "source_id": "medtech_search",
@@ -410,7 +411,7 @@
     "salud",
     "pharma"
    ],
-   "score": 10.832,
+   "score": 10.814,
    "also": []
   },
   "9edcdf98db": {
@@ -425,13 +426,13 @@
    "topics": [
     "ia"
    ],
-   "score": 9.894,
+   "score": 9.876,
    "also": [
     {
      "source_id": "reuters",
      "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
-     "title": "Wall St set to soar at open after Nvidia reinstates Jensen Huang as CEO"
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+     "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors"
     }
    ]
   },
@@ -448,7 +449,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.58,
+   "score": 9.564,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -471,7 +472,7 @@
     "pharma",
     "salud"
    ],
-   "score": 9.28,
+   "score": 9.266,
    "also": []
   },
   "43393413fe": {
@@ -487,7 +488,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 9.119,
+   "score": 9.103,
    "also": [
     {
      "source_id": "mmm",
@@ -509,7 +510,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.965,
+   "score": 8.956,
    "also": [
     {
      "source_id": "reuters",
@@ -531,7 +532,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.696,
+   "score": 8.682,
    "also": []
   },
   "f944bb368b": {
@@ -546,7 +547,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.53,
+   "score": 8.515,
    "also": []
   },
   "006b384510": {
@@ -561,7 +562,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.393,
+   "score": 8.379,
    "also": []
   },
   "f1b33dc12f": {
@@ -576,31 +577,8 @@
    "topics": [
     "salud"
    ],
-   "score": 8.353,
+   "score": 8.339,
    "also": []
-  },
-  "90f831b4fd": {
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T14:21:59+00:00",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "negocios"
-   ],
-   "score": 8.261,
-   "also": [
-    {
-     "source_id": "eleconomista",
-     "source": "elEconomista",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
-     "title": "Nvidia recupera a Jensen Huang como CEO de forma inmediata"
-    }
-   ]
   },
   "bc5a53032c": {
    "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan los mercados disparando el Nasdaq más de un 7%",
@@ -617,7 +595,7 @@
     "economia",
     "negocios"
    ],
-   "score": 8.176,
+   "score": 8.161,
    "also": []
   },
   "ab33412673": {
@@ -633,7 +611,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.904,
+   "score": 7.891,
    "also": []
   },
   "8fa6f24d75": {
@@ -650,7 +628,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.879,
+   "score": 7.869,
    "also": []
   },
   "15c9134c35": {
@@ -665,7 +643,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.713,
+   "score": 7.702,
    "also": []
   },
   "ea9fa1507b": {
@@ -680,23 +658,30 @@
    "topics": [
     "espana"
    ],
-   "score": 7.593,
+   "score": 7.581,
    "also": []
   },
-  "1c35030178": {
-   "title": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
-   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-23T14:05:03+00:00",
-   "summary": "El barómetro de noviembre da a los socialistas un 34,4% en intención de voto y un 24,7% a los populares. Vox pierde 2,8 puntos y cae hasta el 15,6%",
+  "0b7525d017": {
+   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T14:33:00+00:00",
+   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
    "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/24ZEBZEWFVNAJD2SXH4VFMFDWU.jpg?auth=27e3023dfef3d43505e7a22106ed455395d70b2c9771343830fb03b82ed82ac0",
+   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
    "topics": [
     "espana"
    ],
-   "score": 7.424,
-   "also": []
+   "score": 7.505,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
+    }
+   ]
   },
   "8bdbb6d9cf": {
    "title": "Azcón fichará 135 médicos extra para la Primaria aragonesa si el PP gana las elecciones",
@@ -711,7 +696,22 @@
     "salud",
     "espana"
    ],
-   "score": 7.424,
+   "score": 7.411,
+   "also": []
+  },
+  "1c35030178": {
+   "title": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T14:05:03+00:00",
+   "summary": "El barómetro de noviembre da a los socialistas un 34,4% en intención de voto y un 24,7% a los populares. Vox pierde 2,8 puntos y cae hasta el 15,6%",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/24ZEBZEWFVNAJD2SXH4VFMFDWU.jpg?auth=27e3023dfef3d43505e7a22106ed455395d70b2c9771343830fb03b82ed82ac0",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.41,
    "also": []
   },
   "9b513f1c62": {
@@ -727,7 +727,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.255,
+   "score": 7.243,
    "also": []
   },
   "8da34bf647": {
@@ -742,7 +742,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 7.005,
+   "score": 6.994,
    "also": []
   },
   "4bfc072ba7": {
@@ -758,7 +758,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.805,
+   "score": 6.794,
    "also": []
   },
   "6f5322db93": {
@@ -773,7 +773,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.633,
+   "score": 6.622,
    "also": []
   },
   "743c66de3d": {
@@ -789,7 +789,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.617,
+   "score": 6.606,
    "also": []
   },
   "5320043ce8": {
@@ -805,7 +805,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.555,
+   "score": 6.544,
    "also": []
   },
   "790c1aab79": {
@@ -820,7 +820,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.499,
+   "score": 6.493,
    "also": []
   },
   "ed24ecec5c": {
@@ -835,7 +835,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.385,
+   "score": 6.374,
    "also": []
   },
   "e44a11c1f6": {
@@ -850,7 +850,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.313,
+   "score": 6.305,
    "also": []
   },
   "2f9c65df28": {
@@ -865,7 +865,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.24,
+   "score": 6.232,
    "also": []
   },
   "ffa17286a8": {
@@ -882,7 +882,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.236,
+   "score": 6.225,
    "also": []
   },
   "378e2b2dc1": {
@@ -898,7 +898,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.146,
+   "score": 6.136,
    "also": []
   },
   "988fb944df": {
@@ -913,7 +913,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.999,
+   "score": 5.988,
    "also": []
   },
   "17b2c2dee1": {
@@ -930,7 +930,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.986,
+   "score": 5.975,
    "also": []
   },
   "70f9818cda": {
@@ -945,7 +945,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.948,
+   "score": 5.939,
    "also": []
   },
   "1b24c54950": {
@@ -962,7 +962,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.926,
+   "score": 5.915,
    "also": []
   },
   "4100869d1c": {
@@ -979,7 +979,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.828,
+   "score": 5.823,
    "also": []
   },
   "e25be61dcd": {
@@ -994,7 +994,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.8,
+   "score": 5.795,
    "also": []
   },
   "9c079ad7f6": {
@@ -1009,7 +1009,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.719,
+   "score": 5.709,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1026,7 +1026,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.653,
+   "score": 5.647,
    "also": []
   },
   "14f0fff5d7": {
@@ -1041,7 +1041,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.549,
+   "score": 5.541,
    "also": []
   },
   "133404e6a4": {
@@ -1058,7 +1058,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.494,
+   "score": 5.485,
    "also": []
   },
   "74b514dbc9": {
@@ -1074,7 +1074,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.429,
+   "score": 5.421,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1090,7 +1090,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.337,
+   "score": 5.329,
    "also": []
   },
   "4704f794ba": {
@@ -1107,7 +1107,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.283,
+   "score": 5.275,
    "also": []
   },
   "b5f425ec8b": {
@@ -1124,7 +1124,7 @@
     "negocios",
     "salud"
    ],
-   "score": 5.28,
+   "score": 5.271,
    "also": []
   },
   "7eccd90ac9": {
@@ -1140,7 +1140,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.275,
+   "score": 5.266,
    "also": []
   },
   "6cce577396": {
@@ -1155,7 +1155,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.274,
+   "score": 5.265,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1170,7 +1170,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.233,
+   "score": 5.225,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1185,7 +1185,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.117,
+   "score": 5.109,
    "also": []
   },
   "19d402410a": {
@@ -1201,7 +1201,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 5.043,
+   "score": 5.034,
    "also": []
   },
   "a457bdd4df": {
@@ -1218,7 +1218,7 @@
     "tech",
     "espana"
    ],
-   "score": 5.031,
+   "score": 5.025,
    "also": []
   },
   "7e6255878c": {
@@ -1233,7 +1233,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.992,
+   "score": 4.985,
    "also": []
   },
   "1c93d024fa": {
@@ -1248,7 +1248,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.98,
+   "score": 4.971,
    "also": []
   },
   "9a6a5c9356": {
@@ -1264,7 +1264,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.96,
+   "score": 4.951,
    "also": []
   },
   "167adc3c0c": {
@@ -1280,7 +1280,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.959,
+   "score": 4.95,
    "also": []
   },
   "1ddff4a50d": {
@@ -1296,7 +1296,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.941,
+   "score": 4.932,
    "also": []
   },
   "71eae63a3e": {
@@ -1311,7 +1311,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.875,
+   "score": 4.866,
    "also": []
   },
   "d3561ea80e": {
@@ -1326,7 +1326,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.773,
+   "score": 4.765,
    "also": []
   },
   "130257fb00": {
@@ -1342,7 +1342,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.771,
+   "score": 4.763,
    "also": []
   },
   "d385192900": {
@@ -1357,7 +1357,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.761,
+   "score": 4.755,
    "also": []
   },
   "f8cc59acbc": {
@@ -1372,7 +1372,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.751,
+   "score": 4.745,
    "also": []
   },
   "2d515091a1": {
@@ -1388,7 +1388,22 @@
     "ia",
     "tech"
    ],
-   "score": 4.665,
+   "score": 4.658,
+   "also": []
+  },
+  "06aa0ea8a3": {
+   "title": "El Gobierno exigirá a la Comunidad de Madrid revocar las instrucciones que prohíben carteles sobre la huelga o implicar a los alumnos",
+   "url": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-22T11:48:55+00:00",
+   "summary": "Pedro Sánchez compara los formularios con los utilizados en el franquismo; Isabel Díaz Ayuso le acusa de usar “ideológicamente y sectariamente a los niños” y jalear las huelgas educativas “más feroces que se recuerdan”",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/MR5BNW56FBO4JDUESPHQ66QUQ4.jpg?auth=4497cb76cdc1f4c3625807fcba14fcbfe0b8db70b231320f29a347085cf66cae",
+   "topics": [
+    "espana"
+   ],
+   "score": 4.639,
    "also": []
   },
   "0ce227d243": {
@@ -1403,7 +1418,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.584,
+   "score": 4.583,
    "also": [
     {
      "source_id": "ophthalmologytimes",
@@ -1426,7 +1441,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.558,
+   "score": 4.553,
    "also": []
   },
   "1dab1bd477": {
@@ -1441,7 +1456,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.364,
+   "score": 4.357,
    "also": []
   },
   "63706cb843": {
@@ -1457,7 +1472,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.296,
+   "score": 4.289,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1472,7 +1487,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.161,
+   "score": 4.154,
    "also": []
   },
   "106e5d1cff": {
@@ -1488,7 +1503,7 @@
     "tech",
     "ia"
    ],
-   "score": 4.004,
+   "score": 3.997,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1504,7 +1519,7 @@
     "negocios",
     "salud"
    ],
-   "score": 4.004,
+   "score": 3.997,
    "also": []
   },
   "1e82ded39f": {
@@ -1520,7 +1535,7 @@
     "economia",
     "salud"
    ],
-   "score": 3.983,
+   "score": 3.977,
    "also": []
   },
   "fb0c832b2c": {
@@ -1535,7 +1550,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.9,
+   "score": 3.895,
    "also": []
   },
   "d178ea74b0": {
@@ -1550,7 +1565,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.9,
+   "score": 3.895,
    "also": []
   },
   "752fa60dfe": {
@@ -1566,7 +1581,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.708,
+   "score": 3.704,
    "also": []
   },
   "6793275c5f": {
@@ -1582,7 +1597,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.538,
+   "score": 3.535,
    "also": []
   },
   "852c829d5d": {
@@ -1597,22 +1612,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.12,
-   "also": []
-  },
-  "9275de2b49": {
-   "title": "Abbott starts trial of Encantor transcatheter aortic valve",
-   "url": "https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/",
-   "source": "MedTech Dive",
-   "source_id": "medtechdive",
-   "published": "2026-11-20T15:00:00+00:00",
-   "summary": "The balloon-expandable system could complement Abbott’s existing self-expanding Navitor device.",
-   "ai_summary": null,
-   "image": "https://imgproxy.divecdn.com/otXKWk5IW410v1ZEZBVedv94wFthlU3Q4SfgVjYEJaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XQkE4ODEuanBn.webp",
-   "topics": [
-    "medtech"
-   ],
-   "score": 3.055,
+   "score": 3.116,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1658,7 +1658,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.42,
+   "score": 2.416,
    "also": []
   },
   "de138162ba": {
@@ -1673,7 +1673,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.386,
+   "score": 2.383,
    "also": []
   },
   "38075cbb90": {
@@ -1688,7 +1688,23 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.334,
+   "score": 2.33,
+   "also": []
+  },
+  "76aaff30a7": {
+   "title": "Zimmer submits Monogram robot to FDA",
+   "url": "https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/",
+   "source": "MedTech Dive",
+   "source_id": "medtechdive",
+   "published": "2026-11-20T16:46:43+00:00",
+   "summary": "The company is targeting Food and Drug Administration clearance next year for an autonomous orthopedic robot.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "medtech"
+   ],
+   "score": 1.785,
    "also": []
   }
  },
@@ -1697,7 +1713,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 207,
+   "count": 208,
    "ok": true,
    "errors": []
   },
@@ -1705,7 +1721,7 @@
    "id": "elmundo",
    "name": "El Mundo",
    "via": "rss",
-   "count": 77,
+   "count": 76,
    "ok": true,
    "errors": []
   },
@@ -1819,7 +1835,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 22,
+   "count": 23,
    "ok": true,
    "errors": []
   },

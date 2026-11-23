@@ -1,5 +1,124 @@
 {
- "episodes": [],
+ "episodes": [
+  {
+   "date": "2026-11-23",
+   "file": "2026-11-23.mp3",
+   "title": "La Mañana: Noticias de Óptica, Farma, MedTech, Marketing e IA",
+   "duration": 227,
+   "bytes": 1819533,
+   "published": "2026-11-23T15:10:26.213782+00:00",
+   "topics": [
+    "optica",
+    "pharma",
+    "medtech",
+    "marketing",
+    "ia"
+   ],
+   "topic_names": [
+    "Óptica y optometría",
+    "Industria y marketing farmacéutico",
+    "Medical devices",
+    "Marketing y publicidad",
+    "Inteligencia artificial"
+   ],
+   "stories": [
+    "e44a11c1f6",
+    "14f0fff5d7",
+    "5320043ce8",
+    "aefe2fb3f5",
+    "8da34bf647",
+    "43393413fe",
+    "58c2527b36",
+    "9b513f1c62",
+    "19d402410a",
+    "ab33412673",
+    "dc42a73f7e",
+    "6f5322db93",
+    "9c18fd8d23",
+    "716c53fa8f",
+    "90f831b4fd"
+   ],
+   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Demócrata, Diario Información, El Dia.com.do, El Global, El Mundo, IPMARK, Marketing Directo, Medical Device Network, PMLiVE, TechCrunch, Vision Monday, Yahoo Finance. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
+   "transcript": [
+    {
+     "speaker": "Lucía",
+     "text": "¡Muy buenos días! Bienvenidos a La Mañana de hoy, lunes veintitrés de noviembre de dos mil veintiséis. Soy Lucía y me acompaña Álex. ¿Qué tal, Álex?"
+    },
+    {
+     "speaker": "Álex",
+     "text": "¡Hola, Lucía! Muy bien, encantado de estar aquí un día más. Hoy venimos cargados de novedades sobre salud, tecnología, comunicación e inteligencia artificial."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Empezamos en el sector de la óptica y la optometría. Según publica El Día, la miopía infantil se está convirtiendo en una importante amenaza para la salud visual a largo plazo."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Sobre este tema hay avances destacados. Leemos en Vision Monday que la Facultad de Optometría de SUNY tuvo un papel clave en la investigación clínica de las lentes Essilor Stellest, que recibieron la autorización de la FDA estadounidense en septiembre de dos mil veinticinco."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Y sin salir del ámbito nacional, según el Diario Información, los ópticos se han ofrecido para ayudar a reducir las listas de espera en la especialidad de Oftalmología en los hospitales alicantinos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Pasamos ahora al sector farmacéutico. Según informa El Global, la patronal europea EFPIA propone un reembolso provisional para los fármacos innovadores. Se busca ganar agilidad permitiendo su venta desde la autorización, fijando la compañía un precio inicial con financiación pública mientras se negocia el definitivo."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "También en El Global señalan que la Agencia Española de Medicamentos ha elaborado doscientos setenta y seis Informes de Posicionamiento Terapéutico desde que Mónica García asumió el Ministerio de Sanidad en noviembre de dos mil veintitrés."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Y cerramos este bloque con los premios PMEA dos mil veintiséis. Según PMLiVE, la gala celebrada en el Sheraton Park Lane de Londres premió la excelencia en el marketing farmacéutico a través de diecisiete categorías."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Nos adentramos en el terreno de los dispositivos médicos. Tal como recoge el diario Demócrata, la federación Fenin ha lanzado la marca MedTech brand from Spain para impulsar la proyección internacional de la tecnología sanitaria española."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En el plano internacional, según Medical Device Network, GE HealthCare ha presentado nuevas herramientas de inteligencia artificial para optimizar los flujos de trabajo en radiología y responder dudas sobre protocolos de pruebas. Además, Yahoo Finance informa que Pattern Bioscience ha solicitado a la FDA la aprobación de su panel para neumonía."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Cambiamos de tema hacia el marketing y la publicidad. Desde la revista IPMARK recogen una encuesta donde cuatro de cada diez profesionales esperan un aumento de sueldo en dos mil veintisiete. Asimismo, un setenta por ciento planea buscar un nuevo empleo el próximo año."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Según ese mismo estudio de IPMARK, los perfiles más demandados son community manager, CRM manager y especialista en marketing. Por otra parte, IPMARK destaca que el encuentro Best In Travel Marketing Summit analizó en Madrid el uso de datos, agentes de inteligencia artificial y trato humano."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Y una noticia sorprendente que leemos en Marketing Directo: Anthropic asegura que su modelo Claude ha resuelto un enigma matemático pendiente desde mil ochocientos cincuenta y nueve. La comunidad científica está analizando la demostración."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Terminamos con el plato fuerte del día en inteligencia artificial. Nvidia ha restituido a Jensen Huang como presidente y consejero delegado, según avanzan medios como El Mundo, TechCrunch y Reuters."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "La compañía sostiene que Huang no representa ningún riesgo para la seguridad nacional. El propio ejecutivo ha declarado que asume esta responsabilidad con la mayor humildad y un compromiso renovado, en un movimiento respaldado por altos cargos del gobierno de Estados Unidos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Este giro se produce el mismo día en que The New York Times ha revelado las conexiones de la amante de Huang con el espionaje chino, lo que añade mucha tensión al anuncio."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Para cerrar el bloque de inteligencia artificial, TechCrunch recoge unas reflexiones del científico jefe de OpenAI. Señala que para establecer un límite de velocidad al desarrollo de la tecnología, primero hace falta acordar cómo medir esa velocidad."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Con esto concluimos nuestro repaso de hoy, veintitrés de noviembre. Muchas gracias por acompañarnos un día más en La Mañana."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "¡Que tengáis un muy buen día y hasta mañana!"
+    }
+   ]
+  }
+ ],
  "repo": "CarlosGutierrezMartin/La-Ma-ana",
  "site": "https://carlosgutierrezmartin.github.io/La-Ma-ana/",
  "feed": "https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast.xml",
