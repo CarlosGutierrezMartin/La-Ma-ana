@@ -1,10 +1,10 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T13:22:00.445266+00:00",
+ "generated_at": "2026-11-23T13:23:08.546753+00:00",
  "stats": {
   "fetched": 1235,
   "fresh": 407,
-  "stories": 387,
+  "stories": 385,
   "selected": 47
  },
  "brief": null,
@@ -48,7 +48,7 @@
     "3d92721ffb",
     "04504f1c47",
     "133404e6a4",
-    "743a395685",
+    "34cd408acb",
     "a4ff2c0ba2",
     "2d515091a1",
     "265c68ec3a"
@@ -61,7 +61,7 @@
    "items": [
     "a2c7afe9f7",
     "378e2b2dc1",
-    "743a395685",
+    "34cd408acb",
     "106e5d1cff",
     "2d515091a1",
     "6793275c5f",
@@ -76,7 +76,7 @@
    "items": [
     "5ae16a0f29",
     "133404e6a4",
-    "743a395685",
+    "34cd408acb",
     "04504f1c47",
     "e156fbaaf0",
     "ff84702d1a",
@@ -136,7 +136,7 @@
    "topics": [
     "espana"
    ],
-   "score": 11.336,
+   "score": 11.331,
    "also": []
   },
   "9edcdf98db": {
@@ -152,7 +152,7 @@
     "ia",
     "economia"
    ],
-   "score": 10.614,
+   "score": 10.609,
    "also": [
     {
      "source_id": "reuters",
@@ -172,7 +172,7 @@
    "ai_summary": null,
    "image": "https://images.ecestaticos.com/yAjS8bWY-FYYB2gR3dlnFF_kihc=/0x0:2272x1639/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9d3%2Fbd2%2F462%2F9d3bd2462fbc19e62471f83fcca7c048.jpg",
    "topics": [],
-   "score": 9.708,
+   "score": 9.703,
    "also": [
     {
      "source_id": "elpais",
@@ -200,7 +200,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.188,
+   "score": 9.185,
    "also": [
     {
      "source_id": "reuters",
@@ -222,7 +222,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.903,
+   "score": 7.899,
    "also": []
   },
   "5d90b69eed": {
@@ -237,7 +237,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.45,
+   "score": 7.446,
    "also": [
     {
      "source_id": "eleconomista",
@@ -259,7 +259,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.263,
+   "score": 7.259,
    "also": []
   },
   "58b56f8a05": {
@@ -274,7 +274,7 @@
    "topics": [
     "ia"
    ],
-   "score": 7.262,
+   "score": 7.259,
    "also": [
     {
      "source_id": "reuters",
@@ -298,7 +298,7 @@
     "economia",
     "tech"
    ],
-   "score": 7.219,
+   "score": 7.217,
    "also": []
   },
   "7e6255878c": {
@@ -313,7 +313,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.766,
+   "score": 6.764,
    "also": []
   },
   "ed24ecec5c": {
@@ -328,7 +328,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.658,
+   "score": 6.654,
    "also": []
   },
   "2f9c65df28": {
@@ -343,7 +343,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.444,
+   "score": 6.442,
    "also": []
   },
   "378e2b2dc1": {
@@ -359,7 +359,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.392,
+   "score": 6.389,
    "also": []
   },
   "70f9818cda": {
@@ -374,7 +374,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.181,
+   "score": 6.178,
    "also": []
   },
   "8fa6f24d75": {
@@ -389,7 +389,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.107,
+   "score": 6.104,
    "also": []
   },
   "9c079ad7f6": {
@@ -404,7 +404,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.967,
+   "score": 5.964,
    "also": []
   },
   "e25be61dcd": {
@@ -419,7 +419,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.947,
+   "score": 5.945,
    "also": []
   },
   "133404e6a4": {
@@ -436,15 +436,15 @@
     "negocios",
     "espana"
    ],
-   "score": 5.726,
+   "score": 5.723,
    "also": []
   },
-  "743a395685": {
-   "title": "Los chips de IA, a examen: según un informe, una empresa japonesa que posee el 95% de la cuota de mercado de un material necesario para fabricarlos",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTV9KQWlrTFJiVGItbkUxTVg2eW5yNlo1UU95OFRXOW5pY1VrWWV2aF9UTVZ5cXNCTWtYeEY4YzZxeGtrZEtiYVFIbE5FZUVFcE1GdGVLMGh2MFdwdXQtM28zcTBJZS11VXhndFdld3dHZG9jVklEZHJPMDR1T3BYZ01CcXhQVVZZaU8tWGE4NVJrOGktbU1QQ211MkcyNG4zT1VHSmNxeWVvalBRdWVRcTFUZkRoR1JQVFgzS0E5MHRhMERrenRhWmVNRlBDVjNveVZCVENlallRNWgyVEtwTFBvZzdfbUhHVmYtbmlTZlFYMTV4RlFlU1VIMVA1N1BFclljLWlid3dwZjhNODdmUk1iclEzcjg?oc=5",
+  "34cd408acb": {
+   "title": "Según el informe, una empresa japonesa posee el 95% de la cuota de mercado de un material necesario para los chips de IA",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQ2IwQW1jU1VOOHNpWW56QVlGTl9PVmo0ZnF3YjVpV0dKYlFhRTVNVzBtbGlla0JFYUppNHpwZzJOUTRacHZ6YTd6UXZ5dlZ4aUpxbXZPVlN3NjlFNFFhYmtUMmNWWElLaUppT2hueWxzalRRUmdWLS1sSDVoNmRfMV9VR2VNNGdmQkV0dWR5OGdqVV9EMU5GNzZ4VW1rejNFNEdoM05Ld0ZPVGIzUll2dzdKemVfSFZTY1N0cU9MVFZXaVIwRnc3RlZRLWVFeXVZQm1heWFQaXZsTDFOc25wZG45NUd4cnBMc2tpc05YZWdaczZoQWREUmdZM0J0enhZXzlUaV92Ti11UUtyejBuRFcxNE0?oc=5",
    "source": "elEconomista",
    "source_id": "eleconomista",
-   "published": "2026-11-23T10:00:23+00:00",
+   "published": "2026-11-23T09:12:55+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
@@ -453,7 +453,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.695,
+   "score": 5.581,
    "also": []
   },
   "5ae16a0f29": {
@@ -468,7 +468,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 5.374,
+   "score": 5.372,
    "also": []
   },
   "3d92721ffb": {
@@ -483,7 +483,7 @@
    "topics": [
     "ia"
    ],
-   "score": 4.885,
+   "score": 4.883,
    "also": []
   },
   "2d515091a1": {
@@ -499,7 +499,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.845,
+   "score": 4.843,
    "also": []
   },
   "09243112c3": {
@@ -514,7 +514,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.723,
+   "score": 4.72,
    "also": []
   },
   "06aa0ea8a3": {
@@ -529,7 +529,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.719,
+   "score": 4.718,
    "also": []
   },
   "7d99e0f411": {
@@ -545,7 +545,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.684,
+   "score": 4.683,
    "also": []
   },
   "04504f1c47": {
@@ -561,7 +561,7 @@
     "ia",
     "negocios"
    ],
-   "score": 4.654,
+   "score": 4.652,
    "also": []
   },
   "1dab1bd477": {
@@ -576,7 +576,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.534,
+   "score": 4.532,
    "also": []
   },
   "106e5d1cff": {
@@ -592,7 +592,7 @@
     "tech",
     "ia"
    ],
-   "score": 4.166,
+   "score": 4.164,
    "also": []
   },
   "ff84702d1a": {
@@ -608,7 +608,7 @@
     "ia",
     "negocios"
    ],
-   "score": 4.071,
+   "score": 4.069,
    "also": []
   },
   "fb0c832b2c": {
@@ -623,7 +623,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.028,
+   "score": 4.026,
    "also": []
   },
   "d178ea74b0": {
@@ -638,7 +638,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.028,
+   "score": 4.026,
    "also": []
   },
   "a4ff2c0ba2": {
@@ -653,7 +653,7 @@
    "topics": [
     "ia"
    ],
-   "score": 3.995,
+   "score": 3.994,
    "also": []
   },
   "752fa60dfe": {
@@ -669,7 +669,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.807,
+   "score": 3.805,
    "also": []
   },
   "6793275c5f": {
@@ -685,7 +685,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.615,
+   "score": 3.614,
    "also": []
   },
   "17e5a91048": {
@@ -701,7 +701,7 @@
     "economia",
     "espana"
    ],
-   "score": 3.562,
+   "score": 3.56,
    "also": []
   },
   "e156fbaaf0": {
@@ -716,7 +716,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 3.526,
+   "score": 3.524,
    "also": []
   },
   "f08f5245f9": {
@@ -732,7 +732,7 @@
     "economia",
     "espana"
    ],
-   "score": 3.467,
+   "score": 3.466,
    "also": []
   },
   "dc02d0ba7c": {
@@ -747,7 +747,7 @@
    "topics": [
     "tech"
    ],
-   "score": 3.378,
+   "score": 3.377,
    "also": []
   },
   "fecd4f0129": {
@@ -763,7 +763,7 @@
     "ia",
     "negocios"
    ],
-   "score": 3.278,
+   "score": 3.277,
    "also": []
   },
   "852c829d5d": {
@@ -778,7 +778,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.222,
+   "score": 3.221,
    "also": []
   },
   "4e80f3e79f": {
@@ -793,7 +793,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 3.217,
+   "score": 3.215,
    "also": []
   },
   "265c68ec3a": {
@@ -823,7 +823,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 3.052,
+   "score": 3.05,
    "also": []
   },
   "2c0083c675": {
@@ -838,7 +838,7 @@
    "topics": [
     "tech"
    ],
-   "score": 2.934,
+   "score": 2.933,
    "also": []
   },
   "899936c4ba": {
@@ -853,7 +853,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 2.854,
+   "score": 2.853,
    "also": []
   },
   "859659cc53": {
@@ -869,7 +869,7 @@
     "economia",
     "negocios"
    ],
-   "score": 2.845,
+   "score": 2.844,
    "also": []
   },
   "8efc607bad": {
@@ -884,7 +884,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 2.456,
+   "score": 2.455,
    "also": []
   }
  },
