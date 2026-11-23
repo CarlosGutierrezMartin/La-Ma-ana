@@ -1,10 +1,10 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T13:23:08.546753+00:00",
+ "generated_at": "2026-11-23T13:27:15.914381+00:00",
  "stats": {
-  "fetched": 1235,
-  "fresh": 407,
-  "stories": 385,
+  "fetched": 1227,
+  "fresh": 396,
+  "stories": 378,
   "selected": 47
  },
  "brief": null,
@@ -17,19 +17,19 @@
    "items": [
     "e10a54d444",
     "9edcdf98db",
-    "5b36f02409",
     "716c53fa8f",
-    "ea9fa1507b",
     "5d90b69eed",
-    "1c35030178",
     "58b56f8a05",
+    "1c35030178",
     "a2c7afe9f7",
     "7e6255878c",
     "ed24ecec5c",
     "378e2b2dc1",
-    "70f9818cda",
     "8fa6f24d75",
-    "9c079ad7f6"
+    "9c079ad7f6",
+    "e25be61dcd",
+    "9de6e19544",
+    "743a395685"
    ]
   },
   {
@@ -48,7 +48,7 @@
     "3d92721ffb",
     "04504f1c47",
     "133404e6a4",
-    "34cd408acb",
+    "743a395685",
     "a4ff2c0ba2",
     "2d515091a1",
     "265c68ec3a"
@@ -61,7 +61,7 @@
    "items": [
     "a2c7afe9f7",
     "378e2b2dc1",
-    "34cd408acb",
+    "743a395685",
     "106e5d1cff",
     "2d515091a1",
     "6793275c5f",
@@ -76,7 +76,7 @@
    "items": [
     "5ae16a0f29",
     "133404e6a4",
-    "34cd408acb",
+    "743a395685",
     "04504f1c47",
     "e156fbaaf0",
     "ff84702d1a",
@@ -111,15 +111,15 @@
    "short": "España",
    "items": [
     "e10a54d444",
-    "ea9fa1507b",
     "7e6255878c",
     "1c35030178",
     "e25be61dcd",
     "ed24ecec5c",
-    "70f9818cda",
     "06aa0ea8a3",
     "7d99e0f411",
-    "09243112c3"
+    "09243112c3",
+    "fc2d79f9b8",
+    "607827a365"
    ]
   }
  ],
@@ -136,7 +136,7 @@
    "topics": [
     "espana"
    ],
-   "score": 11.331,
+   "score": 11.309,
    "also": []
   },
   "9edcdf98db": {
@@ -152,39 +152,13 @@
     "ia",
     "economia"
    ],
-   "score": 10.609,
+   "score": 10.589,
    "also": [
     {
      "source_id": "reuters",
      "source": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
      "title": "Wall Street futures rebound as battered AI stocks gain ground"
-    }
-   ]
-  },
-  "5b36f02409": {
-   "title": "El Supremo aplica la amnistía a Puigdemont y cierra su causa penal nueve años después",
-   "url": "https://www.elconfidencial.com/espana/2026-11-23/la-sala-de-lo-penal-del-ts-declara-extinguida-la-responsabilidad-penal-de-puigdemont-por-la-amnistia_4470682/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-23T12:17:00+00:00",
-   "summary": "La Sala de lo Penal declara extinguida la responsabilidad penal de Puigdemont por la aplicación de la amnistía y cierra definitivamente la causa penal contra el expresidente catalán",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/yAjS8bWY-FYYB2gR3dlnFF_kihc=/0x0:2272x1639/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9d3%2Fbd2%2F462%2F9d3bd2462fbc19e62471f83fcca7c048.jpg",
-   "topics": [],
-   "score": 9.703,
-   "also": [
-    {
-     "source_id": "elpais",
-     "source": "El País",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-supremo-aplica-la-amnistia-a-puigdemont-y-cierra-la-causa-del-proces.html",
-     "title": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del ‘procés’"
-    },
-    {
-     "source_id": "elmundo",
-     "source": "El Mundo",
-     "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
-     "title": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del procés nueve años después de su apertura"
     }
    ]
   },
@@ -200,7 +174,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.185,
+   "score": 9.175,
    "also": [
     {
      "source_id": "reuters",
@@ -209,21 +183,6 @@
      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric"
     }
    ]
-  },
-  "ea9fa1507b": {
-   "title": "El CIS de Tezanos amplía y deja a casi 10 puntos la ventaja de Sánchez sobre Feijóo a las puertas del 29-N",
-   "url": "https://www.elconfidencial.com/espana/2026-11-23/cis-tezanos-elecciones-generales-psoe-pp-vox-frente-amplio_4470602/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-23T11:06:00+00:00",
-   "summary": "El sondeo preelectoral del CIS vuelve a dar ganador de las elecciones del próximo domingo al PSOE. Mientras, tanto Vox como Frente Amplio bajan con respecto a la última encuesta publicada",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/GPU4RKsTbfh6BUuzN30LBY1sQaQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe4c%2F16c%2F337%2Fe4c16c3377f5873175c8702eec6d9fdd.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 7.899,
-   "also": []
   },
   "5d90b69eed": {
    "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
@@ -237,13 +196,35 @@
    "topics": [
     "espana"
    ],
-   "score": 7.446,
+   "score": 7.432,
    "also": [
     {
      "source_id": "eleconomista",
      "source": "elEconomista",
      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNllncGRsNzB1ZTdmdHpzekQyVzVFRDhWNHBlZk5FWGtkVkhzcEFnUk4zVHRhV1FGV3lvSHVyYUlGOFA5dm1XQWlkOHpVLWJMNWQ0bzVRNldXT09Mc1A0QjRhdmpFbXRZdHdLSkpHWkE5RlhUa3VaU1dJRUp2bk41S1RvRWIyWFE5MlZmOXdxS0R6WWc3RWJ2aVlseWNVYzFrX2lsdnNxTHNuTWQ2NFRTa3BaRWJFVFI2MVRxXzkzUFowRXVrVE95N0haYk92aWFJc0liSjczQlh0bDNDU01JN1puMFRQOWh1RkFYQ3VHSTdjREtONTEyM3FYcWRfNXlFb0RkTGlRRzdoSFFOSFppUmxmY0w3YmxNbTBGdU9NSjd2U2kyTWhXM1ZZa01mTW5oOGZzTk45RURBQdIBpAJBVV95cUxONnpVdVQ0bUx6T0FhNGdpWWRfNmZHUUZkdThJaWI1cTZOd3JrWXp4RnlpODVzOGNYUEREdENVWGVJX1lCeXNiYlNZWUltV0o2TUpLZ243aDhXdnl4M09Kblh2dU9nS0JNT2RfNzQtTkplM0Izb1l1WjB0Y2hPRENkS2VVdWx0aE9CMzY1Smk2NmJ0VXBkQVp5UGlQbGNuMTV5djhpaXdUWWpIb29zSndaVmJWbkZhbFNwSjVfVXJOY3RQVFh6Rm1DMkMyRGxaMmEzYkVVYkZpZUZnSVlKbGM2M2tLazVuVk5jSGpaMzNDM3d1SURWOHVNYkw3UURkZm5wdU1zeDNTQTdYQjBTeFpXMFYxbnU5cFFMZjNkSGRYZjM5ZjFa?oc=5",
      "title": "Felipe González responde a José Bono después de que este dijera que no hiciera \"el tonto\" con su voto: \"Yo soy una persona seria, no como otros\""
+    }
+   ]
+  },
+  "58b56f8a05": {
+   "title": "South Korean minister says he is too old to tackle AI exam cheating",
+   "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T07:10:04+00:00",
+   "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 7.247,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI?oc=5",
+     "title": "South Korea's education minister quits over exam cheating chaos"
     }
    ]
   },
@@ -259,30 +240,8 @@
    "topics": [
     "espana"
    ],
-   "score": 7.259,
+   "score": 7.246,
    "also": []
-  },
-  "58b56f8a05": {
-   "title": "South Korean minister says he is too old to tackle AI exam cheating",
-   "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-23T07:10:04+00:00",
-   "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 7.259,
-   "also": [
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI?oc=5",
-     "title": "South Korea's education minister quits over exam cheating chaos"
-    }
-   ]
   },
   "a2c7afe9f7": {
    "title": "La España del empleo barato, ante la nueva ola tecnológica: \"La IA no aumenta los salarios por sí sola\"",
@@ -298,7 +257,7 @@
     "economia",
     "tech"
    ],
-   "score": 7.217,
+   "score": 7.209,
    "also": []
   },
   "7e6255878c": {
@@ -313,7 +272,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.764,
+   "score": 6.754,
    "also": []
   },
   "ed24ecec5c": {
@@ -328,7 +287,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.654,
+   "score": 6.642,
    "also": []
   },
   "2f9c65df28": {
@@ -343,7 +302,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.442,
+   "score": 6.432,
    "also": []
   },
   "378e2b2dc1": {
@@ -359,22 +318,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.389,
-   "also": []
-  },
-  "70f9818cda": {
-   "title": "Feijóo compara a RTVE con la \"televisión norcoreana\" y promete impulsar una nueva ley de eutanasia",
-   "url": "https://www.elconfidencial.com/espana/2026-11-23/feijoo-compara-a-rtve-con-la_4470516/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-23T09:45:00+00:00",
-   "summary": "El líder del PP caldea el ambiente a las puertas de su posible entrevista con Intxaurrondo y califica de \"vergüenza\" el servicio de informativos del ente público. Responde a Abascal que no pactará tras el 29-N con un PSOE \"expropiado\" por Sánchez",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/_2MAj_o8PJ3Y0xbwCpBP97IxLi0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F972%2Fdbd%2F0f9%2F972dbd0f9c84bcdb8cf0d2afd29784f6.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 6.178,
+   "score": 6.378,
    "also": []
   },
   "8fa6f24d75": {
@@ -389,7 +333,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.104,
+   "score": 6.095,
    "also": []
   },
   "9c079ad7f6": {
@@ -404,7 +348,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.964,
+   "score": 5.952,
    "also": []
   },
   "e25be61dcd": {
@@ -419,8 +363,28 @@
    "topics": [
     "espana"
    ],
-   "score": 5.945,
+   "score": 5.938,
    "also": []
+  },
+  "9de6e19544": {
+   "title": "Bruselas investiga a Coca-Cola por restringir el comercio de sus refrescos en España",
+   "url": "https://www.elmundo.es/economia/empresas/2026/11/23/6b042bfffdddfffa3e8b459a.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-23T12:13:17+00:00",
+   "summary": "Los servicios europeos de Competencia creen que la compañía \"ha abusado de su posición dominante\" en el mercado mayorista destinado a vender sus productos a clientes que venden sus refrescos para su consumo fuera del local, principalmente supermercados Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954358348933.jpg",
+   "topics": [],
+   "score": 5.801,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/economia/2026-11-23/bruselas-investiga-a-la-embotelladora-de-coca-cola-por-una-posible-conducta-anticompetitiva.html",
+     "title": "Bruselas investiga a la principal embotelladora de Coca-Cola por una posible conducta anticompetitiva"
+    }
+   ]
   },
   "133404e6a4": {
    "title": "CCOO y UGT exigen al próximo Gobierno blindar los despidos frente a la IA y subir impuestos a las empresas más automatizadas",
@@ -436,15 +400,15 @@
     "negocios",
     "espana"
    ],
-   "score": 5.723,
+   "score": 5.712,
    "also": []
   },
-  "34cd408acb": {
-   "title": "Según el informe, una empresa japonesa posee el 95% de la cuota de mercado de un material necesario para los chips de IA",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQ2IwQW1jU1VOOHNpWW56QVlGTl9PVmo0ZnF3YjVpV0dKYlFhRTVNVzBtbGlla0JFYUppNHpwZzJOUTRacHZ6YTd6UXZ5dlZ4aUpxbXZPVlN3NjlFNFFhYmtUMmNWWElLaUppT2hueWxzalRRUmdWLS1sSDVoNmRfMV9VR2VNNGdmQkV0dWR5OGdqVV9EMU5GNzZ4VW1rejNFNEdoM05Ld0ZPVGIzUll2dzdKemVfSFZTY1N0cU9MVFZXaVIwRnc3RlZRLWVFeXVZQm1heWFQaXZsTDFOc25wZG45NUd4cnBMc2tpc05YZWdaczZoQWREUmdZM0J0enhZXzlUaV92Ti11UUtyejBuRFcxNE0?oc=5",
+  "743a395685": {
+   "title": "Los chips de IA, a examen: según un informe, una empresa japonesa que posee el 95% de la cuota de mercado de un material necesario para fabricarlos",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTV9KQWlrTFJiVGItbkUxTVg2eW5yNlo1UU95OFRXOW5pY1VrWWV2aF9UTVZ5cXNCTWtYeEY4YzZxeGtrZEtiYVFIbE5FZUVFcE1GdGVLMGh2MFdwdXQtM28zcTBJZS11VXhndFdld3dHZG9jVklEZHJPMDR1T3BYZ01CcXhQVVZZaU8tWGE4NVJrOGktbU1QQ211MkcyNG4zT1VHSmNxeWVvalBRdWVRcTFUZkRoR1JQVFgzS0E5MHRhMERrenRhWmVNRlBDVjNveVZCVENlallRNWgyVEtwTFBvZzdfbUhHVmYtbmlTZlFYMTV4RlFlU1VIMVA1N1BFclljLWlid3dwZjhNODdmUk1iclEzcjg?oc=5",
    "source": "elEconomista",
    "source_id": "eleconomista",
-   "published": "2026-11-23T09:12:55+00:00",
+   "published": "2026-11-23T10:00:23+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
@@ -453,7 +417,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.581,
+   "score": 5.682,
    "also": []
   },
   "5ae16a0f29": {
@@ -468,7 +432,22 @@
    "topics": [
     "negocios"
    ],
-   "score": 5.372,
+   "score": 5.364,
+   "also": []
+  },
+  "fc2d79f9b8": {
+   "title": "González responde con sarcasmo a Bono tras pedirle que vote al PSOE: \"Sé que él lo hace 'pro bono'\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b042561e85eceed0a8b457d.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-23T13:23:19+00:00",
+   "summary": "\"El liderazgo de un país no puede ser mercenario, que no me tiren de la lengua ni me obliguen a entrar en campaña\", advierte el ex presidente del Gobierno Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954344017031.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 5.191,
    "also": []
   },
   "3d92721ffb": {
@@ -483,7 +462,7 @@
    "topics": [
     "ia"
    ],
-   "score": 4.883,
+   "score": 4.876,
    "also": []
   },
   "2d515091a1": {
@@ -499,22 +478,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.843,
-   "also": []
-  },
-  "09243112c3": {
-   "title": "El salario real de los inmigrantes crece más rápido que el de los españoles durante el Gobierno de Pedro Sánchez, según el Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQZzJDZDFJTEVPTEpraDhJakkyQjU2VjNEVTdqUXpmd1NFUTlSOFpmUE05dDMwV1B4T1pBd1hGdlFGRmhWMGI5MFJjbi1nQWNVUXFzQWZUcjFFX1N4UktLX2FqN2x3ZWtuOXc1Y3FkdGhHMi1Lc1VuaHM4Wi00Z1dGQzE2RmZEX1RqN29ROGltU0pjTk9pWjAtSjM1dUpISm1SS0FBWEVzSVA1ZUN5aEthb0Qtck11NlZjbXlLamV6eXdMaWFOX1RiZ3hQc3JnNXM5ZWg2NFd2VElKZW96LWJfWWQ3M1RsMlhiSW1DVlJnVzlWNGdSdXR2VW9fSkFUc0tOcXI5cGgta2I2c0dSUlB1cFFuSHNUcXI5Z0tsdVpTS1ZISlczb2RFUzQyaw?oc=5",
-   "source": "elEconomista",
-   "source_id": "eleconomista",
-   "published": "2026-11-23T12:46:44+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "espana"
-   ],
-   "score": 4.72,
+   "score": 4.834,
    "also": []
   },
   "06aa0ea8a3": {
@@ -529,7 +493,22 @@
    "topics": [
     "espana"
    ],
-   "score": 4.718,
+   "score": 4.714,
+   "also": []
+  },
+  "09243112c3": {
+   "title": "El salario real de los inmigrantes crece más rápido que el de los españoles durante el Gobierno de Pedro Sánchez, según el Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQZzJDZDFJTEVPTEpraDhJakkyQjU2VjNEVTdqUXpmd1NFUTlSOFpmUE05dDMwV1B4T1pBd1hGdlFGRmhWMGI5MFJjbi1nQWNVUXFzQWZUcjFFX1N4UktLX2FqN2x3ZWtuOXc1Y3FkdGhHMi1Lc1VuaHM4Wi00Z1dGQzE2RmZEX1RqN29ROGltU0pjTk9pWjAtSjM1dUpISm1SS0FBWEVzSVA1ZUN5aEthb0Qtck11NlZjbXlLamV6eXdMaWFOX1RiZ3hQc3JnNXM5ZWg2NFd2VElKZW96LWJfWWQ3M1RsMlhiSW1DVlJnVzlWNGdSdXR2VW9fSkFUc0tOcXI5cGgta2I2c0dSUlB1cFFuSHNUcXI5Z0tsdVpTS1ZISlczb2RFUzQyaw?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T12:46:44+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "espana"
+   ],
+   "score": 4.712,
    "also": []
   },
   "7d99e0f411": {
@@ -545,7 +524,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.683,
+   "score": 4.677,
    "also": []
   },
   "04504f1c47": {
@@ -561,7 +540,7 @@
     "ia",
     "negocios"
    ],
-   "score": 4.652,
+   "score": 4.646,
    "also": []
   },
   "1dab1bd477": {
@@ -576,7 +555,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.532,
+   "score": 4.524,
    "also": []
   },
   "106e5d1cff": {
@@ -592,7 +571,7 @@
     "tech",
     "ia"
    ],
-   "score": 4.164,
+   "score": 4.157,
    "also": []
   },
   "ff84702d1a": {
@@ -608,7 +587,7 @@
     "ia",
     "negocios"
    ],
-   "score": 4.069,
+   "score": 4.064,
    "also": []
   },
   "fb0c832b2c": {
@@ -623,7 +602,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.026,
+   "score": 4.02,
    "also": []
   },
   "d178ea74b0": {
@@ -638,7 +617,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.026,
+   "score": 4.02,
    "also": []
   },
   "a4ff2c0ba2": {
@@ -653,7 +632,7 @@
    "topics": [
     "ia"
    ],
-   "score": 3.994,
+   "score": 3.99,
    "also": []
   },
   "752fa60dfe": {
@@ -669,7 +648,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.805,
+   "score": 3.801,
    "also": []
   },
   "6793275c5f": {
@@ -685,7 +664,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.614,
+   "score": 3.61,
    "also": []
   },
   "17e5a91048": {
@@ -701,7 +680,7 @@
     "economia",
     "espana"
    ],
-   "score": 3.56,
+   "score": 3.553,
    "also": []
   },
   "e156fbaaf0": {
@@ -716,7 +695,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 3.524,
+   "score": 3.519,
    "also": []
   },
   "f08f5245f9": {
@@ -732,7 +711,7 @@
     "economia",
     "espana"
    ],
-   "score": 3.466,
+   "score": 3.459,
    "also": []
   },
   "dc02d0ba7c": {
@@ -747,7 +726,7 @@
    "topics": [
     "tech"
    ],
-   "score": 3.377,
+   "score": 3.371,
    "also": []
   },
   "fecd4f0129": {
@@ -763,7 +742,7 @@
     "ia",
     "negocios"
    ],
-   "score": 3.277,
+   "score": 3.275,
    "also": []
   },
   "852c829d5d": {
@@ -778,7 +757,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.221,
+   "score": 3.216,
    "also": []
   },
   "4e80f3e79f": {
@@ -793,7 +772,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 3.215,
+   "score": 3.209,
    "also": []
   },
   "265c68ec3a": {
@@ -808,7 +787,7 @@
    "topics": [
     "ia"
    ],
-   "score": 3.192,
+   "score": 3.189,
    "also": []
   },
   "7e23cf2c59": {
@@ -823,7 +802,22 @@
    "topics": [
     "negocios"
    ],
-   "score": 3.05,
+   "score": 3.045,
+   "also": []
+  },
+  "607827a365": {
+   "title": "A La Séptima le funciona enseñar la vida en Moncloa de Sánchez y Begoña Gómez, pero se queda lejos de las grandes cadenas",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPSk5sZHRwV0RJREMzc1JLMDNadlc0X3dvSzdTRFRheERoMWpnT28wQzVlUGxFbHM5N1BHM0V2M1YyclhaZndOVGFrVnJFdUZTS3dtTk8yWF9zdU5aN1pIZGE1OC14c2ZOcnlRREM1a1FnMU1zamg4NXhXc05VSzhGUFJCRDVLc2FVR0F5bExTN2Vsd0IySGJyOUVPRVNsQllCR0IySlJ3M0lTMUdYZkJ4T05aMWkxYzYzVkZwN1JGSFVSVlc4QjNnWFlDWk12eHR3WlZqZ0RFdHpCYjE2M3NRdVJtTm1BdEtZQVRHQlR0RGZ2ZUw2MHBfRGJIaVI0TFcyVjU2NnBjVGszMks4T0xONlhMNUMwQTQyM0F1YUxXdmxFOWpna0NlUjZ3ZndvTnlFSm5yc0c4T0s1b0RiYXk3T3lwNE5NRFBjTjZN0gG2AkFVX3lxTE5iR3dIZHF4Z0d1UUpIRENJNHRlcWFZdjJvYklRWlBLTk83U016WkJjNjBtMWZGTWRSZUxzYlBDYWNqNGNyaUluak5fUlhEVVB5dVZCTUlvYmVqcDB3MVJUVE9ZYW54cXVzS2pXV1lfcTY1YzkwMEZNbHRBS1VUTzU2bmVOc1lXdVVTU1VhTU1ReVBPY01yclQzX3NNVm9yU2pGUGdnZllSOElVcDVibnVyOXFTbG5uZ190UUExT0NvVDJJbkZmd25OQnhMWjZzeUsyYkRHd3F4V3BrdTFtQmFEZHVpV0FSWDdyYk8tYnByLVhRVFZCY0lVQks4VzVqSVF1TzFJLXQwRGRGNFRFTUdFVGN0UTdSbE9Ecm1VcHB5RVNpMWxCei03UC1mcFV4WWZCZFFiaFE?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-22T13:41:09+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "espana"
+   ],
+   "score": 3.041,
    "also": []
   },
   "2c0083c675": {
@@ -838,7 +832,7 @@
    "topics": [
     "tech"
    ],
-   "score": 2.933,
+   "score": 2.928,
    "also": []
   },
   "899936c4ba": {
@@ -853,7 +847,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 2.853,
+   "score": 2.849,
    "also": []
   },
   "859659cc53": {
@@ -869,7 +863,7 @@
     "economia",
     "negocios"
    ],
-   "score": 2.844,
+   "score": 2.839,
    "also": []
   },
   "8efc607bad": {
@@ -884,7 +878,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 2.455,
+   "score": 2.452,
    "also": []
   }
  },
@@ -893,7 +887,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 209,
+   "count": 210,
    "ok": true,
    "errors": []
   },
@@ -909,7 +903,7 @@
    "id": "elconfidencial",
    "name": "El Confidencial",
    "via": "rss",
-   "count": 44,
+   "count": 35,
    "ok": true,
    "errors": []
   },
