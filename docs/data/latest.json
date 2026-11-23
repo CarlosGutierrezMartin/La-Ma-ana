@@ -1,10 +1,10 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T15:18:25.911342+00:00",
+ "generated_at": "2026-11-23T15:32:28.565987+00:00",
  "stats": {
-  "fetched": 1758,
-  "fresh": 670,
-  "stories": 630,
+  "fetched": 1720,
+  "fresh": 647,
+  "stories": 607,
   "selected": 89
  },
  "brief": null,
@@ -24,8 +24,8 @@
     "58c2527b36",
     "e10a54d444",
     "02ea7b5321",
-    "e4b12870dd",
     "aefe2fb3f5",
+    "43393413fe",
     "ab33412673",
     "ea9fa1507b",
     "0b7525d017",
@@ -46,12 +46,12 @@
     "90f831b4fd",
     "94e0e3d950",
     "8fa6f24d75",
+    "aa93777566",
     "ab33412673",
+    "cac1e87497",
     "743c66de3d",
-    "2f9c65df28",
-    "378e2b2dc1",
-    "9c079ad7f6",
-    "a2c7afe9f7"
+    "f3dd4003e1",
+    "2f9c65df28"
    ]
   },
   {
@@ -60,17 +60,17 @@
    "short": "Tech",
    "items": [
     "bc5a53032c",
+    "cac1e87497",
     "4704f794ba",
     "7eccd90ac9",
     "378e2b2dc1",
     "17b2c2dee1",
     "1b24c54950",
     "a2c7afe9f7",
+    "e326412a2a",
     "26cb8d2aa5",
     "106e5d1cff",
-    "a457bdd4df",
-    "2d515091a1",
-    "e1550428d2"
+    "a457bdd4df"
    ]
   },
   {
@@ -106,7 +106,7 @@
     "1dab1bd477",
     "852c829d5d",
     "fb0c832b2c",
-    "752fa60dfe"
+    "41105876e2"
    ]
   },
   {
@@ -120,10 +120,10 @@
     "4100869d1c",
     "e25be61dcd",
     "7e6255878c",
+    "f3dd4003e1",
     "ed24ecec5c",
     "70f9818cda",
-    "8bdbb6d9cf",
-    "06aa0ea8a3"
+    "8bdbb6d9cf"
    ]
   },
   {
@@ -132,15 +132,15 @@
    "short": "Óptica",
    "items": [
     "e44a11c1f6",
-    "14f0fff5d7",
     "5320043ce8",
     "ffa17286a8",
-    "d385192900",
-    "f8cc59acbc",
     "1c93d024fa",
     "0f37f7e9e6",
+    "ee72d044de",
+    "5a30473aaa",
     "ac8b6d1aab",
-    "a1ea71a98c"
+    "a1ea71a98c",
+    "856ebb8b54"
    ]
   },
   {
@@ -152,7 +152,7 @@
     "dc42a73f7e",
     "6f5322db93",
     "02ea7b5321",
-    "e4b12870dd",
+    "43393413fe",
     "74b514dbc9",
     "26cb8d2aa5",
     "6cce577396",
@@ -167,7 +167,7 @@
    "items": [
     "aefe2fb3f5",
     "8da34bf647",
-    "e4b12870dd",
+    "43393413fe",
     "e252349a0c",
     "988fb944df",
     "8fa6f24d75",
@@ -186,12 +186,12 @@
     "58c2527b36",
     "9b513f1c62",
     "19d402410a",
-    "9a6a5c9356",
-    "1ddff4a50d",
+    "ada284ba64",
+    "7c0be06f40",
+    "cac1e87497",
     "68c3085284",
     "3588888e17",
-    "de138162ba",
-    "76aaff30a7"
+    "de138162ba"
    ]
   },
   {
@@ -226,19 +226,13 @@
     "ia",
     "negocios"
    ],
-   "score": 27.083,
+   "score": 23.011,
    "also": [
     {
      "source_id": "elpais",
      "source": "El País",
      "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
      "title": "Nvidia recupera a Jensen Huang como consejero delegado"
-    },
-    {
-     "source_id": "theverge",
-     "source": "The Verge",
-     "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-     "title": "Jensen Huang is back as Nvidia’s CEO"
     },
     {
      "source_id": "elconfidencial",
@@ -274,7 +268,7 @@
     "ia",
     "medtech"
    ],
-   "score": 16.199,
+   "score": 16.096,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -302,7 +296,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.867,
+   "score": 11.795,
    "also": []
   },
   "90f831b4fd": {
@@ -318,7 +312,7 @@
     "ia",
     "negocios"
    ],
-   "score": 11.687,
+   "score": 11.614,
    "also": [
     {
      "source_id": "eleconomista",
@@ -329,8 +323,8 @@
     {
      "source_id": "reuters",
      "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-     "title": "Nvidia reinstates Jensen Huang as CEO"
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
+     "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
     }
    ]
   },
@@ -346,7 +340,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.601,
+   "score": 11.533,
    "also": []
   },
   "dc42a73f7e": {
@@ -362,7 +356,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.278,
+   "score": 11.214,
    "also": []
   },
   "58c2527b36": {
@@ -379,7 +373,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.857,
+   "score": 10.795,
    "also": [
     {
      "source_id": "medtech_search",
@@ -401,7 +395,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.771,
+   "score": 10.706,
    "also": []
   },
   "e252349a0c": {
@@ -417,7 +411,7 @@
     "salud",
     "pharma"
    ],
-   "score": 10.73,
+   "score": 10.665,
    "also": []
   },
   "94e0e3d950": {
@@ -432,13 +426,13 @@
    "topics": [
     "ia"
    ],
-   "score": 9.906,
+   "score": 9.843,
    "also": [
     {
      "source_id": "reuters",
      "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5",
-     "title": "Trump says Nvidia board made right call on Huang reinstatement"
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5",
+     "title": "Stocks soar as Nvidia reinstates Huang, reviving AI trade"
     }
    ]
   },
@@ -448,7 +442,7 @@
    "source": "El Mundo",
    "source_id": "elmundo",
    "published": "2026-11-23T14:50:01+00:00",
-   "summary": "En un contexto de enorme volatilidad y dudas hacia la IA, las acciones de Nvidia suben en torno a un 30% después de que la compañía anunciara el regreso de su CEO Leer",
+   "summary": "En un contexto muy volátil y con dudas hacia la IA, las acciones de Nvidia suben en torno a un 30% después de que la compañía anunciara el regreso de su CEO Leer",
    "ai_summary": null,
    "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439590899.jpg",
    "topics": [
@@ -457,7 +451,7 @@
     "economia",
     "negocios"
    ],
-   "score": 9.574,
+   "score": 9.513,
    "also": []
   },
   "02ea7b5321": {
@@ -473,36 +467,13 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.493,
+   "score": 9.438,
    "also": [
     {
      "source_id": "marketingdirecto",
      "source": "Marketing Directo",
      "url": "https://www.marketingdirecto.com/marketing-general/gente/javier-matallana-nuevo-ceo-webedia-espana",
      "title": "Javier Matallana, nuevo CEO de Webedia España"
-    }
-   ]
-  },
-  "e4b12870dd": {
-   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOME5zWmhJYjVoX3NWUTdjSlhoWXRDZHdiM1REYy1QTWFwZ25aclNOOU05aWUxdGxWcjdxdXRYNDBoUUIzbTRhZnN5WUR2bENaaDBRYjN1OWtENFFEMlJfZUJRaWYzbkI2bkwxNTNFRTVvSGQzb1dMbE45UFJTTm5VWXJLUDRTd0JhcEF5TnlR?oc=5",
-   "source": "PMLiVE",
-   "source_id": "pmlive",
-   "published": "2026-11-23T13:33:28+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "marketing"
-   ],
-   "score": 9.298,
-   "also": [
-    {
-     "source_id": "mmm",
-     "source": "MM+M",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
-     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
     }
    ]
   },
@@ -519,8 +490,31 @@
     "pharma",
     "salud"
    ],
-   "score": 9.203,
+   "score": 9.155,
    "also": []
+  },
+  "43393413fe": {
+   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
+   "url": "https://pmlive.com/pmea-2026-a-celebration-of-excellence-in-pharmaceutical-marketing/",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-23T12:26:40+00:00",
+   "summary": "This year’s Awards, held at the Sheraton Park Lane London, included 17 categories",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "marketing"
+   ],
+   "score": 8.979,
+   "also": [
+    {
+     "source_id": "mmm",
+     "source": "MM+M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
+     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
+    }
+   ]
   },
   "716c53fa8f": {
    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -534,13 +528,35 @@
    "topics": [
     "ia"
    ],
-   "score": 8.916,
+   "score": 8.885,
    "also": [
     {
      "source_id": "reuters",
      "source": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric"
+    }
+   ]
+  },
+  "aa93777566": {
+   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+   "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T15:04:01+00:00",
+   "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 8.883,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+     "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors"
     }
    ]
   },
@@ -556,7 +572,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.621,
+   "score": 8.574,
    "also": []
   },
   "f944bb368b": {
@@ -571,7 +587,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.449,
+   "score": 8.398,
    "also": []
   },
   "006b384510": {
@@ -586,7 +602,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.314,
+   "score": 8.265,
    "also": []
   },
   "f1b33dc12f": {
@@ -601,23 +617,24 @@
    "topics": [
     "salud"
    ],
-   "score": 8.275,
+   "score": 8.226,
    "also": []
   },
-  "ab33412673": {
-   "title": "Best!N Travel Marketing Summit. Datos, agentes IA y trato humano para captar al viajero",
-   "url": "https://ipmark.com/bestn-travel-marketing-summit-2026-ia-turismo/",
-   "source": "IPMARK",
-   "source_id": "ipmark",
-   "published": "2026-11-23T12:13:12+00:00",
-   "summary": "La quinta edición de Best!N Travel Marketing Summit reunió en Casa Burgos (Madrid) a líderes de destinos, hoteles, aerolíneas y movilidad para debatir el futuro turístico entre la revolución algorítmica y la cercanía física. La entrada Best!N Travel Marketing Summit. Datos, agentes IA y trato humano para captar al viajero se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y…",
+  "f3dd4003e1": {
+   "title": "Relyens analiza los desafíos de la responsabilidad civil sanitaria y la inteligencia artificial en el XXXII Congreso Nacional de Derecho Sanitario",
+   "url": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261123/relyens-analiza-los-desafios-de-la-responsabilidad-civil-sanitaria-inteligencia-artificial-en-el-xxxii-congreso-nacional-derecho-sanitario/366347_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-23T15:26:56+00:00",
+   "summary": "Bajo el lema 'Europa: salud, innovación y regulación', Relyens ha aportado su visión como grupo mutualista europeo especializado en la gestión de riesgos sanitarios, compartiendo su experiencia ante los grandes desafíos jurídicos y aseguradores del sector Y además: El Congreso Nacional de Derecho Sanitario se reivindica como un espacio de concordia: \"Nuestro único compromiso es contribuir a la protección de la salud\"",
    "ai_summary": null,
-   "image": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160479.png?p=w:1706/h:960&h=OfEsSyuH",
    "topics": [
-    "marketing",
-    "ia"
+    "salud",
+    "ia",
+    "espana"
    ],
-   "score": 7.83,
+   "score": 7.905,
    "also": []
   },
   "8fa6f24d75": {
@@ -634,7 +651,23 @@
     "salud",
     "pharma"
    ],
-   "score": 7.821,
+   "score": 7.785,
+   "also": []
+  },
+  "ab33412673": {
+   "title": "Best!N Travel Marketing Summit. Datos, agentes IA y trato humano para captar al viajero",
+   "url": "https://ipmark.com/bestn-travel-marketing-summit-2026-ia-turismo/",
+   "source": "IPMARK",
+   "source_id": "ipmark",
+   "published": "2026-11-23T12:13:12+00:00",
+   "summary": "La quinta edición de Best!N Travel Marketing Summit reunió en Casa Burgos (Madrid) a líderes de destinos, hoteles, aerolíneas y movilidad para debatir el futuro turístico entre la revolución algorítmica y la cercanía física. La entrada Best!N Travel Marketing Summit. Datos, agentes IA y trato humano para captar al viajero se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y…",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing",
+    "ia"
+   ],
+   "score": 7.784,
    "also": []
   },
   "15c9134c35": {
@@ -649,7 +682,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.648,
+   "score": 7.608,
    "also": []
   },
   "ea9fa1507b": {
@@ -664,7 +697,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.525,
+   "score": 7.482,
    "also": []
   },
   "0b7525d017": {
@@ -679,7 +712,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.443,
+   "score": 7.396,
    "also": [
     {
      "source_id": "elpais",
@@ -702,7 +735,7 @@
     "salud",
     "espana"
    ],
-   "score": 7.352,
+   "score": 7.308,
    "also": []
   },
   "1c35030178": {
@@ -717,7 +750,24 @@
    "topics": [
     "espana"
    ],
-   "score": 7.35,
+   "score": 7.305,
+   "also": []
+  },
+  "cac1e87497": {
+   "title": "Danaher partners with Microsoft to create an agentic AI platform",
+   "url": "https://www.medtechdive.com/news/danaher-partners-with-microsoft-to-create-an-agentic-ai-platform/875437/",
+   "source": "MedTech Dive",
+   "source_id": "medtechdive",
+   "published": "2026-11-23T15:00:00+00:00",
+   "summary": "Early tests found novice scientists worked faster when assisted by AI.",
+   "ai_summary": null,
+   "image": "https://imgproxy.divecdn.com/qbUEcG3krZt2Y9mSGRDLZQ49feziEuXe5zhDSv5Z4gU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODkwMjQzNTkwXzNRbmRsSXcuanBn.webp",
+   "topics": [
+    "ia",
+    "tech",
+    "medtech"
+   ],
+   "score": 7.29,
    "also": []
   },
   "9b513f1c62": {
@@ -733,7 +783,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.188,
+   "score": 7.146,
    "also": []
   },
   "8da34bf647": {
@@ -748,7 +798,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.944,
+   "score": 6.906,
    "also": []
   },
   "4bfc072ba7": {
@@ -764,7 +814,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.742,
+   "score": 6.702,
    "also": []
   },
   "6f5322db93": {
@@ -779,7 +829,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.57,
+   "score": 6.53,
    "also": []
   },
   "743c66de3d": {
@@ -795,7 +845,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.554,
+   "score": 6.514,
    "also": []
   },
   "5320043ce8": {
@@ -811,7 +861,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.496,
+   "score": 6.459,
    "also": []
   },
   "790c1aab79": {
@@ -826,7 +876,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.469,
+   "score": 6.45,
    "also": []
   },
   "ed24ecec5c": {
@@ -841,7 +891,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.325,
+   "score": 6.287,
    "also": []
   },
   "e44a11c1f6": {
@@ -856,7 +906,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.267,
+   "score": 6.237,
    "also": []
   },
   "2f9c65df28": {
@@ -871,7 +921,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.194,
+   "score": 6.166,
    "also": []
   },
   "ffa17286a8": {
@@ -888,7 +938,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.179,
+   "score": 6.144,
    "also": []
   },
   "378e2b2dc1": {
@@ -904,7 +954,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.091,
+   "score": 6.057,
    "also": []
   },
   "988fb944df": {
@@ -919,7 +969,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.938,
+   "score": 5.9,
    "also": []
   },
   "17b2c2dee1": {
@@ -936,7 +986,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.928,
+   "score": 5.891,
    "also": []
   },
   "70f9818cda": {
@@ -951,7 +1001,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.897,
+   "score": 5.865,
    "also": []
   },
   "1b24c54950": {
@@ -968,7 +1018,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.869,
+   "score": 5.833,
    "also": []
   },
   "4100869d1c": {
@@ -985,7 +1035,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.802,
+   "score": 5.786,
    "also": []
   },
   "e25be61dcd": {
@@ -1000,22 +1050,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.768,
-   "also": []
-  },
-  "9c079ad7f6": {
-   "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-   "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-   "source": "MIT Technology Review",
-   "source_id": "mittr",
-   "published": "2026-11-23T13:10:00+00:00",
-   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 5.664,
+   "score": 5.748,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1032,22 +1067,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.621,
-   "also": []
-  },
-  "14f0fff5d7": {
-   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
-   "url": "http://www.visionmonday.com/eyecare/article/suny-optometry-research-plays-key-role-in-bringing-breakthrough-vision-technology-to-us-children/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:18:00+00:00",
-   "summary": "NEW YORK— SUNY College of Optometry played a pivotal role in the clinical research that helped bring the Essilor Stellest spectacle lenses to market, the school recently shared. Stellest lenses received U.S. FDA market authorization in September 2025.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 5.507,
+   "score": 5.601,
    "also": []
   },
   "133404e6a4": {
@@ -1064,7 +1084,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.443,
+   "score": 5.411,
    "also": []
   },
   "74b514dbc9": {
@@ -1080,7 +1100,23 @@
     "ia",
     "marketing"
    ],
-   "score": 5.387,
+   "score": 5.361,
+   "also": []
+  },
+  "e326412a2a": {
+   "title": "Amazon crea el primer Black Friday pensado para pymes y autónomos con programas especiales de ahorro y herramientas de IA",
+   "url": "https://www.elconfidencial.com/tecnologia/2026-11-23/amazon-business-prime-business-rewards-1hms_4470832/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T15:13:00+00:00",
+   "summary": "El nuevo sistema permite acumular puntos por compras profesionales y canjearlos después, con ventajas adicionales durante la campaña de descuentos de noviembre",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/82hCyQSzaTO5vAMGf-9H2IDxOVI=/0x0:800x600/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F98a%2F0ea%2F28e%2F98a0ea28e613403ec424cb5ce84308d8.jpg",
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 5.352,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1096,7 +1132,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.292,
+   "score": 5.264,
    "also": []
   },
   "4704f794ba": {
@@ -1113,7 +1149,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.238,
+   "score": 5.209,
    "also": []
   },
   "6cce577396": {
@@ -1128,7 +1164,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.228,
+   "score": 5.199,
    "also": []
   },
   "b5f425ec8b": {
@@ -1145,7 +1181,7 @@
     "negocios",
     "salud"
    ],
-   "score": 5.227,
+   "score": 5.194,
    "also": []
   },
   "7eccd90ac9": {
@@ -1161,7 +1197,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.225,
+   "score": 5.193,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1176,7 +1212,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.188,
+   "score": 5.159,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1191,7 +1227,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.074,
+   "score": 5.047,
    "also": []
   },
   "a457bdd4df": {
@@ -1208,7 +1244,7 @@
     "tech",
     "espana"
    ],
-   "score": 4.995,
+   "score": 4.973,
    "also": []
   },
   "19d402410a": {
@@ -1224,22 +1260,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.994,
-   "also": []
-  },
-  "2f5e60e6ef": {
-   "title": "Macron quiere reformar la Constitución para limitar el déficit y la deuda francesas",
-   "url": "https://elpais.com/internacional/2026-11-23/macron-quiere-reformar-la-constitucion-para-limitar-el-deficit-y-la-deuda-francesas.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-23T15:01:53+00:00",
-   "summary": "El jefe del Estado quiere introducir, a solo cinco meses de las elecciones, una reforma que impediría a los siguientes presidentes actuar como lo hizo él durante su mandato",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/LU4LYKJDFROCPEZHVR5FARY3RY.jpg?auth=10ca94a50b22db5698590fa6360930d79e998e7131b1f5e023231b273d613ad5",
-   "topics": [
-    "economia"
-   ],
-   "score": 4.962,
+   "score": 4.963,
    "also": []
   },
   "7e6255878c": {
@@ -1254,7 +1275,22 @@
    "topics": [
     "espana"
    ],
-   "score": 4.956,
+   "score": 4.933,
+   "also": []
+  },
+  "2f5e60e6ef": {
+   "title": "Macron quiere reformar la Constitución para limitar el déficit y la deuda francesas",
+   "url": "https://elpais.com/internacional/2026-11-23/macron-quiere-reformar-la-constitucion-para-limitar-el-deficit-y-la-deuda-francesas.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T15:01:53+00:00",
+   "summary": "El jefe del Estado quiere introducir, a solo cinco meses de las elecciones, una reforma que impediría a los siguientes presidentes actuar como lo hizo él durante su mandato",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/LU4LYKJDFROCPEZHVR5FARY3RY.jpg?auth=10ca94a50b22db5698590fa6360930d79e998e7131b1f5e023231b273d613ad5",
+   "topics": [
+    "economia"
+   ],
+   "score": 4.93,
    "also": []
   },
   "1c93d024fa": {
@@ -1269,15 +1305,15 @@
    "topics": [
     "optica"
    ],
-   "score": 4.93,
+   "score": 4.899,
    "also": []
   },
-  "9a6a5c9356": {
-   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEExR3NHRkpTQ0t0UV9kNlN3TEVlbTVIcFV0Ujl6aFBfLWtVb1B2ay1icmEwb3FzaWdUMHJmRVdwZHFZcGdxbVN4WnNQN3JXYUpuWjM0TUNVRGRlb3kwWks0NFJGMEJDRVR2SlhpR19NdVBaaV8xUm5zbllzVmdBbXZOYUtQNV80RG9nWFRaTWF4aXpFQUFrbXZQZl9MUDZ0Z0xiTzlIZmdyYW5wb04xNVgzemdnSWd0NU9BYUZTM3c?oc=5",
-   "source": "Investing.com India",
+  "ada284ba64": {
+   "title": "MIMEDX Announces FDA 510(k) Clearance for HELIOGEN® AMS",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXgzZmxYc3YtR3VpQlJfLWVYNG5FRWpCR1ZnbFd2RVBQLVBRUExMUEtCalQ4TmxzSUZfMnh5eFBkNHdOS2JneFFleVJ6b1d4QjdhdWNqdDVucURvR1VLRlk2WnJkTWZQR1FLT1FvTmRzYy1ESkxiN1dfUTNlRGxwczFkOE5ma2ZCQk1CX2FHSjlzUlhRWjVrTE8xQXFER2hVWlpoYXpTSGlPMUFsU2NlZFBidy14d0ZPdU9mMGRoTTViY0R20gHKAUFVX3lxTE1STlhaVnA1Q1A3bmU5TkV6MlZNLW5ROUM0bS1rR3I2RjM1LWp6QXdFeFdBaUZqOUdid3NHc0FibXNmSzRwZTVMMUJVbWNCWEJvcHJZZ2JtS1U2LUY2dG1OdGJ1Rk1RSWlsUUlwdG5vdVRFdXBhTXRoZmxoX0wzQW5rbmpiZ3g5TkVyY1JaWUxiRm80QkJCOWZWa1MzamVQTWtSQnJxNFo3dm1MYkItY25UcXNEa2tKbWYzTFRtNm80TkFOc3FtT09Tcmc?oc=5",
+   "source": "The Manila Times",
    "source_id": "medtech_search",
-   "published": "2026-11-23T13:22:38+00:00",
+   "published": "2026-11-23T13:22:12+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
@@ -1285,7 +1321,23 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.912,
+   "score": 4.881,
+   "also": []
+  },
+  "7c0be06f40": {
+   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnhqLVBTb3ktMnUxR1V1Mk5pZldCQmtSMjYyZ2M5V1UyMzNjQzZrcGZnS0pMMEYwZWdGZTdiN09XbDRTZm9fcEMtR1k4N1ZxNFlFck56UVI3RnczWS1nQS1YZkZYMnhKdi0yRnJHTFhfQUJLRldBRkUzc3QwLURKZ0ZzWl9rbUdOcjRnbldKT1dEUWdkX3V0WVRtdWtEajRIRlRCeU9Hb3pRcnlsZk42U0kyWjlpVWNjWmdj?oc=5",
+   "source": "Investing.com",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T13:15:54+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma"
+   ],
+   "score": 4.868,
    "also": []
   },
   "1ddff4a50d": {
@@ -1301,7 +1353,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.894,
+   "score": 4.864,
    "also": []
   },
   "71eae63a3e": {
@@ -1316,7 +1368,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.827,
+   "score": 4.797,
    "also": []
   },
   "130257fb00": {
@@ -1332,7 +1384,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.727,
+   "score": 4.699,
    "also": []
   },
   "d3561ea80e": {
@@ -1347,68 +1399,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.727,
-   "also": []
-  },
-  "d385192900": {
-   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
-   "url": "http://www.visionmonday.com/people/optical-community/article/vsp-eyes-of-hope-kendra-scott-foundation-partner-to-expand-access-to-vision-care-and-literacy-resources/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:21:00+00:00",
-   "summary": "RANCHO CORDOVA, Calif., and AUSTIN, Texas— VSP Eyes of Hope and the Kendra Scott Foundation announced that they have joined forces to help students learn, read and dream by expanding access to vision care and books.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.725,
-   "also": []
-  },
-  "f8cc59acbc": {
-   "title": "‘It All Came Together’: Donation Brings Eyewear to 100 Children in Florida",
-   "url": "http://www.visionmonday.com/business/article/it-all-came-together-donation-brings-eyewear-to-100-children-in-florida/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:15:00+00:00",
-   "summary": "BOSTON—Approximately 100 children in Florida now have new eyewear, GoodVision USA has shared, thanks to a set of introductions arranged by the organization that brought together the brand Vontélle Eyewear with the Crestview Lions Foundation .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.716,
-   "also": []
-  },
-  "2d515091a1": {
-   "title": "Jeff Bezos (Amazon) sentencia el futuro del mercado laboral: \"Solo hay un tipo de trabajador que la IA nunca podrá sustituir \"",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOU3U2ang2UDhJYlozSTRPdTV1WDNzbVRsbDhiTFotNVBBOWlxb1ZlN1R2NmlidEFKT3lqSG9BaDdRMGJTNGUyRTduRzBGV1poaFBTQjl2UUN0ekVUOWszbFRsYWRVS2YwczNDeHFsWEp2d1pjTl92LXR1MUxSYlltbmxpalI3ekVCSG5EcVlGc2ozdFF4d1pxWG1LdEFTTFM1RlJWQ2RrMklHY1FmUXRsVG9sTXdGVmd3YnVSODJrVUhWMXVwZUVmTUQ1Mms0Y2hLdENGeW1PMVVUZFphNnJLdzJjYjQ2Z3JqcVhDNUFVUGpvS2Z4bDZkMkZNTmRXTXdhSGdiV214ZkRUUG5mTnp5dS1QS0lmd1dx?oc=5",
-   "source": "elEconomista",
-   "source_id": "eleconomista",
-   "published": "2026-11-23T09:13:22+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "tech"
-   ],
-   "score": 4.626,
-   "also": []
-  },
-  "06aa0ea8a3": {
-   "title": "El Gobierno exigirá a la Comunidad de Madrid revocar las instrucciones que prohíben carteles sobre la huelga o implicar a los alumnos",
-   "url": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-22T11:48:55+00:00",
-   "summary": "Pedro Sánchez compara los formularios con los utilizados en el franquismo; Isabel Díaz Ayuso le acusa de usar “ideológicamente y sectariamente a los niños” y jalear las huelgas educativas “más feroces que se recuerdan”",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/MR5BNW56FBO4JDUESPHQ66QUQ4.jpg?auth=4497cb76cdc1f4c3625807fcba14fcbfe0b8db70b231320f29a347085cf66cae",
-   "topics": [
-    "espana"
-   ],
-   "score": 4.625,
+   "score": 4.698,
    "also": []
   },
   "4c8e713420": {
@@ -1423,7 +1414,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 4.56,
+   "score": 4.536,
    "also": []
   },
   "7d99e0f411": {
@@ -1439,7 +1430,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.53,
+   "score": 4.512,
    "also": []
   },
   "2b1342e4e5": {
@@ -1454,7 +1445,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.513,
+   "score": 4.487,
    "also": []
   },
   "1dab1bd477": {
@@ -1469,7 +1460,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.326,
+   "score": 4.303,
    "also": []
   },
   "63706cb843": {
@@ -1485,7 +1476,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.257,
+   "score": 4.233,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1500,7 +1491,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.122,
+   "score": 4.098,
    "also": []
   },
   "106e5d1cff": {
@@ -1509,14 +1500,14 @@
    "source": "The Verge",
    "source_id": "theverge",
    "published": "2026-11-23T11:00:00+00:00",
-   "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your […]",
+   "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
    "ai_summary": null,
    "image": null,
    "topics": [
     "tech",
     "ia"
    ],
-   "score": 3.968,
+   "score": 3.945,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1532,7 +1523,7 @@
     "negocios",
     "salud"
    ],
-   "score": 3.967,
+   "score": 3.945,
    "also": []
   },
   "1e82ded39f": {
@@ -1548,7 +1539,37 @@
     "economia",
     "salud"
    ],
-   "score": 3.95,
+   "score": 3.93,
+   "also": []
+  },
+  "ee72d044de": {
+   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUjNES1JzRU1PNmEwWGFHQTZyLXVSMzY3YTQwN0k3TGFRZGkwdnhONUc0cXV4SDFMUUNBSlV5T0JScVU4Q0tyX1JmbG12ekVEMmFZVjNXeU1CTkpNWGlCTUsxMHpHa05fOHpsOUJmX2J5ZjhQZ3dBVkg5ZjJjSTRJaFZkRkhWOFRPNTFvSWt5U1VXcmJuY0R6djkzeDFJYVRYcFIzQzBWZFVEaVZSSFN1UndLdnJ3aUM5T1VFMUJvTTZVLUhCSjV4XzJHOFVUb2hCMGR3WVF2ZGpGRHVMT1hJdEtHczR4RUFscjFMQ0VzajNiM2NRRU5OY1l3?oc=5",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:21:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 3.919,
+   "also": []
+  },
+  "5a30473aaa": {
+   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQV9GVTdxRTAtZjdka0FNLUJfOXZiX1RtZHc2WjUxNVptS1lGNDR4MHBJOHFPelo2WmUxRTRSamtZLWJoZ3JrQ0hPTUxKRXZaZERlX3BwZVdVN2JrWUQ3Y1puR3QteVFsUGFibUIxRUVBMm5qYnZUSDdzdlNXb1NpZzlmLXpqTDV3N1plWmJDRUVkVU1QcXBWZC0wSHZTMmRCMTh4MklVYW1WV3AyT1B2UkJtdXRwZENscFgzQWJCVERDaTZuMXVmSE4zeWRuYzhEVzN3NURpeWdXZw?oc=5",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:18:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 3.915,
    "also": []
   },
   "fb0c832b2c": {
@@ -1563,15 +1584,15 @@
    "topics": [
     "economia"
    ],
-   "score": 3.872,
+   "score": 3.854,
    "also": []
   },
-  "752fa60dfe": {
-   "title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
+  "41105876e2": {
+   "title": "Dollar jumps on hawkish Fed bets, AI rally",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVA0aUFSMnFob3ZJdVFvbmlpN0JDRWFRNUJwZ1BIY19KU3RXZjJTRGdLaU00NGJ6dDRvX3VBUDdtcG9XQWRiRFhuUzhMZTNsN2lDSWVKMmI2Vi1EQ3dFUE5mM3dwZGNQWC1zZXhnZTJfVEVuYzVETlV1enJTN0dPZlQ3SlozeklDTzkwck16LW42eWt5aDJEY0w4M0Ytd0ZlRnBSZmZpN0Z5bkxTLXNXcWdtSW0?oc=5",
    "source": "Reuters",
    "source_id": "reuters",
-   "published": "2026-11-22T23:00:00+00:00",
+   "published": "2026-11-22T23:43:00+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
@@ -1579,22 +1600,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.686,
-   "also": []
-  },
-  "e1550428d2": {
-   "title": "Apple prepara un catálogo de productos asequibles que llegará a principios de 2027",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWldnNzZkdmU4S1BKSGsxbnNiZ2RDYWRMRDV1YW43dDFVZE1JQXYyUUFETTZXWlAxT3Z3TE95Vy02N0FrQjlwQm4wdklDaVlOLVFIOHZ4V0xNeVJycnVXMS1VWDNnWUR2OXQ0RVJ3RUtVdVUyMDBFQ1M3eTRDUXlBZDhCSC1hYmc1NFV5Q2NNckI0SGRkZ01QUWdQYk5SQmNiWEFndExFRDBzX1RvWnJnMkQ0aFVnSEwxTHBqZHg5TW5RRmZlakNLNnFiUU9GRl9HdkxDekZXdXZNWV92NzZjLTZjQmU?oc=5",
-   "source": "elEconomista",
-   "source_id": "eleconomista",
-   "published": "2026-11-23T15:10:46+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech"
-   ],
-   "score": 3.587,
+   "score": 3.715,
    "also": []
   },
   "852c829d5d": {
@@ -1609,7 +1615,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.097,
+   "score": 3.083,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1624,7 +1630,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.762,
+   "score": 2.761,
    "also": []
   },
   "a1ea71a98c": {
@@ -1639,7 +1645,22 @@
    "topics": [
     "optica"
    ],
-   "score": 2.762,
+   "score": 2.761,
+   "also": []
+  },
+  "856ebb8b54": {
+   "title": "Takeaways from this week in optometry: November 16-20",
+   "url": "https://www.optometrytimes.com/view/takeaways-from-this-week-in-optometry-november-16-20",
+   "source": "Optometry Times",
+   "source_id": "optometrytimes",
+   "published": "2026-11-21T11:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 2.635,
    "also": []
   },
   "68c3085284": {
@@ -1670,7 +1691,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.399,
+   "score": 2.385,
    "also": []
   },
   "de138162ba": {
@@ -1685,23 +1706,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.365,
-   "also": []
-  },
-  "76aaff30a7": {
-   "title": "Zimmer submits Monogram robot to FDA",
-   "url": "https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/",
-   "source": "MedTech Dive",
-   "source_id": "medtechdive",
-   "published": "2026-11-20T16:46:43+00:00",
-   "summary": "The company is targeting Food and Drug Administration clearance next year for an autonomous orthopedic robot.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "medtech"
-   ],
-   "score": 1.785,
+   "score": 2.352,
    "also": []
   }
  },
@@ -1710,7 +1715,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 212,
+   "count": 172,
    "ok": true,
    "errors": []
   },
@@ -1807,10 +1812,12 @@
   {
    "id": "visionmonday",
    "name": "Vision Monday",
-   "via": "rss",
-   "count": 10,
+   "via": "google-news",
+   "count": 6,
    "ok": true,
-   "errors": []
+   "errors": [
+    "https://www.visionmonday.com/rss/latest-news/: TimeoutError: The read operation timed out"
+   ]
   },
   {
    "id": "healio_eye",
@@ -1832,7 +1839,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 23,
+   "count": 27,
    "ok": true,
    "errors": []
   },
@@ -1903,12 +1910,10 @@
   {
    "id": "pmlive",
    "name": "PMLiVE",
-   "via": "google-news",
-   "count": 8,
+   "via": "rss",
+   "count": 10,
    "ok": true,
-   "errors": [
-    "https://www.pmlive.com/rss: HTTPError: HTTP Error 403: Forbidden"
-   ]
+   "errors": []
   },
   {
    "id": "pharmexec",
