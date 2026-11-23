@@ -1,8 +1,8 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T15:50:21.816412+00:00",
+ "generated_at": "2026-11-23T15:51:57.550208+00:00",
  "stats": {
-  "fetched": 1763,
+  "fetched": 1758,
   "fresh": 668,
   "stories": 629,
   "selected": 89
@@ -120,8 +120,8 @@
     "4100869d1c",
     "e25be61dcd",
     "7e6255878c",
-    "f3dd4003e1",
     "ed24ecec5c",
+    "f3dd4003e1",
     "70f9818cda",
     "8bdbb6d9cf"
    ]
@@ -131,16 +131,16 @@
    "name": "Óptica y optometría",
    "short": "Óptica",
    "items": [
-    "a4bae11b09",
     "e44a11c1f6",
-    "14f0fff5d7",
     "5320043ce8",
     "ffa17286a8",
-    "d385192900",
-    "f8cc59acbc",
+    "1c93d024fa",
     "0f37f7e9e6",
+    "ee72d044de",
+    "5a30473aaa",
     "ac8b6d1aab",
-    "a1ea71a98c"
+    "a1ea71a98c",
+    "856ebb8b54"
    ]
   },
   {
@@ -226,7 +226,7 @@
     "ia",
     "negocios"
    ],
-   "score": 26.696,
+   "score": 26.677,
    "also": [
     {
      "source_id": "elpais",
@@ -274,7 +274,7 @@
     "ia",
     "medtech"
    ],
-   "score": 15.967,
+   "score": 15.955,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -302,7 +302,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.704,
+   "score": 11.696,
    "also": []
   },
   "b205246cdc": {
@@ -317,7 +317,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.447,
+   "score": 11.439,
    "also": []
   },
   "dc42a73f7e": {
@@ -333,7 +333,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.135,
+   "score": 11.128,
    "also": []
   },
   "58c2527b36": {
@@ -350,7 +350,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.717,
+   "score": 10.71,
    "also": [
     {
      "source_id": "medtech_search",
@@ -372,7 +372,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.626,
+   "score": 10.619,
    "also": []
   },
   "e252349a0c": {
@@ -388,7 +388,7 @@
     "salud",
     "pharma"
    ],
-   "score": 10.585,
+   "score": 10.577,
    "also": []
   },
   "94e0e3d950": {
@@ -403,7 +403,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.935,
+   "score": 9.928,
    "also": [
     {
      "source_id": "reuters",
@@ -428,7 +428,7 @@
     "economia",
     "negocios"
    ],
-   "score": 9.436,
+   "score": 9.43,
    "also": []
   },
   "02ea7b5321": {
@@ -444,7 +444,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.369,
+   "score": 9.363,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -467,7 +467,7 @@
     "pharma",
     "salud"
    ],
-   "score": 9.095,
+   "score": 9.09,
    "also": []
   },
   "43393413fe": {
@@ -483,7 +483,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 8.912,
+   "score": 8.906,
    "also": [
     {
      "source_id": "mmm",
@@ -505,7 +505,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.846,
+   "score": 8.843,
    "also": [
     {
      "source_id": "reuters",
@@ -527,7 +527,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.811,
+   "score": 8.805,
    "also": [
     {
      "source_id": "reuters",
@@ -549,7 +549,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.516,
+   "score": 8.511,
    "also": []
   },
   "f944bb368b": {
@@ -564,7 +564,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.334,
+   "score": 8.328,
    "also": []
   },
   "006b384510": {
@@ -579,7 +579,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.203,
+   "score": 8.197,
    "also": []
   },
   "f1b33dc12f": {
@@ -594,7 +594,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.165,
+   "score": 8.16,
    "also": []
   },
   "90f831b4fd": {
@@ -610,7 +610,7 @@
     "ia",
     "negocios"
    ],
-   "score": 8.063,
+   "score": 8.057,
    "also": [
     {
      "source_id": "reuters",
@@ -634,7 +634,7 @@
     "ia",
     "espana"
    ],
-   "score": 7.84,
+   "score": 7.834,
    "also": []
   },
   "8fa6f24d75": {
@@ -651,7 +651,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.739,
+   "score": 7.735,
    "also": []
   },
   "ab33412673": {
@@ -667,7 +667,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.726,
+   "score": 7.721,
    "also": []
   },
   "15c9134c35": {
@@ -682,7 +682,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.557,
+   "score": 7.552,
    "also": []
   },
   "ea9fa1507b": {
@@ -697,7 +697,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.428,
+   "score": 7.423,
    "also": []
   },
   "0b7525d017": {
@@ -712,7 +712,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.337,
+   "score": 7.332,
    "also": [
     {
      "source_id": "elpais",
@@ -735,7 +735,7 @@
     "salud",
     "espana"
    ],
-   "score": 7.252,
+   "score": 7.247,
    "also": []
   },
   "1c35030178": {
@@ -750,7 +750,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.247,
+   "score": 7.242,
    "also": []
   },
   "cac1e87497": {
@@ -767,7 +767,7 @@
     "tech",
     "medtech"
    ],
-   "score": 7.231,
+   "score": 7.226,
    "also": []
   },
   "9b513f1c62": {
@@ -783,22 +783,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.093,
-   "also": []
-  },
-  "a4bae11b09": {
-   "title": "Rusia y China desarrollan ópticas compactas para reducir peso en gafas de VR",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTIzTUpnZXpZeU1zMHVuWi1qakRlN1luU2ZNX2txcEVQVDRTcThTc05IMFNjOFdKZk9TU2tXLS1NYU1sM3JyVEg2Z3I4TTF4NEVNSjRGSFQ2bDlBNXdVUlV5X0pmZXJoTUdLN1Z1aTU4SjAzRVdzUFB4dVp4cExaN05heGtmOWtJbnIzMkZoQXFVQUsydGVjWlE3dEUzYkVNNnJ5WWRGZWw5OXJ4V1E?oc=5",
-   "source": "Foro3D",
-   "source_id": "optica_es",
-   "published": "2026-11-23T10:00:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 6.892,
+   "score": 7.088,
    "also": []
   },
   "8da34bf647": {
@@ -813,7 +798,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.858,
+   "score": 6.854,
    "also": []
   },
   "4bfc072ba7": {
@@ -829,7 +814,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.653,
+   "score": 6.648,
    "also": []
   },
   "6f5322db93": {
@@ -844,7 +829,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.48,
+   "score": 6.476,
    "also": []
   },
   "743c66de3d": {
@@ -860,7 +845,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.465,
+   "score": 6.461,
    "also": []
   },
   "790c1aab79": {
@@ -875,7 +860,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.426,
+   "score": 6.424,
    "also": []
   },
   "5320043ce8": {
@@ -891,7 +876,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.412,
+   "score": 6.408,
    "also": []
   },
   "ed24ecec5c": {
@@ -906,7 +891,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.239,
+   "score": 6.235,
    "also": []
   },
   "e44a11c1f6": {
@@ -921,7 +906,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.201,
+   "score": 6.197,
    "also": []
   },
   "2f9c65df28": {
@@ -936,7 +921,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.13,
+   "score": 6.127,
    "also": []
   },
   "ffa17286a8": {
@@ -953,7 +938,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.099,
+   "score": 6.095,
    "also": []
   },
   "378e2b2dc1": {
@@ -969,7 +954,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.014,
+   "score": 6.011,
    "also": []
   },
   "988fb944df": {
@@ -984,7 +969,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.852,
+   "score": 5.848,
    "also": []
   },
   "17b2c2dee1": {
@@ -1001,7 +986,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.846,
+   "score": 5.842,
    "also": []
   },
   "70f9818cda": {
@@ -1016,7 +1001,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.824,
+   "score": 5.821,
    "also": []
   },
   "1b24c54950": {
@@ -1033,7 +1018,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.789,
+   "score": 5.785,
    "also": []
   },
   "4100869d1c": {
@@ -1050,7 +1035,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.766,
+   "score": 5.764,
    "also": []
   },
   "e25be61dcd": {
@@ -1065,7 +1050,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.722,
+   "score": 5.72,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1082,22 +1067,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.576,
-   "also": []
-  },
-  "14f0fff5d7": {
-   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
-   "url": "http://www.visionmonday.com/eyecare/article/suny-optometry-research-plays-key-role-in-bringing-breakthrough-vision-technology-to-us-children/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:18:00+00:00",
-   "summary": "NEW YORK— SUNY College of Optometry played a pivotal role in the clinical research that helped bring the Essilor Stellest spectacle lenses to market, the school recently shared. Stellest lenses received U.S. FDA market authorization in September 2025.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 5.449,
+   "score": 5.574,
    "also": []
   },
   "133404e6a4": {
@@ -1114,7 +1084,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.371,
+   "score": 5.367,
    "also": []
   },
   "74b514dbc9": {
@@ -1130,7 +1100,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.329,
+   "score": 5.326,
    "also": []
   },
   "e326412a2a": {
@@ -1146,7 +1116,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.308,
+   "score": 5.304,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1162,7 +1132,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.228,
+   "score": 5.225,
    "also": []
   },
   "4704f794ba": {
@@ -1179,7 +1149,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.174,
+   "score": 5.171,
    "also": []
   },
   "6cce577396": {
@@ -1194,7 +1164,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.163,
+   "score": 5.16,
    "also": []
   },
   "7eccd90ac9": {
@@ -1210,7 +1180,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.153,
+   "score": 5.15,
    "also": []
   },
   "b5f425ec8b": {
@@ -1227,7 +1197,7 @@
     "negocios",
     "salud"
    ],
-   "score": 5.153,
+   "score": 5.149,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1242,7 +1212,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.124,
+   "score": 5.121,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1257,7 +1227,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.014,
+   "score": 5.011,
    "also": []
   },
   "a457bdd4df": {
@@ -1274,7 +1244,7 @@
     "tech",
     "espana"
    ],
-   "score": 4.945,
+   "score": 4.942,
    "also": []
   },
   "19d402410a": {
@@ -1290,7 +1260,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.924,
+   "score": 4.92,
    "also": []
   },
   "7004274ff1": {
@@ -1305,7 +1275,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.92,
+   "score": 4.917,
    "also": []
   },
   "7e6255878c": {
@@ -1320,7 +1290,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.904,
+   "score": 4.902,
    "also": []
   },
   "2f5e60e6ef": {
@@ -1335,7 +1305,22 @@
    "topics": [
     "economia"
    ],
-   "score": 4.89,
+   "score": 4.887,
+   "also": []
+  },
+  "1c93d024fa": {
+   "title": "Entrega alcalde Pedro Miguel Rosaldo 50 mil lentes graduados para apoyar la salud visual de los porteños",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BKOXZOV1hDeFd4OWNSSU91cXJZajhQQUpGT0tlSXFwbk1aSnpEa1RsNjMzUlVfUEhMSzJtdUlvTXZ2NmRUeUR4TVN6X1JMZkpKWXY2OVE1WElsVzRmb0pXb240Q2dxUkhWenoxY3htSkU3cnJvb1BRSEhIckppMkJwZ1BxX2NWVzZNLUZuRTl0ZTQzMjBVYlZBd3lLZmNzdWZGR0lvQzN1b1lSLU0tNnYzTjhCNDdiWmpURlhBQUdZYUludkx6dl93dWlabFVaQzNHa0dQUQ?oc=5",
+   "source": "Diario Gráfico",
+   "source_id": "optica_es",
+   "published": "2026-11-23T14:47:47+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.856,
    "also": []
   },
   "167adc3c0c": {
@@ -1351,7 +1336,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.843,
+   "score": 4.84,
    "also": []
   },
   "7c0be06f40": {
@@ -1367,7 +1352,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.83,
+   "score": 4.827,
    "also": []
   },
   "1ddff4a50d": {
@@ -1383,7 +1368,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.827,
+   "score": 4.824,
    "also": []
   },
   "71eae63a3e": {
@@ -1398,37 +1383,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.759,
-   "also": []
-  },
-  "d385192900": {
-   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
-   "url": "http://www.visionmonday.com/people/optical-community/article/vsp-eyes-of-hope-kendra-scott-foundation-partner-to-expand-access-to-vision-care-and-literacy-resources/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:21:00+00:00",
-   "summary": "RANCHO CORDOVA, Calif., and AUSTIN, Texas— VSP Eyes of Hope and the Kendra Scott Foundation announced that they have joined forces to help students learn, read and dream by expanding access to vision care and books.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.675,
-   "also": []
-  },
-  "f8cc59acbc": {
-   "title": "‘It All Came Together’: Donation Brings Eyewear to 100 Children in Florida",
-   "url": "http://www.visionmonday.com/business/article/it-all-came-together-donation-brings-eyewear-to-100-children-in-florida/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:15:00+00:00",
-   "summary": "BOSTON—Approximately 100 children in Florida now have new eyewear, GoodVision USA has shared, thanks to a set of introductions arranged by the organization that brought together the brand Vontélle Eyewear with the Crestview Lions Foundation .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.666,
+   "score": 4.756,
    "also": []
   },
   "130257fb00": {
@@ -1444,7 +1399,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.664,
+   "score": 4.661,
    "also": []
   },
   "d3561ea80e": {
@@ -1459,7 +1414,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.662,
+   "score": 4.659,
    "also": []
   },
   "4c8e713420": {
@@ -1474,7 +1429,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 4.505,
+   "score": 4.503,
    "also": []
   },
   "7d99e0f411": {
@@ -1490,7 +1445,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.49,
+   "score": 4.489,
    "also": []
   },
   "1dab1bd477": {
@@ -1505,7 +1460,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.273,
+   "score": 4.27,
    "also": []
   },
   "63706cb843": {
@@ -1521,7 +1476,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.202,
+   "score": 4.2,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1536,7 +1491,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.068,
+   "score": 4.065,
    "also": []
   },
   "106e5d1cff": {
@@ -1545,14 +1500,14 @@
    "source": "The Verge",
    "source_id": "theverge",
    "published": "2026-11-23T11:00:00+00:00",
-   "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your […]",
+   "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
    "ai_summary": null,
    "image": null,
    "topics": [
     "tech",
     "ia"
    ],
-   "score": 3.917,
+   "score": 3.914,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1568,7 +1523,7 @@
     "negocios",
     "salud"
    ],
-   "score": 3.916,
+   "score": 3.913,
    "also": []
   },
   "1e82ded39f": {
@@ -1584,7 +1539,37 @@
     "economia",
     "salud"
    ],
-   "score": 3.904,
+   "score": 3.902,
+   "also": []
+  },
+  "ee72d044de": {
+   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUjNES1JzRU1PNmEwWGFHQTZyLXVSMzY3YTQwN0k3TGFRZGkwdnhONUc0cXV4SDFMUUNBSlV5T0JScVU4Q0tyX1JmbG12ekVEMmFZVjNXeU1CTkpNWGlCTUsxMHpHa05fOHpsOUJmX2J5ZjhQZ3dBVkg5ZjJjSTRJaFZkRkhWOFRPNTFvSWt5U1VXcmJuY0R6djkzeDFJYVRYcFIzQzBWZFVEaVZSSFN1UndLdnJ3aUM5T1VFMUJvTTZVLUhCSjV4XzJHOFVUb2hCMGR3WVF2ZGpGRHVMT1hJdEtHczR4RUFscjFMQ0VzajNiM2NRRU5OY1l3?oc=5",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:21:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 3.894,
+   "also": []
+  },
+  "5a30473aaa": {
+   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQV9GVTdxRTAtZjdka0FNLUJfOXZiX1RtZHc2WjUxNVptS1lGNDR4MHBJOHFPelo2WmUxRTRSamtZLWJoZ3JrQ0hPTUxKRXZaZERlX3BwZVdVN2JrWUQ3Y1puR3QteVFsUGFibUIxRUVBMm5qYnZUSDdzdlNXb1NpZzlmLXpqTDV3N1plWmJDRUVkVU1QcXBWZC0wSHZTMmRCMTh4MklVYW1WV3AyT1B2UkJtdXRwZENscFgzQWJCVERDaTZuMXVmSE4zeWRuYzhEVzN3NURpeWdXZw?oc=5",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:18:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 3.89,
    "also": []
   },
   "fb0c832b2c": {
@@ -1599,7 +1584,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.832,
+   "score": 3.83,
    "also": []
   },
   "41105876e2": {
@@ -1615,7 +1600,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.697,
+   "score": 3.695,
    "also": []
   },
   "852c829d5d": {
@@ -1630,7 +1615,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.065,
+   "score": 3.064,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1663,6 +1648,21 @@
    "score": 2.76,
    "also": []
   },
+  "856ebb8b54": {
+   "title": "Takeaways from this week in optometry: November 16-20",
+   "url": "https://www.optometrytimes.com/view/takeaways-from-this-week-in-optometry-november-16-20",
+   "source": "Optometry Times",
+   "source_id": "optometrytimes",
+   "published": "2026-11-21T11:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 2.633,
+   "also": []
+  },
   "68c3085284": {
    "title": "J&J to install first Ottava robot in US hospital",
    "url": "https://www.medtechdive.com/news/jj-to-install-first-ottava-robot-in-us-hospital/875343/",
@@ -1691,7 +1691,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.368,
+   "score": 2.367,
    "also": []
   },
   "de138162ba": {
@@ -1706,7 +1706,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.336,
+   "score": 2.334,
    "also": []
   }
  },
@@ -1812,10 +1812,12 @@
   {
    "id": "visionmonday",
    "name": "Vision Monday",
-   "via": "rss",
-   "count": 10,
+   "via": "google-news",
+   "count": 7,
    "ok": true,
-   "errors": []
+   "errors": [
+    "https://www.visionmonday.com/rss/latest-news/: TimeoutError: The read operation timed out"
+   ]
   },
   {
    "id": "healio_eye",
@@ -1837,7 +1839,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 24,
+   "count": 23,
    "ok": true,
    "errors": []
   },
@@ -1957,7 +1959,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 38,
+   "count": 37,
    "ok": true,
    "errors": []
   },

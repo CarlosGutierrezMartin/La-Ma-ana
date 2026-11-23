@@ -3,10 +3,10 @@
   {
    "date": "2026-11-23",
    "file": "2026-11-23.mp3",
-   "title": "La Mañana: Noticias de salud, tecnología, publicidad e inteligencia artificial",
-   "duration": 253,
-   "bytes": 2026718,
-   "published": "2026-11-23T15:17:29.924792+00:00",
+   "title": "La Mañana: Jensen Huang vuelve al frente de Nvidia",
+   "duration": 244,
+   "bytes": 1955841,
+   "published": "2026-11-23T16:13:57.380066+00:00",
    "topics": [
     "optica",
     "pharma",
@@ -22,99 +22,78 @@
     "Inteligencia artificial"
    ],
    "stories": [
-    "e44a11c1f6",
-    "14f0fff5d7",
     "5320043ce8",
     "aefe2fb3f5",
-    "8da34bf647",
-    "43393413fe",
     "3ce502eefa",
     "58c2527b36",
-    "9b513f1c62",
-    "ab33412673",
     "dc42a73f7e",
-    "6f5322db93",
-    "9c18fd8d23",
-    "716c53fa8f",
-    "90f831b4fd"
+    "9c18fd8d23"
    ],
-   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Demócrata, Diario Información, El Dia.com.do, El Global, El Mundo, IPMARK, Marketing Directo, Medical Device Network, PMLiVE, TechCrunch, Vision Monday. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
+   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Diario Información, El Global, El Mundo, Marketing Directo, Medical Device Network. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
    "transcript": [
     {
      "speaker": "Lucía",
-     "text": "¡Muy buenos días! Bienvenidos a un nuevo episodio del podcast La Mañana, hoy lunes veintitrés de noviembre de dos mil veintiséis. Les saludamos Lucía y servidor, Álex. ¿Qué tal estás hoy, Álex?"
+     "text": "Buenos días, hoy es lunes 23 de noviembre de 2026."
     },
     {
      "speaker": "Álex",
-     "text": "¡Hola, Lucía! Muy contento de estar un día más con todos nuestros oyentes. Hoy traemos una selección de noticias muy completa: hablaremos de óptica, sector farmacéutico, dispositivos médicos, publicidad y la última hora sobre inteligencia artificial."
+     "text": "Empezamos en Alicante, donde el diario Información señala que los ópticos de la provincia se han ofrecido para colaborar con los hospitales públicos y ayudar a aliviar las listas de espera en las consultas de Oftalmología."
     },
     {
      "speaker": "Lucía",
-     "text": "Empezamos con el área de óptica y optometría. Según publica el medio El Dia punto com punto do, la miopía infantil representa una amenaza constante para la salud visual a largo plazo si no se vigila adecuadamente."
+     "text": "En el sector farmacéutico, según publica El Global, la Agencia Española de Medicamentos y Productos Sanitarios ha elaborado doscientos setenta y seis Informes de Posicionamiento Terapéutico desde que Mónica García fue nombrada ministra de Sanidad el veinte de noviembre de dos mil veintitrés."
     },
     {
      "speaker": "Álex",
-     "text": "Sobre este problema, leemos en Vision Monday que el SUNY College of Optometry tuvo un papel clave en la investigación clínica de las lentes Stellest de Essilor. Estas lentes recibieron la autorización de la FDA estadounidense en septiembre de dos mil veinticinco."
+     "text": "El medio repasa los documentos de este periodo, destacando varios tratamientos oncológicos evaluados como Blincyto para leucemia linfloblástica aguda pediátrica, Brukinsa con tres informes diferentes, Tibsovo para leucemia mieloide aguda y Vanflyta para adultos con esta misma patología."
     },
     {
      "speaker": "Lucía",
-     "text": "Es un avance relevante para el control de la miopía. Además, en el ámbito local, el medio Diario Información señala que los ópticos se han ofrecido voluntariamente para ayudar a reducir las listas de espera de Oftalmología en los hospitales alicantinos."
+     "text": "Pasamos a la tecnología médica. El Instituto Nacional de Investigación de Salud del Reino Unido ha aportado diez millones de libras, unos trece millones de dólares, al ensayo EDITH. Según informa Medical Device Network, medio que también cita pharmaphorum, es el mayor estudio global sobre cribado de cáncer de mama asistido por inteligencia artificial."
     },
     {
      "speaker": "Álex",
-     "text": "Una buena iniciativa. Pasamos ahora al sector de la industria y el marketing farmacéutico. Según informa El Global, la AEMPS ha elaborado doscientos setenta y seis Informes de Posicionamiento Terapéutico desde que Mónica García asumió el Ministerio de Sanidad en noviembre de dos mil veintitrés."
+     "text": "La investigación incluirá a casi setecientas mil mujeres en treinta centros británicos bajo la dirección de la Universidad de Warwick, la Universidad de Cambridge y su consorcio hospitalario. El estudio evaluará si la tecnología permite diagnosticar antes, detectar signos imperceptibles a la vista o al tacto y reducir el tiempo de revisión de las imágenes radiológicas."
     },
     {
      "speaker": "Lucía",
-     "text": "En el contexto europeo, el mismo medio, El Global, destaca que la patronal EFPIA propone un reembolso provisional para fármacos innovadores. Plantean que se puedan comercializar desde su autorización, con un precio inicial fijado por las compañías mientras se negocia la financiación pública."
+     "text": "Si el ensayo ofrece resultados positivos, se prevé introducir la inteligencia artificial en el sistema público británico para que un solo especialista revise las imágenes en lugar de dos. Según la secretaria de Salud, Yvette Cooper, esto liberaría a cientos de radiólogos y recortaría los tiempos de diagnóstico en una patología que afecta a cincuenta y cinco mil mujeres al año en el país."
     },
     {
      "speaker": "Álex",
-     "text": "Por otro lado, la publicación PMLiVE informa sobre la entrega de los Premios PMEA dos mil veintiséis en el hotel Sheraton Park Lane de Londres, galardonando la excelencia en el marketing farmacéutico a través de diecisiete categorías."
+     "text": "También en dispositivos médicos, GE HealthCare ha presentado dos herramientas de inteligencia artificial para su plataforma Imaging 360, según recoge Medical Device Network."
     },
     {
      "speaker": "Lucía",
-     "text": "En el sector de los dispositivos médicos, Medical Device Network revela que el NIHR del Reino Unido respalda el mayor ensayo clínico global de cribado de cáncer de mama mediante inteligencia artificial, el estudio EDITH, para implantarlo en el NHS."
+     "text": "Se trata de un asistente para resolver dudas de forma operativa y un sistema de protocolizado asistido. Según datos internos de la propia compañía, los radiólogos dedican una media de una hora y veinte minutos al día a decisiones de protocolo, por lo que estas funciones buscan optimizar las operaciones sin modificar los datos de origen."
     },
     {
      "speaker": "Álex",
-     "text": "En el mismo portal, Medical Device Network, vemos que GE HealthCare ha presentado nuevas herramientas de inteligencia artificial para agilizar el trabajo en radiología y resolver dudas sobre protocolos en los pedidos de imagen."
+     "text": "En información sobre inteligencia artificial, la revista Marketing Directo informa de un avance comunicado por la empresa Anthropic. Su investigador Levent Alpoge afirma haber completado la demostración de la hipótesis de Riemann, un enigma matemático planteado en mil ochocientos cincuenta y nueve, utilizando el modelo Claude."
     },
     {
      "speaker": "Lucía",
-     "text": "Y la revista Demócrata destaca que la federación Fenin ha lanzado la marca MedTech de España con el objetivo de potenciar la proyección internacional de toda la tecnología sanitaria española."
+     "text": "Alpoge publicó una nota de cuatro páginas con un enlace a un código en lenguaje Lean para verificar el resultado automáticamente. Matemáticos como James Maynard, de la Universidad de Oxford, otorgan entre un noventa y ocho y un noventa y nueve por ciento de posibilidades de que sea correcto, aunque la demostración aún está siendo examinada por la comunidad científica."
     },
     {
      "speaker": "Álex",
-     "text": "Entrando en el área de marketing y publicidad, leemos en IPMARK que Casa Burgos en Madrid acogió la quinta edición del Best!N Travel Marketing Summit, donde líderes turísticos debatieron sobre datos, agentes de inteligencia artificial y trato humano."
+     "text": "Cerramos con la noticia más relevante del día en la industria tecnológica. El diario El Mundo, junto a medios como El País, Financial Times o The Verge, confirma que el consejo de administración de Nvidia ha restituido a Jensen Huang como presidente y consejero delegado."
     },
     {
      "speaker": "Lucía",
-     "text": "Por su parte, Marketing Directo destaca una afirmación sorprendente: Anthropic asegura que su modelo Claude podría haber resuelto un enigma matemático sin respuesta desde mil ochocientos cincuenta y nueve. La comunidad científica se encuentra estudiando dicha demostración."
+     "text": "El reingreso se produce solo once días después de forzarse su dimisión por escándalos de espionaje y personales. Tras el anuncio, las acciones de la compañía han subido un treinta y cinco por ciento en media hora, sumando más de ochocientos mil millones de dólares a su valoración bursátil."
     },
     {
      "speaker": "Álex",
-     "text": "Habrá que seguir de cerca las verificaciones. Asimismo, IPMARK revela que cuatro de cada diez profesionales de marketing aguardan un aumento sueldos en dos mil veintisiete, y un setenta por ciento busca empleo el año próximo, destacando perfiles como CRM manager o community manager."
+     "text": "El consejo ha votado por unanimidad su regreso tras recibir confirmación de altos funcionarios de Estados Unidos de que la restitución no supone un riesgo para la seguridad nacional. El presidente del consejo, Harvey C. Jones, ha firmado el comunicado oficial comunicando la decisión."
     },
     {
      "speaker": "Lucía",
-     "text": "Cerramos el episodio de hoy con la inteligencia artificial. En El Mundo y TechCrunch informan que Nvidia ha restituido a Jensen Huang como presidente y consejero delegado, afirmando que no supone ningún riesgo para la seguridad nacional."
+     "text": "El propio presidente Donald Trump ha admitido en la cadena CNBC que intervino ante la junta tras reunirse con Huang para dar garantías sobre su vinculación con Pekín. La vuelta del directivo se produce tras presiones de empleados, clientes y proveedores, elevando la valoración global de Nvidia de tres a cuatro billones de dólares."
     },
     {
      "speaker": "Álex",
-     "text": "TechCrunch añade que esta restitución contó con el respaldo de altos cargos estadounidenses. Huang afirmó asumir la responsabilidad con humildad el mismo día en que The New York Times revelaba supuestas conexiones de su amante con el espionaje chino."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Y para finalizar este bloque, TechCrunch y Reuters recogen unas reflexiones del científico jefe de OpenAI, quien señala que para limitar el desarrollo de la inteligencia artificial es imprescindible acordar primero cómo medir su velocidad."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Un debate indispensable en los tiempos que corren. Con esta noticia terminamos el repaso de hoy en La Mañana. Muchas gracias a todos por escucharnos."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "¡Que tengan un feliz día y hasta mañana!"
+     "text": "Así termina la información en el podcast La Mañana de hoy."
     }
    ]
   }
