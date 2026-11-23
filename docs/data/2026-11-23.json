@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T14:36:31.335712+00:00",
+ "generated_at": "2026-11-23T14:56:21.852994+00:00",
  "stats": {
-  "fetched": 1767,
-  "fresh": 669,
-  "stories": 631,
-  "selected": 93
+  "fetched": 1754,
+  "fresh": 657,
+  "stories": 620,
+  "selected": 88
  },
  "brief": null,
  "ai_model": null,
@@ -17,19 +17,19 @@
    "items": [
     "9c18fd8d23",
     "2be98cfc04",
-    "90f831b4fd",
     "b205246cdc",
+    "0b7525d017",
     "dc42a73f7e",
+    "58c2527b36",
     "e10a54d444",
-    "e252349a0c",
+    "8558835d9e",
+    "9edcdf98db",
     "02ea7b5321",
-    "e4b12870dd",
     "aefe2fb3f5",
+    "43393413fe",
     "ab33412673",
     "ea9fa1507b",
-    "0b7525d017",
-    "9b513f1c62",
-    "8da34bf647"
+    "9b513f1c62"
    ]
   },
   {
@@ -40,18 +40,18 @@
     "9c18fd8d23",
     "dc42a73f7e",
     "716c53fa8f",
-    "90f831b4fd",
+    "58c2527b36",
     "9edcdf98db",
     "8fa6f24d75",
+    "8558835d9e",
+    "bc5a53032c",
     "ab33412673",
+    "90f831b4fd",
     "743c66de3d",
     "2f9c65df28",
     "378e2b2dc1",
     "9c079ad7f6",
-    "ae3d76503a",
-    "8558835d9e",
-    "a2c7afe9f7",
-    "58b56f8a05"
+    "a2c7afe9f7"
    ]
   },
   {
@@ -59,6 +59,7 @@
    "name": "Tecnología y big tech",
    "short": "Tech",
    "items": [
+    "bc5a53032c",
     "4704f794ba",
     "7eccd90ac9",
     "378e2b2dc1",
@@ -69,8 +70,7 @@
     "106e5d1cff",
     "a457bdd4df",
     "2d515091a1",
-    "6793275c5f",
-    "a850cc8c4a"
+    "6793275c5f"
    ]
   },
   {
@@ -79,17 +79,17 @@
    "short": "Negocios",
    "items": [
     "9c18fd8d23",
-    "90f831b4fd",
     "02ea7b5321",
+    "4bfc072ba7",
+    "90f831b4fd",
+    "bc5a53032c",
     "17b2c2dee1",
     "1b24c54950",
     "130257fb00",
     "133404e6a4",
+    "b5f425ec8b",
     "a5e2ab9f7c",
-    "1ddff4a50d",
-    "04504f1c47",
-    "e156fbaaf0",
-    "c62899d1df"
+    "1ddff4a50d"
    ]
   },
   {
@@ -97,6 +97,7 @@
    "name": "Economía y mercados",
    "short": "Economía",
    "items": [
+    "bc5a53032c",
     "a2c7afe9f7",
     "63706cb843",
     "1e82ded39f",
@@ -105,8 +106,7 @@
     "852c829d5d",
     "fb0c832b2c",
     "d178ea74b0",
-    "752fa60dfe",
-    "17e5a91048"
+    "752fa60dfe"
    ]
   },
   {
@@ -116,14 +116,14 @@
    "items": [
     "e10a54d444",
     "ea9fa1507b",
+    "0b7525d017",
     "1c35030178",
     "4100869d1c",
     "e25be61dcd",
     "7e6255878c",
     "ed24ecec5c",
     "70f9818cda",
-    "8bdbb6d9cf",
-    "06aa0ea8a3"
+    "8bdbb6d9cf"
    ]
   },
   {
@@ -137,7 +137,7 @@
     "ffa17286a8",
     "d385192900",
     "f8cc59acbc",
-    "79741eb240",
+    "1c93d024fa",
     "0ce227d243",
     "0f37f7e9e6",
     "ac8b6d1aab"
@@ -152,7 +152,7 @@
     "dc42a73f7e",
     "6f5322db93",
     "02ea7b5321",
-    "e4b12870dd",
+    "43393413fe",
     "74b514dbc9",
     "26cb8d2aa5",
     "6cce577396",
@@ -167,14 +167,14 @@
    "items": [
     "aefe2fb3f5",
     "8da34bf647",
-    "e4b12870dd",
+    "43393413fe",
+    "8558835d9e",
     "e252349a0c",
+    "988fb944df",
     "8fa6f24d75",
     "f4c1a1d8e2",
     "71eae63a3e",
-    "d3561ea80e",
-    "2b1342e4e5",
-    "8558835d9e"
+    "d3561ea80e"
    ]
   },
   {
@@ -182,16 +182,16 @@
    "name": "Medical devices",
    "short": "MedTech",
    "items": [
+    "58c2527b36",
     "9b513f1c62",
-    "cc575ddf96",
-    "4209adc729",
+    "19d402410a",
     "9a6a5c9356",
+    "167adc3c0c",
     "9275de2b49",
     "68c3085284",
     "3588888e17",
     "de138162ba",
-    "38075cbb90",
-    "76aaff30a7"
+    "38075cbb90"
    ]
   },
   {
@@ -202,13 +202,13 @@
     "2be98cfc04",
     "b205246cdc",
     "e252349a0c",
-    "4f2f1c6ba5",
     "9d49e3a097",
     "f944bb368b",
+    "006b384510",
     "f1b33dc12f",
+    "8558835d9e",
     "15c9134c35",
-    "790c1aab79",
-    "8bdbb6d9cf"
+    "790c1aab79"
    ]
   }
  ],
@@ -218,7 +218,7 @@
    "url": "https://www.elmundo.es/economia/empresas/2026/11/23/6b044cf5e4d4d8137c8b4591.html",
    "source": "El Mundo",
    "source_id": "elmundo",
-   "published": "2026-11-23T14:33:14+00:00",
+   "published": "2026-11-23T14:37:11+00:00",
    "summary": "\"Asumo esta responsabilidad con la mayor humildad y un compromiso renovado\" dice el empresario el mismo día en el que The New York Times revela las conexiones de su amante con el espionaje chino Leer",
    "ai_summary": null,
    "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439589049.jpg",
@@ -226,13 +226,19 @@
     "ia",
     "negocios"
    ],
-   "score": 19.57,
+   "score": 27.357,
    "also": [
     {
      "source_id": "elpais",
      "source": "El País",
      "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
      "title": "Nvidia recupera a Jensen Huang como consejero delegado"
+    },
+    {
+     "source_id": "theverge",
+     "source": "The Verge",
+     "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+     "title": "Jensen Huang is back as Nvidia’s CEO"
     },
     {
      "source_id": "elconfidencial",
@@ -245,6 +251,12 @@
      "source": "Financial Times",
      "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
      "title": "Nvidia reinstates Jensen Huang as chief executive"
+    },
+    {
+     "source_id": "reasonwhy",
+     "source": "Reason Why",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEtSQjg5NUFBSl9kNFRUYm1aVGg5V3VmSXpsaXpHdmdCTlFzdk1MazR4UG4zS19ka2g4WXp5MFdmRzhKVXl1cWpnSzVSaTlhMjBZMDBFUmJUQTdqSXRuLVVHZnFYLU9GbFFvUUNlSjdoaE82b3BuelZ2dV93S0hSc3ViLVV1UDQ1?oc=5",
+     "title": "Jensen Huang vuelve a Nvidia como CEO y Presidente"
     }
    ]
   },
@@ -260,37 +272,8 @@
    "topics": [
     "salud"
    ],
-   "score": 12.087,
+   "score": 11.981,
    "also": []
-  },
-  "90f831b4fd": {
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T14:21:59+00:00",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "negocios"
-   ],
-   "score": 11.912,
-   "also": [
-    {
-     "source_id": "eleconomista",
-     "source": "elEconomista",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
-     "title": "Nvidia recupera a Jensen Huang como CEO de forma inmediata"
-    },
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-     "title": "Nvidia reinstates Jensen Huang as CEO"
-    }
-   ]
   },
   "b205246cdc": {
    "title": "Los pacientes trasplantados tienen hasta cuatro veces más riesgo de desarrollar cáncer",
@@ -304,8 +287,36 @@
    "topics": [
     "salud"
    ],
-   "score": 11.811,
+   "score": 11.711,
    "also": []
+  },
+  "0b7525d017": {
+   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T14:33:00+00:00",
+   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 11.476,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
+    },
+    {
+     "source_id": "eleconomista",
+     "source": "elEconomista",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNllncGRsNzB1ZTdmdHpzekQyVzVFRDhWNHBlZk5FWGtkVkhzcEFnUk4zVHRhV1FGV3lvSHVyYUlGOFA5dm1XQWlkOHpVLWJMNWQ0bzVRNldXT09Mc1A0QjRhdmpFbXRZdHdLSkpHWkE5RlhUa3VaU1dJRUp2bk41S1RvRWIyWFE5MlZmOXdxS0R6WWc3RWJ2aVlseWNVYzFrX2lsdnNxTHNuTWQ2NFRTa3BaRWJFVFI2MVRxXzkzUFowRXVrVE95N0haYk92aWFJc0liSjczQlh0bDNDU01JN1puMFRQOWh1RkFYQ3VHSTdjREtONTEyM3FYcWRfNXlFb0RkTGlRRzdoSFFOSFppUmxmY0w3YmxNbTBGdU9NSjd2U2kyTWhXM1ZZa01mTW5oOGZzTk45RURBQdIBpAJBVV95cUxONnpVdVQ0bUx6T0FhNGdpWWRfNmZHUUZkdThJaWI1cTZOd3JrWXp4RnlpODVzOGNYUEREdENVWGVJX1lCeXNiYlNZWUltV0o2TUpLZ243aDhXdnl4M09Kblh2dU9nS0JNT2RfNzQtTkplM0Izb1l1WjB0Y2hPRENkS2VVdWx0aE9CMzY1Smk2NmJ0VXBkQVp5UGlQbGNuMTV5djhpaXdUWWpIb29zSndaVmJWbkZhbFNwSjVfVXJOY3RQVFh6Rm1DMkMyRGxaMmEzYkVVYkZpZUZnSVlKbGM2M2tLazVuVk5jSGpaMzNDM3d1SURWOHVNYkw3UURkZm5wdU1zeDNTQTdYQjBTeFpXMFYxbnU5cFFMZjNkSGRYZjM5ZjFa?oc=5",
+     "title": "Felipe González responde a José Bono después de que este dijera que no hiciera \"el tonto\" con su voto: \"Yo soy una persona seria, no como otros\""
+    }
+   ]
   },
   "dc42a73f7e": {
    "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
@@ -320,8 +331,32 @@
     "ia",
     "marketing"
    ],
-   "score": 11.472,
+   "score": 11.379,
    "also": []
+  },
+  "58c2527b36": {
+   "title": "GE HealthCare introduces new AI tools to streamline radiology workflows",
+   "url": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-new-ai-tools-to-streamline-radiology-workflows/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-23T10:59:51+00:00",
+   "summary": "GE HealthCare's new AI tools are intended to streamline imaging teams’ ability to find answers to protocol-related questions for individual imaging orders. The post GE HealthCare introduces new AI tools to streamline radiology workflows appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "ia",
+    "salud"
+   ],
+   "score": 10.955,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3lQR2h6ZVduRlI5OUpicmhlY2EwUmxUU0NfZ0xNQjl1dmpUVENYdm5WZzQwMThaaGUxWmRiNkJndGVhd1ZWSGhVMkRxbUVVX1haa2RMNWpvX0tzWVlMU1A1WXA0cDBxdlJ2YTlYMXhYWXRoQnFsV1VCQ19wYU9RaHJVWnk4SDBKU1ptLUdvTk53ak5pUXlzTWkwV3ZzbzhVbmRfWk5CT21mOTg2NGtPRUJuaF9YZw?oc=5",
+     "title": "GE HealthCare introduces new AI tools to streamline radiology workflows"
+    }
+   ]
   },
   "e10a54d444": {
    "title": "El 'último' servicio de Tezanos: el CIS asegura que el PSOE arrasará y Sánchez gobernará y el PP se burla y anuncia que será \"uno de los primeros\" en echar",
@@ -335,8 +370,32 @@
    "topics": [
     "espana"
    ],
-   "score": 10.967,
+   "score": 10.873,
    "also": []
+  },
+  "8558835d9e": {
+   "title": "UK launches world's largest trial of AI in breast cancer",
+   "url": "https://pharmaphorum.com/news/uk-launches-worlds-largest-trial-ai-breast-cancer",
+   "source": "pharmaphorum",
+   "source_id": "pharmaphorum",
+   "published": "2026-11-23T12:26:30+00:00",
+   "summary": "Phil.Taylor Mon, 23/11/2026 - 12:26 Phil.Taylor Mon, 23/11/2026 - 12:26",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud",
+    "ia",
+    "pharma"
+   ],
+   "score": 10.872,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3VRaDhmbHRUZ21rQklBNmR0UWlONUR5ZmRoWUJfT1hObENBUjBJTmdJNWxJRlVod3owVEdPTkgtRUZkUWlnbTcxdlhpN0hHU01qeUI2dFFpOGJjVi1lZFpmekpwMlBhV2l4cnkzbjJkNWZsc2MtTGh3TFB2M1BEeDdMLUp5OVlYS2ZLS19FV2dscF9EOVdzQQ?oc=5",
+     "title": "UK’s NIHR backs largest global AI breast cancer screening trial"
+    }
+   ]
   },
   "e252349a0c": {
    "title": "Aragón impulsa la participación de pacientes en las decisiones de investigación del cáncer",
@@ -351,7 +410,7 @@
     "salud",
     "pharma"
    ],
-   "score": 10.927,
+   "score": 10.832,
    "also": []
   },
   "9edcdf98db": {
@@ -366,7 +425,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.985,
+   "score": 9.894,
    "also": [
     {
      "source_id": "reuters",
@@ -389,36 +448,13 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.66,
+   "score": 9.58,
    "also": [
     {
      "source_id": "marketingdirecto",
      "source": "Marketing Directo",
      "url": "https://www.marketingdirecto.com/marketing-general/gente/javier-matallana-nuevo-ceo-webedia-espana",
      "title": "Javier Matallana, nuevo CEO de Webedia España"
-    }
-   ]
-  },
-  "e4b12870dd": {
-   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOME5zWmhJYjVoX3NWUTdjSlhoWXRDZHdiM1REYy1QTWFwZ25aclNOOU05aWUxdGxWcjdxdXRYNDBoUUIzbTRhZnN5WUR2bENaaDBRYjN1OWtENFFEMlJfZUJRaWYzbkI2bkwxNTNFRTVvSGQzb1dMbE45UFJTTm5VWXJLUDRTd0JhcEF5TnlR?oc=5",
-   "source": "PMLiVE",
-   "source_id": "pmlive",
-   "published": "2026-11-23T13:33:28+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "marketing"
-   ],
-   "score": 9.474,
-   "also": [
-    {
-     "source_id": "mmm",
-     "source": "MM+M",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
-     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
     }
    ]
   },
@@ -435,8 +471,31 @@
     "pharma",
     "salud"
    ],
-   "score": 9.35,
+   "score": 9.28,
    "also": []
+  },
+  "43393413fe": {
+   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
+   "url": "https://pmlive.com/pmea-2026-a-celebration-of-excellence-in-pharmaceutical-marketing/",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-23T12:26:40+00:00",
+   "summary": "This year’s Awards, held at the Sheraton Park Lane London, included 17 categories",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "marketing"
+   ],
+   "score": 9.119,
+   "also": [
+    {
+     "source_id": "mmm",
+     "source": "MM+M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
+     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
+    }
+   ]
   },
   "716c53fa8f": {
    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -450,7 +509,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.01,
+   "score": 8.965,
    "also": [
     {
      "source_id": "reuters",
@@ -459,21 +518,6 @@
      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric"
     }
    ]
-  },
-  "4f2f1c6ba5": {
-   "title": "Nuevos tratamientos evitan extirpar la próstata en muchos casos de cáncer",
-   "url": "https://www.consalud.es/pacientes/nuevos-tratamientos-evitan-extirpar-la-prostata-en-muchos-casos-de-cancer.html",
-   "source": "ConSalud",
-   "source_id": "consalud",
-   "published": "2026-11-23T09:59:07+00:00",
-   "summary": "pacientes: Nuevos tratamientos evitan extirpar la próstata en muchos casos de cáncer",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "salud"
-   ],
-   "score": 8.779,
-   "also": []
   },
   "9d49e3a097": {
    "title": "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter",
@@ -487,7 +531,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.765,
+   "score": 8.696,
    "also": []
   },
   "f944bb368b": {
@@ -502,7 +546,22 @@
    "topics": [
     "salud"
    ],
-   "score": 8.605,
+   "score": 8.53,
+   "also": []
+  },
+  "006b384510": {
+   "title": "Un patrón genético del envejecimiento inmunológico permite entender la eficacia de nuestro cuerpo para combatir el cáncer",
+   "url": "https://www.consalud.es/pacientes/pacientes-avances/un-patron-genetico-del-envejecimiento-inmunologico-permite-entender-la-eficacia-de-nuestro-cuerpo-para-combatir-el-cancer.html",
+   "source": "ConSalud",
+   "source_id": "consalud",
+   "published": "2026-11-23T12:19:49+00:00",
+   "summary": "avances: Un patrón genético del envejecimiento inmunológico permite entender la eficacia de nuestro cuerpo para combatir el cáncer",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud"
+   ],
+   "score": 8.393,
    "also": []
   },
   "f1b33dc12f": {
@@ -517,7 +576,48 @@
    "topics": [
     "salud"
    ],
-   "score": 8.424,
+   "score": 8.353,
+   "also": []
+  },
+  "90f831b4fd": {
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T14:21:59+00:00",
+   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 8.261,
+   "also": [
+    {
+     "source_id": "eleconomista",
+     "source": "elEconomista",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
+     "title": "Nvidia recupera a Jensen Huang como CEO de forma inmediata"
+    }
+   ]
+  },
+  "bc5a53032c": {
+   "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan los mercados disparando el Nasdaq más de un 7%",
+   "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/23/6b044c51e9cf4a657b8b458e.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-23T14:50:01+00:00",
+   "summary": "Las acciones de Nvidia suben en torno a un 30% después de que la compañía anunciara el regreso de su CEO Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439590899.jpg",
+   "topics": [
+    "ia",
+    "tech",
+    "economia",
+    "negocios"
+   ],
+   "score": 8.176,
    "also": []
   },
   "ab33412673": {
@@ -533,7 +633,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.972,
+   "score": 7.904,
    "also": []
   },
   "8fa6f24d75": {
@@ -550,7 +650,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.933,
+   "score": 7.879,
    "also": []
   },
   "15c9134c35": {
@@ -565,7 +665,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.773,
+   "score": 7.713,
    "also": []
   },
   "ea9fa1507b": {
@@ -580,30 +680,8 @@
    "topics": [
     "espana"
    ],
-   "score": 7.656,
+   "score": 7.593,
    "also": []
-  },
-  "0b7525d017": {
-   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
-   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-23T14:33:00+00:00",
-   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 7.588,
-   "also": [
-    {
-     "source_id": "elpais",
-     "source": "El País",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
-     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
-    }
-   ]
   },
   "1c35030178": {
    "title": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
@@ -617,7 +695,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.491,
+   "score": 7.424,
    "also": []
   },
   "8bdbb6d9cf": {
@@ -633,7 +711,7 @@
     "salud",
     "espana"
    ],
-   "score": 7.489,
+   "score": 7.424,
    "also": []
   },
   "9b513f1c62": {
@@ -649,47 +727,8 @@
     "medtech",
     "salud"
    ],
-   "score": 7.316,
+   "score": 7.255,
    "also": []
-  },
-  "8558835d9e": {
-   "title": "UK launches world's largest trial of AI in breast cancer",
-   "url": "https://pharmaphorum.com/news/uk-launches-worlds-largest-trial-ai-breast-cancer",
-   "source": "pharmaphorum",
-   "source_id": "pharmaphorum",
-   "published": "2026-11-23T12:26:30+00:00",
-   "summary": "Phil.Taylor Mon, 23/11/2026 - 12:26 Phil.Taylor Mon, 23/11/2026 - 12:26",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "salud",
-    "ia",
-    "pharma"
-   ],
-   "score": 7.193,
-   "also": []
-  },
-  "58b56f8a05": {
-   "title": "South Korean minister says he is too old to tackle AI exam cheating",
-   "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-23T07:10:04+00:00",
-   "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 7.061,
-   "also": [
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI?oc=5",
-     "title": "South Korea's education minister quits over exam cheating chaos"
-    }
-   ]
   },
   "8da34bf647": {
    "title": "La EFPIA propone un reembolso provisional a los fármacos innovadores para ganar agilidad",
@@ -703,7 +742,23 @@
    "topics": [
     "pharma"
    ],
-   "score": 7.06,
+   "score": 7.005,
+   "also": []
+  },
+  "4bfc072ba7": {
+   "title": "Visto bueno de la CNMC a la adquisición de Genesis Care por parte de Vithas",
+   "url": "https://www.diariomedico.com/medicina/empresas/visto-bueno-cnmc-adquisicion-genesis-care-parte-vithas.html",
+   "source": "Diario Médico",
+   "source_id": "diariomedico",
+   "published": "2026-11-23T12:03:08+00:00",
+   "summary": "Empresas cristinareal Sanidad privada La Comisión Nacional de los Mercados y la Competencia (CNMC) ha autorizado sin reservas la adquisición de GenesisCare España (GCE) por parte de Vithas fruto del acuerdo alcanzado entre ambas compañías el pasado mes de julio. La operación refuerza el liderazgo y la implantación territorial de Vithas y su de Instituto Oncológico (IOV) a nivel nacional con la incorporación de 16…",
+   "ai_summary": null,
+   "image": "https://statics-diariomedico.uecdn.es/cms/2026-11/fachada_vithas_sevilla.jpg",
+   "topics": [
+    "negocios",
+    "salud"
+   ],
+   "score": 6.805,
    "also": []
   },
   "6f5322db93": {
@@ -718,7 +773,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.691,
+   "score": 6.633,
    "also": []
   },
   "743c66de3d": {
@@ -734,7 +789,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.675,
+   "score": 6.617,
    "also": []
   },
   "5320043ce8": {
@@ -750,7 +805,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.609,
+   "score": 6.555,
    "also": []
   },
   "790c1aab79": {
@@ -765,7 +820,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.527,
+   "score": 6.499,
    "also": []
   },
   "ed24ecec5c": {
@@ -780,7 +835,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.44,
+   "score": 6.385,
    "also": []
   },
   "e44a11c1f6": {
@@ -795,7 +850,22 @@
    "topics": [
     "optica"
    ],
-   "score": 6.356,
+   "score": 6.313,
+   "also": []
+  },
+  "2f9c65df28": {
+   "title": "Luciano Floridi, filósofo: “La teoría del apocalipsis de la IA es la suma de desinformación, propaganda, intereses y codicia”",
+   "url": "https://elpais.com/tecnologia/2026-11-23/luciano-floridi-filosofo-la-teoria-del-apocalipsis-de-la-ia-es-la-suma-de-desinformacion-propaganda-intereses-y-codicia.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:30:01+00:00",
+   "summary": "El experto, uno de los más reconocidos del mundo en tecnologías de la información, defiende el “asombroso” cambio que supone la IA pero reclama que no se la llame “inteligencia”",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/BNXCA77EZVE5JMW4BZPPJV3ZOI.jpg?auth=5cc525d704883eda8bcb9163276188119c867a6922080574f8a61246aedf4f37",
+   "topics": [
+    "ia"
+   ],
+   "score": 6.24,
    "also": []
   },
   "ffa17286a8": {
@@ -812,22 +882,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.288,
-   "also": []
-  },
-  "2f9c65df28": {
-   "title": "Luciano Floridi, filósofo: “La teoría del apocalipsis de la IA es la suma de desinformación, propaganda, intereses y codicia”",
-   "url": "https://elpais.com/tecnologia/2026-11-23/luciano-floridi-filosofo-la-teoria-del-apocalipsis-de-la-ia-es-la-suma-de-desinformacion-propaganda-intereses-y-codicia.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-23T04:30:01+00:00",
-   "summary": "El experto, uno de los más reconocidos del mundo en tecnologías de la información, defiende el “asombroso” cambio que supone la IA pero reclama que no se la llame “inteligencia”",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/BNXCA77EZVE5JMW4BZPPJV3ZOI.jpg?auth=5cc525d704883eda8bcb9163276188119c867a6922080574f8a61246aedf4f37",
-   "topics": [
-    "ia"
-   ],
-   "score": 6.281,
+   "score": 6.236,
    "also": []
   },
   "378e2b2dc1": {
@@ -843,7 +898,22 @@
     "ia",
     "tech"
    ],
-   "score": 6.196,
+   "score": 6.146,
+   "also": []
+  },
+  "988fb944df": {
+   "title": "Padilla plantea aprovechar el Acuerdo de Pandemias para vincular la I+D pública al acceso a medicamentos",
+   "url": "https://elglobalfarma.com/politica/padilla-financiacion-publica-innovacion-biomedica-acceso-medicamentos/",
+   "source": "El Global",
+   "source_id": "elglobal",
+   "published": "2026-11-23T14:55:50+00:00",
+   "summary": "El secretario de Estado de Sanidad defiende incorporar condiciones de acceso en la financiación pública de la investigación biomédica y avanzar hacia medidas concretas que garanticen el retorno social de la inversión The post Padilla plantea aprovechar el Acuerdo de Pandemias para vincular la I+D pública al acceso a medicamentos appeared first on El Globalfarma .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 5.999,
    "also": []
   },
   "17b2c2dee1": {
@@ -860,7 +930,7 @@
     "tech",
     "negocios"
    ],
-   "score": 6.039,
+   "score": 5.986,
    "also": []
   },
   "70f9818cda": {
@@ -875,7 +945,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.996,
+   "score": 5.948,
    "also": []
   },
   "1b24c54950": {
@@ -892,7 +962,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.978,
+   "score": 5.926,
    "also": []
   },
   "4100869d1c": {
@@ -909,7 +979,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.852,
+   "score": 5.828,
    "also": []
   },
   "e25be61dcd": {
@@ -924,7 +994,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.83,
+   "score": 5.8,
    "also": []
   },
   "9c079ad7f6": {
@@ -939,23 +1009,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.769,
-   "also": []
-  },
-  "ae3d76503a": {
-   "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
-   "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
-   "source": "STAT",
-   "source_id": "statnews",
-   "published": "2026-11-23T09:30:00+00:00",
-   "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler.",
-   "ai_summary": null,
-   "image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_2166010459-1024x576.jpeg",
-   "topics": [
-    "ia",
-    "salud"
-   ],
-   "score": 5.697,
+   "score": 5.719,
    "also": []
   },
   "a2c7afe9f7": {
@@ -972,24 +1026,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.682,
-   "also": []
-  },
-  "cc575ddf96": {
-   "title": "GE HealthCare introduces new AI tools to streamline radiology workflows",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3lQR2h6ZVduRlI5OUpicmhlY2EwUmxUU0NfZ0xNQjl1dmpUVENYdm5WZzQwMThaaGUxWmRiNkJndGVhd1ZWSGhVMkRxbUVVX1haa2RMNWpvX0tzWVlMU1A1WXA0cDBxdlJ2YTlYMXhYWXRoQnFsV1VCQ19wYU9RaHJVWnk4SDBKU1ptLUdvTk53ak5pUXlzTWkwV3ZzbzhVbmRfWk5CT21mOTg2NGtPRUJuaF9YZw?oc=5",
-   "source": "Medical Device Network",
-   "source_id": "medtech_search",
-   "published": "2026-11-23T11:03:16+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "ia",
-    "salud"
-   ],
-   "score": 5.633,
+   "score": 5.653,
    "also": []
   },
   "14f0fff5d7": {
@@ -1004,7 +1041,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.587,
+   "score": 5.549,
    "also": []
   },
   "133404e6a4": {
@@ -1021,7 +1058,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.541,
+   "score": 5.494,
    "also": []
   },
   "74b514dbc9": {
@@ -1037,7 +1074,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.467,
+   "score": 5.429,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1053,7 +1090,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.379,
+   "score": 5.337,
    "also": []
   },
   "4704f794ba": {
@@ -1070,7 +1107,24 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.324,
+   "score": 5.283,
+   "also": []
+  },
+  "b5f425ec8b": {
+   "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+   "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
+   "source": "STAT",
+   "source_id": "statnews",
+   "published": "2026-11-23T14:38:08+00:00",
+   "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
+   "ai_summary": null,
+   "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+   "topics": [
+    "pharma",
+    "negocios",
+    "salud"
+   ],
+   "score": 5.28,
    "also": []
   },
   "7eccd90ac9": {
@@ -1086,7 +1140,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.322,
+   "score": 5.275,
    "also": []
   },
   "6cce577396": {
@@ -1101,7 +1155,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.316,
+   "score": 5.274,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1116,7 +1170,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.274,
+   "score": 5.233,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1131,7 +1185,23 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.156,
+   "score": 5.117,
+   "also": []
+  },
+  "19d402410a": {
+   "title": "Pattern Bioscience Submits 510(k) Application to FDA for Pneumonia ID/AST Panel",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemt2eGllWllqUmlEcHRCMW9OM08weGhSbDRYT1dLSHFPTnc0Y3BtQmM1c0dVU215ckQ3dDJSVmtYck8tdFdSOGh6bUhxZ3FEcG9GMktEMTh0RWZnckhIeHhSLUhhVFRvRXJseHNRSmhRTmRqTl8yaWRSanU2cjZwQzNHOEJDSzRiemNsSUlFSmZibjJNLVBsTw?oc=5",
+   "source": "Yahoo Finance",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T14:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma"
+   ],
+   "score": 5.043,
    "also": []
   },
   "a457bdd4df": {
@@ -1148,7 +1218,7 @@
     "tech",
     "espana"
    ],
-   "score": 5.064,
+   "score": 5.031,
    "also": []
   },
   "7e6255878c": {
@@ -1163,23 +1233,22 @@
    "topics": [
     "espana"
    ],
-   "score": 5.025,
+   "score": 4.992,
    "also": []
   },
-  "4209adc729": {
-   "title": "MIMEDX Announces FDA 510(k) Clearance for HELIOGEN® AMS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVdBZjl5d2h2WDhFOE5sOFFRSGRrUTkxSW1ONUZsNnhSZ1NZR01oYWI5QmxpSjJaRmtuRVo2MGdFQ0luVUhuZTY1cVZxWFlMTUxUbERhMUFtVzVnV254dzZ4YjNuNldyc3JLYmo3MUtYUVFLLTJRcXZCZVRSMUZfTzJtZ2pzWHI5Y0NYT3RTaUZqWlppQ1ZRT3dTRlFlNHRtempzaDRGV1o1RGgxbElVRnVOdlNfLW1UOWF2N0FGUkY?oc=5",
-   "source": "StreetInsider",
-   "source_id": "medtech_search",
-   "published": "2026-11-23T13:27:16+00:00",
+  "1c93d024fa": {
+   "title": "Entrega alcalde Pedro Miguel Rosaldo 50 mil lentes graduados para apoyar la salud visual de los porteños",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BKOXZOV1hDeFd4OWNSSU91cXJZajhQQUpGT0tlSXFwbk1aSnpEa1RsNjMzUlVfUEhMSzJtdUlvTXZ2NmRUeUR4TVN6X1JMZkpKWXY2OVE1WElsVzRmb0pXb240Q2dxUkhWenoxY3htSkU3cnJvb1BRSEhIckppMkJwZ1BxX2NWVzZNLUZuRTl0ZTQzMjBVYlZBd3lLZmNzdWZGR0lvQzN1b1lSLU0tNnYzTjhCNDdiWmpURlhBQUdZYUludkx6dl93dWlabFVaQzNHa0dQUQ?oc=5",
+   "source": "Diario Gráfico",
+   "source_id": "optica_es",
+   "published": "2026-11-23T14:47:47+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
-    "medtech",
-    "pharma"
+    "optica"
    ],
-   "score": 5.014,
+   "score": 4.98,
    "also": []
   },
   "9a6a5c9356": {
@@ -1195,7 +1264,23 @@
     "medtech",
     "pharma"
    ],
-   "score": 5.004,
+   "score": 4.96,
+   "also": []
+  },
+  "167adc3c0c": {
+   "title": "MIMEDX Announces FDA 510(k) Clearance for HELIOGEN® AMS",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUk5YWlZwNUNQN25lOU5FejJWTS1uUTlDNG0ta0dyNkYzNS1qekF3RXhXQWlGajlHYndzR3NBYm1zZks0cGU1TDFCVW1jQlhCb3ByWWdibUtVNi1GNnRtTnRidUZNUUlpbFFJcHRub3VURXVwYU10aGZsaF9MM0Fua25qYmd4OU5FcmNSWllMYkZvNEJCQjlmVmtTM2plUE1rUkJycTRaN3ZtTGJCLWNuVHFzRGtrSm1mM0xUbTZvNE5BTnNxbU9PU3Jn0gHKAUFVX3lxTE1STlhaVnA1Q1A3bmU5TkV6MlZNLW5ROUM0bS1rR3I2RjM1LWp6QXdFeFdBaUZqOUdid3NHc0FibXNmSzRwZTVMMUJVbWNCWEJvcHJZZ2JtS1U2LUY2dG1OdGJ1Rk1RSWlsUUlwdG5vdVRFdXBhTXRoZmxoX0wzQW5rbmpiZ3g5TkVyY1JaWUxiRm80QkJCOWZWa1MzamVQTWtSQnJxNFo3dm1MYkItY25UcXNEa2tKbWYzTFRtNm80TkFOc3FtT09Tcmc?oc=5",
+   "source": "The Manila Times",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T13:22:12+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma"
+   ],
+   "score": 4.959,
    "also": []
   },
   "1ddff4a50d": {
@@ -1211,7 +1296,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.984,
+   "score": 4.941,
    "also": []
   },
   "71eae63a3e": {
@@ -1226,22 +1311,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.919,
-   "also": []
-  },
-  "79741eb240": {
-   "title": "Oftalmología equina: ¿cómo funciona la visión de los caballos?",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0ZOREZjZjVlRVhGWVZ1RmwyWTVXWnAyY0FzVFM1Z05Db3JWM2lqTFVpQW5VOXk2ZTJzeVFaa0RDN2pyNVQxcThaM1JHazItRnpJbUNfdlEyM0s3V09MX3VjWFlydHpIMHZyQzI1enN1VnpKWkk1dHFuX0VjVmczSzhQVjFBVVNYSjhXWjN3WUpIbEVGbXBER2dzNklZTkgyXzhpSG56U3hiaG1xRW5xMHJTVWNVVmVUUmdR?oc=5",
-   "source": "BioBioChile",
-   "source_id": "optica_es",
-   "published": "2026-11-23T14:00:17+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.918,
+   "score": 4.875,
    "also": []
   },
   "d3561ea80e": {
@@ -1256,7 +1326,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.815,
+   "score": 4.773,
    "also": []
   },
   "130257fb00": {
@@ -1272,7 +1342,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.812,
+   "score": 4.771,
    "also": []
   },
   "d385192900": {
@@ -1287,7 +1357,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.794,
+   "score": 4.761,
    "also": []
   },
   "f8cc59acbc": {
@@ -1302,7 +1372,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.784,
+   "score": 4.751,
    "also": []
   },
   "2d515091a1": {
@@ -1318,37 +1388,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.702,
-   "also": []
-  },
-  "06aa0ea8a3": {
-   "title": "El Gobierno exigirá a la Comunidad de Madrid revocar las instrucciones que prohíben carteles sobre la huelga o implicar a los alumnos",
-   "url": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-22T11:48:55+00:00",
-   "summary": "Pedro Sánchez compara los formularios con los utilizados en el franquismo; Isabel Díaz Ayuso le acusa de usar “ideológicamente y sectariamente a los niños” y jalear las huelgas educativas “más feroces que se recuerdan”",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/MR5BNW56FBO4JDUESPHQ66QUQ4.jpg?auth=4497cb76cdc1f4c3625807fcba14fcbfe0b8db70b231320f29a347085cf66cae",
-   "topics": [
-    "espana"
-   ],
-   "score": 4.658,
-   "also": []
-  },
-  "2b1342e4e5": {
-   "title": "Lilly snaps up LoQus23 and its early-stage Huntington's pill",
-   "url": "https://pharmaphorum.com/news/lilly-snaps-loqus23-and-its-early-stage-huntingtons-pill",
-   "source": "pharmaphorum",
-   "source_id": "pharmaphorum",
-   "published": "2026-11-23T11:24:37+00:00",
-   "summary": "Phil.Taylor Mon, 23/11/2026 - 11:24 Phil.Taylor Mon, 23/11/2026 - 11:24",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 4.593,
+   "score": 4.665,
    "also": []
   },
   "0ce227d243": {
@@ -1363,7 +1403,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.585,
+   "score": 4.584,
    "also": [
     {
      "source_id": "ophthalmologytimes",
@@ -1386,23 +1426,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.584,
-   "also": []
-  },
-  "04504f1c47": {
-   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T01:25:53+00:00",
-   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "negocios"
-   ],
-   "score": 4.548,
+   "score": 4.558,
    "also": []
   },
   "1dab1bd477": {
@@ -1417,23 +1441,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.398,
-   "also": []
-  },
-  "c62899d1df": {
-   "title": "Integris Medtech Limited FY25 revenue rose 22.47% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2luR0QwdzBJb2djNGo2eWVJaHRiR28tZHpndXVkOWd4d3VpRF9vSng1cHl6b2hCYmdrSjQ4akxDdlRFNHNtaVBhQ1FkZkNLcjZxRFFlWkNDWnhwY1VyVGpVUXFpVG9VZTl2cm1BSk5IMUt6cjZmTG91Q3pkZDRvSHpiTzlWa1gwS2tVTmpjM0NQMHRZanUwOTBEWUp0NUlCMVowMjkwS3R5MFhHTXF5SGwtWTYzaDBDR0E?oc=5",
-   "source": "Multibagg AI",
-   "source_id": "medtech_search",
-   "published": "2026-11-23T07:00:33+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "negocios"
-   ],
-   "score": 4.34,
+   "score": 4.364,
    "also": []
   },
   "63706cb843": {
@@ -1449,7 +1457,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.332,
+   "score": 4.296,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1464,7 +1472,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.196,
+   "score": 4.161,
    "also": []
   },
   "106e5d1cff": {
@@ -1480,7 +1488,7 @@
     "tech",
     "ia"
    ],
-   "score": 4.037,
+   "score": 4.004,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1496,7 +1504,7 @@
     "negocios",
     "salud"
    ],
-   "score": 4.037,
+   "score": 4.004,
    "also": []
   },
   "1e82ded39f": {
@@ -1512,7 +1520,7 @@
     "economia",
     "salud"
    ],
-   "score": 4.013,
+   "score": 3.983,
    "also": []
   },
   "fb0c832b2c": {
@@ -1527,7 +1535,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.926,
+   "score": 3.9,
    "also": []
   },
   "d178ea74b0": {
@@ -1542,7 +1550,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.926,
+   "score": 3.9,
    "also": []
   },
   "752fa60dfe": {
@@ -1558,7 +1566,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.728,
+   "score": 3.708,
    "also": []
   },
   "6793275c5f": {
@@ -1574,53 +1582,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.554,
-   "also": []
-  },
-  "a850cc8c4a": {
-   "title": "Mercedes gets edge over Tesla in race for self-driving success in Europe",
-   "url": "https://www.ft.com/content/d69b4757-1fd0-40f6-b131-63832fc8e4d0?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-23T13:40:19+00:00",
-   "summary": "EU emerges as new battleground for intelligent cars and robotaxis",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech"
-   ],
-   "score": 3.509,
-   "also": []
-  },
-  "17e5a91048": {
-   "title": "El Gobierno concede el Ingreso Mínimo Vital a las personas que consiguen un empleo, incluso si cobran más de 6.000 euros anuales",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVmhSQWt1MEJVQW5xaWJuSTh3ck43WUdXZXhTUVQxVWZRVkk4MFNWaEp5UDBkbm1JRkZQVXYzaE9sZGFac3BTMjBxNTJ4ZktSQzFXV2RDU2NzTHdRWTg5b3pZYlBkM0d6WFFDVHgtREVmaWEyY2J1STF1NlBRd09ibXV1VmlSVWtETXZrejliT0xsOHlxVUM5V2xiNjU1bko5d1JFUk9UMThkMzY1UU9odnhsRWIwRFBlRXRhV1pfR0FYSnRmWFVNN09MSEZvTXUtU0xiZjNoSjQ2WUZMUXhXTU1OTGJUaWdNZVdMMVhoLVVWRVNwS0hob1BYWWtoSFdKOE1CWVlHaWRPbjJXcjM1RThYWkhvLU1iZjlTYw?oc=5",
-   "source": "elEconomista",
-   "source_id": "eleconomista",
-   "published": "2026-11-23T12:58:41+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia",
-    "espana"
-   ],
-   "score": 3.444,
-   "also": []
-  },
-  "e156fbaaf0": {
-   "title": "El fraude del CEO llega a la justicia europea, que vuelve a poner a la banca en el punto de mira",
-   "url": "https://cincodias.elpais.com/companias/2026-11-23/el-fraude-del-ceo-llega-a-la-justicia-europea-que-vuelve-a-poner-a-la-banca-en-el-punto-de-mira.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-23T04:15:00+00:00",
-   "summary": "El Supremo plantea siete preguntas al TJUE sobre la autorización de transferencias, la autenticación bancaria y la responsabilidad de las empresas que han caído en la estafa",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/L5EK6P6MNFDMFRXVJW6J3OOYNM.jpg?auth=7caccfdbb034dcbec9a70c1a031ebc8ba9df9ba6795faeb9f0367ccad4777a1d",
-   "topics": [
-    "negocios"
-   ],
-   "score": 3.437,
+   "score": 3.538,
    "also": []
   },
   "852c829d5d": {
@@ -1635,7 +1597,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.141,
+   "score": 3.12,
    "also": []
   },
   "9275de2b49": {
@@ -1650,7 +1612,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 3.056,
+   "score": 3.055,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1665,22 +1627,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.764,
-   "also": []
-  },
-  "3588888e17": {
-   "title": "MMI launches robotic electrosurgical tool in Europe",
-   "url": "https://www.medicaldevice-network.com/news/mmi-robotic-electrosurgical-tool-europe/",
-   "source": "Medical Device Network",
-   "source_id": "mdnetwork",
-   "published": "2026-11-23T10:45:32+00:00",
-   "summary": "MMI has made its NanoWrist Monopolar Scissors available to hospitals across Europe following the completion of initial clinical procedures. The post MMI launches robotic electrosurgical tool in Europe appeared first on Medical Device Network .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech"
-   ],
-   "score": 2.44,
+   "score": 2.763,
    "also": []
   },
   "68c3085284": {
@@ -1696,7 +1643,22 @@
     "medtech",
     "salud"
    ],
-   "score": 2.423,
+   "score": 2.422,
+   "also": []
+  },
+  "3588888e17": {
+   "title": "MMI launches robotic electrosurgical tool in Europe",
+   "url": "https://www.medicaldevice-network.com/news/mmi-robotic-electrosurgical-tool-europe/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-23T10:45:32+00:00",
+   "summary": "MMI has made its NanoWrist Monopolar Scissors available to hospitals across Europe following the completion of initial clinical procedures. The post MMI launches robotic electrosurgical tool in Europe appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 2.42,
    "also": []
   },
   "de138162ba": {
@@ -1711,7 +1673,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.406,
+   "score": 2.386,
    "also": []
   },
   "38075cbb90": {
@@ -1726,23 +1688,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.352,
-   "also": []
-  },
-  "76aaff30a7": {
-   "title": "Zimmer submits Monogram robot to FDA",
-   "url": "https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/",
-   "source": "MedTech Dive",
-   "source_id": "medtechdive",
-   "published": "2026-11-20T16:46:43+00:00",
-   "summary": "The company is targeting Food and Drug Administration clearance next year for an autonomous orthopedic robot.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "medtech"
-   ],
-   "score": 1.786,
+   "score": 2.334,
    "also": []
   }
  },
@@ -1751,7 +1697,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 205,
+   "count": 207,
    "ok": true,
    "errors": []
   },
@@ -1873,7 +1819,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 20,
+   "count": 22,
    "ok": true,
    "errors": []
   },
@@ -1897,7 +1843,7 @@
    "id": "reasonwhy",
    "name": "Reason Why",
    "via": "google-news",
-   "count": 9,
+   "count": 10,
    "ok": true,
    "errors": []
   },
@@ -1944,12 +1890,10 @@
   {
    "id": "pmlive",
    "name": "PMLiVE",
-   "via": "google-news",
-   "count": 8,
+   "via": "rss",
+   "count": 10,
    "ok": true,
-   "errors": [
-    "https://www.pmlive.com/rss: HTTPError: HTTP Error 403: Forbidden"
-   ]
+   "errors": []
   },
   {
    "id": "pharmexec",
@@ -1995,7 +1939,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 60,
+   "count": 40,
    "ok": true,
    "errors": []
   },

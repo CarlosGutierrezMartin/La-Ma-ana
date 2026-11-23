@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Mañana</title>
+    <link>https://carlosgutierrezmartin.github.io/La-Ma-ana/</link>
+    <atom:link href="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>es-es</language>
+    <description>Las noticias que te importan, en unos minutos. Guion y voces generados con IA (Google Gemini) a partir de titulares de prensa; cada episodio cita sus medios.</description>
+    <itunes:author>La Mañana</itunes:author>
+    <itunes:image href="https://carlosgutierrezmartin.github.io/La-Ma-ana/icons/icon-512.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+
+  </channel>
+</rss>
