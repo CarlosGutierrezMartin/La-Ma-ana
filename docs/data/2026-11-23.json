@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T14:35:22.898322+00:00",
+ "generated_at": "2026-11-23T14:36:31.335712+00:00",
  "stats": {
-  "fetched": 1761,
-  "fresh": 651,
-  "stories": 618,
-  "selected": 91
+  "fetched": 1767,
+  "fresh": 669,
+  "stories": 631,
+  "selected": 93
  },
  "brief": null,
  "ai_model": null,
@@ -17,19 +17,19 @@
    "items": [
     "9c18fd8d23",
     "2be98cfc04",
+    "90f831b4fd",
     "b205246cdc",
     "dc42a73f7e",
     "e10a54d444",
     "e252349a0c",
     "02ea7b5321",
+    "e4b12870dd",
     "aefe2fb3f5",
-    "43393413fe",
-    "716c53fa8f",
     "ab33412673",
-    "1c35030178",
+    "ea9fa1507b",
+    "0b7525d017",
     "9b513f1c62",
-    "8da34bf647",
-    "8ed3f5b3c3"
+    "8da34bf647"
    ]
   },
   {
@@ -40,13 +40,13 @@
     "9c18fd8d23",
     "dc42a73f7e",
     "716c53fa8f",
+    "90f831b4fd",
+    "9edcdf98db",
     "8fa6f24d75",
     "ab33412673",
-    "90f831b4fd",
     "743c66de3d",
     "2f9c65df28",
     "378e2b2dc1",
-    "9edcdf98db",
     "9c079ad7f6",
     "ae3d76503a",
     "8558835d9e",
@@ -79,8 +79,8 @@
    "short": "Negocios",
    "items": [
     "9c18fd8d23",
-    "02ea7b5321",
     "90f831b4fd",
+    "02ea7b5321",
     "17b2c2dee1",
     "1b24c54950",
     "130257fb00",
@@ -115,15 +115,15 @@
    "short": "España",
    "items": [
     "e10a54d444",
+    "ea9fa1507b",
     "1c35030178",
     "4100869d1c",
     "e25be61dcd",
     "7e6255878c",
     "ed24ecec5c",
+    "70f9818cda",
     "8bdbb6d9cf",
-    "06aa0ea8a3",
-    "7d99e0f411",
-    "a386d435ad"
+    "06aa0ea8a3"
    ]
   },
   {
@@ -152,7 +152,7 @@
     "dc42a73f7e",
     "6f5322db93",
     "02ea7b5321",
-    "43393413fe",
+    "e4b12870dd",
     "74b514dbc9",
     "26cb8d2aa5",
     "6cce577396",
@@ -167,7 +167,7 @@
    "items": [
     "aefe2fb3f5",
     "8da34bf647",
-    "43393413fe",
+    "e4b12870dd",
     "e252349a0c",
     "8fa6f24d75",
     "f4c1a1d8e2",
@@ -184,8 +184,8 @@
    "items": [
     "9b513f1c62",
     "cc575ddf96",
+    "4209adc729",
     "9a6a5c9356",
-    "1ddff4a50d",
     "9275de2b49",
     "68c3085284",
     "3588888e17",
@@ -218,7 +218,7 @@
    "url": "https://www.elmundo.es/economia/empresas/2026/11/23/6b044cf5e4d4d8137c8b4591.html",
    "source": "El Mundo",
    "source_id": "elmundo",
-   "published": "2026-11-23T14:29:15+00:00",
+   "published": "2026-11-23T14:33:14+00:00",
    "summary": "\"Asumo esta responsabilidad con la mayor humildad y un compromiso renovado\" dice el empresario el mismo día en el que The New York Times revela las conexiones de su amante con el espionaje chino Leer",
    "ai_summary": null,
    "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439589049.jpg",
@@ -226,7 +226,7 @@
     "ia",
     "negocios"
    ],
-   "score": 19.545,
+   "score": 19.57,
    "also": [
     {
      "source_id": "elpais",
@@ -260,8 +260,37 @@
    "topics": [
     "salud"
    ],
-   "score": 12.093,
+   "score": 12.087,
    "also": []
+  },
+  "90f831b4fd": {
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T14:21:59+00:00",
+   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 11.912,
+   "also": [
+    {
+     "source_id": "eleconomista",
+     "source": "elEconomista",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
+     "title": "Nvidia recupera a Jensen Huang como CEO de forma inmediata"
+    },
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+     "title": "Nvidia reinstates Jensen Huang as CEO"
+    }
+   ]
   },
   "b205246cdc": {
    "title": "Los pacientes trasplantados tienen hasta cuatro veces más riesgo de desarrollar cáncer",
@@ -275,7 +304,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.817,
+   "score": 11.811,
    "also": []
   },
   "dc42a73f7e": {
@@ -291,7 +320,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.477,
+   "score": 11.472,
    "also": []
   },
   "e10a54d444": {
@@ -306,7 +335,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.973,
+   "score": 10.967,
    "also": []
   },
   "e252349a0c": {
@@ -322,8 +351,30 @@
     "salud",
     "pharma"
    ],
-   "score": 10.932,
+   "score": 10.927,
    "also": []
+  },
+  "9edcdf98db": {
+   "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
+   "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T14:33:17+00:00",
+   "summary": "Nasdaq gains 7% and S&P up 5% as AI trade reignites on Wall Street",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 9.985,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
+     "title": "Wall St set to soar at open after Nvidia reinstates Jensen Huang as CEO"
+    }
+   ]
   },
   "02ea7b5321": {
    "title": "Javier Matallana, nuevo CEO de Webedia España",
@@ -338,13 +389,36 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.665,
+   "score": 9.66,
    "also": [
     {
      "source_id": "marketingdirecto",
      "source": "Marketing Directo",
      "url": "https://www.marketingdirecto.com/marketing-general/gente/javier-matallana-nuevo-ceo-webedia-espana",
      "title": "Javier Matallana, nuevo CEO de Webedia España"
+    }
+   ]
+  },
+  "e4b12870dd": {
+   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOME5zWmhJYjVoX3NWUTdjSlhoWXRDZHdiM1REYy1QTWFwZ25aclNOOU05aWUxdGxWcjdxdXRYNDBoUUIzbTRhZnN5WUR2bENaaDBRYjN1OWtENFFEMlJfZUJRaWYzbkI2bkwxNTNFRTVvSGQzb1dMbE45UFJTTm5VWXJLUDRTd0JhcEF5TnlR?oc=5",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-23T13:33:28+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "marketing"
+   ],
+   "score": 9.474,
+   "also": [
+    {
+     "source_id": "mmm",
+     "source": "MM+M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
+     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
     }
    ]
   },
@@ -361,31 +435,8 @@
     "pharma",
     "salud"
    ],
-   "score": 9.354,
+   "score": 9.35,
    "also": []
-  },
-  "43393413fe": {
-   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
-   "url": "https://pmlive.com/pmea-2026-a-celebration-of-excellence-in-pharmaceutical-marketing/",
-   "source": "PMLiVE",
-   "source_id": "pmlive",
-   "published": "2026-11-23T12:26:40+00:00",
-   "summary": "This year’s Awards, held at the Sheraton Park Lane London, included 17 categories",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "marketing"
-   ],
-   "score": 9.202,
-   "also": [
-    {
-     "source_id": "mmm",
-     "source": "MM+M",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
-     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
-    }
-   ]
   },
   "716c53fa8f": {
    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -399,7 +450,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.013,
+   "score": 9.01,
    "also": [
     {
      "source_id": "reuters",
@@ -421,7 +472,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.783,
+   "score": 8.779,
    "also": []
   },
   "9d49e3a097": {
@@ -436,7 +487,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.769,
+   "score": 8.765,
    "also": []
   },
   "f944bb368b": {
@@ -451,7 +502,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.609,
+   "score": 8.605,
    "also": []
   },
   "f1b33dc12f": {
@@ -466,31 +517,8 @@
    "topics": [
     "salud"
    ],
-   "score": 8.429,
+   "score": 8.424,
    "also": []
-  },
-  "90f831b4fd": {
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T14:21:59+00:00",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "negocios"
-   ],
-   "score": 8.341,
-   "also": [
-    {
-     "source_id": "eleconomista",
-     "source": "elEconomista",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
-     "title": "Nvidia recupera a Jensen Huang como CEO de forma inmediata"
-    }
-   ]
   },
   "ab33412673": {
    "title": "Best!N Travel Marketing Summit. Datos, agentes IA y trato humano para captar al viajero",
@@ -505,7 +533,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.976,
+   "score": 7.972,
    "also": []
   },
   "8fa6f24d75": {
@@ -522,7 +550,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.936,
+   "score": 7.933,
    "also": []
   },
   "15c9134c35": {
@@ -537,8 +565,45 @@
    "topics": [
     "salud"
    ],
-   "score": 7.777,
+   "score": 7.773,
    "also": []
+  },
+  "ea9fa1507b": {
+   "title": "El CIS de Tezanos amplía y deja a casi 10 puntos la ventaja de Sánchez sobre Feijóo a las puertas del 29-N",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/cis-tezanos-elecciones-generales-psoe-pp-vox-frente-amplio_4470602/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T11:06:00+00:00",
+   "summary": "El sondeo preelectoral del CIS vuelve a dar ganador de las elecciones del próximo domingo al PSOE. Mientras, tanto Vox como Frente Amplio bajan con respecto a la última encuesta publicada",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/GPU4RKsTbfh6BUuzN30LBY1sQaQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe4c%2F16c%2F337%2Fe4c16c3377f5873175c8702eec6d9fdd.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.656,
+   "also": []
+  },
+  "0b7525d017": {
+   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T14:33:00+00:00",
+   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.588,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
+    }
+   ]
   },
   "1c35030178": {
    "title": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
@@ -552,7 +617,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.495,
+   "score": 7.491,
    "also": []
   },
   "8bdbb6d9cf": {
@@ -568,7 +633,7 @@
     "salud",
     "espana"
    ],
-   "score": 7.493,
+   "score": 7.489,
    "also": []
   },
   "9b513f1c62": {
@@ -584,7 +649,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.32,
+   "score": 7.316,
    "also": []
   },
   "8558835d9e": {
@@ -601,22 +666,7 @@
     "ia",
     "pharma"
    ],
-   "score": 7.196,
-   "also": []
-  },
-  "8da34bf647": {
-   "title": "La EFPIA propone un reembolso provisional a los fármacos innovadores para ganar agilidad",
-   "url": "https://elglobalfarma.com/industria/efpia-reembolso-provisional-medicamentos-innovadores/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-23T09:47:22+00:00",
-   "summary": "La patronal farmacéutica europea plantea que los nuevos medicamentos puedan comercializarse desde su autorización, con un precio inicial fijado por las compañías y mecanismos de financiación pública durante la negociación del precio definitivo The post La EFPIA propone un reembolso provisional a los fármacos innovadores para ganar agilidad appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 7.064,
+   "score": 7.193,
    "also": []
   },
   "58b56f8a05": {
@@ -631,7 +681,7 @@
    "topics": [
     "ia"
    ],
-   "score": 7.064,
+   "score": 7.061,
    "also": [
     {
      "source_id": "reuters",
@@ -640,6 +690,21 @@
      "title": "South Korea's education minister quits over exam cheating chaos"
     }
    ]
+  },
+  "8da34bf647": {
+   "title": "La EFPIA propone un reembolso provisional a los fármacos innovadores para ganar agilidad",
+   "url": "https://elglobalfarma.com/industria/efpia-reembolso-provisional-medicamentos-innovadores/",
+   "source": "El Global",
+   "source_id": "elglobal",
+   "published": "2026-11-23T09:47:22+00:00",
+   "summary": "La patronal farmacéutica europea plantea que los nuevos medicamentos puedan comercializarse desde su autorización, con un precio inicial fijado por las compañías y mecanismos de financiación pública durante la negociación del precio definitivo The post La EFPIA propone un reembolso provisional a los fármacos innovadores para ganar agilidad appeared first on El Globalfarma .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 7.06,
+   "also": []
   },
   "6f5322db93": {
    "title": "4 de cada 10 profesionales de marketing espera un aumento de sueldo en 2027",
@@ -653,7 +718,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.695,
+   "score": 6.691,
    "also": []
   },
   "743c66de3d": {
@@ -669,7 +734,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.678,
+   "score": 6.675,
    "also": []
   },
   "5320043ce8": {
@@ -685,30 +750,8 @@
     "salud",
     "optica"
    ],
-   "score": 6.612,
+   "score": 6.609,
    "also": []
-  },
-  "8ed3f5b3c3": {
-   "title": "Black Friday: las marcas convierten los descuentos en experiencias",
-   "url": "https://www.marketingdirecto.com/anunciantes-general/black-friday-marcas-convierten-descuentos-experiencias",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-23T12:25:20+00:00",
-   "summary": "El Black Friday presenta una oportunidad para que las marcas desplieguen campañas, experiencias y promociones con las que conquistar al consumidor. La entrada Black Friday: las marcas convierten los descuentos en experiencias se publicó primero en Marketing Directo .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "marketing"
-   ],
-   "score": 6.603,
-   "also": [
-    {
-     "source_id": "optica_es",
-     "source": "photolari",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTnlUMzZqbkM2dUxIc3A0UDd4R2xlOUppaGtFMFAxOWVQQWNQeG5vMFpuUmF3UTJNU1NQa1U2d3Z5elRoS28xWTJqeFNHS0l1ZWI2Tm1uUGFFcVZZSEZBdGcyd05xeHg4VUttWXFRNG92cTVvQWQ1V1UzdVZrejg?oc=5",
-     "title": "Las mejores ofertas de Black Friday están en Foto K: grandes descuentos en cámaras, ópticas y accesorios"
-    }
-   ]
   },
   "790c1aab79": {
    "title": "Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
@@ -722,7 +765,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.528,
+   "score": 6.527,
    "also": []
   },
   "ed24ecec5c": {
@@ -737,7 +780,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.444,
+   "score": 6.44,
    "also": []
   },
   "e44a11c1f6": {
@@ -752,7 +795,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.359,
+   "score": 6.356,
    "also": []
   },
   "ffa17286a8": {
@@ -769,7 +812,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.291,
+   "score": 6.288,
    "also": []
   },
   "2f9c65df28": {
@@ -784,7 +827,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.284,
+   "score": 6.281,
    "also": []
   },
   "378e2b2dc1": {
@@ -800,7 +843,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.199,
+   "score": 6.196,
    "also": []
   },
   "17b2c2dee1": {
@@ -817,22 +860,22 @@
     "tech",
     "negocios"
    ],
-   "score": 6.042,
+   "score": 6.039,
    "also": []
   },
-  "9edcdf98db": {
-   "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
-   "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-23T14:33:17+00:00",
-   "summary": "Nasdaq gains 7% and S&P up 5% as AI trade reignites on Wall Street",
+  "70f9818cda": {
+   "title": "Feijóo compara a RTVE con la \"televisión norcoreana\" y promete impulsar una nueva ley de eutanasia",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/feijoo-compara-a-rtve-con-la_4470516/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T09:45:00+00:00",
+   "summary": "El líder del PP caldea el ambiente a las puertas de su posible entrevista con Intxaurrondo y califica de \"vergüenza\" el servicio de informativos del ente público. Responde a Abascal que no pactará tras el 29-N con un PSOE \"expropiado\" por Sánchez",
    "ai_summary": null,
-   "image": null,
+   "image": "https://images.ecestaticos.com/_2MAj_o8PJ3Y0xbwCpBP97IxLi0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F972%2Fdbd%2F0f9%2F972dbd0f9c84bcdb8cf0d2afd29784f6.jpg",
    "topics": [
-    "ia"
+    "espana"
    ],
-   "score": 5.994,
+   "score": 5.996,
    "also": []
   },
   "1b24c54950": {
@@ -849,7 +892,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.981,
+   "score": 5.978,
    "also": []
   },
   "4100869d1c": {
@@ -866,7 +909,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.853,
+   "score": 5.852,
    "also": []
   },
   "e25be61dcd": {
@@ -881,7 +924,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.832,
+   "score": 5.83,
    "also": []
   },
   "9c079ad7f6": {
@@ -896,7 +939,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.772,
+   "score": 5.769,
    "also": []
   },
   "ae3d76503a": {
@@ -912,7 +955,7 @@
     "ia",
     "salud"
    ],
-   "score": 5.7,
+   "score": 5.697,
    "also": []
   },
   "a2c7afe9f7": {
@@ -929,7 +972,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.684,
+   "score": 5.682,
    "also": []
   },
   "cc575ddf96": {
@@ -946,7 +989,7 @@
     "ia",
     "salud"
    ],
-   "score": 5.636,
+   "score": 5.633,
    "also": []
   },
   "14f0fff5d7": {
@@ -961,7 +1004,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.589,
+   "score": 5.587,
    "also": []
   },
   "133404e6a4": {
@@ -978,7 +1021,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.544,
+   "score": 5.541,
    "also": []
   },
   "74b514dbc9": {
@@ -994,7 +1037,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.469,
+   "score": 5.467,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1010,7 +1053,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.381,
+   "score": 5.379,
    "also": []
   },
   "4704f794ba": {
@@ -1027,7 +1070,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.327,
+   "score": 5.324,
    "also": []
   },
   "7eccd90ac9": {
@@ -1043,7 +1086,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.324,
+   "score": 5.322,
    "also": []
   },
   "6cce577396": {
@@ -1058,7 +1101,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.318,
+   "score": 5.316,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1073,7 +1116,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.277,
+   "score": 5.274,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1088,7 +1131,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.158,
+   "score": 5.156,
    "also": []
   },
   "a457bdd4df": {
@@ -1105,7 +1148,7 @@
     "tech",
     "espana"
    ],
-   "score": 5.066,
+   "score": 5.064,
    "also": []
   },
   "7e6255878c": {
@@ -1120,7 +1163,23 @@
    "topics": [
     "espana"
    ],
-   "score": 5.027,
+   "score": 5.025,
+   "also": []
+  },
+  "4209adc729": {
+   "title": "MIMEDX Announces FDA 510(k) Clearance for HELIOGEN® AMS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVdBZjl5d2h2WDhFOE5sOFFRSGRrUTkxSW1ONUZsNnhSZ1NZR01oYWI5QmxpSjJaRmtuRVo2MGdFQ0luVUhuZTY1cVZxWFlMTUxUbERhMUFtVzVnV254dzZ4YjNuNldyc3JLYmo3MUtYUVFLLTJRcXZCZVRSMUZfTzJtZ2pzWHI5Y0NYT3RTaUZqWlppQ1ZRT3dTRlFlNHRtempzaDRGV1o1RGgxbElVRnVOdlNfLW1UOWF2N0FGUkY?oc=5",
+   "source": "StreetInsider",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T13:27:16+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma"
+   ],
+   "score": 5.014,
    "also": []
   },
   "9a6a5c9356": {
@@ -1136,7 +1195,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 5.006,
+   "score": 5.004,
    "also": []
   },
   "1ddff4a50d": {
@@ -1152,7 +1211,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.986,
+   "score": 4.984,
    "also": []
   },
   "71eae63a3e": {
@@ -1167,7 +1226,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.922,
+   "score": 4.919,
    "also": []
   },
   "79741eb240": {
@@ -1182,22 +1241,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.92,
-   "also": []
-  },
-  "a386d435ad": {
-   "title": "El PSOE se lanza a por el voto de las seis de cada 10 mujeres indecisas: de Sánchez en 'Lecturas' a actos para \"seducir a un feminismo menos militante\"",
-   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6afc55cfe85ece2a028b45b8.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-22T23:02:29+00:00",
-   "summary": "Los jóvenes y el ámbito rural, los otros ejes sobre los que girará la recta final de la campaña Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953543941257.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 4.833,
+   "score": 4.918,
    "also": []
   },
   "d3561ea80e": {
@@ -1212,7 +1256,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.818,
+   "score": 4.815,
    "also": []
   },
   "130257fb00": {
@@ -1228,7 +1272,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.815,
+   "score": 4.812,
    "also": []
   },
   "d385192900": {
@@ -1243,7 +1287,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.796,
+   "score": 4.794,
    "also": []
   },
   "f8cc59acbc": {
@@ -1258,7 +1302,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.786,
+   "score": 4.784,
    "also": []
   },
   "2d515091a1": {
@@ -1274,7 +1318,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.704,
+   "score": 4.702,
    "also": []
   },
   "06aa0ea8a3": {
@@ -1289,7 +1333,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.659,
+   "score": 4.658,
    "also": []
   },
   "2b1342e4e5": {
@@ -1304,23 +1348,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.595,
-   "also": []
-  },
-  "7d99e0f411": {
-   "title": "Así trabajó Hernández de Cos la presidencia del BCE con Sánchez y Feijóo: \"No hay que decir nada aún\"",
-   "url": "https://www.elmundo.es/economia/2026/11/23/6b032cffe9cf4ac8208b4576.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-22T23:58:45+00:00",
-   "summary": "Moncloa barajó a Calviño como alternativa pero el ex gobernador del Banco de España era el único posible y con respaldo de Draghi y Lagarde ante Macron Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953701868627.jpg",
-   "topics": [
-    "espana",
-    "economia"
-   ],
-   "score": 4.585,
+   "score": 4.593,
    "also": []
   },
   "0ce227d243": {
@@ -1345,6 +1373,22 @@
     }
    ]
   },
+  "7d99e0f411": {
+   "title": "Así trabajó Hernández de Cos la presidencia del BCE con Sánchez y Feijóo: \"No hay que decir nada aún\"",
+   "url": "https://www.elmundo.es/economia/2026/11/23/6b032cffe9cf4ac8208b4576.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-22T23:58:45+00:00",
+   "summary": "Moncloa barajó a Calviño como alternativa pero el ex gobernador del Banco de España era el único posible y con respaldo de Draghi y Lagarde ante Macron Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953701868627.jpg",
+   "topics": [
+    "espana",
+    "economia"
+   ],
+   "score": 4.584,
+   "also": []
+  },
   "04504f1c47": {
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -1358,7 +1402,7 @@
     "ia",
     "negocios"
    ],
-   "score": 4.55,
+   "score": 4.548,
    "also": []
   },
   "1dab1bd477": {
@@ -1373,7 +1417,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.4,
+   "score": 4.398,
    "also": []
   },
   "c62899d1df": {
@@ -1389,7 +1433,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.342,
+   "score": 4.34,
    "also": []
   },
   "63706cb843": {
@@ -1405,7 +1449,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.334,
+   "score": 4.332,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1420,7 +1464,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.198,
+   "score": 4.196,
    "also": []
   },
   "106e5d1cff": {
@@ -1436,7 +1480,7 @@
     "tech",
     "ia"
    ],
-   "score": 4.039,
+   "score": 4.037,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1452,7 +1496,7 @@
     "negocios",
     "salud"
    ],
-   "score": 4.039,
+   "score": 4.037,
    "also": []
   },
   "1e82ded39f": {
@@ -1468,7 +1512,7 @@
     "economia",
     "salud"
    ],
-   "score": 4.014,
+   "score": 4.013,
    "also": []
   },
   "fb0c832b2c": {
@@ -1483,7 +1527,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.927,
+   "score": 3.926,
    "also": []
   },
   "d178ea74b0": {
@@ -1498,7 +1542,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.927,
+   "score": 3.926,
    "also": []
   },
   "752fa60dfe": {
@@ -1514,7 +1558,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.729,
+   "score": 3.728,
    "also": []
   },
   "6793275c5f": {
@@ -1530,7 +1574,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.555,
+   "score": 3.554,
    "also": []
   },
   "a850cc8c4a": {
@@ -1545,7 +1589,7 @@
    "topics": [
     "tech"
    ],
-   "score": 3.511,
+   "score": 3.509,
    "also": []
   },
   "17e5a91048": {
@@ -1561,7 +1605,7 @@
     "economia",
     "espana"
    ],
-   "score": 3.446,
+   "score": 3.444,
    "also": []
   },
   "e156fbaaf0": {
@@ -1576,7 +1620,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 3.439,
+   "score": 3.437,
    "also": []
   },
   "852c829d5d": {
@@ -1591,7 +1635,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.142,
+   "score": 3.141,
    "also": []
   },
   "9275de2b49": {
@@ -1636,7 +1680,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.441,
+   "score": 2.44,
    "also": []
   },
   "68c3085284": {
@@ -1667,7 +1711,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.407,
+   "score": 2.406,
    "also": []
   },
   "38075cbb90": {
@@ -1682,7 +1726,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.353,
+   "score": 2.352,
    "also": []
   },
   "76aaff30a7": {
@@ -1707,7 +1751,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 207,
+   "count": 205,
    "ok": true,
    "errors": []
   },
@@ -1723,7 +1767,7 @@
    "id": "elconfidencial",
    "name": "El Confidencial",
    "via": "rss",
-   "count": 35,
+   "count": 44,
    "ok": true,
    "errors": []
   },
@@ -1900,10 +1944,12 @@
   {
    "id": "pmlive",
    "name": "PMLiVE",
-   "via": "rss",
-   "count": 10,
+   "via": "google-news",
+   "count": 8,
    "ok": true,
-   "errors": []
+   "errors": [
+    "https://www.pmlive.com/rss: HTTPError: HTTP Error 403: Forbidden"
+   ]
   },
   {
    "id": "pharmexec",
@@ -1949,7 +1995,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 59,
+   "count": 60,
    "ok": true,
    "errors": []
   },
