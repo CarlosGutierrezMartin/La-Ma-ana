@@ -15,6 +15,12 @@ hosts:                     # voces prebuilt de Gemini: Kore, Charon, Puck, Aoede
   - name: Álex
     voice: Charon
 style: "Tono de informativo matinal, cercano y ágil, en español de España."
+# Límites del plan gratuito de este proyecto (AI Studio → Límite de frecuencia,
+# noviembre de 2026). El cupo diario se reinicia a las 09:00 de Madrid y Google
+# cuenta TODAS las peticiones, también las que rechaza por saturación (503).
+#   gemini-3.8-flash / 3.6-flash: 5 por minuto, 20 al día
+#   gemini-3.5-flash-lite:        15 por minuto, 500 al día
+#   gemini-3.8-flash-tts:         3 por minuto, 10 al día  <- el que limita: ~4 por episodio de 10 min
 models:                         # en orden: si uno está saturado o sin cupo, el siguiente
   script: [gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash-lite]
   tts: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]

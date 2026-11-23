@@ -191,10 +191,16 @@ class Busy(RuntimeError):
 
 
 CALLS: dict[str, int] = {}
+EXHAUSTED: set[str] = set()   # modelos sin cupo diario: no se vuelven a pedir en esta ejecución
 
 
-def gemini(model: str, body: dict, key: str, timeout: int = 300, tries: int = 3) -> dict:
-    """POST generateContent con reintentos en 429/5xx."""
+def gemini(model: str, body: dict, key: str, timeout: int = 300, tries: int = 2) -> dict:
+    """POST generateContent. Ojo: Google cuenta en el cupo diario TODAS las
+    peticiones, también las que responde con 503 (saturado). Por eso:
+      - 503/5xx: no se reintenta aquí; gemini_any pasa al siguiente modelo
+        y, si todos están saturados, espera antes de otra ronda.
+      - 429 por cupo diario: el modelo queda fuera hasta mañana.
+      - 429 por minuto: se espera y se reintenta una vez."""
     data = json.dumps(body).encode()
     for attempt in range(tries):
         CALLS[model] = CALLS.get(model, 0) + 1
@@ -204,12 +210,16 @@ def gemini(model: str, body: dict, key: str, timeout: int = 300, tries: int = 3)
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return json.loads(r.read())
         except urllib.error.HTTPError as ex:
-            detail = ex.read().decode(errors="replace")[:600]
-            if ex.code in (429, 500, 502, 503, 504) and attempt < tries - 1:
-                wait = int(ex.headers.get("Retry-After") or 0) or 20 * (attempt + 1)
-                log(f"{model}: HTTP {ex.code}, reintento en {wait}s ({detail[:160]})")
-                time.sleep(wait)
-                continue
+            detail = ex.read().decode(errors="replace")[:1500]
+            if ex.code == 429:
+                if re.search(r"per ?day|PerDay|daily", detail, re.I):
+                    EXHAUSTED.add(model)
+                    raise Busy(f"{model}: cupo diario agotado") from None
+                if attempt < tries - 1:
+                    wait = int(ex.headers.get("Retry-After") or 0) or 60
+                    log(f"{model}: límite por minuto, reintento en {wait}s")
+                    time.sleep(wait)
+                    continue
             err = Busy if ex.code in (429, 500, 502, 503, 504) else RuntimeError
             raise err(f"{model}: HTTP {ex.code}: {detail[:300]}") from None
         except (urllib.error.URLError, TimeoutError) as ex:
@@ -233,17 +243,20 @@ def gemini_any(models: list[str], body: dict, key: str) -> tuple[dict, str]:
     Si lo están todos, espera y repite la ronda (el plan gratuito tiene picos)."""
     last = None
     for rnd in range(BUSY_ROUNDS):
+        alive = [m for m in models if m not in EXHAUSTED]
+        if not alive:
+            break
         if rnd:
             log(f"todos los modelos saturados; nueva ronda {rnd + 1}/{BUSY_ROUNDS} en {BUSY_WAIT}s")
             time.sleep(BUSY_WAIT)
-        for i, model in enumerate(models):
+        for i, model in enumerate(alive):
             try:
-                return gemini(model, body, key, tries=2), model
+                return gemini(model, body, key), model
             except Busy as ex:
                 last = ex
-                if i < len(models) - 1:
-                    log(f"{model} no disponible ({str(ex)[:100]}); pruebo {models[i + 1]}")
-    raise last
+                if i < len(alive) - 1:
+                    log(f"{model} no disponible ({str(ex)[:100]}); pruebo {alive[i + 1]}")
+    raise last or Busy("todos los modelos sin cupo diario")
 
 
 def response_text(resp: dict) -> str:
