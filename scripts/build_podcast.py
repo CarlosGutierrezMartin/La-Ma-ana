@@ -147,7 +147,8 @@ def pick_stories(digest: dict, topic_ids: list[str], n_stories: int = 6, per_top
             pool.append({"id": sid, "topic_id": t, "topic": sec["name"], "title": it["title"],
                          "source": outlet_name(it["source"]), "url": it["url"], "score": float(it.get("score") or 0),
                          "summary": it.get("ai_summary") or it.get("summary") or "",
-                         "also": [outlet_name(a["source"]) for a in it.get("also", [])]})
+                         "also": [outlet_name(a["source"]) for a in it.get("also", [])],
+                         "item": {k: it.get(k) for k in ("title", "url", "source", "source_id", "published", "summary", "image", "topics", "score", "also")}})
     with cf.ThreadPoolExecutor(8) as ex:
         for c, txt in zip(pool, ex.map(lambda c: article_text(c["url"]), pool)):
             c["text"] = txt[:2200]
@@ -512,6 +513,8 @@ def generate(args, cfg, index, digest, day, audio_dir, save) -> int:
         "date": day, "file": fname, "title": script["title"], "duration": round(duration),
         "bytes": (audio_dir / fname).stat().st_size, "published": datetime.now(timezone.utc).isoformat(),
         "topics": topic_ids, "topic_names": [names[t] for t in topic_ids], "stories": [s["id"] for s in stories],
+        # ficha de cada noticia: la pestaña Podcast funciona aunque la edición se regenere después
+        "story_items": [{"id": s["id"], "relevance": s["relevance"], **s["item"]} for s in stories],
         "description": f"Temas: {', '.join(names[t] for t in topic_ids)}. Medios: {', '.join(sources)}. "
                        f"Guion y voces generados con IA (Google Gemini) a partir de titulares.",
         "transcript": script["turns"],

@@ -246,7 +246,7 @@ legend { font-size: 10.5px; text-transform: uppercase; color: var(--ink-3); padd
 
 /* Podcast */
 .podcast {
-  margin: 22px 0 6px; padding: 14px 16px 12px; background: var(--card);
+  margin: 14px 0 6px; padding: 14px 16px 12px; background: var(--card);
   border: 1px solid var(--rule); box-shadow: 4px 4px 0 var(--accent);
 }
 .podcast .kicker { font-family: var(--f-meta); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); }
@@ -267,3 +267,21 @@ legend { font-size: 10.5px; text-transform: uppercase; color: var(--ink-3); padd
   border: 1px solid var(--rule); background: var(--ink); color: var(--paper);
 }
 .btn:disabled { opacity: .4; cursor: default; }
+
+/* Buscador */
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 var(--pad); }
+.search {
+  display: flex; align-items: center; gap: 8px; margin: 14px 0 0; padding: 0 10px;
+  border: 1px solid var(--hair); background: var(--card);
+}
+.search:focus-within { border-color: var(--rule); }
+.search svg { width: 17px; height: 17px; flex: none; fill: none; stroke: var(--ink-3); stroke-width: 2; stroke-linecap: round; }
+.search input {
+  flex: 1; min-width: 0; border: 0; outline: 0; background: none; color: var(--ink);
+  font: inherit; font-size: 16px; padding: 10px 0; -webkit-appearance: none; appearance: none;
+}
+.search input::-webkit-search-cancel-button { display: none; }
+.q-clear { border: 0; background: none; color: var(--ink-3); font-size: 14px; padding: 8px 4px; cursor: pointer; }
+.more-btn { display: block; margin: 18px auto 0; }
+.story .rel { color: var(--accent); }
+.story .day { text-transform: uppercase; }

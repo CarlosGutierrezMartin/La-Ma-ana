@@ -34,6 +34,16 @@
 
   <nav class="tabs" id="tabs" aria-label="Secciones"></nav>
 
+  <div class="wrap">
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg>
+      <input id="q" type="search" placeholder="Buscar en todas las noticias" enterkeyhint="search" autocomplete="off" aria-label="Buscar en todas las noticias">
+      <button type="button" class="q-clear" id="qClear" aria-label="Borrar búsqueda" hidden>✕</button>
+    </label>
+  </div>
+
+  <div class="wrap" id="podcastBox" hidden></div>
+
   <main id="main">
     <div class="skeleton" id="skeleton">
       <div></div><div></div><div></div>

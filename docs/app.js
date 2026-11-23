@@ -16,6 +16,8 @@
     read: new Set(store.get("read", [])),
     hiddenSources: new Set(store.get("hiddenSources", [])),
     hiddenTopics: new Set(store.get("hiddenTopics", [])),
+    query: "",
+    archive: null, // ediciones de días anteriores, cargadas solo si se buscan
     prefs: Object.assign({ theme: "auto", size: "m", hideRead: false, showImages: true }, store.get("prefs", {})),
   };
 
@@ -23,6 +25,7 @@
   const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : "#");
   const tz = "Europe/Madrid";
   const fmtTime = (iso) => new Date(iso).toLocaleTimeString("es-ES", { hour: "2-digit", minute: "2-digit", timeZone: tz });
+  const fmtShort = (ymd) => new Date(ymd + "T12:00:00").toLocaleDateString("es-ES", { weekday: "short", day: "numeric", month: "short" });
   const fmtDay = (ymd) => new Date(ymd + "T12:00:00").toLocaleDateString("es-ES", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
   function ago(iso) {
     const h = (Date.now() - new Date(iso)) / 36e5;
@@ -77,13 +80,31 @@
   }
 
   /* ----------------------------------------------------------- render */
-  function visibleItems(ids) {
-    const items = state.digest.items;
+  const episodeFor = (date) => state.podcast?.episodes?.find((e) => e.date === date) || null;
+
+  // Noticia por id: de la edición o, si ya no está en ella, de la ficha guardada con el podcast
+  function itemOf(id) {
+    const it = state.digest.items[id];
+    if (it) return it;
+    return episodeFor(state.digest.date)?.story_items?.find((s) => s.id === id) || null;
+  }
+
+  // Secciones de la edición + la pestaña virtual "Podcast" si ese día hay episodio
+  function viewSections() {
+    const secs = state.digest.sections.slice();
+    const ep = episodeFor(state.digest.date);
+    if (ep?.stories?.length) {
+      secs.splice(1, 0, { id: "podcast", name: "En el podcast de hoy", short: "Podcast", items: ep.stories, virtual: true });
+    }
+    return secs;
+  }
+
+  function visibleItems(ids, { allTopics = false } = {}) {
     return ids
-      .map((id) => ({ id, ...items[id] }))
-      .filter((it) => it.title && !state.hiddenSources.has(it.source_id))
+      .map((id) => ({ ...itemOf(id), id }))
+      .filter((it) => it.title && (allTopics || !state.hiddenSources.has(it.source_id)))
       // fuera si todos sus temas están ocultos (las que no tienen tema se quedan)
-      .filter((it) => !(it.topics?.length && it.topics.every((t) => state.hiddenTopics.has(t))))
+      .filter((it) => allTopics || !(it.topics?.length && it.topics.every((t) => state.hiddenTopics.has(t))))
       .filter((it) => !(state.prefs.hideRead && state.read.has(it.id)));
   }
 
@@ -97,12 +118,13 @@
   }
 
   function renderTabs() {
-    const secs = state.digest.sections.filter((s) => s.items.length && !state.hiddenTopics.has(s.id));
+    const secs = viewSections().filter((s) => s.items.length && (s.virtual || !state.hiddenTopics.has(s.id)));
     if (!secs.find((s) => s.id === state.section)) state.section = secs[0]?.id || "top";
     $("#tabs").innerHTML = secs
       .map((s) => {
         const unread = s.items.filter((id) => !state.read.has(id)).length;
-        return `<button class="tab" role="tab" data-id="${esc(s.id)}" aria-selected="${s.id === state.section}">${esc(s.short || s.name)}<span class="count">${unread}</span></button>`;
+        const sel = !state.query && s.id === state.section;
+        return `<button class="tab" role="tab" data-id="${esc(s.id)}" aria-selected="${sel}">${esc(s.short || s.name)}<span class="count">${unread}</span></button>`;
       })
       .join("");
     $(`.tab[aria-selected="true"]`)?.scrollIntoView({ inline: "center", block: "nearest" });
@@ -117,7 +139,7 @@
       : "";
     return `<article class="story reveal${lead ? " lead" : ""}${read ? " read" : ""}" style="--i:${i}" id="s-${esc(it.id)}">
       <a class="hit" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener" data-read="${esc(it.id)}" aria-label="${esc(it.title)}"></a>
-      <div class="meta"><span class="num">${String(i + 1).padStart(2, "0")}</span><span class="src">${esc(it.source)}</span><span class="dot"></span><time datetime="${esc(it.published)}">${ago(it.published)}</time>${read ? '<span class="read-mark">Leída ✓</span>' : ""}</div>
+      <div class="meta"><span class="num">${String(i + 1).padStart(2, "0")}</span><span class="src">${esc(it.source)}</span><span class="dot"></span>${it._day ? `<span class="day">${esc(fmtShort(it._day))}</span>` : `<time datetime="${esc(it.published)}">${ago(it.published)}</time>`}${it._rel ? `<span class="dot"></span><span class="rel">Relevancia ${esc(it._rel)}</span>` : ""}${read ? '<span class="read-mark">Leída ✓</span>' : ""}</div>
       ${lead ? img : ""}
       <h3>${esc(it.title)}</h3>
       ${lead ? "" : img}
@@ -126,22 +148,42 @@
     </article>`;
   }
 
-  function renderMain() {
-    const d = state.digest;
-    const sec = d.sections.find((s) => s.id === state.section) || d.sections[0];
-    const items = visibleItems(sec.items);
-    let html = "";
-
-    const ep = sec.id === "top" && state.podcast?.episodes?.find((e) => e.date === d.date);
-    if (ep) {
+  // Reproductor fuera del contenido: sobrevive a cambios de pestaña y redibujados.
+  // Se ve en Portada y Podcast, y en cualquier pestaña mientras suena.
+  function renderPodcastBox() {
+    const box = $("#podcastBox");
+    const audio = $("#podcastBox audio");
+    const playing = audio && !audio.paused;
+    const ep = episodeFor(state.digest.date);
+    if (ep && box.dataset.file !== ep.file && !playing) {
       const mins = Math.max(1, Math.round(ep.duration / 60));
-      html += `<section class="podcast reveal" style="--i:0">
+      box.dataset.file = ep.file;
+      box.innerHTML = `<section class="podcast">
         <span class="kicker">Podcast · ${mins} min</span>
         <h2>${esc(ep.title)}</h2>
         <audio controls preload="none" src="podcast/${esc(ep.file)}"></audio>
         <p class="pod-topics">${esc((ep.topic_names || []).join(" · "))}</p>
         ${ep.transcript?.length ? `<details><summary>Leer el guion</summary>${ep.transcript.map((t) => `<p><b>${esc(t.speaker)}</b> ${esc(t.text)}</p>`).join("")}</details>` : ""}
       </section>`;
+      $("#podcastBox audio").addEventListener("pause", renderPodcastBox);
+    }
+    const here = !state.query && (state.section === "top" || state.section === "podcast");
+    box.hidden = !box.dataset.file || !(here && (ep?.file === box.dataset.file) || ($("#podcastBox audio") && !$("#podcastBox audio").paused));
+  }
+
+  function renderMain() {
+    if (state.query) return renderSearch();
+    const d = state.digest;
+    const sec = viewSections().find((s) => s.id === state.section) || d.sections[0];
+    let html = "";
+    let items;
+    if (sec.id === "podcast") {
+      // Las noticias del episodio, en el orden en que se cuentan, con su relevancia
+      const ep = episodeFor(d.date);
+      const rel = Object.fromEntries((ep.story_items || []).map((s) => [s.id, s.relevance]));
+      items = visibleItems(sec.items, { allTopics: true }).map((it) => ({ ...it, _rel: rel[it.id] }));
+    } else {
+      items = visibleItems(sec.items);
     }
     if (sec.id === "top" && d.brief?.length) {
       html += `<section class="brief reveal" style="--i:0"><h2>Las claves del día</h2><ol>${d.brief
@@ -152,13 +194,56 @@
     html += items.length
       ? items.map((it, i) => storyHTML(it, i, sec.id === "top" && i === 0)).join("")
       : `<p class="empty">${state.prefs.hideRead ? "Lo has leído todo en esta sección." : "Hoy no hay noticias para este tema."}</p>`;
-    const old = $("#main .podcast audio");
-    const keep = old && !old.paused ? old : null; // si está sonando, no se toca
     $("#main").innerHTML = html;
-    if (keep) {
-      const fresh = $("#main .podcast audio");
-      if (fresh && fresh.getAttribute("src") === keep.getAttribute("src")) fresh.replaceWith(keep);
+  }
+
+  /* ----------------------------------------------------------- buscador */
+  const fold = (s) => String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+  function searchPool() {
+    // Todas las noticias del día (de todas las secciones) y, si se han cargado, las de días anteriores
+    const d = state.digest;
+    const topicName = Object.fromEntries(d.sections.map((s) => [s.id, s.name]));
+    const pool = new Map();
+    const add = (id, it, day) => {
+      if (!it?.title || pool.has(id)) return;
+      pool.set(id, { ...it, id, _day: day, _hay: fold([it.title, it.summary, it.ai_summary, it.source, ...(it.topics || []).map((t) => topicName[t] || t)].join(" ")) });
+    };
+    Object.entries(d.items).forEach(([id, it]) => add(id, it, null));
+    (episodeFor(d.date)?.story_items || []).forEach((it) => add(it.id, it, null));
+    if (state.archive) {
+      Object.entries(state.archive)
+        .sort((a, b) => b[0].localeCompare(a[0]))
+        .forEach(([day, dg]) => { if (day !== d.date) Object.entries(dg.items).forEach(([id, it]) => add(id, it, day)); });
     }
+    return [...pool.values()];
+  }
+
+  function renderSearch() {
+    const terms = fold(state.query).split(/\s+/).filter(Boolean);
+    const hits = searchPool()
+      .filter((it) => terms.every((t) => it._hay.includes(t)))
+      .sort((a, b) => (a._day ? 1 : 0) - (b._day ? 1 : 0) || (b._day || "").localeCompare(a._day || "") || (b.score || 0) - (a.score || 0));
+    const others = state.days.filter((day) => day !== state.digest.date).length;
+    let html = `<div class="section-head"><h2>«${esc(state.query)}»</h2><span class="kicker">${hits.length} ${hits.length === 1 ? "noticia" : "noticias"}</span></div>`;
+    html += hits.length
+      ? hits.slice(0, 80).map((it, i) => storyHTML(it, i, false)).join("")
+      : `<p class="empty">Ninguna noticia ${state.archive ? "de estos días" : "de hoy"} contiene esas palabras.</p>`;
+    if (!state.archive && others) {
+      html += `<button type="button" class="btn more-btn" id="searchArchive">Buscar también en los ${others} días anteriores</button>`;
+    }
+    $("#main").innerHTML = html;
+  }
+
+  async function loadArchive() {
+    const b = $("#searchArchive");
+    if (b) { b.disabled = true; b.textContent = "Cargando días anteriores…"; }
+    const archive = {};
+    await Promise.all(state.days.map(async (day) => {
+      try { archive[day] = await getJSON(`data/${day}.json`); } catch {}
+    }));
+    state.archive = archive;
+    renderMain();
   }
 
   function renderFooter() {
@@ -289,6 +374,7 @@
   function render() {
     renderHeader();
     renderTabs();
+    renderPodcastBox();
     renderMain();
     renderFooter();
   }
@@ -302,18 +388,45 @@
     setTimeout(() => { renderTabs(); renderMain(); }, 400);
   }
 
+  function setQuery(v) {
+    const query = v.trim();
+    $("#qClear").hidden = !v;
+    if (!v) $("#q").value = "";
+    if (query === state.query) return;
+    state.query = query;
+    renderTabs();
+    renderPodcastBox();
+    renderMain();
+  }
+
   function bind() {
     $("#tabs").addEventListener("click", (e) => {
       const b = e.target.closest(".tab");
       if (!b) return;
       state.section = b.dataset.id;
       store.set("section", state.section);
+      setQuery("");
       renderTabs();
+      renderPodcastBox();
       renderMain();
       window.scrollTo({ top: $(".tabs").offsetTop, behavior: "smooth" });
     });
 
+    // Buscador: filtra todas las noticias mientras se escribe
+    const q = $("#q");
+    let qTimer;
+    q.addEventListener("input", () => {
+      clearTimeout(qTimer);
+      qTimer = setTimeout(() => setQuery(q.value), 150);
+    });
+    q.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") { q.value = ""; setQuery(""); q.blur(); }
+      if (e.key === "Enter") q.blur(); // cierra el teclado en el móvil
+    });
+    $("#qClear").addEventListener("click", () => { q.value = ""; setQuery(""); q.focus(); });
+
     $("#main").addEventListener("click", (e) => {
+      if (e.target.id === "searchArchive") return loadArchive();
       const a = e.target.closest("[data-read]");
       if (a) return markRead(a.dataset.read);
       const li = e.target.closest("[data-goto]");
