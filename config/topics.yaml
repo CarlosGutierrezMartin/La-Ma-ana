@@ -149,6 +149,185 @@ topics:
       - Comunidad de Madrid
       - Generalitat
 
+  # Los temas siguientes tienen además medios especializados (ver
+  # `topics:` en sources.yaml): sus noticias cuentan para el tema aunque
+  # no usen ninguna de estas palabras.
+  - id: optica
+    name: Óptica y optometría
+    short: Óptica
+    weight: 1.0
+    max_items: 10
+    keywords:
+      - optometr*          # optometría, optometrista, optometry...
+      - oftalmolog*
+      - ophthalm*
+      - salud visual
+      - eye care
+      - eyecare
+      - eye health
+      - vision care
+      - ópticas
+      - óptico-optometrista*
+      - gafas
+      - eyewear
+      - lente* de contacto
+      - lentilla*
+      - contact lens*
+      - miopía
+      - myopia
+      - presbicia
+      - presbyopia
+      - glaucoma
+      - retina*
+      - cataract*
+      - EssilorLuxottica
+      - Luxottica
+      - Essilor
+      - Alcon
+      - Bausch
+      - CooperVision
+      - Zeiss
+      - Hoya
+      - Specsavers
+      - General Óptica
+      - Multiópticas
+      - Afflelou
+      - Visionlab
+      - Federópticos
+      - Warby Parker
+
+  - id: marketing
+    name: Marketing y publicidad
+    short: Marketing
+    weight: 1.0
+    max_items: 10
+    keywords:
+      - marketing
+      - publicidad
+      - publicitari*
+      - anunciante*
+      - agencia* de publicidad
+      - agencia* creativa*
+      - campaña* publicitaria*
+      - branding
+      - advertising
+      - advertiser*
+      - adtech
+      - CMO
+      - redes sociales
+      - social media
+      - influencer*
+      - retail media
+      - SEO
+      - Cannes Lions
+      - comercio electrónico
+      - e-commerce
+      - WPP
+      - Omnicom
+      - Publicis
+      - Havas
+      - Dentsu
+      - Interpublic
+
+  - id: pharma
+    name: Industria y marketing farmacéutico
+    short: Pharma
+    weight: 1.0
+    max_items: 10
+    keywords:
+      - marketing farmacéutico
+      - pharma marketing
+      - farmacéutica*
+      - industria farmacéutica
+      - Farmaindustria
+      - medicamento*
+      - fármaco*
+      - AEMPS
+      - EMA
+      - FDA
+      - pharma
+      - pharmaceutical*
+      - drugmaker*
+      - biotech*
+      - DTC
+      - direct-to-consumer
+      - visitador* médico*
+      - KOL
+      - omnicanal*
+      - omnichannel
+      - Pfizer
+      - Novartis
+      - Roche
+      - Sanofi
+      - AstraZeneca
+      - Lilly
+      - Novo Nordisk
+      - MSD
+      - Merck
+      - GSK
+      - Bayer
+      - Grifols
+      - Almirall
+      - Rovi
+
+  - id: medtech
+    name: Medical devices
+    short: MedTech
+    weight: 1.0
+    max_items: 10
+    keywords:
+      - medical device*
+      - dispositivo* médico*
+      - producto* sanitario*
+      - tecnología sanitaria
+      - medtech
+      - Fenin
+      - 510(k)
+      - FDA clearance
+      - implant*
+      - implante*
+      - marcapasos
+      - pacemaker*
+      - wearable*
+      - robot* quirúrgico*
+      - surgical robot*
+      - Medtronic
+      - Boston Scientific
+      - Abbott
+      - Stryker
+      - Siemens Healthineers
+      - GE HealthCare
+      - Intuitive Surgical
+      - Philips
+
+  - id: salud
+    name: Salud y healthcare
+    short: Salud
+    weight: 1.0
+    max_items: 10
+    keywords:
+      - sanidad
+      - sanitari*
+      - Sistema Nacional de Salud
+      - Ministerio de Sanidad
+      - salud pública
+      - atención primaria
+      - listas de espera
+      - hospital*
+      - médicos
+      - enfermer*
+      - pacientes
+      - OMS
+      - healthcare
+      - health system*
+      - public health
+      - Medicare
+      - Medicaid
+      - vacuna*
+      - vaccine*
+      - cáncer
+      - cancer
+
 # Si una noticia contiene alguna de estas palabras en el titular, se descarta.
 exclude:
   - horóscopo

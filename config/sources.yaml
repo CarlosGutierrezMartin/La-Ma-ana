@@ -7,6 +7,11 @@
 # frontpage: true en los feeds de portada da un pequeño plus (lo que el
 #            periódico considera importante).
 # enabled: false para desactivar sin borrar.
+# topics: [id] en medios especializados: todas sus noticias cuentan para ese
+#         tema aunque no usen ninguna palabra clave.
+# window_hours: ventana propia para medios que publican poco.
+# search: en vez de feeds, una búsqueda de Google News (fuente temática);
+#         cada noticia muestra el nombre del medio que la publica.
 
 settings:
   window_hours: 30          # solo noticias publicadas en las últimas N horas
@@ -130,3 +135,244 @@ sources:
     weight: 1.0
     feeds: []   # Reuters ya no publica RSS: va directo por Google News
     fallback_gnews: "site:reuters.com (AI OR technology OR tech)"
+
+  # ------------- Óptica y optometría -------------
+  # Las revistas españolas del sector (Lookvision, Gaceta de Optometría, CNOO)
+  # no tienen RSS accesible: se cubren con la búsqueda temática en español.
+  - id: optometrytimes
+    name: Optometry Times
+    lang: en
+    weight: 1.0
+    topics: [optica]
+    window_hours: 72
+    feeds:
+      - url: https://www.optometrytimes.com/rss.xml
+    fallback_gnews: "site:optometrytimes.com"
+
+  - id: visionmonday
+    name: Vision Monday
+    lang: en
+    weight: 1.0
+    topics: [optica]
+    window_hours: 72
+    feeds:
+      - url: https://www.visionmonday.com/rss/latest-news/
+    fallback_gnews: "site:visionmonday.com"
+
+  - id: healio_eye
+    name: Healio (ojos)
+    lang: en
+    weight: 0.9
+    topics: [optica]
+    window_hours: 72
+    feeds:
+      - url: https://www.healio.com/sws/feed/news/optometry
+      - url: https://www.healio.com/sws/feed/news/ophthalmology
+    fallback_gnews: "site:healio.com optometry OR ophthalmology"
+
+  - id: ophthalmologytimes
+    name: Ophthalmology Times
+    lang: en
+    weight: 0.9
+    topics: [optica]
+    window_hours: 72
+    feeds:
+      - url: https://www.ophthalmologytimes.com/rss.xml
+    fallback_gnews: "site:ophthalmologytimes.com"
+
+  - id: optica_es
+    name: Óptica en prensa española
+    lang: es
+    weight: 1.0
+    topics: [optica]
+    window_hours: 72
+    feeds: []
+    search: 'optometría OR optometrista OR "salud visual" OR oftalmología OR "ópticas"'
+
+  # ------------- Marketing -------------
+  - id: marketingdirecto
+    name: Marketing Directo
+    lang: es
+    weight: 1.0
+    topics: [marketing]
+    feeds:
+      - url: https://www.marketingdirecto.com/feed
+    fallback_gnews: "site:marketingdirecto.com"
+
+  - id: ipmark
+    name: IPMARK
+    lang: es
+    weight: 1.0
+    topics: [marketing]
+    feeds:
+      - url: https://www.ipmark.com/feed/
+    fallback_gnews: "site:ipmark.com"
+
+  - id: reasonwhy
+    name: Reason Why
+    lang: es
+    weight: 0.9
+    topics: [marketing]
+    feeds: []   # sin RSS público: va por Google News
+    fallback_gnews: "site:reasonwhy.es"
+
+  - id: adweek
+    name: Adweek
+    lang: en
+    weight: 0.9
+    topics: [marketing]
+    feeds:
+      - url: https://www.adweek.com/feed/
+    fallback_gnews: "site:adweek.com"
+
+  - id: marketingdive
+    name: Marketing Dive
+    lang: en
+    weight: 0.9
+    topics: [marketing]
+    window_hours: 48
+    feeds:
+      - url: https://www.marketingdive.com/feeds/news/
+    fallback_gnews: "site:marketingdive.com"
+
+  # ------------- Industria y marketing farmacéutico -------------
+  - id: diariofarma
+    name: Diariofarma
+    lang: es
+    weight: 1.0
+    topics: [pharma]
+    feeds:
+      - url: https://www.diariofarma.com/feed
+    fallback_gnews: "site:diariofarma.com"
+
+  - id: elglobal
+    name: El Global
+    lang: es
+    weight: 1.0
+    topics: [pharma]
+    feeds:
+      - url: https://elglobal.es/feed/
+    fallback_gnews: "site:elglobal.es"
+
+  - id: pharmaphorum
+    name: pharmaphorum
+    lang: en
+    weight: 1.0
+    topics: [pharma]
+    feeds:
+      - url: https://pharmaphorum.com/rss.xml
+    fallback_gnews: "site:pharmaphorum.com"
+
+  - id: pmlive
+    name: PMLiVE
+    lang: en
+    weight: 1.0
+    topics: [pharma]
+    window_hours: 48
+    feeds:
+      - url: https://www.pmlive.com/rss
+    fallback_gnews: "site:pmlive.com"
+
+  - id: pharmexec
+    name: Pharmaceutical Executive
+    lang: en
+    weight: 0.9
+    topics: [pharma]
+    feeds:
+      - url: https://www.pharmexec.com/rss
+    fallback_gnews: "site:pharmexec.com"
+
+  - id: mmm
+    name: MM+M
+    lang: en
+    weight: 1.0
+    topics: [pharma]
+    window_hours: 48
+    feeds: []   # bloquea lectores RSS: va por Google News
+    fallback_gnews: "site:mmm-online.com"
+
+  - id: fiercepharma
+    name: Fierce Pharma (marketing)
+    lang: en
+    weight: 1.0
+    topics: [pharma]
+    window_hours: 48
+    feeds: []   # bloquea lectores RSS: va por Google News
+    fallback_gnews: "site:fiercepharma.com marketing"
+
+  # ------------- Medical devices -------------
+  - id: medtechdive
+    name: MedTech Dive
+    lang: en
+    weight: 1.0
+    topics: [medtech]
+    window_hours: 72
+    feeds:
+      - url: https://www.medtechdive.com/feeds/news/
+    fallback_gnews: "site:medtechdive.com"
+
+  - id: mdnetwork
+    name: Medical Device Network
+    lang: en
+    weight: 0.9
+    topics: [medtech]
+    window_hours: 48
+    feeds:
+      - url: https://www.medicaldevice-network.com/feed/
+    fallback_gnews: "site:medicaldevice-network.com"
+
+  - id: medtech_search
+    name: Medical devices en prensa
+    lang: en
+    weight: 0.9
+    topics: [medtech]
+    window_hours: 48
+    feeds: []
+    search: '"medical device" OR medtech OR "FDA clearance" OR "510(k)"'
+
+  # ------------- Salud y healthcare -------------
+  - id: redaccionmedica
+    name: Redacción Médica
+    lang: es
+    weight: 1.0
+    topics: [salud]
+    feeds:
+      - url: https://www.redaccionmedica.com/rss/
+    fallback_gnews: "site:redaccionmedica.com"
+
+  - id: consalud
+    name: ConSalud
+    lang: es
+    weight: 0.9
+    topics: [salud]
+    feeds:
+      - url: https://www.consalud.es/rss/
+    fallback_gnews: "site:consalud.es"
+
+  - id: diariomedico
+    name: Diario Médico
+    lang: es
+    weight: 1.0
+    topics: [salud]
+    feeds:
+      - url: https://www.diariomedico.com/rss/
+    fallback_gnews: "site:diariomedico.com"
+
+  - id: statnews
+    name: STAT
+    lang: en
+    weight: 1.0
+    topics: [salud]
+    feeds:
+      - url: https://www.statnews.com/feed/
+    fallback_gnews: "site:statnews.com"
+
+  - id: healthcaredive
+    name: Healthcare Dive
+    lang: en
+    weight: 0.9
+    topics: [salud]
+    window_hours: 48
+    feeds:
+      - url: https://www.healthcaredive.com/feeds/news/
+    fallback_gnews: "site:healthcaredive.com"

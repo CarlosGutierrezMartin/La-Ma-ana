@@ -62,6 +62,7 @@ def main():
         else:
             s["feeds"] = [{"url": (HERE / "missing.xml").resolve().as_uri()}]
             s.pop("fallback_gnews", None)
+            s.pop("search", None)
     (HERE / "sources.test.yaml").write_text(yaml.safe_dump(cfg, allow_unicode=True), encoding="utf-8")
     print("now:", NOW.isoformat())
 

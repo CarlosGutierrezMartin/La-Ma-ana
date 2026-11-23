@@ -59,7 +59,10 @@ def norm(s: str) -> str:
 
 
 def clean_html(s: str, limit: int = 420) -> str:
-    s = re.sub(r"<[^>]+>", " ", s or "")
+    # Algunos feeds (p. ej. Optometry Times) dejan el CDATA sin cerrar dentro del
+    # titular; sin esto, el quitador de etiquetas se come el titular entero.
+    s = re.sub(r"<!\[CDATA\[(.*?)(?:\]\]>|\]?$)", r"\1", s or "", flags=re.S)
+    s = re.sub(r"<[^>]+>", " ", s)
     s = html.unescape(s)
     s = re.sub(r"\s+", " ", s).strip()
     if len(s) > limit:
@@ -156,20 +159,26 @@ def parse_feed(raw: bytes, src: dict, frontpage: bool, via_gnews: bool) -> list[
     out = []
     for e in parsed.entries:
         url, title = e.get("link"), clean_html(e.get("title", ""), 300)
+        # "categoría | Titular" (ConSalud y otros): quitar la categoría
+        title = re.sub(r"^[^|]{2,30}\s\|\s+(?=\S.{15,})", "", title)
         if not url or not title:
             continue
         t = e.get("published_parsed") or e.get("updated_parsed")
         pub = datetime.fromtimestamp(timegm(t), tz=timezone.utc) if t else datetime.now(timezone.utc)
         summary = clean_html(e.get("summary", "") or e.get("description", ""))
+        name = src["name"]
         if via_gnews:
             # Google News añade " - Medio" al titular y su entradilla repite el titular
             title = re.sub(r"\s+-\s+[^-]{2,60}$", "", title)
             summary = ""
+            if src.get("search"):
+                # Fuente temática (búsqueda): mostrar el medio real, no "Google News"
+                name = (e.get("source") or {}).get("title") or name
         if summary and norm(summary).startswith(norm(title)[:60]):
             summary = summary[len(title):].strip(" .-–") if len(summary) > len(title) + 20 else ""
         out.append(
             Article(
-                url=url, title=title, summary=summary, source_id=src["id"], source_name=src["name"],
+                url=url, title=title, summary=summary, source_id=src["id"], source_name=name,
                 published=pub, image=None if via_gnews else pick_image(e), frontpage=frontpage,
                 weight=float(src.get("weight", 1.0)),
             )
@@ -187,10 +196,11 @@ def fetch_source(src: dict, settings: dict) -> tuple[list[Article], dict]:
             errors.append(f"{f['url']}: {type(ex).__name__}: {ex}"[:200])
     via = "rss"
     # También si los feeds responden pero vacíos (p. ej. elEconomista devuelve un canal sin noticias)
-    if not arts and src.get("fallback_gnews"):
+    query = src.get("search") or src.get("fallback_gnews")
+    if not arts and query:
         via = "google-news"
         try:
-            url = gnews_url(src["fallback_gnews"], src.get("lang", "es"))
+            url = gnews_url(query, src.get("lang", "es"))
             arts += parse_feed(http_get(url, ua, timeout), src, False, True)
         except Exception as ex:  # noqa: BLE001
             errors.append(f"google-news: {type(ex).__name__}: {ex}"[:200])
@@ -223,12 +233,17 @@ def cluster(articles: list[Article], threshold: float = 0.5) -> list[Article]:
     return reps
 
 
-def score_articles(reps: list[Article], topics: list[dict], now: datetime) -> None:
+def score_articles(reps: list[Article], topics: list[dict], now: datetime, source_topics: dict | None = None) -> None:
+    """source_topics: {source_id: [topic_id, ...]} para medios especializados; sus
+    noticias cuentan para ese tema aunque no usen ninguna palabra clave."""
     matchers = {t["id"]: KeywordMatcher(t.get("keywords", [])) for t in topics}
+    source_topics = source_topics or {}
     for a in reps:
         for t in topics:
             m = matchers[t["id"]]
             raw = 3 * m.count(a.title) + m.count(a.summary)
+            if t["id"] in source_topics.get(a.source_id, ()):
+                raw += int(t.get("min_score", 2))
             if raw >= int(t.get("min_score", 2)):
                 a.topics[t["id"]] = raw * float(t.get("weight", 1.0))
         topic_score = max(a.topics.values(), default=0.0) + 0.25 * (sum(a.topics.values()) - max(a.topics.values(), default=0.0))
@@ -242,19 +257,25 @@ def score_articles(reps: list[Article], topics: list[dict], now: datetime) -> No
 def select(reps: list[Article], topics: list[dict], per_source_cap: int = 4) -> tuple[list[dict], list[Article]]:
     by_score = sorted(reps, key=lambda a: a.score, reverse=True)
 
-    def take(pool, n):
-        picked, per_src = [], {}
+    def take(pool, n, src_cap=per_source_cap, topic_cap=None):
+        picked, per_src, per_topic = [], {}, {}
         for a in pool:
-            if per_src.get(a.source_id, 0) >= per_source_cap:
+            main = max(a.topics, key=a.topics.get) if a.topics else None
+            if per_src.get(a.source_id, 0) >= src_cap:
+                continue
+            if topic_cap and main and per_topic.get(main, 0) >= topic_cap:
                 continue
             picked.append(a)
             per_src[a.source_id] = per_src.get(a.source_id, 0) + 1
+            if main:
+                per_topic[main] = per_topic.get(main, 0) + 1
             if len(picked) >= n:
                 break
         return picked
 
     sections = []
-    top = take([a for a in by_score if a.score > 0], 15)
+    # Portada variada: como mucho 2 noticias por medio y 3 por tema principal
+    top = take([a for a in by_score if a.score > 0], 15, src_cap=2, topic_cap=3)
     sections.append({"id": "top", "name": "Lo más relevante", "short": "Portada", "items": [a.id for a in top]})
     used = {a.id for a in top}
     for t in topics:
@@ -355,18 +376,19 @@ def main() -> int:
 
     # 2. filter
     window = timedelta(hours=float(settings.get("window_hours", 30)))
+    windows = {s["id"]: timedelta(hours=float(s["window_hours"])) for s in sources if s.get("window_hours")}
     excl = KeywordMatcher(tcfg.get("exclude", []))
     seen, fresh = set(), []
     for a in articles:
         key = a.url.split("?")[0].rstrip("/")
-        if key in seen or now - a.published > window or a.published - now > timedelta(hours=2) or excl.count(a.title):
+        if key in seen or now - a.published > windows.get(a.source_id, window) or a.published - now > timedelta(hours=2) or excl.count(a.title):
             continue
         seen.add(key)
         fresh.append(a)
 
     # 3-4. cluster + score + select
     reps = cluster(fresh)
-    score_articles(reps, topics, now)
+    score_articles(reps, topics, now, {s["id"]: s.get("topics", []) for s in sources})
     sections, selected = select(reps, topics)
 
     # 5. AI

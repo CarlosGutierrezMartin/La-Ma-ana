@@ -25,7 +25,8 @@ A partir de ahí se regenera sola todos los días a las 06:20 (07:20 en horario 
 
 - **Temas**: edita `config/topics.yaml` (se puede hacer desde la web de GitHub en el móvil). Cada cambio relanza el job y ves el efecto en un minuto.
 - **Medios**: añade bloques en `config/sources.yaml`. Si un medio no tiene RSS, deja `feeds: []` y pon `fallback_gnews: "site:dominio.com"`.
-- **En el móvil** (Ajustes ⚙︎): tema papel/noche, tamaño de letra, ocultar leídas, ocultar medios.
+- **En el móvil** (Ajustes ⚙︎): tema papel/noche, tamaño de letra, ocultar leídas, ocultar temas y ocultar medios (se guarda en cada dispositivo).
+- **Medios especializados**: con `topics: [id]` en `sources.yaml` todas sus noticias cuentan para ese tema; `window_hours` les da una ventana más larga si publican poco; `search:` crea una fuente temática con una búsqueda de Google News.
 
 ## Cómo decide qué es relevante
 

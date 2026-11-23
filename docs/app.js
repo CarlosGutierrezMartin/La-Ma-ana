@@ -15,6 +15,7 @@
     section: store.get("section", "top"),
     read: new Set(store.get("read", [])),
     hiddenSources: new Set(store.get("hiddenSources", [])),
+    hiddenTopics: new Set(store.get("hiddenTopics", [])),
     prefs: Object.assign({ theme: "auto", size: "m", hideRead: false, showImages: true }, store.get("prefs", {})),
   };
 
@@ -72,6 +73,8 @@
     return ids
       .map((id) => ({ id, ...items[id] }))
       .filter((it) => it.title && !state.hiddenSources.has(it.source_id))
+      // fuera si todos sus temas están ocultos (las que no tienen tema se quedan)
+      .filter((it) => !(it.topics?.length && it.topics.every((t) => state.hiddenTopics.has(t))))
       .filter((it) => !(state.prefs.hideRead && state.read.has(it.id)));
   }
 
@@ -85,7 +88,7 @@
   }
 
   function renderTabs() {
-    const secs = state.digest.sections.filter((s) => s.items.length);
+    const secs = state.digest.sections.filter((s) => s.items.length && !state.hiddenTopics.has(s.id));
     if (!secs.find((s) => s.id === state.section)) state.section = secs[0]?.id || "top";
     $("#tabs").innerHTML = secs
       .map((s) => {
@@ -145,6 +148,10 @@
     $(`input[name=size][value=${state.prefs.size}]`).checked = true;
     $("#hideRead").checked = state.prefs.hideRead;
     $("#showImages").checked = state.prefs.showImages;
+    $("#topicToggles").innerHTML = d.sections
+      .filter((s) => s.id !== "top")
+      .map((s) => `<label class="switch"><input type="checkbox" data-topic="${esc(s.id)}" ${state.hiddenTopics.has(s.id) ? "" : "checked"}><span>${esc(s.name)}</span></label>`)
+      .join("");
     $("#sourceToggles").innerHTML = d.sources
       .map((s) => `<label class="switch"><input type="checkbox" data-src="${esc(s.id)}" ${state.hiddenSources.has(s.id) ? "" : "checked"}><span>${esc(s.name)}</span></label>`)
       .join("");
@@ -203,7 +210,10 @@
       else if (t.name === "size") state.prefs.size = t.value;
       else if (t.id === "hideRead") state.prefs.hideRead = t.checked;
       else if (t.id === "showImages") state.prefs.showImages = t.checked;
-      else if (t.dataset.src) {
+      else if (t.dataset.topic) {
+        t.checked ? state.hiddenTopics.delete(t.dataset.topic) : state.hiddenTopics.add(t.dataset.topic);
+        store.set("hiddenTopics", [...state.hiddenTopics]);
+      } else if (t.dataset.src) {
         t.checked ? state.hiddenSources.delete(t.dataset.src) : state.hiddenSources.add(t.dataset.src);
         store.set("hiddenSources", [...state.hiddenSources]);
       }
