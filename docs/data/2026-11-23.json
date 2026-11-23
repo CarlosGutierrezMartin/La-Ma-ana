@@ -1,10 +1,10 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T15:35:20.268742+00:00",
+ "generated_at": "2026-11-23T15:50:21.816412+00:00",
  "stats": {
-  "fetched": 1708,
-  "fresh": 632,
-  "stories": 589,
+  "fetched": 1763,
+  "fresh": 668,
+  "stories": 629,
   "selected": 89
  },
  "brief": null,
@@ -18,11 +18,11 @@
     "9c18fd8d23",
     "3ce502eefa",
     "2be98cfc04",
-    "90f831b4fd",
     "b205246cdc",
     "dc42a73f7e",
     "58c2527b36",
     "e10a54d444",
+    "94e0e3d950",
     "02ea7b5321",
     "aefe2fb3f5",
     "43393413fe",
@@ -43,12 +43,12 @@
     "716c53fa8f",
     "bc5a53032c",
     "58c2527b36",
-    "90f831b4fd",
     "94e0e3d950",
     "8fa6f24d75",
     "aa93777566",
     "ab33412673",
     "cac1e87497",
+    "90f831b4fd",
     "743c66de3d",
     "f3dd4003e1",
     "2f9c65df28"
@@ -65,9 +65,9 @@
     "7eccd90ac9",
     "378e2b2dc1",
     "17b2c2dee1",
+    "1b24c54950",
     "a2c7afe9f7",
     "e326412a2a",
-    "34cd408acb",
     "26cb8d2aa5",
     "106e5d1cff",
     "a457bdd4df"
@@ -80,13 +80,13 @@
    "items": [
     "9c18fd8d23",
     "02ea7b5321",
-    "90f831b4fd",
     "4bfc072ba7",
     "bc5a53032c",
+    "90f831b4fd",
     "17b2c2dee1",
+    "1b24c54950",
     "130257fb00",
     "133404e6a4",
-    "34cd408acb",
     "b5f425ec8b",
     "a5e2ab9f7c",
     "1ddff4a50d"
@@ -131,13 +131,13 @@
    "name": "Óptica y optometría",
    "short": "Óptica",
    "items": [
+    "a4bae11b09",
     "e44a11c1f6",
     "14f0fff5d7",
     "5320043ce8",
     "ffa17286a8",
     "d385192900",
     "f8cc59acbc",
-    "1c93d024fa",
     "0f37f7e9e6",
     "ac8b6d1aab",
     "a1ea71a98c"
@@ -172,9 +172,9 @@
     "988fb944df",
     "8fa6f24d75",
     "f4c1a1d8e2",
+    "7004274ff1",
     "71eae63a3e",
-    "d3561ea80e",
-    "2b1342e4e5"
+    "d3561ea80e"
    ]
   },
   {
@@ -186,8 +186,8 @@
     "58c2527b36",
     "9b513f1c62",
     "19d402410a",
-    "9a6a5c9356",
-    "ada284ba64",
+    "167adc3c0c",
+    "7c0be06f40",
     "cac1e87497",
     "68c3085284",
     "3588888e17",
@@ -226,7 +226,7 @@
     "ia",
     "negocios"
    ],
-   "score": 26.877,
+   "score": 26.696,
    "also": [
     {
      "source_id": "elpais",
@@ -274,7 +274,7 @@
     "ia",
     "medtech"
    ],
-   "score": 16.075,
+   "score": 15.967,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -302,37 +302,8 @@
    "topics": [
     "salud"
    ],
-   "score": 11.78,
+   "score": 11.704,
    "also": []
-  },
-  "90f831b4fd": {
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T14:21:59+00:00",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "negocios"
-   ],
-   "score": 11.599,
-   "also": [
-    {
-     "source_id": "eleconomista",
-     "source": "elEconomista",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
-     "title": "Nvidia recupera a Jensen Huang como CEO de forma inmediata"
-    },
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
-     "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
-    }
-   ]
   },
   "b205246cdc": {
    "title": "Los pacientes trasplantados tienen hasta cuatro veces más riesgo de desarrollar cáncer",
@@ -346,7 +317,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.519,
+   "score": 11.447,
    "also": []
   },
   "dc42a73f7e": {
@@ -362,7 +333,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.202,
+   "score": 11.135,
    "also": []
   },
   "58c2527b36": {
@@ -379,7 +350,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.782,
+   "score": 10.717,
    "also": [
     {
      "source_id": "medtech_search",
@@ -401,7 +372,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.693,
+   "score": 10.626,
    "also": []
   },
   "e252349a0c": {
@@ -417,22 +388,22 @@
     "salud",
     "pharma"
    ],
-   "score": 10.652,
+   "score": 10.585,
    "also": []
   },
   "94e0e3d950": {
-   "title": "Nvidia shares soar 30% after board reinstates Huang",
+   "title": "Nvidia surges 30% as tech stocks soar",
    "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
    "source": "Financial Times",
    "source_id": "ft",
-   "published": "2026-11-23T14:57:55+00:00",
+   "published": "2026-11-23T15:36:15+00:00",
    "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
    "ai_summary": null,
    "image": null,
    "topics": [
     "ia"
    ],
-   "score": 9.83,
+   "score": 9.935,
    "also": [
     {
      "source_id": "reuters",
@@ -457,7 +428,7 @@
     "economia",
     "negocios"
    ],
-   "score": 9.501,
+   "score": 9.436,
    "also": []
   },
   "02ea7b5321": {
@@ -473,7 +444,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.427,
+   "score": 9.369,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -496,7 +467,7 @@
     "pharma",
     "salud"
    ],
-   "score": 9.146,
+   "score": 9.095,
    "also": []
   },
   "43393413fe": {
@@ -512,7 +483,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 8.969,
+   "score": 8.912,
    "also": [
     {
      "source_id": "mmm",
@@ -534,7 +505,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.879,
+   "score": 8.846,
    "also": [
     {
      "source_id": "reuters",
@@ -556,7 +527,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.871,
+   "score": 8.811,
    "also": [
     {
      "source_id": "reuters",
@@ -578,7 +549,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.565,
+   "score": 8.516,
    "also": []
   },
   "f944bb368b": {
@@ -593,7 +564,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.387,
+   "score": 8.334,
    "also": []
   },
   "006b384510": {
@@ -608,7 +579,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.255,
+   "score": 8.203,
    "also": []
   },
   "f1b33dc12f": {
@@ -623,8 +594,31 @@
    "topics": [
     "salud"
    ],
-   "score": 8.216,
+   "score": 8.165,
    "also": []
+  },
+  "90f831b4fd": {
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T14:21:59+00:00",
+   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 8.063,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
+     "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+    }
+   ]
   },
   "f3dd4003e1": {
    "title": "Relyens analiza los desafíos de la responsabilidad civil sanitaria y la inteligencia artificial en el XXXII Congreso Nacional de Derecho Sanitario",
@@ -640,7 +634,7 @@
     "ia",
     "espana"
    ],
-   "score": 7.894,
+   "score": 7.84,
    "also": []
   },
   "8fa6f24d75": {
@@ -657,7 +651,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.777,
+   "score": 7.739,
    "also": []
   },
   "ab33412673": {
@@ -673,7 +667,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.775,
+   "score": 7.726,
    "also": []
   },
   "15c9134c35": {
@@ -688,7 +682,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.6,
+   "score": 7.557,
    "also": []
   },
   "ea9fa1507b": {
@@ -703,7 +697,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.473,
+   "score": 7.428,
    "also": []
   },
   "0b7525d017": {
@@ -718,7 +712,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.387,
+   "score": 7.337,
    "also": [
     {
      "source_id": "elpais",
@@ -741,7 +735,7 @@
     "salud",
     "espana"
    ],
-   "score": 7.299,
+   "score": 7.252,
    "also": []
   },
   "1c35030178": {
@@ -756,7 +750,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.295,
+   "score": 7.247,
    "also": []
   },
   "cac1e87497": {
@@ -773,7 +767,7 @@
     "tech",
     "medtech"
    ],
-   "score": 7.281,
+   "score": 7.231,
    "also": []
   },
   "9b513f1c62": {
@@ -789,7 +783,22 @@
     "medtech",
     "salud"
    ],
-   "score": 7.137,
+   "score": 7.093,
+   "also": []
+  },
+  "a4bae11b09": {
+   "title": "Rusia y China desarrollan ópticas compactas para reducir peso en gafas de VR",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTIzTUpnZXpZeU1zMHVuWi1qakRlN1luU2ZNX2txcEVQVDRTcThTc05IMFNjOFdKZk9TU2tXLS1NYU1sM3JyVEg2Z3I4TTF4NEVNSjRGSFQ2bDlBNXdVUlV5X0pmZXJoTUdLN1Z1aTU4SjAzRVdzUFB4dVp4cExaN05heGtmOWtJbnIzMkZoQXFVQUsydGVjWlE3dEUzYkVNNnJ5WWRGZWw5OXJ4V1E?oc=5",
+   "source": "Foro3D",
+   "source_id": "optica_es",
+   "published": "2026-11-23T10:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 6.892,
    "also": []
   },
   "8da34bf647": {
@@ -804,7 +813,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.898,
+   "score": 6.858,
    "also": []
   },
   "4bfc072ba7": {
@@ -820,7 +829,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.694,
+   "score": 6.653,
    "also": []
   },
   "6f5322db93": {
@@ -835,7 +844,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.522,
+   "score": 6.48,
    "also": []
   },
   "743c66de3d": {
@@ -851,7 +860,22 @@
     "ia",
     "marketing"
    ],
-   "score": 6.507,
+   "score": 6.465,
+   "also": []
+  },
+  "790c1aab79": {
+   "title": "Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
+   "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261122/del-estatuto-marco-listas-de-espera-los-programas-sanitarios-cada-partido-para-el-al-detalle/365755_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-22T17:15:19+00:00",
+   "summary": "Redacción Médica pone las principales claves sanitarias de los programas electorales en el centro del debate a modo de tertulia Y además: Sánchez convoca elecciones: los españoles decidirán el futuro de su sanidad el próximo 29 de noviembre",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160024.jpg?p=g:fp:0.5:0.38/w:1706/h:960&h=x-rWInCd",
+   "topics": [
+    "salud"
+   ],
+   "score": 6.426,
    "also": []
   },
   "5320043ce8": {
@@ -867,22 +891,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.451,
-   "also": []
-  },
-  "790c1aab79": {
-   "title": "Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
-   "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261122/del-estatuto-marco-listas-de-espera-los-programas-sanitarios-cada-partido-para-el-al-detalle/365755_0.html",
-   "source": "Redacción Médica",
-   "source_id": "redaccionmedica",
-   "published": "2026-11-22T17:15:19+00:00",
-   "summary": "Redacción Médica pone las principales claves sanitarias de los programas electorales en el centro del debate a modo de tertulia Y además: Sánchez convoca elecciones: los españoles decidirán el futuro de su sanidad el próximo 29 de noviembre",
-   "ai_summary": null,
-   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160024.jpg?p=g:fp:0.5:0.38/w:1706/h:960&h=x-rWInCd",
-   "topics": [
-    "salud"
-   ],
-   "score": 6.446,
+   "score": 6.412,
    "also": []
   },
   "ed24ecec5c": {
@@ -897,7 +906,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.279,
+   "score": 6.239,
    "also": []
   },
   "e44a11c1f6": {
@@ -912,7 +921,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.231,
+   "score": 6.201,
    "also": []
   },
   "2f9c65df28": {
@@ -927,7 +936,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.16,
+   "score": 6.13,
    "also": []
   },
   "ffa17286a8": {
@@ -944,7 +953,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.137,
+   "score": 6.099,
    "also": []
   },
   "378e2b2dc1": {
@@ -960,7 +969,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.05,
+   "score": 6.014,
    "also": []
   },
   "988fb944df": {
@@ -975,7 +984,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.892,
+   "score": 5.852,
    "also": []
   },
   "17b2c2dee1": {
@@ -992,7 +1001,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.884,
+   "score": 5.846,
    "also": []
   },
   "70f9818cda": {
@@ -1007,7 +1016,24 @@
    "topics": [
     "espana"
    ],
-   "score": 5.858,
+   "score": 5.824,
+   "also": []
+  },
+  "1b24c54950": {
+   "title": "Según un estudio de la Universidad de Cambridge: \"Una empresa japonesa posee el 95% de la cuota de mercado de un material necesario para fabricar los chips de IA\"",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOS2xEVlJuNmU5ZXVINHhyelltMDVBcHRKLUQyb1dQdVVKTXVuS3FfcloyOWRXWTgwMzk2SExjRC1aRG14cjk4ZDdiWG51Ql90RHJiQi1yNVVweEVaZW9hUzdOY2s3NnJHTmgtZlJSS1JaR1N4Q0VsNGFCM1p4U0xPV3d2OGVHaDVUQ0xZWGpQQkg3ZUFUejFjcDRKN3Z0dmdaNTVXc19sdnNLbTA3RXg0Uk1zQUdPTHd3dTVfalVmQ1B3cHhVVUFmMWlFaHdvdEE2b0dsTmNRU1ExVE5nMURtOUd1NVhzODVMcGF2X0pOQzhiNHhEUTJlOVktWWhOYWU5VjBHZDNaQWZfRG9ZNGVVNnRvM0Q?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T13:07:11+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech",
+    "negocios"
+   ],
+   "score": 5.789,
    "also": []
   },
   "4100869d1c": {
@@ -1024,7 +1050,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.783,
+   "score": 5.766,
    "also": []
   },
   "e25be61dcd": {
@@ -1039,7 +1065,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.744,
+   "score": 5.722,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1056,7 +1082,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.597,
+   "score": 5.576,
    "also": []
   },
   "14f0fff5d7": {
@@ -1071,7 +1097,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.476,
+   "score": 5.449,
    "also": []
   },
   "133404e6a4": {
@@ -1088,7 +1114,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.405,
+   "score": 5.371,
    "also": []
   },
   "74b514dbc9": {
@@ -1104,7 +1130,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.356,
+   "score": 5.329,
    "also": []
   },
   "e326412a2a": {
@@ -1120,24 +1146,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.345,
-   "also": []
-  },
-  "34cd408acb": {
-   "title": "Según el informe, una empresa japonesa posee el 95% de la cuota de mercado de un material necesario para los chips de IA",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQ2IwQW1jU1VOOHNpWW56QVlGTl9PVmo0ZnF3YjVpV0dKYlFhRTVNVzBtbGlla0JFYUppNHpwZzJOUTRacHZ6YTd6UXZ5dlZ4aUpxbXZPVlN3NjlFNFFhYmtUMmNWWElLaUppT2hueWxzalRRUmdWLS1sSDVoNmRfMV9VR2VNNGdmQkV0dWR5OGdqVV9EMU5GNzZ4VW1rejNFNEdoM05Ld0ZPVGIzUll2dzdKemVfSFZTY1N0cU9MVFZXaVIwRnc3RlZRLWVFeXVZQm1heWFQaXZsTDFOc25wZG45NUd4cnBMc2tpc05YZWdaczZoQWREUmdZM0J0enhZXzlUaV92Ti11UUtyejBuRFcxNE0?oc=5",
-   "source": "elEconomista",
-   "source_id": "eleconomista",
-   "published": "2026-11-23T09:12:55+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "tech",
-    "negocios"
-   ],
-   "score": 5.297,
+   "score": 5.308,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1153,7 +1162,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.258,
+   "score": 5.228,
    "also": []
   },
   "4704f794ba": {
@@ -1170,7 +1179,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.204,
+   "score": 5.174,
    "also": []
   },
   "6cce577396": {
@@ -1185,7 +1194,23 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.193,
+   "score": 5.163,
+   "also": []
+  },
+  "7eccd90ac9": {
+   "title": "El mejor regalo es estar presente: Meta apela a la fibra sensible en su anuncio de Navidad",
+   "url": "https://www.marketingdirecto.com/campanas-navidenas/meta-gafas-inteligentes-mejor-regalo-estar-presente",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-23T13:03:49+00:00",
+   "summary": "La compañía de Zuckerberg trata de reivindicar el lado más humano de sus gafas inteligentes en este spot rubricado por Mother LA. La entrada El mejor regalo es estar presente: Meta apela a la fibra sensible en su anuncio de Navidad se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech",
+    "marketing"
+   ],
+   "score": 5.153,
    "also": []
   },
   "b5f425ec8b": {
@@ -1202,23 +1227,7 @@
     "negocios",
     "salud"
    ],
-   "score": 5.188,
-   "also": []
-  },
-  "7eccd90ac9": {
-   "title": "El mejor regalo es estar presente: Meta apela a la fibra sensible en su anuncio de Navidad",
-   "url": "https://www.marketingdirecto.com/campanas-navidenas/meta-gafas-inteligentes-mejor-regalo-estar-presente",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-23T13:03:49+00:00",
-   "summary": "La compañía de Zuckerberg trata de reivindicar el lado más humano de sus gafas inteligentes en este spot rubricado por Mother LA. La entrada El mejor regalo es estar presente: Meta apela a la fibra sensible en su anuncio de Navidad se publicó primero en Marketing Directo .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech",
-    "marketing"
-   ],
-   "score": 5.187,
+   "score": 5.153,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1233,7 +1242,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.154,
+   "score": 5.124,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1248,7 +1257,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.042,
+   "score": 5.014,
    "also": []
   },
   "a457bdd4df": {
@@ -1265,7 +1274,7 @@
     "tech",
     "espana"
    ],
-   "score": 4.968,
+   "score": 4.945,
    "also": []
   },
   "19d402410a": {
@@ -1281,7 +1290,22 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.956,
+   "score": 4.924,
+   "also": []
+  },
+  "7004274ff1": {
+   "title": "Novartis girds $5B Leqvio sales forecast with early look at cardiovascular disease ph. 3 data",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVpZUXRjTFFNRTk2Qk4xcXpNN2FmM3ZXUUh0Um00dVkzemxORVg1SXgtTllqTEo1Q0NQYjdJWFdqamtLRER4S2hQaS1aa3ZjMmNqd0JOaENrRUtjTTFJWlRfYmRXaDZmWUJwVkh0UkhuZE9wLVJXc1k5c3FKX0s0WnBTYnRBaGlRZ2tIcV90VWllWnBWa3RteGRYbHl3ZVVmaXk4TGx1ZTZJVHlRQ2t3U0h5YVE?oc=5",
+   "source": "Fierce Pharma (marketing)",
+   "source_id": "fiercepharma",
+   "published": "2026-11-23T15:15:20+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 4.92,
    "also": []
   },
   "7e6255878c": {
@@ -1296,7 +1320,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.928,
+   "score": 4.904,
    "also": []
   },
   "2f5e60e6ef": {
@@ -1311,43 +1335,12 @@
    "topics": [
     "economia"
    ],
-   "score": 4.924,
+   "score": 4.89,
    "also": []
   },
-  "1c93d024fa": {
-   "title": "Entrega alcalde Pedro Miguel Rosaldo 50 mil lentes graduados para apoyar la salud visual de los porteños",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BKOXZOV1hDeFd4OWNSSU91cXJZajhQQUpGT0tlSXFwbk1aSnpEa1RsNjMzUlVfUEhMSzJtdUlvTXZ2NmRUeUR4TVN6X1JMZkpKWXY2OVE1WElsVzRmb0pXb240Q2dxUkhWenoxY3htSkU3cnJvb1BRSEhIckppMkJwZ1BxX2NWVzZNLUZuRTl0ZTQzMjBVYlZBd3lLZmNzdWZGR0lvQzN1b1lSLU0tNnYzTjhCNDdiWmpURlhBQUdZYUludkx6dl93dWlabFVaQzNHa0dQUQ?oc=5",
-   "source": "Diario Gráfico",
-   "source_id": "optica_es",
-   "published": "2026-11-23T14:47:47+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.892,
-   "also": []
-  },
-  "9a6a5c9356": {
-   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEExR3NHRkpTQ0t0UV9kNlN3TEVlbTVIcFV0Ujl6aFBfLWtVb1B2ay1icmEwb3FzaWdUMHJmRVdwZHFZcGdxbVN4WnNQN3JXYUpuWjM0TUNVRGRlb3kwWks0NFJGMEJDRVR2SlhpR19NdVBaaV8xUm5zbllzVmdBbXZOYUtQNV80RG9nWFRaTWF4aXpFQUFrbXZQZl9MUDZ0Z0xiTzlIZmdyYW5wb04xNVgzemdnSWd0NU9BYUZTM3c?oc=5",
-   "source": "Investing.com India",
-   "source_id": "medtech_search",
-   "published": "2026-11-23T13:22:38+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "pharma"
-   ],
-   "score": 4.876,
-   "also": []
-  },
-  "ada284ba64": {
+  "167adc3c0c": {
    "title": "MIMEDX Announces FDA 510(k) Clearance for HELIOGEN® AMS",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXgzZmxYc3YtR3VpQlJfLWVYNG5FRWpCR1ZnbFd2RVBQLVBRUExMUEtCalQ4TmxzSUZfMnh5eFBkNHdOS2JneFFleVJ6b1d4QjdhdWNqdDVucURvR1VLRlk2WnJkTWZQR1FLT1FvTmRzYy1ESkxiN1dfUTNlRGxwczFkOE5ma2ZCQk1CX2FHSjlzUlhRWjVrTE8xQXFER2hVWlpoYXpTSGlPMUFsU2NlZFBidy14d0ZPdU9mMGRoTTViY0R20gHKAUFVX3lxTE1STlhaVnA1Q1A3bmU5TkV6MlZNLW5ROUM0bS1rR3I2RjM1LWp6QXdFeFdBaUZqOUdid3NHc0FibXNmSzRwZTVMMUJVbWNCWEJvcHJZZ2JtS1U2LUY2dG1OdGJ1Rk1RSWlsUUlwdG5vdVRFdXBhTXRoZmxoX0wzQW5rbmpiZ3g5TkVyY1JaWUxiRm80QkJCOWZWa1MzamVQTWtSQnJxNFo3dm1MYkItY25UcXNEa2tKbWYzTFRtNm80TkFOc3FtT09Tcmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUk5YWlZwNUNQN25lOU5FejJWTS1uUTlDNG0ta0dyNkYzNS1qekF3RXhXQWlGajlHYndzR3NBYm1zZks0cGU1TDFCVW1jQlhCb3ByWWdibUtVNi1GNnRtTnRidUZNUUlpbFFJcHRub3VURXVwYU10aGZsaF9MM0Fua25qYmd4OU5FcmNSWllMYkZvNEJCQjlmVmtTM2plUE1rUkJycTRaN3ZtTGJCLWNuVHFzRGtrSm1mM0xUbTZvNE5BTnNxbU9PU3Jn0gHKAUFVX3lxTE1STlhaVnA1Q1A3bmU5TkV6MlZNLW5ROUM0bS1rR3I2RjM1LWp6QXdFeFdBaUZqOUdid3NHc0FibXNmSzRwZTVMMUJVbWNCWEJvcHJZZ2JtS1U2LUY2dG1OdGJ1Rk1RSWlsUUlwdG5vdVRFdXBhTXRoZmxoX0wzQW5rbmpiZ3g5TkVyY1JaWUxiRm80QkJCOWZWa1MzamVQTWtSQnJxNFo3dm1MYkItY25UcXNEa2tKbWYzTFRtNm80TkFOc3FtT09Tcmc?oc=5",
    "source": "The Manila Times",
    "source_id": "medtech_search",
    "published": "2026-11-23T13:22:12+00:00",
@@ -1358,7 +1351,23 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.875,
+   "score": 4.843,
+   "also": []
+  },
+  "7c0be06f40": {
+   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnhqLVBTb3ktMnUxR1V1Mk5pZldCQmtSMjYyZ2M5V1UyMzNjQzZrcGZnS0pMMEYwZWdGZTdiN09XbDRTZm9fcEMtR1k4N1ZxNFlFck56UVI3RnczWS1nQS1YZkZYMnhKdi0yRnJHTFhfQUJLRldBRkUzc3QwLURKZ0ZzWl9rbUdOcjRnbldKT1dEUWdkX3V0WVRtdWtEajRIRlRCeU9Hb3pRcnlsZk42U0kyWjlpVWNjWmdj?oc=5",
+   "source": "Investing.com",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T13:15:54+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma"
+   ],
+   "score": 4.83,
    "also": []
   },
   "1ddff4a50d": {
@@ -1374,7 +1383,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.858,
+   "score": 4.827,
    "also": []
   },
   "71eae63a3e": {
@@ -1389,7 +1398,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.791,
+   "score": 4.759,
    "also": []
   },
   "d385192900": {
@@ -1404,7 +1413,22 @@
    "topics": [
     "optica"
    ],
-   "score": 4.699,
+   "score": 4.675,
+   "also": []
+  },
+  "f8cc59acbc": {
+   "title": "‘It All Came Together’: Donation Brings Eyewear to 100 Children in Florida",
+   "url": "http://www.visionmonday.com/business/article/it-all-came-together-donation-brings-eyewear-to-100-children-in-florida/",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:15:00+00:00",
+   "summary": "BOSTON—Approximately 100 children in Florida now have new eyewear, GoodVision USA has shared, thanks to a set of introductions arranged by the organization that brought together the brand Vontélle Eyewear with the Crestview Lions Foundation .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.666,
    "also": []
   },
   "130257fb00": {
@@ -1420,7 +1444,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.694,
+   "score": 4.664,
    "also": []
   },
   "d3561ea80e": {
@@ -1435,22 +1459,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.693,
-   "also": []
-  },
-  "f8cc59acbc": {
-   "title": "‘It All Came Together’: Donation Brings Eyewear to 100 Children in Florida",
-   "url": "http://www.visionmonday.com/business/article/it-all-came-together-donation-brings-eyewear-to-100-children-in-florida/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:15:00+00:00",
-   "summary": "BOSTON—Approximately 100 children in Florida now have new eyewear, GoodVision USA has shared, thanks to a set of introductions arranged by the organization that brought together the brand Vontélle Eyewear with the Crestview Lions Foundation .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.689,
+   "score": 4.662,
    "also": []
   },
   "4c8e713420": {
@@ -1465,7 +1474,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 4.531,
+   "score": 4.505,
    "also": []
   },
   "7d99e0f411": {
@@ -1481,22 +1490,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.509,
-   "also": []
-  },
-  "2b1342e4e5": {
-   "title": "Lilly snaps up LoQus23 and its early-stage Huntington's pill",
-   "url": "https://pharmaphorum.com/news/lilly-snaps-loqus23-and-its-early-stage-huntingtons-pill",
-   "source": "pharmaphorum",
-   "source_id": "pharmaphorum",
-   "published": "2026-11-23T11:24:37+00:00",
-   "summary": "Phil.Taylor Mon, 23/11/2026 - 11:24 Phil.Taylor Mon, 23/11/2026 - 11:24",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 4.482,
+   "score": 4.49,
    "also": []
   },
   "1dab1bd477": {
@@ -1511,7 +1505,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.298,
+   "score": 4.273,
    "also": []
   },
   "63706cb843": {
@@ -1527,7 +1521,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.228,
+   "score": 4.202,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1542,7 +1536,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.093,
+   "score": 4.068,
    "also": []
   },
   "106e5d1cff": {
@@ -1558,7 +1552,7 @@
     "tech",
     "ia"
    ],
-   "score": 3.94,
+   "score": 3.917,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1574,7 +1568,7 @@
     "negocios",
     "salud"
    ],
-   "score": 3.94,
+   "score": 3.916,
    "also": []
   },
   "1e82ded39f": {
@@ -1590,7 +1584,7 @@
     "economia",
     "salud"
    ],
-   "score": 3.926,
+   "score": 3.904,
    "also": []
   },
   "fb0c832b2c": {
@@ -1605,7 +1599,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.85,
+   "score": 3.832,
    "also": []
   },
   "41105876e2": {
@@ -1621,7 +1615,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.712,
+   "score": 3.697,
    "also": []
   },
   "852c829d5d": {
@@ -1636,7 +1630,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.08,
+   "score": 3.065,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1651,7 +1645,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.761,
+   "score": 2.76,
    "also": []
   },
   "a1ea71a98c": {
@@ -1666,7 +1660,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.761,
+   "score": 2.76,
    "also": []
   },
   "68c3085284": {
@@ -1682,7 +1676,7 @@
     "medtech",
     "salud"
    ],
-   "score": 2.421,
+   "score": 2.42,
    "also": []
   },
   "3588888e17": {
@@ -1697,7 +1691,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.382,
+   "score": 2.368,
    "also": []
   },
   "de138162ba": {
@@ -1712,7 +1706,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.35,
+   "score": 2.336,
    "also": []
   }
  },
@@ -1721,7 +1715,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 172,
+   "count": 214,
    "ok": true,
    "errors": []
   },
@@ -1729,7 +1723,7 @@
    "id": "elmundo",
    "name": "El Mundo",
    "via": "rss",
-   "count": 77,
+   "count": 76,
    "ok": true,
    "errors": []
   },
@@ -1737,7 +1731,7 @@
    "id": "elconfidencial",
    "name": "El Confidencial",
    "via": "rss",
-   "count": 34,
+   "count": 45,
    "ok": true,
    "errors": []
   },
@@ -1843,7 +1837,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 23,
+   "count": 24,
    "ok": true,
    "errors": []
   },
@@ -1939,7 +1933,7 @@
    "id": "fiercepharma",
    "name": "Fierce Pharma (marketing)",
    "via": "google-news",
-   "count": 2,
+   "count": 3,
    "ok": true,
    "errors": []
   },
@@ -1963,7 +1957,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 37,
+   "count": 38,
    "ok": true,
    "errors": []
   },
