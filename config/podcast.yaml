@@ -7,6 +7,7 @@
 topics: [optica, pharma, medtech, marketing, ia]
 
 minutes: 5                 # duración aproximada del episodio
+stories: 6                 # noticias por episodio (al menos una por tema): menos = más desarrolladas
 hosts:                     # voces prebuilt de Gemini: Kore, Charon, Puck, Aoede, Achird...
   - name: Lucía
     voice: Kore

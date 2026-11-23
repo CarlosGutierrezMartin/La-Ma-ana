@@ -92,28 +92,95 @@ def outlet_name(name: str) -> str:
     return re.sub(r"(\.(com|es|net|org|info|news|co|do|mx|ar|cl|uk|io))+$", "", name.strip(), flags=re.I) or name
 
 
-def pick_stories(digest: dict, topic_ids: list[str], total: int = 12) -> list[dict]:
-    """Las mejores noticias de cada tema elegido, sin repetir, repartidas."""
+TEXT_UA = "Mozilla/5.0 (compatible; LaManana/1.0; lector personal)"
+
+
+def article_text(url: str) -> str:
+    """Texto principal del artículo (para que el guion pueda desarrollar la
+    noticia sin inventar). Google News oculta el enlace real: ahí no hay texto."""
+    if "news.google.com" in url:
+        return ""
+    try:
+        import trafilatura
+        from build_digest import http_get
+        txt = trafilatura.extract(http_get(url, TEXT_UA, 15), favor_precision=True, include_comments=False) or ""
+        return re.sub(r"\s+", " ", txt).strip()
+    except Exception as ex:  # noqa: BLE001
+        log(f"sin texto de {url[:70]}: {type(ex).__name__}")
+        return ""
+
+
+# Siglas y palabras demasiado comunes para identificar una historia
+GENERIC = {"ai", "ia", "ceo", "cfo", "cmo", "uk", "us", "usa", "eu", "ue", "eeuu", "fda", "ema", "ipo", "tv",
+           "the", "for", "and", "los", "las", "del", "con", "por", "una", "new"}
+
+
+def names(title: str) -> set[str]:
+    """Nombres propios del titular (Nvidia, Jensen, Huang...), sin tildes."""
+    import unicodedata
+    plain = "".join(c for c in unicodedata.normalize("NFKD", title) if not unicodedata.combining(c))
+    words = re.findall(r"\b[A-Z][\w&-]{2,}", plain)
+    found = {w.lower() for w in words[1:]} | ({words[0].lower()} if words and not plain.startswith(words[0]) else set()) \
+        | {w.lower() for w in re.findall(r"\b[A-Z]{2,}\b", plain)}
+    return found - GENERIC
+
+
+def same_story(a: dict, b: dict) -> bool:
+    """La misma historia en dos medios (aunque sea en dos idiomas): comparten
+    al menos dos nombres propios."""
+    return len(names(a["title"]) & names(b["title"])) >= 2
+
+
+def pick_stories(digest: dict, topic_ids: list[str], n_stories: int = 6, per_topic_pool: int = 3) -> list[dict]:
+    """Pocas noticias bien contadas. Garantiza al menos una por tema elegido y
+    completa con las de más relevancia; prefiere las que tienen texto completo."""
+    import concurrent.futures as cf
     by_id = {s["id"]: s for s in digest["sections"]}
-    per_topic = max(2, min(4, math.ceil(total / max(1, len(topic_ids)))))
-    used, out = set(), []
+    pool, seen = [], set()
     for t in topic_ids:
         sec = by_id.get(t)
         if not sec:
             continue
-        n = 0
-        for sid in sec["items"]:
-            if sid in used:
-                continue
+        for sid in [x for x in sec["items"] if x not in seen][:per_topic_pool]:
+            seen.add(sid)
             it = digest["items"][sid]
-            used.add(sid)
-            out.append({"id": sid, "topic": sec["name"], "title": it["title"], "source": outlet_name(it["source"]),
-                        "summary": it.get("ai_summary") or it.get("summary") or "",
-                        "also": [a["source"] for a in it.get("also", [])]})
-            n += 1
-            if n >= per_topic:
+            pool.append({"id": sid, "topic_id": t, "topic": sec["name"], "title": it["title"],
+                         "source": outlet_name(it["source"]), "url": it["url"], "score": float(it.get("score") or 0),
+                         "summary": it.get("ai_summary") or it.get("summary") or "",
+                         "also": [outlet_name(a["source"]) for a in it.get("also", [])]})
+    with cf.ThreadPoolExecutor(8) as ex:
+        for c, txt in zip(pool, ex.map(lambda c: article_text(c["url"]), pool)):
+            c["text"] = txt[:2200]
+    # prioridad = relevancia; sin texto completo vale menos (se contaría casi solo el titular)
+    prio = lambda c: c["score"] * (1.0 if len(c["text"]) >= 600 else 0.6)  # noqa: E731
+    chosen = []
+
+    def add(c) -> bool:
+        dup = next((x for x in chosen if same_story(x, c)), None)
+        if dup:  # misma historia en otro medio: cuenta como cobertura, no como noticia nueva
+            if c["source"] != dup["source"] and c["source"] not in dup["also"]:
+                dup["also"].append(c["source"])
+            if len(c["text"]) > len(dup["text"]) + 400:
+                dup["text"] = c["text"]
+            return False
+        chosen.append(c)
+        return True
+
+    for t in topic_ids:                       # 1) la mejor de cada tema
+        for c in sorted((c for c in pool if c["topic_id"] == t), key=prio, reverse=True):
+            if add(c):
                 break
-    return out
+    for c in sorted(pool, key=prio, reverse=True):   # 2) completar por relevancia
+        if len(chosen) >= max(n_stories, len(topic_ids)):
+            break
+        if c not in chosen:
+            add(c)
+    top = max((c["score"] for c in chosen), default=1) or 1
+    for c in chosen:
+        c["relevance"] = max(1, round(100 * c["score"] / top))
+    order = {t: i for i, t in enumerate(topic_ids)}
+    chosen.sort(key=lambda c: (order[c["topic_id"]], -c["score"]))
+    return chosen
 
 
 # --------------------------------------------------------------------------- Gemini
@@ -176,33 +243,37 @@ def response_text(resp: dict) -> str:
 def write_script(stories: list[dict], cfg: dict, day_label: str, key: str) -> dict:
     hosts = [h["name"] for h in cfg["hosts"]]
     words = int(cfg.get("minutes", 5) * WORDS_PER_MIN)
-    topics_order = []
-    for s in stories:
-        if s["topic"] not in topics_order:
-            topics_order.append(s["topic"])
-    lines = []
-    for s in stories:
-        extra = f" (también en {', '.join(s['also'])})" if s["also"] else ""
-        lines.append(f"- [{s['topic']}] {s['source']}{extra}: {s['title']}" + (f". {s['summary'][:350]}" if s["summary"] else ""))
+    topics_order = list(dict.fromkeys(st["topic"] for st in stories))
+    blocks = []
+    for i, st in enumerate(stories, 1):
+        also = f" (también la publican: {', '.join(st['also'])})" if st["also"] else ""
+        body = st["text"] or st["summary"] or "(solo hay titular)"
+        blocks.append(f"### Noticia {i} · relevancia {st['relevance']}/100 · tema: {st['topic']}\n"
+                      f"Medio: {st['source']}{also}\nTitular: {st['title']}\nTexto: {body}")
     prompt = f"""Escribe el guion del podcast diario "La Mañana" de hoy, {day_label}.
 
-Presentan {hosts[0]} y {hosts[1]}, dos periodistas españoles, en una conversación natural de unos {words} palabras en total (unos {cfg.get('minutes', 5)} minutos). Español de España.
+Presentan {hosts[0]} y {hosts[1]}, dos periodistas españoles. Unas {words} palabras en total (unos {cfg.get('minutes', 5)} minutos), en español de España. El oyente quiere INFORMACIÓN: pocas noticias bien explicadas, no un repaso rápido de titulares.
 
-Temas, en este orden: {', '.join(topics_order)}. Trata TODOS los temas, cada uno con al menos una noticia, dedicando más tiempo a las noticias de mayor peso.
+Estructura:
+- Apertura: una sola frase con saludo y fecha. Sin presentarse, sin charla ni anticipar los temas.
+- Las {len(stories)} noticias de abajo, en ese orden (temas: {', '.join(topics_order)}). Reparte el tiempo según la relevancia: la de 100/100 es la que más se desarrolla; las de relevancia baja, más breves.
+- Cierre: una sola frase.
 
-Noticias disponibles (tema, medio, titular y entradilla):
-{chr(10).join(lines)}
+Cómo contar cada noticia, usando SOLO su texto:
+- Qué ha pasado, quién, cuándo, las cifras y datos concretos que dé el texto, el contexto que el propio texto explique y por qué importa a alguien de ese sector.
+- Si el texto es corto o solo hay titular, cuéntala en dos o tres frases y pasa a la siguiente: mejor breve que rellenar.
+- Prohibido inventar o suponer cifras, nombres, fechas, causas, consecuencias o declaraciones que no estén en el texto. No especules ni opines.
+- Cita el medio con naturalidad ("según El Global...") y, si otros medios la publican, dilo.
+- Traduce al español lo que esté en inglés.
 
-Reglas:
-- Usa SOLO la información de estas noticias. No inventes cifras, nombres, fechas ni declaraciones; si un dato no está, no lo des.
-- Cita el medio de cada noticia de forma natural ("según Diario Médico...").
-- Traduce al español las noticias en inglés.
-- Empieza saludando y diciendo la fecha; termina con una despedida breve.
-- Cada presentador habla siempre como sí mismo: {hosts[0]} es {hosts[0]} y {hosts[1]} es {hosts[1]}. Que no se presenten con fórmulas como "servidor".
-- Nombra los medios por su nombre, nunca como dirección web.
-- Frases cortas, fáciles de escuchar. Sin listas, sin markdown, sin URLs, sin acotaciones entre paréntesis.
-- Escribe las siglas como se pronuncian si no son evidentes, y las cifras con palabras cuando ayude a leerlas.
-- Alterna los turnos; ninguno de más de 80 palabras.
+Diálogo:
+- Cada intervención aporta un dato o una explicación. Uno presenta la noticia y el otro añade datos del texto o pregunta algo que el texto responde. Nada de reacciones vacías ("¡qué interesante!", "sin duda") ni de bromas.
+- {hosts[0]} es {hosts[0]} y {hosts[1]} es {hosts[1]}: cada uno habla como sí mismo.
+- Frases cortas, fáciles de escuchar. Sin listas, markdown, URLs ni acotaciones. Medios por su nombre, nunca como dirección web.
+- Siglas como se pronuncian si no son evidentes; cifras con palabras cuando ayude a leerlas.
+- Turnos de como mucho 90 palabras.
+
+{chr(10).join(blocks)}
 
 Devuelve SOLO un JSON con esta forma:
 {{"title": "titular del episodio (máx. 80 caracteres)", "turns": [{{"speaker": "{hosts[0]}", "text": "..."}}, {{"speaker": "{hosts[1]}", "text": "..."}}]}}"""
@@ -396,8 +467,10 @@ def generate(args, cfg, index, digest, day, audio_dir, save) -> int:
     topic_ids = [t for t in cfg.get("topics", []) if any(s["id"] == t for s in digest["sections"])]
     if not topic_ids:
         raise SystemExit("[podcast] ninguno de los temas de config/podcast.yaml existe en config/topics.yaml")
-    stories = pick_stories(digest, topic_ids)
+    stories = pick_stories(digest, topic_ids, int(cfg.get("stories", 6)))
     log(f"temas: {', '.join(topic_ids)} · {len(stories)} noticias")
+    for st in stories:
+        log(f"  {st['relevance']:>3}/100 · {len(st['text']):>5} car. · {st['source']}: {st['title'][:70]}")
     day_label = datetime.fromisoformat(day).strftime("%d/%m/%Y")
     script = write_script(stories, cfg, day_label, key)
     n_words = sum(len(t["text"].split()) for t in script["turns"])

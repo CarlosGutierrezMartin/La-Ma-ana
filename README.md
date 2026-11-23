@@ -28,6 +28,16 @@ A partir de ahí se regenera sola todos los días a las 06:20 (07:20 en horario 
 - **En el móvil** (Ajustes ⚙︎): tema papel/noche, tamaño de letra, ocultar leídas, ocultar temas y ocultar medios (se guarda en cada dispositivo).
 - **Medios especializados**: con `topics: [id]` en `sources.yaml` todas sus noticias cuentan para ese tema; `window_hours` les da una ventana más larga si publican poco; `search:` crea una fuente temática con una búsqueda de Google News.
 
+## Podcast diario (opcional, Gemini gratis)
+
+Con el secreto `GEMINI_API_KEY` (Google AI Studio, plan gratuito), cada edición genera además un episodio de ~5 minutos a dos voces:
+
+1. Para cada tema elegido en `config/podcast.yaml` toma sus 3 mejores noticias y lee el texto del artículo (`trafilatura`). Elige 6: la mejor de cada tema y el resto por relevancia, prefiriendo las que tienen texto completo y quitando la misma historia contada por dos medios.
+2. Gemini Flash escribe el guion solo con esos textos, con la relevancia de cada noticia (0-100) para repartir el tiempo; Gemini TTS lo locuta. Si un modelo está saturado, prueba el siguiente de la lista.
+3. El MP3 se publica en Pages (no se guarda en git) con su feed en `podcast.xml`.
+
+Los temas se cambian desde la app (Ajustes → Podcast, con un token de GitHub de este repo con permiso Contents: Read and write) o editando `config/podcast.yaml`; se aplican al día siguiente. "Run workflow" permite regenerar el episodio, ver solo el guion en el log o no gastar cupo.
+
 ## Cómo decide qué es relevante
 
 `puntuación = (coincidencias con tus temas × peso del tema + 4 por cada otro medio que publica la misma historia + 2 si está en portada) × peso del medio × recencia`

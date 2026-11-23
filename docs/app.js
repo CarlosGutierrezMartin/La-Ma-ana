@@ -30,6 +30,14 @@
     if (h < 24) return `hace ${Math.round(h)} h`;
     return fmtTime(iso);
   }
+  function showError(err) {
+    const msg = (err && (err.message || err.reason?.message || err.reason)) || String(err);
+    console.error(err);
+    toast("Error: " + String(msg).slice(0, 140));
+  }
+  window.addEventListener("error", (e) => showError(e.error || e.message));
+  window.addEventListener("unhandledrejection", (e) => showError(e.reason));
+
   function toast(msg) {
     const t = $("#toast"); t.textContent = msg; t.classList.add("show");
     clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove("show"), 2200);
@@ -144,7 +152,13 @@
     html += items.length
       ? items.map((it, i) => storyHTML(it, i, sec.id === "top" && i === 0)).join("")
       : `<p class="empty">${state.prefs.hideRead ? "Lo has leído todo en esta sección." : "Hoy no hay noticias para este tema."}</p>`;
+    const old = $("#main .podcast audio");
+    const keep = old && !old.paused ? old : null; // si está sonando, no se toca
     $("#main").innerHTML = html;
+    if (keep) {
+      const fresh = $("#main .podcast audio");
+      if (fresh && fresh.getAttribute("src") === keep.getAttribute("src")) fresh.replaceWith(keep);
+    }
   }
 
   function renderFooter() {
@@ -317,7 +331,16 @@
     });
 
     const dlg = $("#settings");
-    $("#openSettings").addEventListener("click", () => { renderSettings(); dlg.showModal(); });
+    $("#openSettings").addEventListener("click", () => {
+      try { renderSettings(); } catch (err) { showError(err); }
+      try {
+        if (dlg.open) dlg.close();   // si se quedó abierto "a medias", se reabre limpio
+        dlg.showModal();
+      } catch (err) {
+        dlg.setAttribute("open", ""); // último recurso: abrir sin modo modal
+        showError(err);
+      }
+    });
     dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
     dlg.addEventListener("click", (e) => { if (e.target.closest("#ghBox, #feedHint")) podcastSettingsClick(e); });
     dlg.addEventListener("keydown", (e) => { if (e.key === "Enter" && e.target.id === "ghToken") { e.preventDefault(); $("#ghIn").click(); } });
