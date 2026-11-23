@@ -1,0 +1,58 @@
+name: Edición diaria
+
+on:
+  schedule:
+    # GitHub usa UTC. 05:20 UTC = 06:20 en Madrid en invierno, 07:20 en verano.
+    # (GitHub puede retrasar los cron unos minutos en horas punta.)
+    - cron: "20 5 * * *"
+  workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
+  push:
+    branches: [main]
+    paths: ["config/**", "docs/**", "scripts/**", "!docs/data/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: edicion-diaria
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar edición
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/build_digest.py
+
+      - name: Guardar histórico en el repo
+        run: |
+          git config user.name  "la-manana-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet || git commit -m "Edición $(TZ=Europe/Madrid date +%F)"
+          git pull --rebase --autostash || true
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4

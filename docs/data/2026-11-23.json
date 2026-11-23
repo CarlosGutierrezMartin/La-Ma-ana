@@ -1,0 +1,983 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T13:22:00.445266+00:00",
+ "stats": {
+  "fetched": 1235,
+  "fresh": 407,
+  "stories": 387,
+  "selected": 47
+ },
+ "brief": null,
+ "ai_model": null,
+ "sections": [
+  {
+   "id": "top",
+   "name": "Lo más relevante",
+   "short": "Portada",
+   "items": [
+    "e10a54d444",
+    "9edcdf98db",
+    "5b36f02409",
+    "716c53fa8f",
+    "ea9fa1507b",
+    "5d90b69eed",
+    "1c35030178",
+    "58b56f8a05",
+    "a2c7afe9f7",
+    "7e6255878c",
+    "ed24ecec5c",
+    "378e2b2dc1",
+    "70f9818cda",
+    "8fa6f24d75",
+    "9c079ad7f6"
+   ]
+  },
+  {
+   "id": "ia",
+   "name": "Inteligencia artificial",
+   "short": "IA",
+   "items": [
+    "716c53fa8f",
+    "9edcdf98db",
+    "8fa6f24d75",
+    "a2c7afe9f7",
+    "2f9c65df28",
+    "378e2b2dc1",
+    "9c079ad7f6",
+    "58b56f8a05",
+    "3d92721ffb",
+    "04504f1c47",
+    "133404e6a4",
+    "743a395685",
+    "a4ff2c0ba2",
+    "2d515091a1",
+    "265c68ec3a"
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tecnología y big tech",
+   "short": "Tech",
+   "items": [
+    "a2c7afe9f7",
+    "378e2b2dc1",
+    "743a395685",
+    "106e5d1cff",
+    "2d515091a1",
+    "6793275c5f",
+    "dc02d0ba7c",
+    "2c0083c675"
+   ]
+  },
+  {
+   "id": "negocios",
+   "name": "Empresas y negocios",
+   "short": "Negocios",
+   "items": [
+    "5ae16a0f29",
+    "133404e6a4",
+    "743a395685",
+    "04504f1c47",
+    "e156fbaaf0",
+    "ff84702d1a",
+    "fecd4f0129",
+    "4e80f3e79f",
+    "7e23cf2c59",
+    "899936c4ba",
+    "8efc607bad",
+    "859659cc53"
+   ]
+  },
+  {
+   "id": "economia",
+   "name": "Economía y mercados",
+   "short": "Economía",
+   "items": [
+    "9edcdf98db",
+    "a2c7afe9f7",
+    "7d99e0f411",
+    "1dab1bd477",
+    "852c829d5d",
+    "fb0c832b2c",
+    "d178ea74b0",
+    "752fa60dfe",
+    "17e5a91048",
+    "f08f5245f9"
+   ]
+  },
+  {
+   "id": "espana",
+   "name": "España",
+   "short": "España",
+   "items": [
+    "e10a54d444",
+    "ea9fa1507b",
+    "7e6255878c",
+    "1c35030178",
+    "e25be61dcd",
+    "ed24ecec5c",
+    "70f9818cda",
+    "06aa0ea8a3",
+    "7d99e0f411",
+    "09243112c3"
+   ]
+  }
+ ],
+ "items": {
+  "e10a54d444": {
+   "title": "El 'último' servicio de Tezanos: el CIS asegura que el PSOE arrasará y Sánchez gobernará y el PP se burla y anuncia que será \"uno de los primeros\" en echar",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b041c85fc6c83271c8b4593.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-23T12:31:46+00:00",
+   "summary": "Sitúa a la mayoría de investidura sin Junts en el 51,4% mientras que PP y Vox suman el 40,3% / El PSOE le saca casi 10 puntos al PP Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954371568982.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 11.336,
+   "also": []
+  },
+  "9edcdf98db": {
+   "title": "Wall Street set to rebound after AI stock sell-off",
+   "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T12:54:22+00:00",
+   "summary": "Battered tech shares including Nvidia and Sandisk rise sharply pre-market",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "economia"
+   ],
+   "score": 10.614,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
+     "title": "Wall Street futures rebound as battered AI stocks gain ground"
+    }
+   ]
+  },
+  "5b36f02409": {
+   "title": "El Supremo aplica la amnistía a Puigdemont y cierra su causa penal nueve años después",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/la-sala-de-lo-penal-del-ts-declara-extinguida-la-responsabilidad-penal-de-puigdemont-por-la-amnistia_4470682/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T12:17:00+00:00",
+   "summary": "La Sala de lo Penal declara extinguida la responsabilidad penal de Puigdemont por la aplicación de la amnistía y cierra definitivamente la causa penal contra el expresidente catalán",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/yAjS8bWY-FYYB2gR3dlnFF_kihc=/0x0:2272x1639/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9d3%2Fbd2%2F462%2F9d3bd2462fbc19e62471f83fcca7c048.jpg",
+   "topics": [],
+   "score": 9.708,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-supremo-aplica-la-amnistia-a-puigdemont-y-cierra-la-causa-del-proces.html",
+     "title": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del ‘procés’"
+    },
+    {
+     "source_id": "elmundo",
+     "source": "El Mundo",
+     "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
+     "title": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del procés nueve años después de su apertura"
+    }
+   ]
+  },
+  "716c53fa8f": {
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-22T21:14:07+00:00",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 9.188,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+     "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric"
+    }
+   ]
+  },
+  "ea9fa1507b": {
+   "title": "El CIS de Tezanos amplía y deja a casi 10 puntos la ventaja de Sánchez sobre Feijóo a las puertas del 29-N",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/cis-tezanos-elecciones-generales-psoe-pp-vox-frente-amplio_4470602/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T11:06:00+00:00",
+   "summary": "El sondeo preelectoral del CIS vuelve a dar ganador de las elecciones del próximo domingo al PSOE. Mientras, tanto Vox como Frente Amplio bajan con respecto a la última encuesta publicada",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/GPU4RKsTbfh6BUuzN30LBY1sQaQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe4c%2F16c%2F337%2Fe4c16c3377f5873175c8702eec6d9fdd.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.903,
+   "also": []
+  },
+  "5d90b69eed": {
+   "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T12:38:23+00:00",
+   "summary": "El expresidente del Congreso le había pedido al exmandatario socialista que no hiciera “el tonto” y apoyara a Pedro Sánchez el 29-N",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/OQOCPLJPIJOSNNRHG6P4GL4RAY.jpg?auth=037fedf773304c8a7e7a71a2025379b1e21e7e886bfc58de5396225448e8de4f",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.45,
+   "also": [
+    {
+     "source_id": "eleconomista",
+     "source": "elEconomista",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNllncGRsNzB1ZTdmdHpzekQyVzVFRDhWNHBlZk5FWGtkVkhzcEFnUk4zVHRhV1FGV3lvSHVyYUlGOFA5dm1XQWlkOHpVLWJMNWQ0bzVRNldXT09Mc1A0QjRhdmpFbXRZdHdLSkpHWkE5RlhUa3VaU1dJRUp2bk41S1RvRWIyWFE5MlZmOXdxS0R6WWc3RWJ2aVlseWNVYzFrX2lsdnNxTHNuTWQ2NFRTa3BaRWJFVFI2MVRxXzkzUFowRXVrVE95N0haYk92aWFJc0liSjczQlh0bDNDU01JN1puMFRQOWh1RkFYQ3VHSTdjREtONTEyM3FYcWRfNXlFb0RkTGlRRzdoSFFOSFppUmxmY0w3YmxNbTBGdU9NSjd2U2kyTWhXM1ZZa01mTW5oOGZzTk45RURBQdIBpAJBVV95cUxONnpVdVQ0bUx6T0FhNGdpWWRfNmZHUUZkdThJaWI1cTZOd3JrWXp4RnlpODVzOGNYUEREdENVWGVJX1lCeXNiYlNZWUltV0o2TUpLZ243aDhXdnl4M09Kblh2dU9nS0JNT2RfNzQtTkplM0Izb1l1WjB0Y2hPRENkS2VVdWx0aE9CMzY1Smk2NmJ0VXBkQVp5UGlQbGNuMTV5djhpaXdUWWpIb29zSndaVmJWbkZhbFNwSjVfVXJOY3RQVFh6Rm1DMkMyRGxaMmEzYkVVYkZpZUZnSVlKbGM2M2tLazVuVk5jSGpaMzNDM3d1SURWOHVNYkw3UURkZm5wdU1zeDNTQTdYQjBTeFpXMFYxbnU5cFFMZjNkSGRYZjM5ZjFa?oc=5",
+     "title": "Felipe González responde a José Bono después de que este dijera que no hiciera \"el tonto\" con su voto: \"Yo soy una persona seria, no como otros\""
+    }
+   ]
+  },
+  "1c35030178": {
+   "title": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T11:41:44+00:00",
+   "summary": "El barómetro de noviembre da a los socialistas un 34,4% en intención de voto y un 24,7% a los populares. Vox pierde 2,8 puntos y cae hasta el 15,6%",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/24ZEBZEWFVNAJD2SXH4VFMFDWU.jpg?auth=27e3023dfef3d43505e7a22106ed455395d70b2c9771343830fb03b82ed82ac0",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.263,
+   "also": []
+  },
+  "58b56f8a05": {
+   "title": "South Korean minister says he is too old to tackle AI exam cheating",
+   "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T07:10:04+00:00",
+   "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 7.262,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI?oc=5",
+     "title": "South Korea's education minister quits over exam cheating chaos"
+    }
+   ]
+  },
+  "a2c7afe9f7": {
+   "title": "La España del empleo barato, ante la nueva ola tecnológica: \"La IA no aumenta los salarios por sí sola\"",
+   "url": "https://www.elmundo.es/economia/2026/11/22/6b00387b21efa06d178b4590.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-22T21:51:34+00:00",
+   "summary": "La economía española bate récord de empleo, pero arrastra una brecha de productividad que limita los sueldos. Las dificultades de las pymes para ganar tamaño, invertir y captar talento amenazan con dejar al país rezagado ante la revolución de la IA Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/20/17951938074407.jpg",
+   "topics": [
+    "ia",
+    "economia",
+    "tech"
+   ],
+   "score": 7.219,
+   "also": []
+  },
+  "7e6255878c": {
+   "title": "Los jubilados al PSOE y los policías a Vox: la diferencia del voto por ocupación",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/los-jubilados-al-psoe-y-los-policias-a-vox-la-diferencia-del-voto-por-ocupacion.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:30:01+00:00",
+   "summary": "Los de Abascal también ganan en grupos asociados a la clase obrera. El PP se impone en más ocupaciones, pero Sánchez es el favorito de más gente. Frente Amplio obtiene su mejor dato entre intelectuales y estudiantes",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "espana"
+   ],
+   "score": 6.766,
+   "also": []
+  },
+  "ed24ecec5c": {
+   "title": "Salseología cierra temporalmente sus redes tras compartir un vídeo de María Pombo hablando del PP y Vox",
+   "url": "https://elpais.com/gente/2026-11-23/salseologia-cierra-temporalmente-sus-redes-tras-compartir-un-video-de-maria-pombo-hablando-del-pp-y-vox.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T12:35:48+00:00",
+   "summary": "“Apoyo la libertad de voto y la pluralidad. Realmente, para mí no era relevante el contenido de esa conversación”, asegura en Instagram el creador de este perfil crítico con el mundo ‘influencer’",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/IUO33ZW2AFCOVGZ55NMONWP34E.jpg?auth=111e22c3a74d785ce654b41d1114aae5ef6645f0ed6e5db68c4f74da488d1425",
+   "topics": [
+    "espana"
+   ],
+   "score": 6.658,
+   "also": []
+  },
+  "2f9c65df28": {
+   "title": "Luciano Floridi, filósofo: “La teoría del apocalipsis de la IA es la suma de desinformación, propaganda, intereses y codicia”",
+   "url": "https://elpais.com/tecnologia/2026-11-23/luciano-floridi-filosofo-la-teoria-del-apocalipsis-de-la-ia-es-la-suma-de-desinformacion-propaganda-intereses-y-codicia.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:30:01+00:00",
+   "summary": "El experto, uno de los más reconocidos del mundo en tecnologías de la información, defiende el “asombroso” cambio que supone la IA pero reclama que no se la llame “inteligencia”",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/BNXCA77EZVE5JMW4BZPPJV3ZOI.jpg?auth=5cc525d704883eda8bcb9163276188119c867a6922080574f8a61246aedf4f37",
+   "topics": [
+    "ia"
+   ],
+   "score": 6.444,
+   "also": []
+  },
+  "378e2b2dc1": {
+   "title": "Alexander Wang, jefe de IA de Meta: \"La bomba atómica es un ejercicio escolar comparado con lo que acaba de hacer la IA\"",
+   "url": "https://www.elconfidencial.com/tecnologia/2026-11-23/wang-meta-ia-bomba-atomica_4470565/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T10:30:00+00:00",
+   "summary": "El máximo responsable de IA en la multinacional californiana asegura que \"la súper inteligencia ya está aquí\" y \"que todo va a cambiar\"",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/vnk0-DUFv10ABFuI4sngdsZGZQk=/0x299:2272x1577/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7c0%2F982%2Fdd5%2F7c0982dd5b628422634e4fd1fec8145c.jpg",
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 6.392,
+   "also": []
+  },
+  "70f9818cda": {
+   "title": "Feijóo compara a RTVE con la \"televisión norcoreana\" y promete impulsar una nueva ley de eutanasia",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/feijoo-compara-a-rtve-con-la_4470516/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T09:45:00+00:00",
+   "summary": "El líder del PP caldea el ambiente a las puertas de su posible entrevista con Intxaurrondo y califica de \"vergüenza\" el servicio de informativos del ente público. Responde a Abascal que no pactará tras el 29-N con un PSOE \"expropiado\" por Sánchez",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/_2MAj_o8PJ3Y0xbwCpBP97IxLi0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F972%2Fdbd%2F0f9%2F972dbd0f9c84bcdb8cf0d2afd29784f6.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 6.181,
+   "also": []
+  },
+  "8fa6f24d75": {
+   "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+   "url": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T05:00:22+00:00",
+   "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 6.107,
+   "also": []
+  },
+  "9c079ad7f6": {
+   "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+   "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+   "source": "MIT Technology Review",
+   "source_id": "mittr",
+   "published": "2026-11-23T13:10:00+00:00",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 5.967,
+   "also": []
+  },
+  "e25be61dcd": {
+   "title": "Batalla al límite en 23 provincias: menos de 10.000 votos decidirán el último escaño, pero PP y Vox amarran su mayoría",
+   "url": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b033046fc6c830e508b4594.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-22T21:34:22+00:00",
+   "summary": "Sánchez reduce al mínimo su distancia respecto a Feijóo, con ambos al alza mientras que Abascal cae Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953839380920.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 5.947,
+   "also": []
+  },
+  "133404e6a4": {
+   "title": "CCOO y UGT exigen al próximo Gobierno blindar los despidos frente a la IA y subir impuestos a las empresas más automatizadas",
+   "url": "https://www.elmundo.es/economia/2026/11/23/6b04253b21efa0c70e8b4591.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-23T12:06:43+00:00",
+   "summary": "Los sindicatos presentan 150 propuestas a los partidos ante las elecciones del 29N Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954342431451.jpg",
+   "topics": [
+    "ia",
+    "negocios",
+    "espana"
+   ],
+   "score": 5.726,
+   "also": []
+  },
+  "743a395685": {
+   "title": "Los chips de IA, a examen: según un informe, una empresa japonesa que posee el 95% de la cuota de mercado de un material necesario para fabricarlos",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTV9KQWlrTFJiVGItbkUxTVg2eW5yNlo1UU95OFRXOW5pY1VrWWV2aF9UTVZ5cXNCTWtYeEY4YzZxeGtrZEtiYVFIbE5FZUVFcE1GdGVLMGh2MFdwdXQtM28zcTBJZS11VXhndFdld3dHZG9jVklEZHJPMDR1T3BYZ01CcXhQVVZZaU8tWGE4NVJrOGktbU1QQ211MkcyNG4zT1VHSmNxeWVvalBRdWVRcTFUZkRoR1JQVFgzS0E5MHRhMERrenRhWmVNRlBDVjNveVZCVENlallRNWgyVEtwTFBvZzdfbUhHVmYtbmlTZlFYMTV4RlFlU1VIMVA1N1BFclljLWlid3dwZjhNODdmUk1iclEzcjg?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T10:00:23+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech",
+    "negocios"
+   ],
+   "score": 5.695,
+   "also": []
+  },
+  "5ae16a0f29": {
+   "title": "El grupo empresarial Costa puja por una adquisición en el sector cárnico",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQzZkbXBYdDM3OFFHSzZOQnVRNTRMWWhTa3hMTzFtVWRFd2x4MDY0MzhsUF83TVdTbmdWZUdsWldPNXNObmxBUHVBYnRCM0ZaSUlRaHloczVCODVnRWJENGpvdFFlTTZ1R0tnWk1SNDgtSzZaSlJZNnpzRW9CSGdEMlVuV2xUejNrUFkwT0J3T0c2TFYyYWxHZ1pLaWNIZXd4T0pGQ1Y5MnRHWEVlQzVZRXprN3RfdFk1T2h0QUw0OHZXRjdrdko4RE9DdzdoLVc0THUtekVIY25nWTBJ0gHHAUFVX3lxTE9ZZUNHeElOQmxXSHJlM2tjVmVaTzlhUTd4U1F4TFdrV2tad0FJWXFrdUNaQnl2a2xkNE5XTHFwWVBETVlJYTNXTDVuM2RhZVdyZmJiNnlkXzluTm1ubkJYYjNhSERHUGxPT1gySklMcHVXaE9RTmJPZ09Ba2pkOXJqOUM4VTBxZkxzMHU4SXk4dGxROXRoTXdzdjFrUmRZUXNDMHRHLVlhbEVNaHJZeGtodmNreU5Qd19vWFdXNnRFOVRyX1V4aDA?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T05:00:40+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios"
+   ],
+   "score": 5.374,
+   "also": []
+  },
+  "3d92721ffb": {
+   "title": "The problem with the circular AI economy",
+   "url": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T05:00:13+00:00",
+   "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 4.885,
+   "also": []
+  },
+  "2d515091a1": {
+   "title": "Jeff Bezos (Amazon) sentencia el futuro del mercado laboral: \"Solo hay un tipo de trabajador que la IA nunca podrá sustituir \"",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOU3U2ang2UDhJYlozSTRPdTV1WDNzbVRsbDhiTFotNVBBOWlxb1ZlN1R2NmlidEFKT3lqSG9BaDdRMGJTNGUyRTduRzBGV1poaFBTQjl2UUN0ekVUOWszbFRsYWRVS2YwczNDeHFsWEp2d1pjTl92LXR1MUxSYlltbmxpalI3ekVCSG5EcVlGc2ozdFF4d1pxWG1LdEFTTFM1RlJWQ2RrMklHY1FmUXRsVG9sTXdGVmd3YnVSODJrVUhWMXVwZUVmTUQ1Mms0Y2hLdENGeW1PMVVUZFphNnJLdzJjYjQ2Z3JqcVhDNUFVUGpvS2Z4bDZkMkZNTmRXTXdhSGdiV214ZkRUUG5mTnp5dS1QS0lmd1dx?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T09:13:22+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 4.845,
+   "also": []
+  },
+  "09243112c3": {
+   "title": "El salario real de los inmigrantes crece más rápido que el de los españoles durante el Gobierno de Pedro Sánchez, según el Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQZzJDZDFJTEVPTEpraDhJakkyQjU2VjNEVTdqUXpmd1NFUTlSOFpmUE05dDMwV1B4T1pBd1hGdlFGRmhWMGI5MFJjbi1nQWNVUXFzQWZUcjFFX1N4UktLX2FqN2x3ZWtuOXc1Y3FkdGhHMi1Lc1VuaHM4Wi00Z1dGQzE2RmZEX1RqN29ROGltU0pjTk9pWjAtSjM1dUpISm1SS0FBWEVzSVA1ZUN5aEthb0Qtck11NlZjbXlLamV6eXdMaWFOX1RiZ3hQc3JnNXM5ZWg2NFd2VElKZW96LWJfWWQ3M1RsMlhiSW1DVlJnVzlWNGdSdXR2VW9fSkFUc0tOcXI5cGgta2I2c0dSUlB1cFFuSHNUcXI5Z0tsdVpTS1ZISlczb2RFUzQyaw?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T12:46:44+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "espana"
+   ],
+   "score": 4.723,
+   "also": []
+  },
+  "06aa0ea8a3": {
+   "title": "El Gobierno exigirá a la Comunidad de Madrid revocar las instrucciones que prohíben carteles sobre la huelga o implicar a los alumnos",
+   "url": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-22T11:48:55+00:00",
+   "summary": "Pedro Sánchez compara los formularios con los utilizados en el franquismo; Isabel Díaz Ayuso le acusa de usar “ideológicamente y sectariamente a los niños” y jalear las huelgas educativas “más feroces que se recuerdan”",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/MR5BNW56FBO4JDUESPHQ66QUQ4.jpg?auth=4497cb76cdc1f4c3625807fcba14fcbfe0b8db70b231320f29a347085cf66cae",
+   "topics": [
+    "espana"
+   ],
+   "score": 4.719,
+   "also": []
+  },
+  "7d99e0f411": {
+   "title": "Así trabajó Hernández de Cos la presidencia del BCE con Sánchez y Feijóo: \"No hay que decir nada aún\"",
+   "url": "https://www.elmundo.es/economia/2026/11/23/6b032cffe9cf4ac8208b4576.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-22T23:58:45+00:00",
+   "summary": "Moncloa barajó a Calviño como alternativa pero el ex gobernador del Banco de España era el único posible y con respaldo de Draghi y Lagarde ante Macron Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953701868627.jpg",
+   "topics": [
+    "espana",
+    "economia"
+   ],
+   "score": 4.684,
+   "also": []
+  },
+  "04504f1c47": {
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T01:25:53+00:00",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 4.654,
+   "also": []
+  },
+  "1dab1bd477": {
+   "title": "JP Financial apuesta por la educación financiera para acercar la economía real a las personas",
+   "url": "https://cincodias.elpais.com/extras/2026-11-23/jp-financial-apuesta-por-la-educacion-financiera-para-acercar-la-economia-real-a-las-personas.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T09:39:13+00:00",
+   "summary": "La compañía fundada en 2024 por Pedro Muñoz y Javier Rumbo pone el foco en la divulgación financiera, la comprensión de las alternativas de financiación y la importancia de contar con información clara para tomar decisiones con criterio",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/43GFSNVJUZDEDIHFZUQMQVNHNU.jpg?auth=0fb9968aa2a0b2000f7b1231d21db91dabdb8562cd2bcc2de7519449f10915a0",
+   "topics": [
+    "economia"
+   ],
+   "score": 4.534,
+   "also": []
+  },
+  "106e5d1cff": {
+   "title": "Meta Muse can do your Black Friday shopping at Walmart",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "source": "The Verge",
+   "source_id": "theverge",
+   "published": "2026-11-23T11:00:00+00:00",
+   "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech",
+    "ia"
+   ],
+   "score": 4.166,
+   "also": []
+  },
+  "ff84702d1a": {
+   "title": "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, NYT says",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1pvWmhMSm1MRktDOXJhZWNCdTJIZ25WejNRVExzUHhPeGhEeklEZW54T3NVZTJYbjJEa3Bmcm0xV3B2aVZnTE5oYm9MNEVYQXBzZmZYQXV4SmNWa3ZrVXVqczFEV0JqaXNoRERwTlZaNk1YSXo3TGlQNWRVekh5dC1XTmVhYU5SYVRUbjNnbmszTm5PRTdCeVEyMmFweGE1NTRHSmcyRXlrUnBGNk5aWXZyTkdvSmgwaWRvdks2bGIzejlMY0E?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-23T01:54:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 4.071,
+   "also": []
+  },
+  "fb0c832b2c": {
+   "title": "Abhijit Banerjee, premio Nobel de Economía: “Cuando las personas reciben una transferencia de efectivo, trabajan más duro; no hay ninguna evidencia de que se vuelvan perezosas”",
+   "url": "https://elpais.com/planeta-futuro/2026-11-23/abhijit-banerjee-premio-nobel-de-economia-cuando-las-personas-reciben-una-transferencia-de-efectivo-trabajan-mas-duro-no-hay-ninguna-evidencia-de-que-se-vuelvan-perezosas.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:30:01+00:00",
+   "summary": "El economista indio explica que las poblaciones más pobres del mundo se han visto afectadas por un recorte “injustificado y brutal” de la cooperación internacional. Destaca además la carga desproporcionada del trabajo doméstico para las mujeres y la crisis climática como agravantes de la pobreza",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/LEUISIUZ4FDDPDX2FOJB3IJ2R4.jpg?auth=7a55e534b99c81cc3a1c6ee0d7e319c3f89eec62abefa9b0b38b223914e4b2d5",
+   "topics": [
+    "economia"
+   ],
+   "score": 4.028,
+   "also": []
+  },
+  "d178ea74b0": {
+   "title": "La inflación se come las subidas salariales y harta a los trabajadores",
+   "url": "https://elpais.com/economia/negocios/2026-11-23/la-inflacion-se-come-las-subidas-salariales-y-harta-a-los-trabajadores.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:30:00+00:00",
+   "summary": "El alza de los precios resta poder adquisitivo y las empresas buscan cómo premiar la aportación de sus empleados",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/MVQ3VDISNRHAXJV6UAWKYW723E.jpg?auth=0c42b2cf3441b702d134f3473135adedec8c7eda6a9fdee6d6d7e1e70b69a081",
+   "topics": [
+    "economia"
+   ],
+   "score": 4.028,
+   "also": []
+  },
+  "a4ff2c0ba2": {
+   "title": "Arnau Ramió, experto en criptomonedas: \"¿Cuántos agentes de IA habrá el año que viene? Desde 5.000 millones a 25.000 millones\"",
+   "url": "https://www.elconfidencial.com/tecnologia/2026-11-22/arnau-ramio-criptomonedas-inteligencia-artificial-blockchain_4467683/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-22T17:30:00+00:00",
+   "summary": "El especialista y cofundador de Learning Hero desgrana en el pódcast 'Tengo un Plan' el impacto económico de la inteligencia artificial. El experto vaticina que la tecnología blockchain será la red financiera que usen las máquinas para transaccionar",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/Lu7a1ZiagB91_9JNhHiwBV9b9IU=/0x0:1316x660/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2F3c0%2Fea3%2F9c1%2F3c0ea39c18a37f4cd3b8904e8983c722.png",
+   "topics": [
+    "ia"
+   ],
+   "score": 3.995,
+   "also": []
+  },
+  "752fa60dfe": {
+   "title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-22T23:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "economia"
+   ],
+   "score": 3.807,
+   "also": []
+  },
+  "6793275c5f": {
+   "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-22T17:53:07+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 3.615,
+   "also": []
+  },
+  "17e5a91048": {
+   "title": "El Gobierno concede el Ingreso Mínimo Vital a las personas que consiguen un empleo, incluso si cobran más de 6.000 euros anuales",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVmhSQWt1MEJVQW5xaWJuSTh3ck43WUdXZXhTUVQxVWZRVkk4MFNWaEp5UDBkbm1JRkZQVXYzaE9sZGFac3BTMjBxNTJ4ZktSQzFXV2RDU2NzTHdRWTg5b3pZYlBkM0d6WFFDVHgtREVmaWEyY2J1STF1NlBRd09ibXV1VmlSVWtETXZrejliT0xsOHlxVUM5V2xiNjU1bko5d1JFUk9UMThkMzY1UU9odnhsRWIwRFBlRXRhV1pfR0FYSnRmWFVNN09MSEZvTXUtU0xiZjNoSjQ2WUZMUXhXTU1OTGJUaWdNZVdMMVhoLVVWRVNwS0hob1BYWWtoSFdKOE1CWVlHaWRPbjJXcjM1RThYWkhvLU1iZjlTYw?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T12:58:41+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia",
+    "espana"
+   ],
+   "score": 3.562,
+   "also": []
+  },
+  "e156fbaaf0": {
+   "title": "El fraude del CEO llega a la justicia europea, que vuelve a poner a la banca en el punto de mira",
+   "url": "https://cincodias.elpais.com/companias/2026-11-23/el-fraude-del-ceo-llega-a-la-justicia-europea-que-vuelve-a-poner-a-la-banca-en-el-punto-de-mira.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:15:00+00:00",
+   "summary": "El Supremo plantea siete preguntas al TJUE sobre la autorización de transferencias, la autenticación bancaria y la responsabilidad de las empresas que han caído en la estafa",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/L5EK6P6MNFDMFRXVJW6J3OOYNM.jpg?auth=7caccfdbb034dcbec9a70c1a031ebc8ba9df9ba6795faeb9f0367ccad4777a1d",
+   "topics": [
+    "negocios"
+   ],
+   "score": 3.526,
+   "also": []
+  },
+  "f08f5245f9": {
+   "title": "El Gobierno subirá las pensiones en torno a un 3,5% a partir de 2027, pero concederá incrementos por encima del IPC en las cuantías mínimas y máximas",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxORzNxa1RqLXE5RzlvZzVVbjA1elhjNWUwRGczMEZfYjB4ZDExOE0ySHVDVDJ5bmE4SklHYWtiY1JrbGpZVEppeHB3V2dRNHRVb3JsX3RqRzVFMkdLcUVvRFYzUzBFem1jMUU0MEhhbXcwVFM1dkJfUHpMOEZCZy1icExiNEpQSU1aSWpJVTkzLXVOSFUyd01MMzZGdEd5Y2hUQ0VsS1pBejA4bWFPSWt2LXA4YU5zSmoyamZKWGRwdW5XQ0E4cjI2NEs1cFZpT2g0bGNSdk0wZ3FPenNvWHI1NlJqZ0psT2tUbkpkbzhZZlMySkxuX3hIaC1WLWJhaWxlNm9TZmNtcm92ejhZRVNSOWstUklRZDBRTS1fdVJsVGxIT2tfbE5KSXRacmw0aFVZX083NXd6dw?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T11:59:20+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia",
+    "espana"
+   ],
+   "score": 3.467,
+   "also": []
+  },
+  "dc02d0ba7c": {
+   "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+   "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+   "source": "MIT Technology Review",
+   "source_id": "mittr",
+   "published": "2026-11-23T11:00:00+00:00",
+   "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech"
+   ],
+   "score": 3.378,
+   "also": []
+  },
+  "fecd4f0129": {
+   "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+   "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-22T11:00:05+00:00",
+   "summary": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 3.278,
+   "also": []
+  },
+  "852c829d5d": {
+   "title": "Tokenización de activos reales: el punto de inflexión que redefine los mercados financieros",
+   "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/tokenizacion-de-activos-reales-el-punto-de-inflexion-que-redefine-los-mercados-financieros.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:30:00+00:00",
+   "summary": "La integración de blockchain en las finanzas tradicionales abre una nueva etapa para los mercados, con operaciones más ágiles, automatizadas y accesibles",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/SX2GZQ3WP5MADIAO7I3247FPOQ.jpg?auth=21e768c7405f16e517c5f5f58a3be8ead6579541bf4b60ad9c0c7b849163cac5",
+   "topics": [
+    "economia"
+   ],
+   "score": 3.222,
+   "also": []
+  },
+  "4e80f3e79f": {
+   "title": "Good Rebels prevé ingresar 21 millones en 2026, un 10% más que en 2025, tras la reciente integración de tres compañías",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVFlhWmQ3dGE3ZXU0NEowbUNHZnJ5cVZrUEJZcWhpSEVwcUg0ZXpYRW1LQmVnR0FYT0dFeTJwcGoxdmsyM3JPQm9QYXRaeGo1UGM3QnNTaGZBT0NlenR6RU1ncDk2aVlQTy1VUTdyR3NlczZ4WERWNFYwOV8zRk1QYVYtcFZ6TFFtUC1CallQajRZcklDaWdFSXJPeG9ZcFhvb0U3dUFCZ0kxTEJtMFA3WFRZQnYzSWhjQWpXczQ5M2xGMnNfM0hIRjExRlNuc1BFbm5iSTd2UzZHengzTWxGelZXRHlNeWd6ZFdHd09haldOb2Q4Smo4eEtsR2RCT3hwYjFRSC1IVFB1UkhoS1l1XzRkbHF4TXNrSlB3ctIBhwJBVV95cUxPazk2NmsycXl4R2VMNi1OV2x3VkNMLThBTnpfeW5DdktMRHRlODNyZndvUlZncEhyOGpTaW16ZVpEV1pBRnRZZVo4SnVIMzNCYUc0cXh0dVJIb2U0bnY4VjBPelV1V1VpaTJiNzh2SmR5SzFydW9acVc3dDZJSXR4bkYyd3dFQjYtNEJlYnZiNkRFZWdaOFF0cFFwM3FnVWJWZExBb19naHk1cXlEMEkxZHpSVUlvN0lPczg3d1dMcGZyTGwyd2V1Sm9OQ3MwcWltTmNaMWdXY3FfNlU2aVd5TFpvaW8ydUJBS0dEaHpSUmcycEc4UWZkWmlUb2pfODBwR08xSWEyaw?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T12:26:17+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios"
+   ],
+   "score": 3.217,
+   "also": []
+  },
+  "265c68ec3a": {
+   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "source": "The Verge",
+   "source_id": "theverge",
+   "published": "2026-11-22T17:25:20+00:00",
+   "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 3.192,
+   "also": []
+  },
+  "7e23cf2c59": {
+   "title": "Ni la desconexión con AVE resiente al pura raza española: el SICAB calcula 76 millones de euros de facturación",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNb3lXOWtReXhMaDd5WjFDMFlFWVNKM0ZwQmFxTjZJb1dVY21OZXFROTBDZTVnYjNkbGZBaTU0RjEwN2xQRmV6c3lZRHpRZ2dlNXZhSXh3QUtOVTBSQm5YN19NZlhic1RCOXVTSURVVmM1dTJJYVhKa1BZVUlTX09KZ2wxeUZ2WnFvTnNHUmtxdldlNU94dEI2MW03cmVteEViUHRIcXB3SUtZclpPU2YzS3FabFJWQ1VGWGNmTWlldjRRV3JBOXJXSnpPcVBNQV9zUVNVLU00VXFTNXBoWkNYOFhkbkIyQUVHS3hHTUY2SHIxelJXbUtWR2p6UWlWc0hTNWl3ZHdZM0Q5Q3JmVlZQd0NYR3nSAf8BQVVfeXFMUG1zTHdIaDN3VGpWNGJETGE5U3pHSURNU0Q4VnRPWVdJQXREOWFhYmh4RFB0VXloZXUtQWZhZ3pGVTN6ZnY5eW1OT0haeUJLaTF3UWFONnFwWWhUdzRqbnQ4SmltdkdiTk54cnNWMlhOOVBWbFhWVDZ1c2EwdW5XdFluTWFmOGtfcm8tSjJtcGc5U1lTaTJyUTZWSnExelZ2NndmOUVWZDV3VGZsWF9VdlRiTTNXUGVCZFFndnNFZ0U5RlhzMmhtQ19DVUZUMzE2UDhQSTNib2NoVVdjbHliRzFMYnptTVJQWk40VnpvSi1sZ1RmRGZTOXZmemcyRi1R?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T10:25:48+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios"
+   ],
+   "score": 3.052,
+   "also": []
+  },
+  "2c0083c675": {
+   "title": "Europe's cloud sovereignty push gains ground, but US hyperscalers remain dominant",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUQxaGUwa0xZUXg3ZGRoZkp4dnJfVDhZUGo4Q0V4QlJGeXZNZjIzLU5YT0NMeW5KOUJfVG1wRk1fS2pzc2JIZW01TzBaaXZ4cjhyRlVDMmxpN1JuNERqNVUwQmpjd0pQWUFGb0RMdUxkYVdCZUxIYVBxUmpDeG1mUGdWMkw4a25pdXE2UjRlZXl3Q3hub2VZdEZPSEhGQ1BrZDdFSGFjR095LTBDU1BENkVRczNVOXJZRzNPM2RjZXVySHhNMXJF?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-23T05:03:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech"
+   ],
+   "score": 2.934,
+   "also": []
+  },
+  "899936c4ba": {
+   "title": "UK's Capita pension woes force CEO exit and cash call; shares hit 35-year low",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVFFXYy1yZ0RhU25NLV83ZDNKLVQ2N0JFQ1hraU5MeTk2eFV4NWNYRXdIY2I3bGpGT2l3QldrejJZNFVEMDFsRDV2NTA0ekt0VmVRT2JTV2E2ekRVVnA2RmZXOFNQUjJsc3NZeU1wVld6QVhoNjVTYVN3eW5JRU5tZWdqTTJRRUlyYWVRbVlaTmIyMC0yWThkRWdFTE1jblZtMnlFUkpRWm1zZEVVbHFkN3g2VUVxTU82QlN3UU1mTXg?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-23T07:42:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios"
+   ],
+   "score": 2.854,
+   "also": []
+  },
+  "859659cc53": {
+   "title": "Las grandes grupos textiles rebajan el optimismo y temen un menor gasto en invierno por la inflación",
+   "url": "https://cincodias.elpais.com/companias/2026-11-23/las-grandes-grupos-textiles-rebajan-el-optimismo-y-temen-un-menor-gasto-en-invierno-por-la-inflacion.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:15:00+00:00",
+   "summary": "Las empresas asociadas a la patronal ARTE, entre ellas Inditex, Mango o Uniqlo, prevén unas ventas casi planas en una campaña marcada también por la climatología",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/NUKTSTA5ABBBDEGFA562AEAVAM.jpg?auth=08eef0dc1c5592b78dc99d762531c888bb21ad733e5a78e6d3f5aa52b03e41f2",
+   "topics": [
+    "economia",
+    "negocios"
+   ],
+   "score": 2.845,
+   "also": []
+  },
+  "8efc607bad": {
+   "title": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmZyWE82TzlYOEw5T2NrdWNXVXRGRG8xb1oyVnBQNzc5V1Aydy1CRjNpX0VYZVhlbHFXTGVvV3NTOGdNajRPVTRVREpTanMxVnMxNEdXM0p2TzN1TzRYV3RDMkFZM2l3N2NTZ2lNV2cyN2hJaDJicFk4RnNYRnZUaDlWU2lVbGhuS2JNdDhpQkh1U0dHWjhaSGp5U1dFV2psd3piRjRxb2hObTJpN2x0U2kxOU14LVZwQnc?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-23T00:28:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios"
+   ],
+   "score": 2.456,
+   "also": []
+  }
+ },
+ "sources": [
+  {
+   "id": "elpais",
+   "name": "El País",
+   "via": "rss",
+   "count": 209,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "elmundo",
+   "name": "El Mundo",
+   "via": "rss",
+   "count": 77,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "elconfidencial",
+   "name": "El Confidencial",
+   "via": "rss",
+   "count": 44,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "eleconomista",
+   "name": "elEconomista",
+   "via": "google-news",
+   "count": 100,
+   "ok": true,
+   "errors": [
+    "https://www.eleconomista.es/rss/rss-portada.php: HTTPError: HTTP Error 404: Not Found"
+   ]
+  },
+  {
+   "id": "techcrunch",
+   "name": "TechCrunch",
+   "via": "rss",
+   "count": 40,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "theverge",
+   "name": "The Verge",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "mittr",
+   "name": "MIT Technology Review",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "arstechnica",
+   "name": "Ars Technica",
+   "via": "rss",
+   "count": 20,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "economist",
+   "name": "The Economist",
+   "via": "rss",
+   "count": 600,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "ft",
+   "name": "Financial Times",
+   "via": "rss",
+   "count": 25,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "reuters",
+   "name": "Reuters",
+   "via": "google-news",
+   "count": 100,
+   "ok": true,
+   "errors": []
+  }
+ ]
+}

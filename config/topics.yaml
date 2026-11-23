@@ -1,0 +1,173 @@
+# Tus temas. Edita este archivo (incluso desde el móvil en github.com)
+# y el próximo job ya ordenará las noticias según lo que pongas aquí.
+#
+# keywords: se buscan en titular (cuenta x3) y entradilla (x1), sin
+#   distinguir tildes y siempre como palabra completa.
+#   - En minúsculas ("inflación") -> ignora mayúsculas.
+#   - Con alguna mayúscula ("Meta", "Fed", "IA") -> respeta mayúsculas,
+#     para no confundir la empresa Meta con "la meta" o IA con "ia".
+# Un asterisco final hace de prefijo: "chip*" -> chip, chips, chipmaker...
+# weight: importancia relativa del tema.
+# max_items: cuántas noticias como mucho en la pestaña del tema.
+
+topics:
+  - id: ia
+    name: Inteligencia artificial
+    short: IA
+    weight: 1.5
+    max_items: 15
+    keywords:
+      - IA
+      - AI
+      - inteligencia artificial
+      - artificial intelligence
+      - OpenAI
+      - Anthropic
+      - Claude
+      - ChatGPT
+      - Gemini
+      - DeepMind
+      - Mistral
+      - LLM*
+      - modelo de lenguaje
+      - language model*
+      - agente* de IA
+      - AI agent*
+      - machine learning
+      - aprendizaje automático
+      - Nvidia
+      - GPU*
+      - centro* de datos
+      - data center*
+      - IA generativa
+      - generative AI
+      - AI Act
+      - reglamento de IA
+
+  - id: tech
+    name: Tecnología y big tech
+    short: Tech
+    weight: 1.2
+    max_items: 12
+    keywords:
+      - tecnológica*
+      - Apple
+      - Google
+      - Alphabet
+      - Microsoft
+      - Amazon
+      - Meta
+      - Tesla
+      - TSMC
+      - semiconductor*
+      - chip*
+      - ciberseguridad
+      - cybersecurity
+      - ciberataque*
+      - software
+      - cloud
+      - nube
+      - startup*
+      - Silicon Valley
+
+  - id: negocios
+    name: Empresas y negocios
+    short: Negocios
+    weight: 1.1
+    max_items: 12
+    keywords:
+      - empresa*
+      - compañía*
+      - resultados
+      - beneficio*
+      - facturación
+      - fusión
+      - adquisición
+      - OPA
+      - salida a bolsa
+      - IPO
+      - inversión
+      - ronda de financiación
+      - funding round
+      - valoración
+      - consejero delegado
+      - CEO
+      - Telefónica
+      - Inditex
+      - Santander
+      - BBVA
+      - Iberdrola
+      - Repsol
+      - acquisition
+      - earnings
+      - revenue
+
+  - id: economia
+    name: Economía y mercados
+    short: Economía
+    weight: 1.0
+    max_items: 10
+    keywords:
+      - economía
+      - Ibex
+      - bolsa
+      - Wall Street
+      - BCE
+      - ECB
+      - Fed
+      - tipos de interés
+      - interest rate*
+      - inflación
+      - inflation
+      - IPC
+      - PIB
+      - GDP
+      - aranceles
+      - tariff*
+      - paro
+      - empleo
+      - vivienda
+      - deuda
+      - mercados
+
+  - id: espana
+    name: España
+    short: España
+    weight: 0.8
+    max_items: 10
+    keywords:
+      - Gobierno
+      - Congreso
+      - Moncloa
+      - Sánchez
+      - Feijóo
+      - PSOE
+      - PP
+      - Vox
+      - Sumar
+      - presupuestos
+      - Comunidad de Madrid
+      - Generalitat
+
+# Si una noticia contiene alguna de estas palabras en el titular, se descarta.
+exclude:
+  - horóscopo
+  - fútbol
+  - Liga
+  - Real Madrid
+  - Barça
+  - Atlético
+  - Champions
+  - lotería
+  - receta*
+  - Gran Hermano
+
+# Resumen con IA (opcional). Solo se usa si existe el secreto
+# ANTHROPIC_API_KEY en el repositorio. Sin él, la app funciona igual
+# pero sin "Resumen del día" ni resúmenes por noticia.
+ai:
+  enabled: true
+  model: claude-haiku-5-5
+  candidates: 40        # cuántas noticias top se le pasan al modelo
+  brief_points: 5       # puntos del "Resumen del día"
+  effort: low           # low | medium | high: más esfuerzo = más caro y lento

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>La Mañana</title>
+  <meta name="description" content="Tu periódico personal de cada mañana">
+  <meta name="theme-color" content="#f1ece1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14130f" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="La Mañana">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,650;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="masthead">
+    <div class="mast-top">
+      <button class="icon-btn" id="prevDay" aria-label="Día anterior">‹</button>
+      <span class="edition" id="edition">Cargando edición…</span>
+      <button class="icon-btn" id="openSettings" aria-label="Ajustes">⚙︎</button>
+    </div>
+    <h1 class="title">La <em>Mañana</em></h1>
+    <div class="dateline" id="dateline">&nbsp;</div>
+    <div class="rule-double"></div>
+  </header>
+
+  <nav class="tabs" id="tabs" aria-label="Secciones"></nav>
+
+  <main id="main">
+    <div class="skeleton" id="skeleton">
+      <div></div><div></div><div></div>
+    </div>
+  </main>
+
+  <footer class="colophon" id="colophon"></footer>
+
+  <dialog class="sheet" id="settings">
+    <form method="dialog">
+      <div class="sheet-head">
+        <h2>Ajustes</h2>
+        <button class="icon-btn" value="close" aria-label="Cerrar">✕</button>
+      </div>
+
+      <fieldset>
+        <legend>Apariencia</legend>
+        <div class="seg" role="radiogroup" id="themeSeg">
+          <label><input type="radio" name="theme" value="auto"><span>Auto</span></label>
+          <label><input type="radio" name="theme" value="light"><span>Papel</span></label>
+          <label><input type="radio" name="theme" value="dark"><span>Noche</span></label>
+        </div>
+        <div class="seg" role="radiogroup" id="sizeSeg">
+          <label><input type="radio" name="size" value="s"><span class="a-s">A</span></label>
+          <label><input type="radio" name="size" value="m"><span class="a-m">A</span></label>
+          <label><input type="radio" name="size" value="l"><span class="a-l">A</span></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Lectura</legend>
+        <label class="switch"><input type="checkbox" id="hideRead"><span>Ocultar las ya leídas</span></label>
+        <label class="switch"><input type="checkbox" id="showImages"><span>Mostrar imágenes</span></label>
+        <button type="button" class="link-btn" id="clearRead">Marcar todo como no leído</button>
+      </fieldset>
+
+      <fieldset>
+        <legend>Fuentes</legend>
+        <p class="hint">Desmarca un medio para ocultarlo en este dispositivo. Los temas se editan en <code>config/topics.yaml</code>.</p>
+        <div id="sourceToggles" class="source-toggles"></div>
+      </fieldset>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,132 @@
+# Fuentes de noticias.
+# Cada fuente tiene uno o varios feeds RSS. Si TODOS los feeds de una fuente
+# fallan, se usa `fallback_gnews`: una búsqueda de Google News limitada a ese
+# dominio (también es RSS, así que nunca se queda vacía).
+#
+# weight: multiplica la puntuación de sus noticias (1.0 = neutro).
+# frontpage: true en los feeds de portada da un pequeño plus (lo que el
+#            periódico considera importante).
+# enabled: false para desactivar sin borrar.
+
+settings:
+  window_hours: 30          # solo noticias publicadas en las últimas N horas
+  timeout_seconds: 15
+  user_agent: "MiDiario/1.0 (+lector personal RSS)"
+
+sources:
+  # ---------------- España ----------------
+  - id: elpais
+    name: El País
+    lang: es
+    weight: 1.0
+    feeds:
+      - url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+        frontpage: true
+      - url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada
+      - url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada
+    fallback_gnews: "site:elpais.com"
+
+  - id: elmundo
+    name: El Mundo
+    lang: es
+    weight: 1.0
+    feeds:
+      - url: https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml
+        frontpage: true
+      - url: https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml
+    fallback_gnews: "site:elmundo.es"
+
+  - id: elconfidencial
+    name: El Confidencial
+    lang: es
+    weight: 1.0
+    feeds:
+      - url: https://rss.elconfidencial.com/espana/
+        frontpage: true
+      - url: https://rss.elconfidencial.com/economia/
+      - url: https://rss.elconfidencial.com/tecnologia/
+    fallback_gnews: "site:elconfidencial.com"
+
+  - id: eleconomista
+    name: elEconomista
+    lang: es
+    weight: 1.0
+    feeds:
+      - url: https://www.eleconomista.es/rss/rss-portada.php
+        frontpage: true
+      - url: https://www.eleconomista.es/rss/rss-empresas.php
+    fallback_gnews: "site:eleconomista.es"
+
+  - id: expansion
+    name: Expansión
+    lang: es
+    weight: 0.9
+    enabled: false
+    feeds: []
+    fallback_gnews: "site:expansion.com"
+
+  - id: cincodias
+    name: Cinco Días
+    lang: es
+    weight: 0.9
+    enabled: false
+    feeds: []
+    fallback_gnews: "site:cincodias.elpais.com"
+
+  # ------------- Internacional: tecnología, IA y negocio -------------
+  - id: techcrunch
+    name: TechCrunch
+    lang: en
+    weight: 0.9
+    feeds:
+      - url: https://techcrunch.com/category/artificial-intelligence/feed/
+      - url: https://techcrunch.com/category/startups/feed/
+    fallback_gnews: "site:techcrunch.com"
+
+  - id: theverge
+    name: The Verge
+    lang: en
+    weight: 0.8
+    feeds:
+      - url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    fallback_gnews: "site:theverge.com AI"
+
+  - id: mittr
+    name: MIT Technology Review
+    lang: en
+    weight: 1.0
+    feeds:
+      - url: https://www.technologyreview.com/feed/
+    fallback_gnews: "site:technologyreview.com"
+
+  - id: arstechnica
+    name: Ars Technica
+    lang: en
+    weight: 0.8
+    feeds:
+      - url: https://feeds.arstechnica.com/arstechnica/technology-lab
+    fallback_gnews: "site:arstechnica.com"
+
+  - id: economist
+    name: The Economist
+    lang: en
+    weight: 1.0
+    feeds:
+      - url: https://www.economist.com/business/rss.xml
+      - url: https://www.economist.com/science-and-technology/rss.xml
+    fallback_gnews: "site:economist.com"
+
+  - id: ft
+    name: Financial Times
+    lang: en
+    weight: 1.0
+    feeds:
+      - url: https://www.ft.com/technology?format=rss
+    fallback_gnews: "site:ft.com technology"
+
+  - id: reuters
+    name: Reuters
+    lang: en
+    weight: 1.0
+    feeds: []   # Reuters ya no publica RSS: va directo por Google News
+    fallback_gnews: "site:reuters.com (AI OR technology OR tech)"
