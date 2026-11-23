@@ -3,10 +3,10 @@
   {
    "date": "2026-11-23",
    "file": "2026-11-23.mp3",
-   "title": "La Mañana: Noticias de Óptica, Farma, MedTech, Marketing e IA",
-   "duration": 227,
-   "bytes": 1819533,
-   "published": "2026-11-23T15:10:26.213782+00:00",
+   "title": "La Mañana: Noticias de salud, tecnología, publicidad e inteligencia artificial",
+   "duration": 253,
+   "bytes": 2026718,
+   "published": "2026-11-23T15:17:29.924792+00:00",
    "topics": [
     "optica",
     "pharma",
@@ -28,9 +28,9 @@
     "aefe2fb3f5",
     "8da34bf647",
     "43393413fe",
+    "3ce502eefa",
     "58c2527b36",
     "9b513f1c62",
-    "19d402410a",
     "ab33412673",
     "dc42a73f7e",
     "6f5322db93",
@@ -38,83 +38,83 @@
     "716c53fa8f",
     "90f831b4fd"
    ],
-   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Demócrata, Diario Información, El Dia.com.do, El Global, El Mundo, IPMARK, Marketing Directo, Medical Device Network, PMLiVE, TechCrunch, Vision Monday, Yahoo Finance. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
+   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Demócrata, Diario Información, El Dia.com.do, El Global, El Mundo, IPMARK, Marketing Directo, Medical Device Network, PMLiVE, TechCrunch, Vision Monday. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
    "transcript": [
     {
      "speaker": "Lucía",
-     "text": "¡Muy buenos días! Bienvenidos a La Mañana de hoy, lunes veintitrés de noviembre de dos mil veintiséis. Soy Lucía y me acompaña Álex. ¿Qué tal, Álex?"
+     "text": "¡Muy buenos días! Bienvenidos a un nuevo episodio del podcast La Mañana, hoy lunes veintitrés de noviembre de dos mil veintiséis. Les saludamos Lucía y servidor, Álex. ¿Qué tal estás hoy, Álex?"
     },
     {
      "speaker": "Álex",
-     "text": "¡Hola, Lucía! Muy bien, encantado de estar aquí un día más. Hoy venimos cargados de novedades sobre salud, tecnología, comunicación e inteligencia artificial."
+     "text": "¡Hola, Lucía! Muy contento de estar un día más con todos nuestros oyentes. Hoy traemos una selección de noticias muy completa: hablaremos de óptica, sector farmacéutico, dispositivos médicos, publicidad y la última hora sobre inteligencia artificial."
     },
     {
      "speaker": "Lucía",
-     "text": "Empezamos en el sector de la óptica y la optometría. Según publica El Día, la miopía infantil se está convirtiendo en una importante amenaza para la salud visual a largo plazo."
+     "text": "Empezamos con el área de óptica y optometría. Según publica el medio El Dia punto com punto do, la miopía infantil representa una amenaza constante para la salud visual a largo plazo si no se vigila adecuadamente."
     },
     {
      "speaker": "Álex",
-     "text": "Sobre este tema hay avances destacados. Leemos en Vision Monday que la Facultad de Optometría de SUNY tuvo un papel clave en la investigación clínica de las lentes Essilor Stellest, que recibieron la autorización de la FDA estadounidense en septiembre de dos mil veinticinco."
+     "text": "Sobre este problema, leemos en Vision Monday que el SUNY College of Optometry tuvo un papel clave en la investigación clínica de las lentes Stellest de Essilor. Estas lentes recibieron la autorización de la FDA estadounidense en septiembre de dos mil veinticinco."
     },
     {
      "speaker": "Lucía",
-     "text": "Y sin salir del ámbito nacional, según el Diario Información, los ópticos se han ofrecido para ayudar a reducir las listas de espera en la especialidad de Oftalmología en los hospitales alicantinos."
+     "text": "Es un avance relevante para el control de la miopía. Además, en el ámbito local, el medio Diario Información señala que los ópticos se han ofrecido voluntariamente para ayudar a reducir las listas de espera de Oftalmología en los hospitales alicantinos."
     },
     {
      "speaker": "Álex",
-     "text": "Pasamos ahora al sector farmacéutico. Según informa El Global, la patronal europea EFPIA propone un reembolso provisional para los fármacos innovadores. Se busca ganar agilidad permitiendo su venta desde la autorización, fijando la compañía un precio inicial con financiación pública mientras se negocia el definitivo."
+     "text": "Una buena iniciativa. Pasamos ahora al sector de la industria y el marketing farmacéutico. Según informa El Global, la AEMPS ha elaborado doscientos setenta y seis Informes de Posicionamiento Terapéutico desde que Mónica García asumió el Ministerio de Sanidad en noviembre de dos mil veintitrés."
     },
     {
      "speaker": "Lucía",
-     "text": "También en El Global señalan que la Agencia Española de Medicamentos ha elaborado doscientos setenta y seis Informes de Posicionamiento Terapéutico desde que Mónica García asumió el Ministerio de Sanidad en noviembre de dos mil veintitrés."
+     "text": "En el contexto europeo, el mismo medio, El Global, destaca que la patronal EFPIA propone un reembolso provisional para fármacos innovadores. Plantean que se puedan comercializar desde su autorización, con un precio inicial fijado por las compañías mientras se negocia la financiación pública."
     },
     {
      "speaker": "Álex",
-     "text": "Y cerramos este bloque con los premios PMEA dos mil veintiséis. Según PMLiVE, la gala celebrada en el Sheraton Park Lane de Londres premió la excelencia en el marketing farmacéutico a través de diecisiete categorías."
+     "text": "Por otro lado, la publicación PMLiVE informa sobre la entrega de los Premios PMEA dos mil veintiséis en el hotel Sheraton Park Lane de Londres, galardonando la excelencia en el marketing farmacéutico a través de diecisiete categorías."
     },
     {
      "speaker": "Lucía",
-     "text": "Nos adentramos en el terreno de los dispositivos médicos. Tal como recoge el diario Demócrata, la federación Fenin ha lanzado la marca MedTech brand from Spain para impulsar la proyección internacional de la tecnología sanitaria española."
+     "text": "En el sector de los dispositivos médicos, Medical Device Network revela que el NIHR del Reino Unido respalda el mayor ensayo clínico global de cribado de cáncer de mama mediante inteligencia artificial, el estudio EDITH, para implantarlo en el NHS."
     },
     {
      "speaker": "Álex",
-     "text": "En el plano internacional, según Medical Device Network, GE HealthCare ha presentado nuevas herramientas de inteligencia artificial para optimizar los flujos de trabajo en radiología y responder dudas sobre protocolos de pruebas. Además, Yahoo Finance informa que Pattern Bioscience ha solicitado a la FDA la aprobación de su panel para neumonía."
+     "text": "En el mismo portal, Medical Device Network, vemos que GE HealthCare ha presentado nuevas herramientas de inteligencia artificial para agilizar el trabajo en radiología y resolver dudas sobre protocolos en los pedidos de imagen."
     },
     {
      "speaker": "Lucía",
-     "text": "Cambiamos de tema hacia el marketing y la publicidad. Desde la revista IPMARK recogen una encuesta donde cuatro de cada diez profesionales esperan un aumento de sueldo en dos mil veintisiete. Asimismo, un setenta por ciento planea buscar un nuevo empleo el próximo año."
+     "text": "Y la revista Demócrata destaca que la federación Fenin ha lanzado la marca MedTech de España con el objetivo de potenciar la proyección internacional de toda la tecnología sanitaria española."
     },
     {
      "speaker": "Álex",
-     "text": "Según ese mismo estudio de IPMARK, los perfiles más demandados son community manager, CRM manager y especialista en marketing. Por otra parte, IPMARK destaca que el encuentro Best In Travel Marketing Summit analizó en Madrid el uso de datos, agentes de inteligencia artificial y trato humano."
+     "text": "Entrando en el área de marketing y publicidad, leemos en IPMARK que Casa Burgos en Madrid acogió la quinta edición del Best!N Travel Marketing Summit, donde líderes turísticos debatieron sobre datos, agentes de inteligencia artificial y trato humano."
     },
     {
      "speaker": "Lucía",
-     "text": "Y una noticia sorprendente que leemos en Marketing Directo: Anthropic asegura que su modelo Claude ha resuelto un enigma matemático pendiente desde mil ochocientos cincuenta y nueve. La comunidad científica está analizando la demostración."
+     "text": "Por su parte, Marketing Directo destaca una afirmación sorprendente: Anthropic asegura que su modelo Claude podría haber resuelto un enigma matemático sin respuesta desde mil ochocientos cincuenta y nueve. La comunidad científica se encuentra estudiando dicha demostración."
     },
     {
      "speaker": "Álex",
-     "text": "Terminamos con el plato fuerte del día en inteligencia artificial. Nvidia ha restituido a Jensen Huang como presidente y consejero delegado, según avanzan medios como El Mundo, TechCrunch y Reuters."
+     "text": "Habrá que seguir de cerca las verificaciones. Asimismo, IPMARK revela que cuatro de cada diez profesionales de marketing aguardan un aumento sueldos en dos mil veintisiete, y un setenta por ciento busca empleo el año próximo, destacando perfiles como CRM manager o community manager."
     },
     {
      "speaker": "Lucía",
-     "text": "La compañía sostiene que Huang no representa ningún riesgo para la seguridad nacional. El propio ejecutivo ha declarado que asume esta responsabilidad con la mayor humildad y un compromiso renovado, en un movimiento respaldado por altos cargos del gobierno de Estados Unidos."
+     "text": "Cerramos el episodio de hoy con la inteligencia artificial. En El Mundo y TechCrunch informan que Nvidia ha restituido a Jensen Huang como presidente y consejero delegado, afirmando que no supone ningún riesgo para la seguridad nacional."
     },
     {
      "speaker": "Álex",
-     "text": "Este giro se produce el mismo día en que The New York Times ha revelado las conexiones de la amante de Huang con el espionaje chino, lo que añade mucha tensión al anuncio."
+     "text": "TechCrunch añade que esta restitución contó con el respaldo de altos cargos estadounidenses. Huang afirmó asumir la responsabilidad con humildad el mismo día en que The New York Times revelaba supuestas conexiones de su amante con el espionaje chino."
     },
     {
      "speaker": "Lucía",
-     "text": "Para cerrar el bloque de inteligencia artificial, TechCrunch recoge unas reflexiones del científico jefe de OpenAI. Señala que para establecer un límite de velocidad al desarrollo de la tecnología, primero hace falta acordar cómo medir esa velocidad."
+     "text": "Y para finalizar este bloque, TechCrunch y Reuters recogen unas reflexiones del científico jefe de OpenAI, quien señala que para limitar el desarrollo de la inteligencia artificial es imprescindible acordar primero cómo medir su velocidad."
     },
     {
      "speaker": "Álex",
-     "text": "Con esto concluimos nuestro repaso de hoy, veintitrés de noviembre. Muchas gracias por acompañarnos un día más en La Mañana."
+     "text": "Un debate indispensable en los tiempos que corren. Con esta noticia terminamos el repaso de hoy en La Mañana. Muchas gracias a todos por escucharnos."
     },
     {
      "speaker": "Lucía",
-     "text": "¡Que tengáis un muy buen día y hasta mañana!"
+     "text": "¡Que tengan un feliz día y hasta mañana!"
     }
    ]
   }

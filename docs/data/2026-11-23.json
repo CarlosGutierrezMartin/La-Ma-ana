@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T15:00:19.403639+00:00",
+ "generated_at": "2026-11-23T15:13:58.180165+00:00",
  "stats": {
-  "fetched": 1755,
-  "fresh": 656,
-  "stories": 619,
-  "selected": 89
+  "fetched": 1761,
+  "fresh": 665,
+  "stories": 627,
+  "selected": 88
  },
  "brief": null,
  "ai_model": null,
@@ -16,19 +16,19 @@
    "short": "Portada",
    "items": [
     "9c18fd8d23",
+    "3ce502eefa",
     "2be98cfc04",
     "90f831b4fd",
     "b205246cdc",
+    "0b7525d017",
     "dc42a73f7e",
     "58c2527b36",
     "e10a54d444",
-    "8558835d9e",
     "02ea7b5321",
     "aefe2fb3f5",
     "43393413fe",
     "ab33412673",
     "ea9fa1507b",
-    "0b7525d017",
     "9b513f1c62"
    ]
   },
@@ -39,17 +39,17 @@
    "items": [
     "9c18fd8d23",
     "dc42a73f7e",
+    "3ce502eefa",
     "716c53fa8f",
     "58c2527b36",
     "90f831b4fd",
-    "9edcdf98db",
     "8fa6f24d75",
-    "8558835d9e",
     "bc5a53032c",
     "ab33412673",
     "743c66de3d",
     "2f9c65df28",
     "378e2b2dc1",
+    "94e0e3d950",
     "9c079ad7f6",
     "a2c7afe9f7"
    ]
@@ -100,12 +100,12 @@
     "bc5a53032c",
     "a2c7afe9f7",
     "63706cb843",
+    "2f5e60e6ef",
     "1e82ded39f",
     "7d99e0f411",
     "1dab1bd477",
     "852c829d5d",
     "fb0c832b2c",
-    "d178ea74b0",
     "752fa60dfe"
    ]
   },
@@ -116,14 +116,14 @@
    "items": [
     "e10a54d444",
     "ea9fa1507b",
+    "0b7525d017",
     "1c35030178",
     "4100869d1c",
     "e25be61dcd",
     "7e6255878c",
     "ed24ecec5c",
     "70f9818cda",
-    "8bdbb6d9cf",
-    "06aa0ea8a3"
+    "8bdbb6d9cf"
    ]
   },
   {
@@ -138,9 +138,9 @@
     "d385192900",
     "f8cc59acbc",
     "1c93d024fa",
-    "0ce227d243",
     "0f37f7e9e6",
-    "ac8b6d1aab"
+    "ac8b6d1aab",
+    "a1ea71a98c"
    ]
   },
   {
@@ -168,13 +168,13 @@
     "aefe2fb3f5",
     "8da34bf647",
     "43393413fe",
-    "8558835d9e",
     "e252349a0c",
     "988fb944df",
     "8fa6f24d75",
     "f4c1a1d8e2",
     "71eae63a3e",
-    "d3561ea80e"
+    "d3561ea80e",
+    "2b1342e4e5"
    ]
   },
   {
@@ -182,15 +182,15 @@
    "name": "Medical devices",
    "short": "MedTech",
    "items": [
+    "3ce502eefa",
     "58c2527b36",
     "9b513f1c62",
     "19d402410a",
-    "9a6a5c9356",
     "167adc3c0c",
+    "7c0be06f40",
     "68c3085284",
     "3588888e17",
     "de138162ba",
-    "38075cbb90",
     "76aaff30a7"
    ]
   },
@@ -201,12 +201,12 @@
    "items": [
     "2be98cfc04",
     "b205246cdc",
+    "3ce502eefa",
     "e252349a0c",
     "9d49e3a097",
     "f944bb368b",
     "006b384510",
     "f1b33dc12f",
-    "8558835d9e",
     "15c9134c35",
     "790c1aab79"
    ]
@@ -226,7 +226,7 @@
     "ia",
     "negocios"
    ],
-   "score": 27.307,
+   "score": 23.205,
    "also": [
     {
      "source_id": "elpais",
@@ -235,16 +235,10 @@
      "title": "Nvidia recupera a Jensen Huang como consejero delegado"
     },
     {
-     "source_id": "theverge",
-     "source": "The Verge",
-     "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-     "title": "Jensen Huang is back as Nvidia’s CEO"
-    },
-    {
      "source_id": "elconfidencial",
      "source": "El Confidencial",
      "url": "https://www.elconfidencial.com/tecnologia/2026-11-23/el-consejo-de-nvidia-restituye-a-jensen-huang-como-ceo-_4470790/",
-     "title": "El consejo de Nvidia restituye a Jensen Huang como CEO"
+     "title": "El consejo de Nvidia restituye a Jensen Huang como CEO once días después de su dimisión"
     },
     {
      "source_id": "ft",
@@ -260,6 +254,36 @@
     }
    ]
   },
+  "3ce502eefa": {
+   "title": "UK’s NIHR backs largest global AI breast cancer screening trial",
+   "url": "https://www.medicaldevice-network.com/news/nihr-backs-ai-breast-cancer-screening-trial-edith/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-23T14:48:20+00:00",
+   "summary": "If successful, EDITH could pave the way for the widespread introduction of AI-assisted breast cancer screening across the NHS. The post UK’s NIHR backs largest global AI breast cancer screening trial appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud",
+    "ia",
+    "medtech"
+   ],
+   "score": 16.232,
+   "also": [
+    {
+     "source_id": "pharmaphorum",
+     "source": "pharmaphorum",
+     "url": "https://pharmaphorum.com/news/uk-launches-worlds-largest-trial-ai-breast-cancer",
+     "title": "UK launches world's largest trial of AI in breast cancer"
+    },
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3VRaDhmbHRUZ21rQklBNmR0UWlONUR5ZmRoWUJfT1hObENBUjBJTmdJNWxJRlVod3owVEdPTkgtRUZkUWlnbTcxdlhpN0hHU01qeUI2dFFpOGJjVi1lZFpmekpwMlBhV2l4cnkzbjJkNWZsc2MtTGh3TFB2M1BEeDdMLUp5OVlYS2ZLS19FV2dscF9EOVdzQQ?oc=5",
+     "title": "UK’s NIHR backs largest global AI breast cancer screening trial"
+    }
+   ]
+  },
   "2be98cfc04": {
    "title": "Los médicos rehabilitadores piden un acceso equitativo a sus servicios tras el cáncer de próstata",
    "url": "https://www.consalud.es/profesionales/los-medicos-rehabilitadores-piden-un-acceso-equitativo-a-sus-servicios-tras-el-cancer-de-prostata.html",
@@ -272,7 +296,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.961,
+   "score": 11.89,
    "also": []
   },
   "90f831b4fd": {
@@ -288,7 +312,7 @@
     "ia",
     "negocios"
    ],
-   "score": 11.783,
+   "score": 11.711,
    "also": [
     {
      "source_id": "eleconomista",
@@ -299,8 +323,8 @@
     {
      "source_id": "reuters",
      "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
-     "title": "Wall St roars back as Jensen Huang returns to Nvidia as CEO"
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+     "title": "Nvidia reinstates Jensen Huang as CEO"
     }
    ]
   },
@@ -316,8 +340,36 @@
    "topics": [
     "salud"
    ],
-   "score": 11.691,
+   "score": 11.623,
    "also": []
+  },
+  "0b7525d017": {
+   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T14:33:00+00:00",
+   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 11.384,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
+    },
+    {
+     "source_id": "eleconomista",
+     "source": "elEconomista",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNllncGRsNzB1ZTdmdHpzekQyVzVFRDhWNHBlZk5FWGtkVkhzcEFnUk4zVHRhV1FGV3lvSHVyYUlGOFA5dm1XQWlkOHpVLWJMNWQ0bzVRNldXT09Mc1A0QjRhdmpFbXRZdHdLSkpHWkE5RlhUa3VaU1dJRUp2bk41S1RvRWIyWFE5MlZmOXdxS0R6WWc3RWJ2aVlseWNVYzFrX2lsdnNxTHNuTWQ2NFRTa3BaRWJFVFI2MVRxXzkzUFowRXVrVE95N0haYk92aWFJc0liSjczQlh0bDNDU01JN1puMFRQOWh1RkFYQ3VHSTdjREtONTEyM3FYcWRfNXlFb0RkTGlRRzdoSFFOSFppUmxmY0w3YmxNbTBGdU9NSjd2U2kyTWhXM1ZZa01mTW5oOGZzTk45RURBQdIBpAJBVV95cUxONnpVdVQ0bUx6T0FhNGdpWWRfNmZHUUZkdThJaWI1cTZOd3JrWXp4RnlpODVzOGNYUEREdENVWGVJX1lCeXNiYlNZWUltV0o2TUpLZ243aDhXdnl4M09Kblh2dU9nS0JNT2RfNzQtTkplM0Izb1l1WjB0Y2hPRENkS2VVdWx0aE9CMzY1Smk2NmJ0VXBkQVp5UGlQbGNuMTV5djhpaXdUWWpIb29zSndaVmJWbkZhbFNwSjVfVXJOY3RQVFh6Rm1DMkMyRGxaMmEzYkVVYkZpZUZnSVlKbGM2M2tLazVuVk5jSGpaMzNDM3d1SURWOHVNYkw3UURkZm5wdU1zeDNTQTdYQjBTeFpXMFYxbnU5cFFMZjNkSGRYZjM5ZjFa?oc=5",
+     "title": "Felipe González responde a José Bono después de que este dijera que no hiciera \"el tonto\" con su voto: \"Yo soy una persona seria, no como otros\""
+    }
+   ]
   },
   "dc42a73f7e": {
    "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
@@ -332,7 +384,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.361,
+   "score": 11.298,
    "also": []
   },
   "58c2527b36": {
@@ -349,7 +401,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.937,
+   "score": 10.876,
    "also": [
     {
      "source_id": "medtech_search",
@@ -371,32 +423,8 @@
    "topics": [
     "espana"
    ],
-   "score": 10.855,
+   "score": 10.791,
    "also": []
-  },
-  "8558835d9e": {
-   "title": "UK launches world's largest trial of AI in breast cancer",
-   "url": "https://pharmaphorum.com/news/uk-launches-worlds-largest-trial-ai-breast-cancer",
-   "source": "pharmaphorum",
-   "source_id": "pharmaphorum",
-   "published": "2026-11-23T12:26:30+00:00",
-   "summary": "Phil.Taylor Mon, 23/11/2026 - 12:26 Phil.Taylor Mon, 23/11/2026 - 12:26",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "salud",
-    "ia",
-    "pharma"
-   ],
-   "score": 10.853,
-   "also": [
-    {
-     "source_id": "medtech_search",
-     "source": "Medical Device Network",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3VRaDhmbHRUZ21rQklBNmR0UWlONUR5ZmRoWUJfT1hObENBUjBJTmdJNWxJRlVod3owVEdPTkgtRUZkUWlnbTcxdlhpN0hHU01qeUI2dFFpOGJjVi1lZFpmekpwMlBhV2l4cnkzbjJkNWZsc2MtTGh3TFB2M1BEeDdMLUp5OVlYS2ZLS19FV2dscF9EOVdzQQ?oc=5",
-     "title": "UK’s NIHR backs largest global AI breast cancer screening trial"
-    }
-   ]
   },
   "e252349a0c": {
    "title": "Aragón impulsa la participación de pacientes en las decisiones de investigación del cáncer",
@@ -411,30 +439,8 @@
     "salud",
     "pharma"
    ],
-   "score": 10.814,
+   "score": 10.75,
    "also": []
-  },
-  "9edcdf98db": {
-   "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
-   "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-23T14:33:17+00:00",
-   "summary": "Nasdaq gains 7% and S&P up 5% as AI trade reignites on Wall Street",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 9.876,
-   "also": [
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-     "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors"
-    }
-   ]
   },
   "02ea7b5321": {
    "title": "Javier Matallana, nuevo CEO de Webedia España",
@@ -449,7 +455,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.564,
+   "score": 9.51,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -472,7 +478,7 @@
     "pharma",
     "salud"
    ],
-   "score": 9.266,
+   "score": 9.219,
    "also": []
   },
   "43393413fe": {
@@ -488,7 +494,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 9.103,
+   "score": 9.05,
    "also": [
     {
      "source_id": "mmm",
@@ -510,7 +516,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.956,
+   "score": 8.926,
    "also": [
     {
      "source_id": "reuters",
@@ -532,7 +538,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.682,
+   "score": 8.636,
    "also": []
   },
   "f944bb368b": {
@@ -547,7 +553,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.515,
+   "score": 8.465,
    "also": []
   },
   "006b384510": {
@@ -562,7 +568,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.379,
+   "score": 8.33,
    "also": []
   },
   "f1b33dc12f": {
@@ -577,7 +583,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.339,
+   "score": 8.291,
    "also": []
   },
   "bc5a53032c": {
@@ -595,7 +601,7 @@
     "economia",
     "negocios"
    ],
-   "score": 8.161,
+   "score": 8.11,
    "also": []
   },
   "ab33412673": {
@@ -611,7 +617,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.891,
+   "score": 7.845,
    "also": []
   },
   "8fa6f24d75": {
@@ -628,7 +634,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.869,
+   "score": 7.833,
    "also": []
   },
   "15c9134c35": {
@@ -643,7 +649,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.702,
+   "score": 7.662,
    "also": []
   },
   "ea9fa1507b": {
@@ -658,30 +664,8 @@
    "topics": [
     "espana"
    ],
-   "score": 7.581,
+   "score": 7.538,
    "also": []
-  },
-  "0b7525d017": {
-   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
-   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-23T14:33:00+00:00",
-   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 7.505,
-   "also": [
-    {
-     "source_id": "elpais",
-     "source": "El País",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
-     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
-    }
-   ]
   },
   "8bdbb6d9cf": {
    "title": "Azcón fichará 135 médicos extra para la Primaria aragonesa si el PP gana las elecciones",
@@ -696,7 +680,7 @@
     "salud",
     "espana"
    ],
-   "score": 7.411,
+   "score": 7.367,
    "also": []
   },
   "1c35030178": {
@@ -711,7 +695,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.41,
+   "score": 7.365,
    "also": []
   },
   "9b513f1c62": {
@@ -727,7 +711,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.243,
+   "score": 7.201,
    "also": []
   },
   "8da34bf647": {
@@ -742,7 +726,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.994,
+   "score": 6.956,
    "also": []
   },
   "4bfc072ba7": {
@@ -758,7 +742,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.794,
+   "score": 6.755,
    "also": []
   },
   "6f5322db93": {
@@ -773,7 +757,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.622,
+   "score": 6.583,
    "also": []
   },
   "743c66de3d": {
@@ -789,7 +773,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.606,
+   "score": 6.567,
    "also": []
   },
   "5320043ce8": {
@@ -805,7 +789,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.544,
+   "score": 6.508,
    "also": []
   },
   "790c1aab79": {
@@ -820,7 +804,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.493,
+   "score": 6.475,
    "also": []
   },
   "ed24ecec5c": {
@@ -835,7 +819,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.374,
+   "score": 6.337,
    "also": []
   },
   "e44a11c1f6": {
@@ -850,7 +834,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.305,
+   "score": 6.276,
    "also": []
   },
   "2f9c65df28": {
@@ -865,7 +849,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.232,
+   "score": 6.203,
    "also": []
   },
   "ffa17286a8": {
@@ -882,7 +866,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.225,
+   "score": 6.19,
    "also": []
   },
   "378e2b2dc1": {
@@ -898,7 +882,22 @@
     "ia",
     "tech"
    ],
-   "score": 6.136,
+   "score": 6.102,
+   "also": []
+  },
+  "94e0e3d950": {
+   "title": "Nvidia shares soar 30% after board reinstates Huang",
+   "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T14:57:55+00:00",
+   "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 5.956,
    "also": []
   },
   "988fb944df": {
@@ -913,7 +912,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.988,
+   "score": 5.95,
    "also": []
   },
   "17b2c2dee1": {
@@ -930,7 +929,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.975,
+   "score": 5.939,
    "also": []
   },
   "70f9818cda": {
@@ -945,7 +944,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.939,
+   "score": 5.907,
    "also": []
   },
   "1b24c54950": {
@@ -962,7 +961,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.915,
+   "score": 5.88,
    "also": []
   },
   "4100869d1c": {
@@ -979,7 +978,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.823,
+   "score": 5.807,
    "also": []
   },
   "e25be61dcd": {
@@ -994,7 +993,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.795,
+   "score": 5.775,
    "also": []
   },
   "9c079ad7f6": {
@@ -1009,7 +1008,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.709,
+   "score": 5.675,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1026,7 +1025,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.647,
+   "score": 5.627,
    "also": []
   },
   "14f0fff5d7": {
@@ -1041,7 +1040,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.541,
+   "score": 5.516,
    "also": []
   },
   "133404e6a4": {
@@ -1058,7 +1057,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.485,
+   "score": 5.453,
    "also": []
   },
   "74b514dbc9": {
@@ -1074,7 +1073,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.421,
+   "score": 5.396,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1090,7 +1089,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.329,
+   "score": 5.301,
    "also": []
   },
   "4704f794ba": {
@@ -1107,7 +1106,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.275,
+   "score": 5.247,
    "also": []
   },
   "b5f425ec8b": {
@@ -1124,7 +1123,22 @@
     "negocios",
     "salud"
    ],
-   "score": 5.271,
+   "score": 5.238,
+   "also": []
+  },
+  "6cce577396": {
+   "title": "Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar",
+   "url": "https://www.marketingdirecto.com/anunciantes-general/chocolates-valor-apuesta-marketing-experiencial-valor-cacao-bar",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-23T09:57:01+00:00",
+   "summary": "La compañía traslada su identidad y conocimiento del cacao a un espacio que apuesta por la personalización y la interacción directa con el consumidor. La entrada Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 5.237,
    "also": []
   },
   "7eccd90ac9": {
@@ -1140,22 +1154,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.266,
-   "also": []
-  },
-  "6cce577396": {
-   "title": "Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar",
-   "url": "https://www.marketingdirecto.com/anunciantes-general/chocolates-valor-apuesta-marketing-experiencial-valor-cacao-bar",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-23T09:57:01+00:00",
-   "summary": "La compañía traslada su identidad y conocimiento del cacao a un espacio que apuesta por la personalización y la interacción directa con el consumidor. La entrada Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar se publicó primero en Marketing Directo .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "marketing"
-   ],
-   "score": 5.265,
+   "score": 5.235,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1170,7 +1169,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.225,
+   "score": 5.197,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1185,7 +1184,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.109,
+   "score": 5.083,
    "also": []
   },
   "19d402410a": {
@@ -1201,7 +1200,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 5.034,
+   "score": 5.004,
    "also": []
   },
   "a457bdd4df": {
@@ -1218,7 +1217,22 @@
     "tech",
     "espana"
    ],
-   "score": 5.025,
+   "score": 5.003,
+   "also": []
+  },
+  "2f5e60e6ef": {
+   "title": "Macron quiere reformar la Constitución para limitar el déficit y la deuda francesas",
+   "url": "https://elpais.com/internacional/2026-11-23/macron-quiere-reformar-la-constitucion-para-limitar-el-deficit-y-la-deuda-francesas.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T15:01:53+00:00",
+   "summary": "El jefe del Estado quiere introducir, a solo cinco meses de las elecciones, una reforma que impediría a los siguientes presidentes actuar como lo hizo él durante su mandato",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/LU4LYKJDFROCPEZHVR5FARY3RY.jpg?auth=10ca94a50b22db5698590fa6360930d79e998e7131b1f5e023231b273d613ad5",
+   "topics": [
+    "economia"
+   ],
+   "score": 4.972,
    "also": []
   },
   "7e6255878c": {
@@ -1233,7 +1247,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.985,
+   "score": 4.963,
    "also": []
   },
   "1c93d024fa": {
@@ -1248,23 +1262,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.971,
-   "also": []
-  },
-  "9a6a5c9356": {
-   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEExR3NHRkpTQ0t0UV9kNlN3TEVlbTVIcFV0Ujl6aFBfLWtVb1B2ay1icmEwb3FzaWdUMHJmRVdwZHFZcGdxbVN4WnNQN3JXYUpuWjM0TUNVRGRlb3kwWks0NFJGMEJDRVR2SlhpR19NdVBaaV8xUm5zbllzVmdBbXZOYUtQNV80RG9nWFRaTWF4aXpFQUFrbXZQZl9MUDZ0Z0xiTzlIZmdyYW5wb04xNVgzemdnSWd0NU9BYUZTM3c?oc=5",
-   "source": "Investing.com India",
-   "source_id": "medtech_search",
-   "published": "2026-11-23T13:22:38+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "pharma"
-   ],
-   "score": 4.951,
+   "score": 4.94,
    "also": []
   },
   "167adc3c0c": {
@@ -1280,7 +1278,23 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.95,
+   "score": 4.921,
+   "also": []
+  },
+  "7c0be06f40": {
+   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnhqLVBTb3ktMnUxR1V1Mk5pZldCQmtSMjYyZ2M5V1UyMzNjQzZrcGZnS0pMMEYwZWdGZTdiN09XbDRTZm9fcEMtR1k4N1ZxNFlFck56UVI3RnczWS1nQS1YZkZYMnhKdi0yRnJHTFhfQUJLRldBRkUzc3QwLURKZ0ZzWl9rbUdOcjRnbldKT1dEUWdkX3V0WVRtdWtEajRIRlRCeU9Hb3pRcnlsZk42U0kyWjlpVWNjWmdj?oc=5",
+   "source": "Investing.com",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T13:15:54+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma"
+   ],
+   "score": 4.907,
    "also": []
   },
   "1ddff4a50d": {
@@ -1296,7 +1310,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.932,
+   "score": 4.903,
    "also": []
   },
   "71eae63a3e": {
@@ -1311,22 +1325,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.866,
-   "also": []
-  },
-  "d3561ea80e": {
-   "title": "Trial helps Novartis build its blockbuster case for Leqvio",
-   "url": "https://pharmaphorum.com/news/trial-helps-novartis-build-its-blockbuster-case-leqvio",
-   "source": "pharmaphorum",
-   "source_id": "pharmaphorum",
-   "published": "2026-11-23T13:13:38+00:00",
-   "summary": "Phil.Taylor Mon, 23/11/2026 - 13:13 Phil.Taylor Mon, 23/11/2026 - 13:13",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 4.765,
+   "score": 4.837,
    "also": []
   },
   "130257fb00": {
@@ -1342,7 +1341,22 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.763,
+   "score": 4.736,
+   "also": []
+  },
+  "d3561ea80e": {
+   "title": "Trial helps Novartis build its blockbuster case for Leqvio",
+   "url": "https://pharmaphorum.com/news/trial-helps-novartis-build-its-blockbuster-case-leqvio",
+   "source": "pharmaphorum",
+   "source_id": "pharmaphorum",
+   "published": "2026-11-23T13:13:38+00:00",
+   "summary": "Phil.Taylor Mon, 23/11/2026 - 13:13 Phil.Taylor Mon, 23/11/2026 - 13:13",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 4.736,
    "also": []
   },
   "d385192900": {
@@ -1357,7 +1371,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.755,
+   "score": 4.733,
    "also": []
   },
   "f8cc59acbc": {
@@ -1372,7 +1386,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.745,
+   "score": 4.723,
    "also": []
   },
   "2d515091a1": {
@@ -1388,45 +1402,8 @@
     "ia",
     "tech"
    ],
-   "score": 4.658,
+   "score": 4.634,
    "also": []
-  },
-  "06aa0ea8a3": {
-   "title": "El Gobierno exigirá a la Comunidad de Madrid revocar las instrucciones que prohíben carteles sobre la huelga o implicar a los alumnos",
-   "url": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-22T11:48:55+00:00",
-   "summary": "Pedro Sánchez compara los formularios con los utilizados en el franquismo; Isabel Díaz Ayuso le acusa de usar “ideológicamente y sectariamente a los niños” y jalear las huelgas educativas “más feroces que se recuerdan”",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/MR5BNW56FBO4JDUESPHQ66QUQ4.jpg?auth=4497cb76cdc1f4c3625807fcba14fcbfe0b8db70b231320f29a347085cf66cae",
-   "topics": [
-    "espana"
-   ],
-   "score": 4.639,
-   "also": []
-  },
-  "0ce227d243": {
-   "title": "Tenpoint Therapeutics submits NDS for Yuvezzi presbyopia drop to Health Canada",
-   "url": "https://www.optometrytimes.com/view/tenpoint-therapeutics-submits-nds-yuvezzi-presbyopia-drop-health-canada",
-   "source": "Optometry Times",
-   "source_id": "optometrytimes",
-   "published": "2026-11-20T15:10:26+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.583,
-   "also": [
-    {
-     "source_id": "ophthalmologytimes",
-     "source": "Ophthalmology Times",
-     "url": "https://www.ophthalmologytimes.com/view/tenpoint-therapeutics-submits-nds-for-yuvezzi-presbyopia-drop-to-health-canada",
-     "title": "Tenpoint Therapeutics submits NDS for Yuvezzi presbyopia drop to Health Canada"
-    }
-   ]
   },
   "7d99e0f411": {
    "title": "Así trabajó Hernández de Cos la presidencia del BCE con Sánchez y Feijóo: \"No hay que decir nada aún\"",
@@ -1441,7 +1418,22 @@
     "espana",
     "economia"
    ],
-   "score": 4.553,
+   "score": 4.536,
+   "also": []
+  },
+  "2b1342e4e5": {
+   "title": "Lilly snaps up LoQus23 and its early-stage Huntington's pill",
+   "url": "https://pharmaphorum.com/news/lilly-snaps-loqus23-and-its-early-stage-huntingtons-pill",
+   "source": "pharmaphorum",
+   "source_id": "pharmaphorum",
+   "published": "2026-11-23T11:24:37+00:00",
+   "summary": "Phil.Taylor Mon, 23/11/2026 - 11:24 Phil.Taylor Mon, 23/11/2026 - 11:24",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 4.522,
    "also": []
   },
   "1dab1bd477": {
@@ -1456,7 +1448,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.357,
+   "score": 4.334,
    "also": []
   },
   "63706cb843": {
@@ -1472,7 +1464,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.289,
+   "score": 4.265,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1487,7 +1479,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.154,
+   "score": 4.13,
    "also": []
   },
   "106e5d1cff": {
@@ -1503,7 +1495,7 @@
     "tech",
     "ia"
    ],
-   "score": 3.997,
+   "score": 3.975,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1519,7 +1511,7 @@
     "negocios",
     "salud"
    ],
-   "score": 3.997,
+   "score": 3.975,
    "also": []
   },
   "1e82ded39f": {
@@ -1535,7 +1527,7 @@
     "economia",
     "salud"
    ],
-   "score": 3.977,
+   "score": 3.957,
    "also": []
   },
   "fb0c832b2c": {
@@ -1550,22 +1542,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.895,
-   "also": []
-  },
-  "d178ea74b0": {
-   "title": "La inflación se come las subidas salariales y harta a los trabajadores",
-   "url": "https://elpais.com/economia/negocios/2026-11-23/la-inflacion-se-come-las-subidas-salariales-y-harta-a-los-trabajadores.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-23T04:30:00+00:00",
-   "summary": "El alza de los precios resta poder adquisitivo y las empresas buscan cómo premiar la aportación de sus empleados",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/MVQ3VDISNRHAXJV6UAWKYW723E.jpg?auth=0c42b2cf3441b702d134f3473135adedec8c7eda6a9fdee6d6d7e1e70b69a081",
-   "topics": [
-    "economia"
-   ],
-   "score": 3.895,
+   "score": 3.877,
    "also": []
   },
   "752fa60dfe": {
@@ -1581,7 +1558,7 @@
     "ia",
     "economia"
    ],
-   "score": 3.704,
+   "score": 3.69,
    "also": []
   },
   "6793275c5f": {
@@ -1597,7 +1574,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.535,
+   "score": 3.525,
    "also": []
   },
   "852c829d5d": {
@@ -1612,7 +1589,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.116,
+   "score": 3.102,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1627,7 +1604,22 @@
    "topics": [
     "optica"
    ],
-   "score": 2.763,
+   "score": 2.762,
+   "also": []
+  },
+  "a1ea71a98c": {
+   "title": "Residual astigmatism a planning priority in monofocal cataract surgery",
+   "url": "https://www.healio.com/news/ophthalmology/20261119/make-residual-astigmatism-a-planning-priority-in-monofocal-cataract-surgery",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-20T19:17:07+00:00",
+   "summary": "For decades, cataract surgery planning centered on restoring distance vision, and residual astigmatism at lower magnitudes was considered acceptable and frequently left uncorrected. Better biometry and toric IOL technology, together with rising patient expectations, have made that position difficult to sustain. As cataract surgery evolves from a rehabilitative procedure into a refractive one, low residual…",
+   "ai_summary": null,
+   "image": "https://www.healio.com/~/media/images/news/print/ocular-surgery-news/2026/11_november_dd/osn0626bielory_graphic_01_og.jpg?w=300",
+   "topics": [
+    "optica"
+   ],
+   "score": 2.762,
    "also": []
   },
   "68c3085284": {
@@ -1643,7 +1635,7 @@
     "medtech",
     "salud"
    ],
-   "score": 2.422,
+   "score": 2.421,
    "also": []
   },
   "3588888e17": {
@@ -1658,7 +1650,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.416,
+   "score": 2.403,
    "also": []
   },
   "de138162ba": {
@@ -1673,22 +1665,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.383,
-   "also": []
-  },
-  "38075cbb90": {
-   "title": "Ladera Medical reports positive data for large bore closure system",
-   "url": "https://www.medicaldevice-network.com/news/ladera-medical-reports-positive-data-for-large-bore-closure-system/",
-   "source": "Medical Device Network",
-   "source_id": "mdnetwork",
-   "published": "2026-11-23T09:14:56+00:00",
-   "summary": "Ladera Medical has reported full data from the FASTEN trial of the Large Bore Closure System, which demonstrated rapid haemostasis in TAVR/TAVI patients. The post Ladera Medical reports positive data for large bore closure system appeared first on Medical Device Network .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech"
-   ],
-   "score": 2.33,
+   "score": 2.37,
    "also": []
   },
   "76aaff30a7": {
@@ -1713,7 +1690,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 208,
+   "count": 212,
    "ok": true,
    "errors": []
   },
@@ -1721,7 +1698,7 @@
    "id": "elmundo",
    "name": "El Mundo",
    "via": "rss",
-   "count": 76,
+   "count": 77,
    "ok": true,
    "errors": []
   },
@@ -1923,7 +1900,7 @@
    "id": "mmm",
    "name": "MM+M",
    "via": "google-news",
-   "count": 2,
+   "count": 3,
    "ok": true,
    "errors": []
   },
