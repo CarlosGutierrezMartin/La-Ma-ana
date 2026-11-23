@@ -6,8 +6,9 @@
 #   lanza el workflow: se aplica en el podcast del día siguiente.
 topics: [optica, pharma, medtech, marketing, ia]
 
-minutes: 5                 # duración aproximada del episodio
-stories: 6                 # noticias por episodio (al menos una por tema): menos = más desarrolladas
+minutes: 10                # duración aproximada del episodio
+stories: 9                 # noticias por episodio (al menos una por tema): menos = más desarrolladas
+text_chars_per_story: 3000 # texto del artículo que recibe Gemini por noticia
 hosts:                     # voces prebuilt de Gemini: Kore, Charon, Puck, Aoede, Achird...
   - name: Lucía
     voice: Kore
@@ -17,7 +18,7 @@ style: "Tono de informativo matinal, cercano y ágil, en español de España."
 models:                         # en orden: si uno está saturado o sin cupo, el siguiente
   script: [gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash-lite]
   tts: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
-max_chars_per_request: 2500     # el guion se locuta en trozos de este tamaño
+max_chars_per_request: 3000     # el guion se locuta en trozos de este tamaño (~3 min de audio)
 seconds_between_requests: 25    # pausa entre trozos (cupo por minuto del plan gratuito)
 busy_rounds: 3                  # si todos los modelos están saturados, rondas de reintento...
 busy_wait_seconds: 180          # ...separadas por esta espera

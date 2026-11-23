@@ -131,7 +131,8 @@ def same_story(a: dict, b: dict) -> bool:
     return len(names(a["title"]) & names(b["title"])) >= 2
 
 
-def pick_stories(digest: dict, topic_ids: list[str], n_stories: int = 6, per_topic_pool: int = 3) -> list[dict]:
+def pick_stories(digest: dict, topic_ids: list[str], n_stories: int = 6, per_topic_pool: int = 4,
+                 text_limit: int = 3000) -> list[dict]:
     """Pocas noticias bien contadas. Garantiza al menos una por tema elegido y
     completa con las de más relevancia; prefiere las que tienen texto completo."""
     import concurrent.futures as cf
@@ -151,7 +152,7 @@ def pick_stories(digest: dict, topic_ids: list[str], n_stories: int = 6, per_top
                          "item": {k: it.get(k) for k in ("title", "url", "source", "source_id", "published", "summary", "image", "topics", "score", "also")}})
     with cf.ThreadPoolExecutor(8) as ex:
         for c, txt in zip(pool, ex.map(lambda c: article_text(c["url"]), pool)):
-            c["text"] = txt[:2200]
+            c["text"] = txt[:text_limit]
     # prioridad = relevancia; sin texto completo vale menos (se contaría casi solo el titular)
     prio = lambda c: c["score"] * (1.0 if len(c["text"]) >= 600 else 0.6)  # noqa: E731
     chosen = []
@@ -189,10 +190,14 @@ class Busy(RuntimeError):
     """Modelo saturado (503) o sin cupo (429): merece la pena probar otro."""
 
 
+CALLS: dict[str, int] = {}
+
+
 def gemini(model: str, body: dict, key: str, timeout: int = 300, tries: int = 3) -> dict:
     """POST generateContent con reintentos en 429/5xx."""
     data = json.dumps(body).encode()
     for attempt in range(tries):
+        CALLS[model] = CALLS.get(model, 0) + 1
         req = urllib.request.Request(API.format(model=model), data=data, method="POST",
                                      headers={"x-goog-api-key": key, "Content-Type": "application/json"})
         try:
@@ -479,7 +484,8 @@ def generate(args, cfg, index, digest, day, audio_dir, save) -> int:
     topic_ids = [t for t in cfg.get("topics", []) if any(s["id"] == t for s in digest["sections"])]
     if not topic_ids:
         raise SystemExit("[podcast] ninguno de los temas de config/podcast.yaml existe en config/topics.yaml")
-    stories = pick_stories(digest, topic_ids, int(cfg.get("stories", 6)))
+    stories = pick_stories(digest, topic_ids, int(cfg.get("stories", 6)),
+                           text_limit=int(cfg.get("text_chars_per_story", 3000)))
     log(f"temas: {', '.join(topic_ids)} · {len(stories)} noticias")
     for st in stories:
         log(f"  {st['relevance']:>3}/100 · {len(st['text']):>5} car. · {st['source']}: {st['title'][:70]}")
@@ -523,6 +529,7 @@ def generate(args, cfg, index, digest, day, audio_dir, save) -> int:
     index["episodes"].sort(key=lambda x: x["date"], reverse=True)
     save()
     log(f"listo: {fname} · {duration / 60:.1f} min · {episode['bytes'] / 1e6:.1f} MB")
+    log("peticiones a Gemini: " + ", ".join(f"{m} ×{n}" for m, n in CALLS.items()))
     return 0
 
 
