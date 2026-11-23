@@ -112,10 +112,14 @@ def pick_stories(digest: dict, topic_ids: list[str], total: int = 12) -> list[di
 
 
 # --------------------------------------------------------------------------- Gemini
-def gemini(model: str, body: dict, key: str, timeout: int = 300) -> dict:
+class Busy(RuntimeError):
+    """Modelo saturado (503) o sin cupo (429): merece la pena probar otro."""
+
+
+def gemini(model: str, body: dict, key: str, timeout: int = 300, tries: int = 3) -> dict:
     """POST generateContent con reintentos en 429/5xx."""
     data = json.dumps(body).encode()
-    for attempt in range(4):
+    for attempt in range(tries):
         req = urllib.request.Request(API.format(model=model), data=data, method="POST",
                                      headers={"x-goog-api-key": key, "Content-Type": "application/json"})
         try:
@@ -123,13 +127,37 @@ def gemini(model: str, body: dict, key: str, timeout: int = 300) -> dict:
                 return json.loads(r.read())
         except urllib.error.HTTPError as ex:
             detail = ex.read().decode(errors="replace")[:600]
-            if ex.code in (429, 500, 502, 503, 504) and attempt < 3:
+            if ex.code in (429, 500, 502, 503, 504) and attempt < tries - 1:
                 wait = int(ex.headers.get("Retry-After") or 0) or 20 * (attempt + 1)
                 log(f"{model}: HTTP {ex.code}, reintento en {wait}s ({detail[:160]})")
                 time.sleep(wait)
                 continue
-            raise RuntimeError(f"{model}: HTTP {ex.code}: {detail}") from None
-    raise RuntimeError(f"{model}: sin respuesta tras varios intentos")
+            err = Busy if ex.code in (429, 500, 502, 503, 504) else RuntimeError
+            raise err(f"{model}: HTTP {ex.code}: {detail[:300]}") from None
+        except (urllib.error.URLError, TimeoutError) as ex:
+            if attempt < tries - 1:
+                time.sleep(15)
+                continue
+            raise Busy(f"{model}: sin conexión: {ex}") from None
+    raise Busy(f"{model}: sin respuesta tras varios intentos")
+
+
+def models_of(cfg: dict, kind: str) -> list[str]:
+    m = cfg["models"][kind]
+    return [m] if isinstance(m, str) else list(m)
+
+
+def gemini_any(models: list[str], body: dict, key: str) -> tuple[dict, str]:
+    """Prueba los modelos en orden: si uno está saturado o sin cupo, el siguiente."""
+    last = None
+    for i, model in enumerate(models):
+        try:
+            return gemini(model, body, key), model
+        except Busy as ex:
+            last = ex
+            if i < len(models) - 1:
+                log(f"{model} no disponible ({str(ex)[:120]}); pruebo {models[i + 1]}")
+    raise last
 
 
 def response_text(resp: dict) -> str:
@@ -173,13 +201,17 @@ Devuelve SOLO un JSON con esta forma:
 {{"title": "titular del episodio (máx. 80 caracteres)", "turns": [{{"speaker": "{hosts[0]}", "text": "..."}}, {{"speaker": "{hosts[1]}", "text": "..."}}]}}"""
     body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json"}}
+    models = models_of(cfg, "script")
     try:
-        resp = gemini(cfg["models"]["script"], body, key)
+        resp, model = gemini_any(models, body, key)
+    except Busy:
+        raise
     except RuntimeError as ex:
         if "HTTP 400" not in str(ex):
             raise
         log("el modelo no acepta responseMimeType; se pide el JSON solo por instrucciones")
-        resp = gemini(cfg["models"]["script"], {"contents": body["contents"]}, key)
+        resp, model = gemini_any(models, {"contents": body["contents"]}, key)
+    log(f"guion escrito con {model}")
     text = response_text(resp)
     data = json.loads(text[text.index("{"): text.rindex("}") + 1])
     turns = [{"speaker": t["speaker"], "text": re.sub(r"\s+", " ", str(t["text"])).strip()}
@@ -226,7 +258,7 @@ class TTS:
     """Dos formatos de petición multi-voz; recuerda el que funcione."""
 
     def __init__(self, cfg: dict, key: str):
-        self.cfg, self.key, self.fmt = cfg, key, None
+        self.cfg, self.key, self.fmt, self.model = cfg, key, None, None
         self.voices = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
             {"speaker": h["name"], "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": h["voice"]}}}
             for h in cfg["hosts"]]}}
@@ -244,12 +276,17 @@ class TTS:
                 "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": self.voices}}
 
     def speak(self, turns: list[dict]) -> bytes:
-        model = self.cfg["models"]["tts"]
+        models = models_of(self.cfg, "tts")
+        if self.model:  # mismo modelo en todo el episodio para que las voces no cambien
+            models = [self.model] + [m for m in models if m != self.model]
         for fmt in ([self.fmt] if self.fmt else ["turnos", "transcripcion"]):
             try:
-                pcm = decode_audio(gemini(model, self._body(turns, fmt), self.key))
-                self.fmt = fmt
+                resp, model = gemini_any(models, self._body(turns, fmt), self.key)
+                pcm = decode_audio(resp)
+                self.fmt, self.model = fmt, model
                 return pcm
+            except Busy:
+                raise
             except RuntimeError as ex:
                 if self.fmt or "HTTP 400" not in str(ex):
                     raise

@@ -13,9 +13,9 @@ hosts:                     # voces prebuilt de Gemini: Kore, Charon, Puck, Aoede
   - name: Álex
     voice: Charon
 style: "Tono de informativo matinal, cercano y ágil, en español de España."
-models:
-  script: gemini-3.8-flash      # guion (texto)
-  tts: gemini-3.8-flash-tts     # voces
+models:                         # en orden: si uno está saturado o sin cupo, el siguiente
+  script: [gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash-lite]
+  tts: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
 max_chars_per_request: 2500     # el guion se locuta en trozos de este tamaño
 seconds_between_requests: 25    # pausa entre trozos (cupo por minuto del plan gratuito)
 retention_days: 14              # episodios que se conservan en el feed
