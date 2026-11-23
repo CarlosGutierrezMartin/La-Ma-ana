@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T15:13:58.180165+00:00",
+ "generated_at": "2026-11-23T15:18:25.911342+00:00",
  "stats": {
-  "fetched": 1761,
-  "fresh": 665,
-  "stories": 627,
-  "selected": 88
+  "fetched": 1758,
+  "fresh": 670,
+  "stories": 630,
+  "selected": 89
  },
  "brief": null,
  "ai_model": null,
@@ -20,15 +20,15 @@
     "2be98cfc04",
     "90f831b4fd",
     "b205246cdc",
-    "0b7525d017",
     "dc42a73f7e",
     "58c2527b36",
     "e10a54d444",
     "02ea7b5321",
+    "e4b12870dd",
     "aefe2fb3f5",
-    "43393413fe",
     "ab33412673",
     "ea9fa1507b",
+    "0b7525d017",
     "9b513f1c62"
    ]
   },
@@ -41,15 +41,15 @@
     "dc42a73f7e",
     "3ce502eefa",
     "716c53fa8f",
+    "bc5a53032c",
     "58c2527b36",
     "90f831b4fd",
+    "94e0e3d950",
     "8fa6f24d75",
-    "bc5a53032c",
     "ab33412673",
     "743c66de3d",
     "2f9c65df28",
     "378e2b2dc1",
-    "94e0e3d950",
     "9c079ad7f6",
     "a2c7afe9f7"
    ]
@@ -70,7 +70,7 @@
     "106e5d1cff",
     "a457bdd4df",
     "2d515091a1",
-    "6793275c5f"
+    "e1550428d2"
    ]
   },
   {
@@ -79,8 +79,8 @@
    "short": "Negocios",
    "items": [
     "9c18fd8d23",
-    "90f831b4fd",
     "02ea7b5321",
+    "90f831b4fd",
     "4bfc072ba7",
     "bc5a53032c",
     "17b2c2dee1",
@@ -116,14 +116,14 @@
    "items": [
     "e10a54d444",
     "ea9fa1507b",
-    "0b7525d017",
     "1c35030178",
     "4100869d1c",
     "e25be61dcd",
     "7e6255878c",
     "ed24ecec5c",
     "70f9818cda",
-    "8bdbb6d9cf"
+    "8bdbb6d9cf",
+    "06aa0ea8a3"
    ]
   },
   {
@@ -152,12 +152,12 @@
     "dc42a73f7e",
     "6f5322db93",
     "02ea7b5321",
-    "43393413fe",
+    "e4b12870dd",
     "74b514dbc9",
     "26cb8d2aa5",
     "6cce577396",
     "cecdeaf2a5",
-    "743c66de3d"
+    "4c8e713420"
    ]
   },
   {
@@ -167,7 +167,7 @@
    "items": [
     "aefe2fb3f5",
     "8da34bf647",
-    "43393413fe",
+    "e4b12870dd",
     "e252349a0c",
     "988fb944df",
     "8fa6f24d75",
@@ -186,8 +186,8 @@
     "58c2527b36",
     "9b513f1c62",
     "19d402410a",
-    "167adc3c0c",
-    "7c0be06f40",
+    "9a6a5c9356",
+    "1ddff4a50d",
     "68c3085284",
     "3588888e17",
     "de138162ba",
@@ -226,13 +226,19 @@
     "ia",
     "negocios"
    ],
-   "score": 23.205,
+   "score": 27.083,
    "also": [
     {
      "source_id": "elpais",
      "source": "El País",
      "url": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
      "title": "Nvidia recupera a Jensen Huang como consejero delegado"
+    },
+    {
+     "source_id": "theverge",
+     "source": "The Verge",
+     "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+     "title": "Jensen Huang is back as Nvidia’s CEO"
     },
     {
      "source_id": "elconfidencial",
@@ -268,7 +274,7 @@
     "ia",
     "medtech"
    ],
-   "score": 16.232,
+   "score": 16.199,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -296,7 +302,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.89,
+   "score": 11.867,
    "also": []
   },
   "90f831b4fd": {
@@ -312,7 +318,7 @@
     "ia",
     "negocios"
    ],
-   "score": 11.711,
+   "score": 11.687,
    "also": [
     {
      "source_id": "eleconomista",
@@ -340,36 +346,8 @@
    "topics": [
     "salud"
    ],
-   "score": 11.623,
+   "score": 11.601,
    "also": []
-  },
-  "0b7525d017": {
-   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
-   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-23T14:33:00+00:00",
-   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 11.384,
-   "also": [
-    {
-     "source_id": "elpais",
-     "source": "El País",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
-     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
-    },
-    {
-     "source_id": "eleconomista",
-     "source": "elEconomista",
-     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNllncGRsNzB1ZTdmdHpzekQyVzVFRDhWNHBlZk5FWGtkVkhzcEFnUk4zVHRhV1FGV3lvSHVyYUlGOFA5dm1XQWlkOHpVLWJMNWQ0bzVRNldXT09Mc1A0QjRhdmpFbXRZdHdLSkpHWkE5RlhUa3VaU1dJRUp2bk41S1RvRWIyWFE5MlZmOXdxS0R6WWc3RWJ2aVlseWNVYzFrX2lsdnNxTHNuTWQ2NFRTa3BaRWJFVFI2MVRxXzkzUFowRXVrVE95N0haYk92aWFJc0liSjczQlh0bDNDU01JN1puMFRQOWh1RkFYQ3VHSTdjREtONTEyM3FYcWRfNXlFb0RkTGlRRzdoSFFOSFppUmxmY0w3YmxNbTBGdU9NSjd2U2kyTWhXM1ZZa01mTW5oOGZzTk45RURBQdIBpAJBVV95cUxONnpVdVQ0bUx6T0FhNGdpWWRfNmZHUUZkdThJaWI1cTZOd3JrWXp4RnlpODVzOGNYUEREdENVWGVJX1lCeXNiYlNZWUltV0o2TUpLZ243aDhXdnl4M09Kblh2dU9nS0JNT2RfNzQtTkplM0Izb1l1WjB0Y2hPRENkS2VVdWx0aE9CMzY1Smk2NmJ0VXBkQVp5UGlQbGNuMTV5djhpaXdUWWpIb29zSndaVmJWbkZhbFNwSjVfVXJOY3RQVFh6Rm1DMkMyRGxaMmEzYkVVYkZpZUZnSVlKbGM2M2tLazVuVk5jSGpaMzNDM3d1SURWOHVNYkw3UURkZm5wdU1zeDNTQTdYQjBTeFpXMFYxbnU5cFFMZjNkSGRYZjM5ZjFa?oc=5",
-     "title": "Felipe González responde a José Bono después de que este dijera que no hiciera \"el tonto\" con su voto: \"Yo soy una persona seria, no como otros\""
-    }
-   ]
   },
   "dc42a73f7e": {
    "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
@@ -384,7 +362,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.298,
+   "score": 11.278,
    "also": []
   },
   "58c2527b36": {
@@ -401,7 +379,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.876,
+   "score": 10.857,
    "also": [
     {
      "source_id": "medtech_search",
@@ -423,7 +401,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.791,
+   "score": 10.771,
    "also": []
   },
   "e252349a0c": {
@@ -439,7 +417,47 @@
     "salud",
     "pharma"
    ],
-   "score": 10.75,
+   "score": 10.73,
+   "also": []
+  },
+  "94e0e3d950": {
+   "title": "Nvidia shares soar 30% after board reinstates Huang",
+   "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-23T14:57:55+00:00",
+   "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 9.906,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5",
+     "title": "Trump says Nvidia board made right call on Huang reinstatement"
+    }
+   ]
+  },
+  "bc5a53032c": {
+   "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan los mercados disparando el Nasdaq más de un 7%",
+   "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/23/6b044c51e9cf4a657b8b458e.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-23T14:50:01+00:00",
+   "summary": "En un contexto de enorme volatilidad y dudas hacia la IA, las acciones de Nvidia suben en torno a un 30% después de que la compañía anunciara el regreso de su CEO Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439590899.jpg",
+   "topics": [
+    "ia",
+    "tech",
+    "economia",
+    "negocios"
+   ],
+   "score": 9.574,
    "also": []
   },
   "02ea7b5321": {
@@ -455,13 +473,36 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.51,
+   "score": 9.493,
    "also": [
     {
      "source_id": "marketingdirecto",
      "source": "Marketing Directo",
      "url": "https://www.marketingdirecto.com/marketing-general/gente/javier-matallana-nuevo-ceo-webedia-espana",
      "title": "Javier Matallana, nuevo CEO de Webedia España"
+    }
+   ]
+  },
+  "e4b12870dd": {
+   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOME5zWmhJYjVoX3NWUTdjSlhoWXRDZHdiM1REYy1QTWFwZ25aclNOOU05aWUxdGxWcjdxdXRYNDBoUUIzbTRhZnN5WUR2bENaaDBRYjN1OWtENFFEMlJfZUJRaWYzbkI2bkwxNTNFRTVvSGQzb1dMbE45UFJTTm5VWXJLUDRTd0JhcEF5TnlR?oc=5",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-23T13:33:28+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "marketing"
+   ],
+   "score": 9.298,
+   "also": [
+    {
+     "source_id": "mmm",
+     "source": "MM+M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
+     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
     }
    ]
   },
@@ -478,31 +519,8 @@
     "pharma",
     "salud"
    ],
-   "score": 9.219,
+   "score": 9.203,
    "also": []
-  },
-  "43393413fe": {
-   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
-   "url": "https://pmlive.com/pmea-2026-a-celebration-of-excellence-in-pharmaceutical-marketing/",
-   "source": "PMLiVE",
-   "source_id": "pmlive",
-   "published": "2026-11-23T12:26:40+00:00",
-   "summary": "This year’s Awards, held at the Sheraton Park Lane London, included 17 categories",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "marketing"
-   ],
-   "score": 9.05,
-   "also": [
-    {
-     "source_id": "mmm",
-     "source": "MM+M",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A4Z0JpSGhzQzh4YjEydWd1b0RWTm9ONXFqX19CVkZGbzhNN1VnSGxlUjhuYk9PS2ItMnB1T0F3cmFsZ0VZNnNPckFnNjJoSFRVOVBrdTNyRjFLdjFJUkVUWHZKVzhFWGk0UmljOEhZd29qSks5ZGJHMjFJaEl0dTRYQnNBaEFOU1E?oc=5",
-     "title": "Five things for pharma marketers to know for Monday, November 23, 2026"
-    }
-   ]
   },
   "716c53fa8f": {
    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -516,7 +534,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.926,
+   "score": 8.916,
    "also": [
     {
      "source_id": "reuters",
@@ -538,7 +556,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.636,
+   "score": 8.621,
    "also": []
   },
   "f944bb368b": {
@@ -553,7 +571,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.465,
+   "score": 8.449,
    "also": []
   },
   "006b384510": {
@@ -568,7 +586,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.33,
+   "score": 8.314,
    "also": []
   },
   "f1b33dc12f": {
@@ -583,25 +601,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.291,
-   "also": []
-  },
-  "bc5a53032c": {
-   "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan los mercados disparando el Nasdaq más de un 7%",
-   "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/23/6b044c51e9cf4a657b8b458e.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-23T14:50:01+00:00",
-   "summary": "Las acciones de Nvidia suben en torno a un 30% después de que la compañía anunciara el regreso de su CEO Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439590899.jpg",
-   "topics": [
-    "ia",
-    "tech",
-    "economia",
-    "negocios"
-   ],
-   "score": 8.11,
+   "score": 8.275,
    "also": []
   },
   "ab33412673": {
@@ -617,7 +617,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.845,
+   "score": 7.83,
    "also": []
   },
   "8fa6f24d75": {
@@ -634,7 +634,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.833,
+   "score": 7.821,
    "also": []
   },
   "15c9134c35": {
@@ -649,7 +649,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.662,
+   "score": 7.648,
    "also": []
   },
   "ea9fa1507b": {
@@ -664,8 +664,30 @@
    "topics": [
     "espana"
    ],
-   "score": 7.538,
+   "score": 7.525,
    "also": []
+  },
+  "0b7525d017": {
+   "title": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
+   "url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-23T14:33:00+00:00",
+   "summary": "El antiguo jefe del Ejecutivo responde a José Bono y evita desvelar el sentido de su papeleta, mientras critica al Gobierno por su falta de presupuestos",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/saSeyu9cCAx4f4RZKgKkl-9vLew=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffb2%2F043%2F44e%2Ffb204344e319f9c7348b9ba9e7504270.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.443,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+     "title": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”"
+    }
+   ]
   },
   "8bdbb6d9cf": {
    "title": "Azcón fichará 135 médicos extra para la Primaria aragonesa si el PP gana las elecciones",
@@ -680,7 +702,7 @@
     "salud",
     "espana"
    ],
-   "score": 7.367,
+   "score": 7.352,
    "also": []
   },
   "1c35030178": {
@@ -695,7 +717,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.365,
+   "score": 7.35,
    "also": []
   },
   "9b513f1c62": {
@@ -711,7 +733,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.201,
+   "score": 7.188,
    "also": []
   },
   "8da34bf647": {
@@ -726,7 +748,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.956,
+   "score": 6.944,
    "also": []
   },
   "4bfc072ba7": {
@@ -742,7 +764,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.755,
+   "score": 6.742,
    "also": []
   },
   "6f5322db93": {
@@ -757,7 +779,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.583,
+   "score": 6.57,
    "also": []
   },
   "743c66de3d": {
@@ -773,7 +795,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.567,
+   "score": 6.554,
    "also": []
   },
   "5320043ce8": {
@@ -789,7 +811,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.508,
+   "score": 6.496,
    "also": []
   },
   "790c1aab79": {
@@ -804,7 +826,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.475,
+   "score": 6.469,
    "also": []
   },
   "ed24ecec5c": {
@@ -819,7 +841,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.337,
+   "score": 6.325,
    "also": []
   },
   "e44a11c1f6": {
@@ -834,7 +856,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.276,
+   "score": 6.267,
    "also": []
   },
   "2f9c65df28": {
@@ -849,7 +871,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.203,
+   "score": 6.194,
    "also": []
   },
   "ffa17286a8": {
@@ -866,7 +888,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.19,
+   "score": 6.179,
    "also": []
   },
   "378e2b2dc1": {
@@ -882,22 +904,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.102,
-   "also": []
-  },
-  "94e0e3d950": {
-   "title": "Nvidia shares soar 30% after board reinstates Huang",
-   "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-23T14:57:55+00:00",
-   "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 5.956,
+   "score": 6.091,
    "also": []
   },
   "988fb944df": {
@@ -912,7 +919,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.95,
+   "score": 5.938,
    "also": []
   },
   "17b2c2dee1": {
@@ -929,7 +936,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.939,
+   "score": 5.928,
    "also": []
   },
   "70f9818cda": {
@@ -944,7 +951,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.907,
+   "score": 5.897,
    "also": []
   },
   "1b24c54950": {
@@ -961,7 +968,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.88,
+   "score": 5.869,
    "also": []
   },
   "4100869d1c": {
@@ -978,7 +985,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.807,
+   "score": 5.802,
    "also": []
   },
   "e25be61dcd": {
@@ -993,7 +1000,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.775,
+   "score": 5.768,
    "also": []
   },
   "9c079ad7f6": {
@@ -1008,7 +1015,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.675,
+   "score": 5.664,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1025,7 +1032,7 @@
     "economia",
     "tech"
    ],
-   "score": 5.627,
+   "score": 5.621,
    "also": []
   },
   "14f0fff5d7": {
@@ -1040,7 +1047,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.516,
+   "score": 5.507,
    "also": []
   },
   "133404e6a4": {
@@ -1057,7 +1064,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.453,
+   "score": 5.443,
    "also": []
   },
   "74b514dbc9": {
@@ -1073,7 +1080,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.396,
+   "score": 5.387,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1089,7 +1096,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.301,
+   "score": 5.292,
    "also": []
   },
   "4704f794ba": {
@@ -1106,7 +1113,22 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.247,
+   "score": 5.238,
+   "also": []
+  },
+  "6cce577396": {
+   "title": "Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar",
+   "url": "https://www.marketingdirecto.com/anunciantes-general/chocolates-valor-apuesta-marketing-experiencial-valor-cacao-bar",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-23T09:57:01+00:00",
+   "summary": "La compañía traslada su identidad y conocimiento del cacao a un espacio que apuesta por la personalización y la interacción directa con el consumidor. La entrada Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 5.228,
    "also": []
   },
   "b5f425ec8b": {
@@ -1123,22 +1145,7 @@
     "negocios",
     "salud"
    ],
-   "score": 5.238,
-   "also": []
-  },
-  "6cce577396": {
-   "title": "Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar",
-   "url": "https://www.marketingdirecto.com/anunciantes-general/chocolates-valor-apuesta-marketing-experiencial-valor-cacao-bar",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-23T09:57:01+00:00",
-   "summary": "La compañía traslada su identidad y conocimiento del cacao a un espacio que apuesta por la personalización y la interacción directa con el consumidor. La entrada Chocolates Valor apuesta por el marketing experiencial con VALOR Cacao Bar se publicó primero en Marketing Directo .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "marketing"
-   ],
-   "score": 5.237,
+   "score": 5.227,
    "also": []
   },
   "7eccd90ac9": {
@@ -1154,7 +1161,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.235,
+   "score": 5.225,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1169,7 +1176,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.197,
+   "score": 5.188,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1184,23 +1191,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.083,
-   "also": []
-  },
-  "19d402410a": {
-   "title": "Pattern Bioscience Submits 510(k) Application to FDA for Pneumonia ID/AST Panel",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemt2eGllWllqUmlEcHRCMW9OM08weGhSbDRYT1dLSHFPTnc0Y3BtQmM1c0dVU215ckQ3dDJSVmtYck8tdFdSOGh6bUhxZ3FEcG9GMktEMTh0RWZnckhIeHhSLUhhVFRvRXJseHNRSmhRTmRqTl8yaWRSanU2cjZwQzNHOEJDSzRiemNsSUlFSmZibjJNLVBsTw?oc=5",
-   "source": "Yahoo Finance",
-   "source_id": "medtech_search",
-   "published": "2026-11-23T14:00:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "pharma"
-   ],
-   "score": 5.004,
+   "score": 5.074,
    "also": []
   },
   "a457bdd4df": {
@@ -1217,7 +1208,23 @@
     "tech",
     "espana"
    ],
-   "score": 5.003,
+   "score": 4.995,
+   "also": []
+  },
+  "19d402410a": {
+   "title": "Pattern Bioscience Submits 510(k) Application to FDA for Pneumonia ID/AST Panel",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemt2eGllWllqUmlEcHRCMW9OM08weGhSbDRYT1dLSHFPTnc0Y3BtQmM1c0dVU215ckQ3dDJSVmtYck8tdFdSOGh6bUhxZ3FEcG9GMktEMTh0RWZnckhIeHhSLUhhVFRvRXJseHNRSmhRTmRqTl8yaWRSanU2cjZwQzNHOEJDSzRiemNsSUlFSmZibjJNLVBsTw?oc=5",
+   "source": "Yahoo Finance",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T14:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma"
+   ],
+   "score": 4.994,
    "also": []
   },
   "2f5e60e6ef": {
@@ -1232,7 +1239,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.972,
+   "score": 4.962,
    "also": []
   },
   "7e6255878c": {
@@ -1247,7 +1254,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.963,
+   "score": 4.956,
    "also": []
   },
   "1c93d024fa": {
@@ -1262,15 +1269,15 @@
    "topics": [
     "optica"
    ],
-   "score": 4.94,
+   "score": 4.93,
    "also": []
   },
-  "167adc3c0c": {
-   "title": "MIMEDX Announces FDA 510(k) Clearance for HELIOGEN® AMS",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUk5YWlZwNUNQN25lOU5FejJWTS1uUTlDNG0ta0dyNkYzNS1qekF3RXhXQWlGajlHYndzR3NBYm1zZks0cGU1TDFCVW1jQlhCb3ByWWdibUtVNi1GNnRtTnRidUZNUUlpbFFJcHRub3VURXVwYU10aGZsaF9MM0Fua25qYmd4OU5FcmNSWllMYkZvNEJCQjlmVmtTM2plUE1rUkJycTRaN3ZtTGJCLWNuVHFzRGtrSm1mM0xUbTZvNE5BTnNxbU9PU3Jn0gHKAUFVX3lxTE1STlhaVnA1Q1A3bmU5TkV6MlZNLW5ROUM0bS1rR3I2RjM1LWp6QXdFeFdBaUZqOUdid3NHc0FibXNmSzRwZTVMMUJVbWNCWEJvcHJZZ2JtS1U2LUY2dG1OdGJ1Rk1RSWlsUUlwdG5vdVRFdXBhTXRoZmxoX0wzQW5rbmpiZ3g5TkVyY1JaWUxiRm80QkJCOWZWa1MzamVQTWtSQnJxNFo3dm1MYkItY25UcXNEa2tKbWYzTFRtNm80TkFOc3FtT09Tcmc?oc=5",
-   "source": "The Manila Times",
+  "9a6a5c9356": {
+   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEExR3NHRkpTQ0t0UV9kNlN3TEVlbTVIcFV0Ujl6aFBfLWtVb1B2ay1icmEwb3FzaWdUMHJmRVdwZHFZcGdxbVN4WnNQN3JXYUpuWjM0TUNVRGRlb3kwWks0NFJGMEJDRVR2SlhpR19NdVBaaV8xUm5zbllzVmdBbXZOYUtQNV80RG9nWFRaTWF4aXpFQUFrbXZQZl9MUDZ0Z0xiTzlIZmdyYW5wb04xNVgzemdnSWd0NU9BYUZTM3c?oc=5",
+   "source": "Investing.com India",
    "source_id": "medtech_search",
-   "published": "2026-11-23T13:22:12+00:00",
+   "published": "2026-11-23T13:22:38+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
@@ -1278,23 +1285,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.921,
-   "also": []
-  },
-  "7c0be06f40": {
-   "title": "MIMEDX receives FDA clearance for antimicrobial wound dressing",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnhqLVBTb3ktMnUxR1V1Mk5pZldCQmtSMjYyZ2M5V1UyMzNjQzZrcGZnS0pMMEYwZWdGZTdiN09XbDRTZm9fcEMtR1k4N1ZxNFlFck56UVI3RnczWS1nQS1YZkZYMnhKdi0yRnJHTFhfQUJLRldBRkUzc3QwLURKZ0ZzWl9rbUdOcjRnbldKT1dEUWdkX3V0WVRtdWtEajRIRlRCeU9Hb3pRcnlsZk42U0kyWjlpVWNjWmdj?oc=5",
-   "source": "Investing.com",
-   "source_id": "medtech_search",
-   "published": "2026-11-23T13:15:54+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "pharma"
-   ],
-   "score": 4.907,
+   "score": 4.912,
    "also": []
   },
   "1ddff4a50d": {
@@ -1310,7 +1301,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.903,
+   "score": 4.894,
    "also": []
   },
   "71eae63a3e": {
@@ -1325,7 +1316,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.837,
+   "score": 4.827,
    "also": []
   },
   "130257fb00": {
@@ -1341,7 +1332,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.736,
+   "score": 4.727,
    "also": []
   },
   "d3561ea80e": {
@@ -1356,7 +1347,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.736,
+   "score": 4.727,
    "also": []
   },
   "d385192900": {
@@ -1371,7 +1362,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.733,
+   "score": 4.725,
    "also": []
   },
   "f8cc59acbc": {
@@ -1386,7 +1377,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.723,
+   "score": 4.716,
    "also": []
   },
   "2d515091a1": {
@@ -1402,7 +1393,37 @@
     "ia",
     "tech"
    ],
-   "score": 4.634,
+   "score": 4.626,
+   "also": []
+  },
+  "06aa0ea8a3": {
+   "title": "El Gobierno exigirá a la Comunidad de Madrid revocar las instrucciones que prohíben carteles sobre la huelga o implicar a los alumnos",
+   "url": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-22T11:48:55+00:00",
+   "summary": "Pedro Sánchez compara los formularios con los utilizados en el franquismo; Isabel Díaz Ayuso le acusa de usar “ideológicamente y sectariamente a los niños” y jalear las huelgas educativas “más feroces que se recuerdan”",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/MR5BNW56FBO4JDUESPHQ66QUQ4.jpg?auth=4497cb76cdc1f4c3625807fcba14fcbfe0b8db70b231320f29a347085cf66cae",
+   "topics": [
+    "espana"
+   ],
+   "score": 4.625,
+   "also": []
+  },
+  "4c8e713420": {
+   "title": "Turning Audience Attention Into Better Marketing Decisions",
+   "url": "https://www.adweek.com/convergent-tv/turning-audience-attention-into-better-marketing-decisions/",
+   "source": "Adweek",
+   "source_id": "adweek",
+   "published": "2026-11-23T08:35:41+00:00",
+   "summary": "This post was created in partnership with Viant Two ads can cost the same and reach the same number of viewers yet receive dramatically different levels of attention. Traditional advertising […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 4.56,
    "also": []
   },
   "7d99e0f411": {
@@ -1418,7 +1439,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.536,
+   "score": 4.53,
    "also": []
   },
   "2b1342e4e5": {
@@ -1433,7 +1454,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.522,
+   "score": 4.513,
    "also": []
   },
   "1dab1bd477": {
@@ -1448,7 +1469,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.334,
+   "score": 4.326,
    "also": []
   },
   "63706cb843": {
@@ -1464,7 +1485,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.265,
+   "score": 4.257,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1479,7 +1500,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.13,
+   "score": 4.122,
    "also": []
   },
   "106e5d1cff": {
@@ -1488,14 +1509,14 @@
    "source": "The Verge",
    "source_id": "theverge",
    "published": "2026-11-23T11:00:00+00:00",
-   "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
+   "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your […]",
    "ai_summary": null,
    "image": null,
    "topics": [
     "tech",
     "ia"
    ],
-   "score": 3.975,
+   "score": 3.968,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1511,7 +1532,7 @@
     "negocios",
     "salud"
    ],
-   "score": 3.975,
+   "score": 3.967,
    "also": []
   },
   "1e82ded39f": {
@@ -1527,7 +1548,7 @@
     "economia",
     "salud"
    ],
-   "score": 3.957,
+   "score": 3.95,
    "also": []
   },
   "fb0c832b2c": {
@@ -1542,7 +1563,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.877,
+   "score": 3.872,
    "also": []
   },
   "752fa60dfe": {
@@ -1558,23 +1579,22 @@
     "ia",
     "economia"
    ],
-   "score": 3.69,
+   "score": 3.686,
    "also": []
   },
-  "6793275c5f": {
-   "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-22T17:53:07+00:00",
+  "e1550428d2": {
+   "title": "Apple prepara un catálogo de productos asequibles que llegará a principios de 2027",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWldnNzZkdmU4S1BKSGsxbnNiZ2RDYWRMRDV1YW43dDFVZE1JQXYyUUFETTZXWlAxT3Z3TE95Vy02N0FrQjlwQm4wdklDaVlOLVFIOHZ4V0xNeVJycnVXMS1VWDNnWUR2OXQ0RVJ3RUtVdVUyMDBFQ1M3eTRDUXlBZDhCSC1hYmc1NFV5Q2NNckI0SGRkZ01QUWdQYk5SQmNiWEFndExFRDBzX1RvWnJnMkQ0aFVnSEwxTHBqZHg5TW5RRmZlakNLNnFiUU9GRl9HdkxDekZXdXZNWV92NzZjLTZjQmU?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T15:10:46+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
-    "ia",
     "tech"
    ],
-   "score": 3.525,
+   "score": 3.587,
    "also": []
   },
   "852c829d5d": {
@@ -1589,7 +1609,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.102,
+   "score": 3.097,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1650,7 +1670,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.403,
+   "score": 2.399,
    "also": []
   },
   "de138162ba": {
@@ -1665,7 +1685,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.37,
+   "score": 2.365,
    "also": []
   },
   "76aaff30a7": {
@@ -1883,10 +1903,12 @@
   {
    "id": "pmlive",
    "name": "PMLiVE",
-   "via": "rss",
-   "count": 10,
+   "via": "google-news",
+   "count": 8,
    "ok": true,
-   "errors": []
+   "errors": [
+    "https://www.pmlive.com/rss: HTTPError: HTTP Error 403: Forbidden"
+   ]
   },
   {
    "id": "pharmexec",
@@ -1932,7 +1954,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 40,
+   "count": 39,
    "ok": true,
    "errors": []
   },
