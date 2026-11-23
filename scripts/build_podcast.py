@@ -219,16 +219,24 @@ def models_of(cfg: dict, kind: str) -> list[str]:
     return [m] if isinstance(m, str) else list(m)
 
 
+BUSY_ROUNDS, BUSY_WAIT = 3, 180   # se ajustan desde config/podcast.yaml
+
+
 def gemini_any(models: list[str], body: dict, key: str) -> tuple[dict, str]:
-    """Prueba los modelos en orden: si uno está saturado o sin cupo, el siguiente."""
+    """Prueba los modelos en orden: si uno está saturado o sin cupo, el siguiente.
+    Si lo están todos, espera y repite la ronda (el plan gratuito tiene picos)."""
     last = None
-    for i, model in enumerate(models):
-        try:
-            return gemini(model, body, key), model
-        except Busy as ex:
-            last = ex
-            if i < len(models) - 1:
-                log(f"{model} no disponible ({str(ex)[:120]}); pruebo {models[i + 1]}")
+    for rnd in range(BUSY_ROUNDS):
+        if rnd:
+            log(f"todos los modelos saturados; nueva ronda {rnd + 1}/{BUSY_ROUNDS} en {BUSY_WAIT}s")
+            time.sleep(BUSY_WAIT)
+        for i, model in enumerate(models):
+            try:
+                return gemini(model, body, key, tries=2), model
+            except Busy as ex:
+                last = ex
+                if i < len(models) - 1:
+                    log(f"{model} no disponible ({str(ex)[:100]}); pruebo {models[i + 1]}")
     raise last
 
 
@@ -426,6 +434,9 @@ def main() -> int:
     args = ap.parse_args()
 
     cfg = yaml.safe_load(args.config.read_text(encoding="utf-8"))
+    global BUSY_ROUNDS, BUSY_WAIT
+    BUSY_ROUNDS = int(cfg.get("busy_rounds", BUSY_ROUNDS))
+    BUSY_WAIT = int(cfg.get("busy_wait_seconds", BUSY_WAIT))
     repo, site = site_info()
     audio_dir, index_path = args.docs / "podcast", args.docs / "data/podcast.json"
     try:

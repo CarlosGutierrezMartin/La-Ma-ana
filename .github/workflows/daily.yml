@@ -5,6 +5,9 @@ on:
     # GitHub usa UTC. 05:20 UTC = 06:20 en Madrid en invierno, 07:20 en verano.
     # (GitHub puede retrasar los cron unos minutos en horas punta.)
     - cron: "20 5 * * *"
+    # Respaldo: 06:50 UTC (07:50 en Madrid en invierno). Actualiza la edición y
+    # genera el podcast solo si el de primera hora no salió (Gemini saturado...).
+    - cron: "50 6 * * *"
   workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
     inputs:
       podcast:

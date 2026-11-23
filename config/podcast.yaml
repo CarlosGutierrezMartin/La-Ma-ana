@@ -19,4 +19,6 @@ models:                         # en orden: si uno está saturado o sin cupo, el
   tts: [gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts]
 max_chars_per_request: 2500     # el guion se locuta en trozos de este tamaño
 seconds_between_requests: 25    # pausa entre trozos (cupo por minuto del plan gratuito)
+busy_rounds: 3                  # si todos los modelos están saturados, rondas de reintento...
+busy_wait_seconds: 180          # ...separadas por esta espera
 retention_days: 14              # episodios que se conservan en el feed
