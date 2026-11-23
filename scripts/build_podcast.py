@@ -87,6 +87,11 @@ def restore_episodes(index: dict, site: str, out_dir: Path, keep_after: str) -> 
 
 
 # --------------------------------------------------------------------------- noticias
+def outlet_name(name: str) -> str:
+    """'El Dia.com.do' -> 'El Dia': que no se lea "punto com punto do"."""
+    return re.sub(r"(\.(com|es|net|org|info|news|co|do|mx|ar|cl|uk|io))+$", "", name.strip(), flags=re.I) or name
+
+
 def pick_stories(digest: dict, topic_ids: list[str], total: int = 12) -> list[dict]:
     """Las mejores noticias de cada tema elegido, sin repetir, repartidas."""
     by_id = {s["id"]: s for s in digest["sections"]}
@@ -102,7 +107,7 @@ def pick_stories(digest: dict, topic_ids: list[str], total: int = 12) -> list[di
                 continue
             it = digest["items"][sid]
             used.add(sid)
-            out.append({"id": sid, "topic": sec["name"], "title": it["title"], "source": it["source"],
+            out.append({"id": sid, "topic": sec["name"], "title": it["title"], "source": outlet_name(it["source"]),
                         "summary": it.get("ai_summary") or it.get("summary") or "",
                         "also": [a["source"] for a in it.get("also", [])]})
             n += 1
@@ -193,6 +198,8 @@ Reglas:
 - Cita el medio de cada noticia de forma natural ("según Diario Médico...").
 - Traduce al español las noticias en inglés.
 - Empieza saludando y diciendo la fecha; termina con una despedida breve.
+- Cada presentador habla siempre como sí mismo: {hosts[0]} es {hosts[0]} y {hosts[1]} es {hosts[1]}. Que no se presenten con fórmulas como "servidor".
+- Nombra los medios por su nombre, nunca como dirección web.
 - Frases cortas, fáciles de escuchar. Sin listas, sin markdown, sin URLs, sin acotaciones entre paréntesis.
 - Escribe las siglas como se pronuncian si no son evidentes, y las cifras con palabras cuando ayude a leerlas.
 - Alterna los turnos; ninguno de más de 80 palabras.
