@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T16:20:52.839351+00:00",
+ "generated_at": "2026-11-23T16:23:39.415249+00:00",
  "stats": {
-  "fetched": 1760,
+  "fetched": 1763,
   "fresh": 675,
   "stories": 634,
-  "selected": 87
+  "selected": 86
  },
  "brief": null,
  "ai_model": null,
@@ -132,15 +132,15 @@
    "short": "Óptica",
    "items": [
     "e44a11c1f6",
+    "14f0fff5d7",
     "5320043ce8",
     "ffa17286a8",
+    "d385192900",
+    "f8cc59acbc",
     "1c93d024fa",
     "0f37f7e9e6",
-    "ee72d044de",
-    "5a30473aaa",
     "ac8b6d1aab",
-    "a1ea71a98c",
-    "856ebb8b54"
+    "a1ea71a98c"
    ]
   },
   {
@@ -168,13 +168,13 @@
     "aefe2fb3f5",
     "8da34bf647",
     "43393413fe",
+    "bba7c35e5a",
     "e252349a0c",
     "988fb944df",
     "8fa6f24d75",
     "f4c1a1d8e2",
     "7004274ff1",
-    "68d47bc56c",
-    "71eae63a3e"
+    "68d47bc56c"
    ]
   },
   {
@@ -207,8 +207,8 @@
     "f944bb368b",
     "006b384510",
     "f1b33dc12f",
-    "15c9134c35",
-    "790c1aab79"
+    "bba7c35e5a",
+    "15c9134c35"
    ]
   }
  ],
@@ -226,7 +226,7 @@
     "ia",
     "negocios"
    ],
-   "score": 30.154,
+   "score": 30.117,
    "also": [
     {
      "source_id": "elpais",
@@ -280,7 +280,7 @@
     "ia",
     "medtech"
    ],
-   "score": 15.751,
+   "score": 15.731,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -308,7 +308,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.554,
+   "score": 11.54,
    "also": []
   },
   "b205246cdc": {
@@ -323,7 +323,7 @@
    "topics": [
     "salud"
    ],
-   "score": 11.303,
+   "score": 11.291,
    "also": []
   },
   "dc42a73f7e": {
@@ -339,7 +339,7 @@
     "ia",
     "marketing"
    ],
-   "score": 11.002,
+   "score": 10.99,
    "also": []
   },
   "cac1e87497": {
@@ -356,7 +356,7 @@
     "tech",
     "medtech"
    ],
-   "score": 10.989,
+   "score": 10.975,
    "also": [
     {
      "source_id": "medtech_search",
@@ -380,7 +380,7 @@
     "ia",
     "salud"
    ],
-   "score": 10.588,
+   "score": 10.576,
    "also": [
     {
      "source_id": "medtech_search",
@@ -402,7 +402,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.491,
+   "score": 10.479,
    "also": []
   },
   "e252349a0c": {
@@ -418,7 +418,7 @@
     "salud",
     "pharma"
    ],
-   "score": 10.45,
+   "score": 10.438,
    "also": []
   },
   "94e0e3d950": {
@@ -433,7 +433,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.798,
+   "score": 9.785,
    "also": [
     {
      "source_id": "reuters",
@@ -442,6 +442,22 @@
      "title": "Stocks soar as Nvidia reinstates Huang, reviving AI trade"
     }
    ]
+  },
+  "bba7c35e5a": {
+   "title": "Una planta de tabaco, convertida en fábrica de uno de los fármacos contra el cáncer más importantes",
+   "url": "https://elpais.com/salud-y-bienestar/2026-11-23/una-planta-de-tabaco-convertida-en-fabrica-de-uno-de-los-farmacos-contra-el-cancer-mas-importantes.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T16:12:46+00:00",
+   "summary": "La comprensión de cómo se puede producir el Taxol mediante biosíntesis tiene como objetivo hacer los tratamientos más accesibles a los pacientes",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/TQAX3E54XFCATB2KM4J6LC3UBE.jpg?auth=46dad6e43db7f0bd854573d3892a354472d23efc502d1db32cb491ee9c17c71a",
+   "topics": [
+    "salud",
+    "pharma"
+   ],
+   "score": 9.701,
+   "also": []
   },
   "bc5a53032c": {
    "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan los mercados disparando el Nasdaq más de un 7%",
@@ -458,7 +474,7 @@
     "economia",
     "negocios"
    ],
-   "score": 9.309,
+   "score": 9.297,
    "also": []
   },
   "02ea7b5321": {
@@ -474,7 +490,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 9.254,
+   "score": 9.244,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -497,7 +513,7 @@
     "pharma",
     "salud"
    ],
-   "score": 8.995,
+   "score": 8.986,
    "also": []
   },
   "43393413fe": {
@@ -513,7 +529,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 8.8,
+   "score": 8.789,
    "also": [
     {
      "source_id": "mmm",
@@ -535,7 +551,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.782,
+   "score": 8.776,
    "also": [
     {
      "source_id": "reuters",
@@ -557,7 +573,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.418,
+   "score": 8.409,
    "also": []
   },
   "f944bb368b": {
@@ -572,7 +588,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.227,
+   "score": 8.217,
    "also": []
   },
   "006b384510": {
@@ -587,7 +603,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.1,
+   "score": 8.091,
    "also": []
   },
   "f1b33dc12f": {
@@ -602,7 +618,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.063,
+   "score": 8.054,
    "also": []
   },
   "90f831b4fd": {
@@ -618,7 +634,7 @@
     "ia",
     "negocios"
    ],
-   "score": 7.955,
+   "score": 7.945,
    "also": [
     {
      "source_id": "reuters",
@@ -642,7 +658,7 @@
     "ia",
     "espana"
    ],
-   "score": 7.732,
+   "score": 7.722,
    "also": []
   },
   "8fa6f24d75": {
@@ -659,7 +675,7 @@
     "salud",
     "pharma"
    ],
-   "score": 7.663,
+   "score": 7.656,
    "also": []
   },
   "ab33412673": {
@@ -675,7 +691,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.629,
+   "score": 7.62,
    "also": []
   },
   "15c9134c35": {
@@ -690,7 +706,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.472,
+   "score": 7.464,
    "also": []
   },
   "ea9fa1507b": {
@@ -705,7 +721,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.338,
+   "score": 7.33,
    "also": []
   },
   "0b7525d017": {
@@ -720,7 +736,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.239,
+   "score": 7.23,
    "also": [
     {
      "source_id": "elpais",
@@ -742,7 +758,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.151,
+   "score": 7.142,
    "also": []
   },
   "9b513f1c62": {
@@ -758,7 +774,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.005,
+   "score": 6.997,
    "also": []
   },
   "8da34bf647": {
@@ -773,7 +789,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.779,
+   "score": 6.771,
    "also": []
   },
   "68d47bc56c": {
@@ -789,7 +805,7 @@
     "ia",
     "pharma"
    ],
-   "score": 6.708,
+   "score": 6.7,
    "also": []
   },
   "4bfc072ba7": {
@@ -805,7 +821,7 @@
     "negocios",
     "salud"
    ],
-   "score": 6.57,
+   "score": 6.562,
    "also": []
   },
   "6f5322db93": {
@@ -820,22 +836,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 6.397,
-   "also": []
-  },
-  "790c1aab79": {
-   "title": "Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
-   "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261122/del-estatuto-marco-listas-de-espera-los-programas-sanitarios-cada-partido-para-el-al-detalle/365755_0.html",
-   "source": "Redacción Médica",
-   "source_id": "redaccionmedica",
-   "published": "2026-11-22T17:15:19+00:00",
-   "summary": "Redacción Médica pone las principales claves sanitarias de los programas electorales en el centro del debate a modo de tertulia Y además: Sánchez convoca elecciones: los españoles decidirán el futuro de su sanidad el próximo 29 de noviembre",
-   "ai_summary": null,
-   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160024.jpg?p=g:fp:0.5:0.38/w:1706/h:960&h=x-rWInCd",
-   "topics": [
-    "salud"
-   ],
-   "score": 6.386,
+   "score": 6.39,
    "also": []
   },
   "743c66de3d": {
@@ -851,7 +852,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.382,
+   "score": 6.375,
    "also": []
   },
   "5320043ce8": {
@@ -867,7 +868,7 @@
     "salud",
     "optica"
    ],
-   "score": 6.334,
+   "score": 6.327,
    "also": []
   },
   "ed24ecec5c": {
@@ -882,7 +883,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.16,
+   "score": 6.153,
    "also": []
   },
   "e44a11c1f6": {
@@ -897,7 +898,7 @@
    "topics": [
     "optica"
    ],
-   "score": 6.139,
+   "score": 6.134,
    "also": []
   },
   "2f9c65df28": {
@@ -912,7 +913,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.071,
+   "score": 6.066,
    "also": []
   },
   "ffa17286a8": {
@@ -929,7 +930,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.025,
+   "score": 6.018,
    "also": []
   },
   "378e2b2dc1": {
@@ -945,7 +946,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.943,
+   "score": 5.937,
    "also": []
   },
   "988fb944df": {
@@ -960,7 +961,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.773,
+   "score": 5.766,
    "also": []
   },
   "17b2c2dee1": {
@@ -977,7 +978,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.77,
+   "score": 5.763,
    "also": []
   },
   "70f9818cda": {
@@ -992,7 +993,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.757,
+   "score": 5.751,
    "also": []
   },
   "4100869d1c": {
@@ -1009,7 +1010,7 @@
     "espana",
     "pharma"
    ],
-   "score": 5.732,
+   "score": 5.729,
    "also": []
   },
   "1b24c54950": {
@@ -1026,7 +1027,7 @@
     "tech",
     "negocios"
    ],
-   "score": 5.714,
+   "score": 5.707,
    "also": []
   },
   "e25be61dcd": {
@@ -1041,7 +1042,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.68,
+   "score": 5.676,
    "also": []
   },
   "a2c7afe9f7": {
@@ -1058,7 +1059,22 @@
     "economia",
     "tech"
    ],
-   "score": 5.534,
+   "score": 5.53,
+   "also": []
+  },
+  "14f0fff5d7": {
+   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
+   "url": "http://www.visionmonday.com/eyecare/article/suny-optometry-research-plays-key-role-in-bringing-breakthrough-vision-technology-to-us-children/",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:18:00+00:00",
+   "summary": "NEW YORK— SUNY College of Optometry played a pivotal role in the clinical research that helped bring the Essilor Stellest spectacle lenses to market, the school recently shared. Stellest lenses received U.S. FDA market authorization in September 2025.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 5.39,
    "also": []
   },
   "69343500b5": {
@@ -1073,7 +1089,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.339,
+   "score": 5.332,
    "also": []
   },
   "133404e6a4": {
@@ -1090,7 +1106,7 @@
     "negocios",
     "espana"
    ],
-   "score": 5.304,
+   "score": 5.298,
    "also": []
   },
   "74b514dbc9": {
@@ -1106,7 +1122,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.274,
+   "score": 5.269,
    "also": []
   },
   "e326412a2a": {
@@ -1122,7 +1138,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.236,
+   "score": 5.229,
    "also": []
   },
   "1ddff4a50d": {
@@ -1138,7 +1154,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 5.206,
+   "score": 5.199,
    "also": []
   },
   "afd32742f0": {
@@ -1154,7 +1170,7 @@
     "ia",
     "economia"
    ],
-   "score": 5.18,
+   "score": 5.173,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1170,7 +1186,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.169,
+   "score": 5.164,
    "also": []
   },
   "4704f794ba": {
@@ -1187,7 +1203,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.115,
+   "score": 5.11,
    "also": []
   },
   "6cce577396": {
@@ -1202,7 +1218,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.103,
+   "score": 5.097,
    "also": []
   },
   "7eccd90ac9": {
@@ -1218,7 +1234,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.087,
+   "score": 5.081,
    "also": []
   },
   "b5f425ec8b": {
@@ -1235,7 +1251,7 @@
     "negocios",
     "salud"
    ],
-   "score": 5.083,
+   "score": 5.077,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1250,7 +1266,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.065,
+   "score": 5.059,
    "also": []
   },
   "f4c1a1d8e2": {
@@ -1265,7 +1281,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.957,
+   "score": 4.952,
    "also": []
   },
   "a457bdd4df": {
@@ -1282,7 +1298,22 @@
     "tech",
     "espana"
    ],
-   "score": 4.897,
+   "score": 4.893,
+   "also": []
+  },
+  "7e6255878c": {
+   "title": "Los jubilados al PSOE y los policías a Vox: la diferencia del voto por ocupación",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/los-jubilados-al-psoe-y-los-policias-a-vox-la-diferencia-del-voto-por-ocupacion.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-23T04:30:01+00:00",
+   "summary": "Los de Abascal también ganan en grupos asociados a la clase obrera. El PP se impone en más ocupaciones, pero Sánchez es el favorito de más gente. Frente Amplio obtiene su mejor dato entre intelectuales y estudiantes",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "espana"
+   ],
+   "score": 4.853,
    "also": []
   },
   "19d402410a": {
@@ -1298,22 +1329,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.859,
-   "also": []
-  },
-  "7e6255878c": {
-   "title": "Los jubilados al PSOE y los policías a Vox: la diferencia del voto por ocupación",
-   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/los-jubilados-al-psoe-y-los-policias-a-vox-la-diferencia-del-voto-por-ocupacion.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-23T04:30:01+00:00",
-   "summary": "Los de Abascal también ganan en grupos asociados a la clase obrera. El PP se impone en más ocupaciones, pero Sánchez es el favorito de más gente. Frente Amplio obtiene su mejor dato entre intelectuales y estudiantes",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "espana"
-   ],
-   "score": 4.857,
+   "score": 4.853,
    "also": []
   },
   "7004274ff1": {
@@ -1328,7 +1344,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.853,
+   "score": 4.847,
    "also": []
   },
   "2f5e60e6ef": {
@@ -1343,7 +1359,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.824,
+   "score": 4.818,
    "also": []
   },
   "1c93d024fa": {
@@ -1358,7 +1374,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.794,
+   "score": 4.788,
    "also": []
   },
   "ada284ba64": {
@@ -1374,22 +1390,37 @@
     "medtech",
     "pharma"
    ],
-   "score": 4.78,
+   "score": 4.775,
    "also": []
   },
-  "71eae63a3e": {
-   "title": "As FDA delay sent Savara stock tumbling, analysts point to potential agency \"bandwidth issues\"",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbTg5NlN4Z3ZlempuUHE2N2w1Y3RsSGt4UGZ0MGM2TXpsNk55dDY0aTNpeUhQckpoRkd1aXhETlNxbEVtazhKZ2RuYmN0TFNhbGU5N2c5eExINXE5NEtjRGtQZWZLY2NJem04Z1djVlJxSGJNLU9QQjM4R2d3VnAtVUc4Sk1UREhxX0NLNlBFZm5pbWkzM0FLMG9wckZhQUFqaGhfZ3VXaU5jeUdHelRoU1hrWU0xQQ?oc=5",
-   "source": "Fierce Pharma (marketing)",
-   "source_id": "fiercepharma",
-   "published": "2026-11-23T14:01:00+00:00",
-   "summary": "",
+  "d385192900": {
+   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
+   "url": "http://www.visionmonday.com/people/optical-community/article/vsp-eyes-of-hope-kendra-scott-foundation-partner-to-expand-access-to-vision-care-and-literacy-resources/",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:21:00+00:00",
+   "summary": "RANCHO CORDOVA, Calif., and AUSTIN, Texas— VSP Eyes of Hope and the Kendra Scott Foundation announced that they have joined forces to help students learn, read and dream by expanding access to vision care and books.",
    "ai_summary": null,
    "image": null,
    "topics": [
-    "pharma"
+    "optica"
    ],
-   "score": 4.696,
+   "score": 4.624,
+   "also": []
+  },
+  "f8cc59acbc": {
+   "title": "‘It All Came Together’: Donation Brings Eyewear to 100 Children in Florida",
+   "url": "http://www.visionmonday.com/business/article/it-all-came-together-donation-brings-eyewear-to-100-children-in-florida/",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T05:15:00+00:00",
+   "summary": "BOSTON—Approximately 100 children in Florida now have new eyewear, GoodVision USA has shared, thanks to a set of introductions arranged by the organization that brought together the brand Vontélle Eyewear with the Crestview Lions Foundation .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.615,
    "also": []
   },
   "130257fb00": {
@@ -1405,7 +1436,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 4.606,
+   "score": 4.601,
    "also": []
   },
   "06aa0ea8a3": {
@@ -1420,7 +1451,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.579,
+   "score": 4.577,
    "also": []
   },
   "7d99e0f411": {
@@ -1436,7 +1467,7 @@
     "espana",
     "economia"
    ],
-   "score": 4.454,
+   "score": 4.451,
    "also": []
   },
   "1dab1bd477": {
@@ -1451,7 +1482,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.224,
+   "score": 4.219,
    "also": []
   },
   "63706cb843": {
@@ -1467,7 +1498,7 @@
     "economia",
     "marketing"
    ],
-   "score": 4.151,
+   "score": 4.147,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1482,7 +1513,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.017,
+   "score": 4.013,
    "also": []
   },
   "106e5d1cff": {
@@ -1498,7 +1529,7 @@
     "tech",
     "ia"
    ],
-   "score": 3.869,
+   "score": 3.865,
    "also": []
   },
   "a5e2ab9f7c": {
@@ -1514,7 +1545,7 @@
     "negocios",
     "salud"
    ],
-   "score": 3.868,
+   "score": 3.864,
    "also": []
   },
   "1e82ded39f": {
@@ -1530,37 +1561,7 @@
     "economia",
     "salud"
    ],
-   "score": 3.862,
-   "also": []
-  },
-  "ee72d044de": {
-   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUjNES1JzRU1PNmEwWGFHQTZyLXVSMzY3YTQwN0k3TGFRZGkwdnhONUc0cXV4SDFMUUNBSlV5T0JScVU4Q0tyX1JmbG12ekVEMmFZVjNXeU1CTkpNWGlCTUsxMHpHa05fOHpsOUJmX2J5ZjhQZ3dBVkg5ZjJjSTRJaFZkRkhWOFRPNTFvSWt5U1VXcmJuY0R6djkzeDFJYVRYcFIzQzBWZFVEaVZSSFN1UndLdnJ3aUM5T1VFMUJvTTZVLUhCSjV4XzJHOFVUb2hCMGR3WVF2ZGpGRHVMT1hJdEtHczR4RUFscjFMQ0VzajNiM2NRRU5OY1l3?oc=5",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:21:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 3.857,
-   "also": []
-  },
-  "5a30473aaa": {
-   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQV9GVTdxRTAtZjdka0FNLUJfOXZiX1RtZHc2WjUxNVptS1lGNDR4MHBJOHFPelo2WmUxRTRSamtZLWJoZ3JrQ0hPTUxKRXZaZERlX3BwZVdVN2JrWUQ3Y1puR3QteVFsUGFibUIxRUVBMm5qYnZUSDdzdlNXb1NpZzlmLXpqTDV3N1plWmJDRUVkVU1QcXBWZC0wSHZTMmRCMTh4MklVYW1WV3AyT1B2UkJtdXRwZENscFgzQWJCVERDaTZuMXVmSE4zeWRuYzhEVzN3NURpeWdXZw?oc=5",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:18:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 3.853,
+   "score": 3.858,
    "also": []
   },
   "fb0c832b2c": {
@@ -1575,7 +1576,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.794,
+   "score": 3.791,
    "also": []
   },
   "852c829d5d": {
@@ -1590,7 +1591,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.036,
+   "score": 3.033,
    "also": []
   },
   "ac8b6d1aab": {
@@ -1623,21 +1624,6 @@
    "score": 2.758,
    "also": []
   },
-  "856ebb8b54": {
-   "title": "Takeaways from this week in optometry: November 16-20",
-   "url": "https://www.optometrytimes.com/view/takeaways-from-this-week-in-optometry-november-16-20",
-   "source": "Optometry Times",
-   "source_id": "optometrytimes",
-   "published": "2026-11-21T11:00:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 2.629,
-   "also": []
-  },
   "68c3085284": {
    "title": "J&J to install first Ottava robot in US hospital",
    "url": "https://www.medtechdive.com/news/jj-to-install-first-ottava-robot-in-us-hospital/875343/",
@@ -1666,7 +1652,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.34,
+   "score": 2.337,
    "also": []
   },
   "de138162ba": {
@@ -1681,7 +1667,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 2.308,
+   "score": 2.306,
    "also": []
   }
  },
@@ -1690,7 +1676,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 214,
+   "count": 213,
    "ok": true,
    "errors": []
   },
@@ -1787,12 +1773,10 @@
   {
    "id": "visionmonday",
    "name": "Vision Monday",
-   "via": "google-news",
-   "count": 7,
+   "via": "rss",
+   "count": 10,
    "ok": true,
-   "errors": [
-    "https://www.visionmonday.com/rss/latest-news/: HTTPError: HTTP Error 503: Service Unavailable"
-   ]
+   "errors": []
   },
   {
    "id": "healio_eye",
@@ -1934,7 +1918,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 37,
+   "count": 38,
    "ok": true,
    "errors": []
   },
