@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy_retry.outputs.page_url }}
     steps:
       # Siempre la última versión de main, también al pulsar "Re-run" en una
       # ejecución antigua (si no, parte de un commit viejo y choca con el
@@ -82,4 +82,13 @@ jobs:
         with:
           path: docs
       - id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      # GitHub a veces tarda en ver el paquete recién subido ("No artifacts
+      # named github-pages were found"): se espera y se reintenta una vez.
+      - name: Esperar antes de reintentar el despliegue
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 45
+      - id: deploy_retry
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
