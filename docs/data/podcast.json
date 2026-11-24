@@ -1,6 +1,374 @@
 {
  "episodes": [
   {
+   "date": "2026-11-24",
+   "file": "2026-11-24.mp3",
+   "title": "La Mañana: Actualidad de IA, tecnología médica y sector farmacéutico",
+   "duration": 424,
+   "bytes": 3393942,
+   "published": "2026-11-24T08:12:26.573134+00:00",
+   "topics": [
+    "optica",
+    "pharma",
+    "medtech",
+    "marketing",
+    "ia"
+   ],
+   "topic_names": [
+    "Óptica y optometría",
+    "Industria y marketing farmacéutico",
+    "Medical devices",
+    "Marketing y publicidad",
+    "Inteligencia artificial"
+   ],
+   "stories": [
+    "3c6d0a1893",
+    "aefe2fb3f5",
+    "3ce502eefa",
+    "58c2527b36",
+    "79f1c6c3ab",
+    "dc42a73f7e",
+    "27065c561f",
+    "15c28179b2",
+    "49ef9cf508"
+   ],
+   "story_items": [
+    {
+     "id": "3c6d0a1893",
+     "relevance": 32,
+     "title": "EssilorLuxottica Unifies NA Optical Retail, Medical and Surgical Businesses Under New Organization",
+     "url": "http://www.visionmonday.com/business/article/essilorluxottica-unifies-na-optical-retail-medical-and-surgical-businesses-under-new-organization-1/",
+     "source": "Vision Monday",
+     "source_id": "visionmonday",
+     "published": "2026-11-24T05:30:00+00:00",
+     "summary": "NEW YORK— EssilorLuxottica (Reuters: ESLX.PA) has announced a new unified leadership model across its optical retail, medical and surgical businesses in North America, creating a new organization called Optical Retail, Medical & Surgical North America (ORMS). The model aims to connect each step of the patient journey, the company said, from refraction to medical diagnosis, treatment, and, when needed, surgery, while…",
+     "image": null,
+     "topics": [
+      "optica"
+     ],
+     "score": 5.588,
+     "also": []
+    },
+    {
+     "id": "aefe2fb3f5",
+     "relevance": 39,
+     "title": "Los medicamentos examinados por la AEMPS en los IPT desde que García es ministra de Sanidad",
+     "url": "https://elglobalfarma.com/politica/medicamentos-examinados-aemps-ipt-garcia-ministra-sanidad/",
+     "source": "El Global",
+     "source_id": "elglobal",
+     "published": "2026-11-23T08:11:16+00:00",
+     "summary": "Desde su nombramiento como ministra de Sanidad en noviembre de 2023, la AEMPS ha elaborado 276 Informes de Posicionamiento Terapéutico The post Los medicamentos examinados por la AEMPS en los IPT desde que García es ministra de Sanidad appeared first on El Globalfarma .",
+     "image": null,
+     "topics": [
+      "pharma",
+      "salud"
+     ],
+     "score": 6.952,
+     "also": []
+    },
+    {
+     "id": "3ce502eefa",
+     "relevance": 64,
+     "title": "UK’s NIHR backs largest global AI breast cancer screening trial",
+     "url": "https://www.medicaldevice-network.com/news/nihr-backs-ai-breast-cancer-screening-trial-edith/",
+     "source": "Medical Device Network",
+     "source_id": "mdnetwork",
+     "published": "2026-11-23T14:48:20+00:00",
+     "summary": "If successful, EDITH could pave the way for the widespread introduction of AI-assisted breast cancer screening across the NHS. The post UK’s NIHR backs largest global AI breast cancer screening trial appeared first on Medical Device Network .",
+     "image": null,
+     "topics": [
+      "salud",
+      "ia",
+      "medtech"
+     ],
+     "score": 11.345,
+     "also": [
+      {
+       "source_id": "pharmaphorum",
+       "source": "pharmaphorum",
+       "url": "https://pharmaphorum.com/news/uk-launches-worlds-largest-trial-ai-breast-cancer",
+       "title": "UK launches world's largest trial of AI in breast cancer"
+      },
+      {
+       "source_id": "medtech_search",
+       "source": "Medical Device Network",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3VRaDhmbHRUZ21rQklBNmR0UWlONUR5ZmRoWUJfT1hObENBUjBJTmdJNWxJRlVod3owVEdPTkgtRUZkUWlnbTcxdlhpN0hHU01qeUI2dFFpOGJjVi1lZFpmekpwMlBhV2l4cnkzbjJkNWZsc2MtTGh3TFB2M1BEeDdMLUp5OVlYS2ZLS19FV2dscF9EOVdzQQ?oc=5",
+       "title": "UK’s NIHR backs largest global AI breast cancer screening trial"
+      }
+     ]
+    },
+    {
+     "id": "58c2527b36",
+     "relevance": 45,
+     "title": "GE HealthCare introduces new AI tools to streamline radiology workflows",
+     "url": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-new-ai-tools-to-streamline-radiology-workflows/",
+     "source": "Medical Device Network",
+     "source_id": "mdnetwork",
+     "published": "2026-11-23T10:59:51+00:00",
+     "summary": "GE HealthCare's new AI tools are intended to streamline imaging teams’ ability to find answers to protocol-related questions for individual imaging orders. The post GE HealthCare introduces new AI tools to streamline radiology workflows appeared first on Medical Device Network .",
+     "image": null,
+     "topics": [
+      "medtech",
+      "ia",
+      "salud"
+     ],
+     "score": 7.95,
+     "also": [
+      {
+       "source_id": "medtech_search",
+       "source": "Medical Device Network",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3lQR2h6ZVduRlI5OUpicmhlY2EwUmxUU0NfZ0xNQjl1dmpUVENYdm5WZzQwMThaaGUxWmRiNkJndGVhd1ZWSGhVMkRxbUVVX1haa2RMNWpvX0tzWVlMU1A1WXA0cDBxdlJ2YTlYMXhYWXRoQnFsV1VCQ19wYU9RaHJVWnk4SDBKU1ptLUdvTk53ak5pUXlzTWkwV3ZzbzhVbmRfWk5CT21mOTg2NGtPRUJuaF9YZw?oc=5",
+       "title": "GE HealthCare introduces new AI tools to streamline radiology workflows"
+      }
+     ]
+    },
+    {
+     "id": "79f1c6c3ab",
+     "relevance": 79,
+     "title": "¿Qué nos recomienda la IA? Making Science revela las marcas y medios con más visibilidad en los LLMs",
+     "url": "https://www.marketingdirecto.com/especiales/reportajes-a-fondo/marcas-medios-recomienda-ia-making-science-revela-ranking",
+     "source": "Marketing Directo",
+     "source_id": "marketingdirecto",
+     "published": "2026-11-24T07:30:00+00:00",
+     "summary": "Making Science publica el \"LLM Footprint Radar\", un informe que revela los datos de presencia de las marcas y medios en los principales modelos de inteligencia artificial. La entrada ¿Qué nos recomienda la IA? Making Science revela las marcas y medios con más visibilidad en los LLMs se publicó primero en Marketing Directo .",
+     "image": null,
+     "topics": [
+      "ia",
+      "marketing"
+     ],
+     "score": 13.995,
+     "also": []
+    },
+    {
+     "id": "dc42a73f7e",
+     "relevance": 47,
+     "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
+     "url": "https://www.marketingdirecto.com/imprescindibles/inteligencia-artificial/anthropic-asegura-claude-resuelto-mayores-enigmas-matematicas",
+     "source": "Marketing Directo",
+     "source_id": "marketingdirecto",
+     "published": "2026-11-23T10:34:50+00:00",
+     "summary": "Claude podría haber resuelto un problema matemático sin respuesta desde 1859 y la comunidad científica examina la demostración de Anthropic. La entrada Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas se publicó primero en Marketing Directo .",
+     "image": null,
+     "topics": [
+      "ia",
+      "marketing"
+     ],
+     "score": 8.298,
+     "also": []
+    },
+    {
+     "id": "27065c561f",
+     "relevance": 100,
+     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+     "source": "TechCrunch",
+     "source_id": "techcrunch",
+     "published": "2026-11-23T22:05:50+00:00",
+     "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+     "image": null,
+     "topics": [
+      "ia"
+     ],
+     "score": 17.684,
+     "also": [
+      {
+       "source_id": "reuters",
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5",
+       "title": "Anthropic launches Claude Ship to help developers ship code faster"
+      }
+     ]
+    },
+    {
+     "id": "15c28179b2",
+     "relevance": 97,
+     "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "source": "The Verge",
+     "source_id": "theverge",
+     "published": "2026-11-23T22:10:32+00:00",
+     "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+     "image": "https://images.ecestaticos.com/nauHtQcnYe3xhd1SOU71FBO72M4=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1cc%2F103%2F9b5%2F1cc1039b58cbaccdbe5fca7894079cf0.jpg",
+     "topics": [
+      "ia",
+      "negocios"
+     ],
+     "score": 17.066,
+     "also": [
+      {
+       "source_id": "elconfidencial",
+       "source": "El Confidencial",
+       "url": "https://www.elconfidencial.com/tecnologia/2026-11-23/el-consejo-de-nvidia-restituye-a-jensen-huang-como-ceo-_4470790/",
+       "title": "El consejo de Nvidia restituye a Jensen Huang como CEO once días después de su dimisión"
+      },
+      {
+       "source_id": "techcrunch",
+       "source": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
+      },
+      {
+       "source_id": "ft",
+       "source": "Financial Times",
+       "url": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
+       "title": "Huang is back because he left Nvidia no choice"
+      },
+      {
+       "source_id": "eleconomista",
+       "source": "elEconomista",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
+       "title": "Nvidia restituye a Jensen Huang como CEO de forma inmediata"
+      },
+      {
+       "source_id": "reuters",
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmN5QUFQSGxDSlRyR3gxZzZQczRFSC1SNjFtY0xtMkM4cjhwbnZndkNaSW5JVDNvVVYxMDdObkhjcVZIMVpVZ2FoVFdNZ3NGQU9hckJhZUx6M0dfMERucTNVZk9aamhpRU85TE96c1pEdGUyTlhyZVRMWlNPNUJ1TG1mLTJadHltZ1Utal85WFlTb09aTXF3MTBXNG1TZ0EzeHYzUFNadw?oc=5",
+       "title": "VIEW Nvidia reinstates Jensen Huang as CEO, igniting tech surge"
+      }
+     ]
+    },
+    {
+     "id": "49ef9cf508",
+     "relevance": 46,
+     "title": "Claude AI can review pull requests and ship fixes on its own now",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+     "source": "The Verge",
+     "source_id": "theverge",
+     "published": "2026-11-23T20:00:00+00:00",
+     "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+     "image": null,
+     "topics": [
+      "ia"
+     ],
+     "score": 8.149,
+     "also": []
+    }
+   ],
+   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: El Global, Marketing Directo, Medical Device Network, TechCrunch, The Verge, Vision Monday. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
+   "transcript": [
+    {
+     "speaker": "Lucía",
+     "text": "Buenos días, hoy es martes 24 de noviembre de 2026 y comenzamos este resumen informativo en La Mañana."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Comenzamos en el sector de la óptica. Según informa la publicación Vision Monday, la compañía EssilorLuxottica ha anunciado un nuevo modelo de liderazgo unificado en Norteamérica que combina sus áreas minorista, médica y quirúrgica bajo una entidad llamada ORMS."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Esta división busca conectar todo el recorrido del paciente, desde la refracción hasta el diagnóstico y la cirugía. La estructura está encabezada por Alfonso Cerullo, que reportará directamente al consejero delegado Francesco Milleri."
+    },
+    {
+     "speaker": "Álex",
+     "text": "El movimiento integra redes como LensCrafters, Pearle Vision, Target Optical y For Eyes. En los cambios directivos, Tanya Gapic asumirá la gestión general de LensCrafters, con una red de 948 tiendas, y Sofia Caldwell dirigirá Pearle Vision, mientras que Gunjan Kumar deja la empresa de mutuo acuerdo tras casi dos décadas."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Pasamos a la industria farmacéutica. El periódico El Global repasa la actividad de la Agencia Española de Medicamentos y Productos Sanitarios durante el mandato de Mónica García al frente del Ministerio de Sanidad, iniciado en noviembre de 2023."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En este periodo, la agencia ha elaborado 276 Informes de Posicionamiento Terapéutico. Entre los fármacos analizados figuran tratamientos oncológicos como Blincyto de Amgen para leucemia linfoblástica aguda pediátrica, Brukinsa de Beigene con tres informes distintos y Tibsovo de Servier."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "El medio también destaca las evaluaciones de Vanflyta de Daiichi Sankyo para leucemia mieloide aguda, Cabometyx de Ipsen para tumores neuroendocrinos y Retsevmo de Lilly, indicado en tumores avanzados con mutación del gen RET."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En el sector de los dispositivos médicos, Medical Device Network informa de que el Instituto Nacional de Investigación en Salud del Reino Unido ha destinado diez millones de libras al proyecto EDITH, el mayor ensayo mundial sobre el cribado de cáncer de mama con inteligencia artificial."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "La investigación contará con casi 700.000 mujeres en 30 centros británicos, bajo la dirección del Servicio Nacional de Salud y las universidades de Warwick y Cambridge. El objetivo es analizar si la tecnología permite diagnosticar lesiones de menor tamaño y reducir tiempos de revisión."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En la actualidad, el sistema británico realiza mamografías cada tres años a mujeres de 50 a 71 años, analizadas por dos especialistas. Si el ensayo da un resultado positivo, la inteligencia artificial permitiría que las imágenes sean revisadas por un solo especialista, liberando capacidad médica."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En relación con este tipo de tecnologías, Marissa Fayer, consejera delegada de DeepLook Medical, señala en el mismo artículo que la aplicación de la inteligencia artificial en imagen médica es muy amplia, aunque advierte de que aún falta infraestructura para un despliegue masivo."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Siguiendo con la tecnología médica, Medical Device Network reporta que GE HealthCare ha integrado dos herramientas de inteligencia artificial en su plataforma Imaging 360 para ayudar a los radiólogos en la gestión de protocolos de escaneo."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "La primera de ellas es un asistente para consultas operativas sobre protocolos, mientras que la segunda, denominada protocolo asistido por inteligencia artificial, aporta recomendaciones estandarizadas para orientar la selección del estudio antes de realizar la prueba."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Según datos de la propia empresa, los radiólogos dedican un promedio de 1,3 horas al día a tomar decisiones relativas a protocolos. Ryan Dobbe, directivo de la compañía, explica que buscan aportar mayor eficiencia ante la escasez global de personal especializado."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "A este respecto, análisis de la firma GlobalData estiman que el mercado de la inteligencia artificial aplicada a la salud crece a un ritmo anual del 37% y alcanzará los 57.400 millones de dólares en el año 2029."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En el sector del marketing, el portal Marketing Directo recoge que la consultora Making Science ha publicado el informe titulado LLM Footprint Radar, que analiza la presencia y visibilidad de marcas y medios de comunicación en los principales modelos de lenguaje de inteligencia artificial."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En el terreno científico, la misma publicación informa de que Levent Alpoge, matemático e investigador de la empresa Anthropic, afirma haber avanzado en la resolución de la hipótesis de Riemann apoyándose en el modelo de inteligencia artificial Claude."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Alpoge difundió una nota de cuatro páginas adjuntando un código escrito en lenguaje Lean para la verificación automática de los cálculos sobre la distribución de los números primos, un problema planteado por Bernhard Riemann en 1859."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "El hallazgo está pendiente de la revisión de otros especialistas. Expertos como James Maynard, de la Universidad de Oxford, señalan una alta probabilidad de que la verificación sea correcta, mientras que Steven Strogatz, de la Universidad de Cornell, ha valorado la colaboración entre el investigador y la herramienta."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Entrando en las novedades de inteligencia artificial, TechCrunch y la agencia Reuters informan del lanzamiento de Claude Ship por parte de Anthropic, un conjunto de agentes diseñados para automatizar la revisión, corrección y aprobación de código informático."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "El producto incluye la función de revisión de código ya existente y dos nuevos agentes en fase beta: PR Steward y Claude Approvals. El primero corrige fallos de integración, resuelve conflictos de fusión y añade notas explicativas sobre los cambios aplicados."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Por su parte, Claude Approvals permite autorizar modificaciones de forma automática según las reglas fijadas por cada equipo en lenguaje natural. La herramienta busca reducir los cuellos de botella generados por la gran cantidad de código que producen los sistemas automatizados."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Anthropic ha habilitado este servicio para los planes Team y Enterprise en la plataforma GitHub, recomendando activar inicialmente el modo de solo observación y configurar límites de gasto mensuales para mantener el control de los repositorios."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Respecto a la actualidad corporativa de esta misma tecnología, medios como The Verge, El Confidencial, Financial Times, elEconomista y Reuters informan sobre el regreso de Jensen Huang a la jefatura ejecutiva de Nvidia."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Huang había dimitido el pasado 12 de noviembre tras iniciarse investigaciones sobre relaciones extramatrimoniales dentro de la compañía, periodo en el que la directora financiera Colette Kress ocupó la dirección de forma interina."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Menos de dos semanas después, el consejo de administración anunció su retorno tras mantener conversaciones con altos cargos del gobierno de Estados Unidos. El presidente Donald Trump llegó a pronunciarse públicamente sobre la situación del directivo en una entrevista radial."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Nvidia, valorada en más de cuatro billones de dólares, constituye un pilar estratégico en la provisión de hardware para inteligencia artificial. En su vuelta a las oficinas, Huang se dirigió a los empleados afirmando que buscará ser un mejor consejero delegado en esta etapa."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Para terminar, la publicación The Verge repasa también las funciones de Claude Ship, recordando que la herramienta de revisión de código se lanzó inicialmente en marzo y pasó a estar disponible de forma general en octubre."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "El medio enfatiza que la incorporación de los agentes en fase beta permite gestionar de forma automática las solicitudes de cambio en GitHub para los clientes de los planes corporativos de Anthropic."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Les esperamos mañana con más información en una nueva edición de La Mañana."
+    }
+   ]
+  },
+  {
    "date": "2026-11-23",
    "file": "2026-11-23.mp3",
    "title": "La Mañana: Jensen Huang vuelve al frente de Nvidia",

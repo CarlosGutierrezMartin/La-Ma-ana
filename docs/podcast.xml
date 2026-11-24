@@ -12,6 +12,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>La Mañana: Actualidad de IA, tecnología médica y sector farmacéutico</title>
+      <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: El Global, Marketing Directo, Medical Device Network, TechCrunch, The Verge, Vision Monday. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
+      <pubDate>Tue, 24 Nov 2026 08:12:26 +0000</pubDate>
+      <guid isPermaLink="false">la-manana-2026-11-24</guid>
+      <enclosure url="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast/2026-11-24.mp3" length="3393942" type="audio/mpeg"/>
+      <itunes:duration>424</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La Mañana: Jensen Huang vuelve al frente de Nvidia</title>
       <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Diario Información, El Global, El Mundo, Marketing Directo, Medical Device Network. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
       <pubDate>Mon, 23 Nov 2026 16:13:57 +0000</pubDate>
