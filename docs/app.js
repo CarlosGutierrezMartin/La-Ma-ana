@@ -12,7 +12,7 @@
     days: [],
     dayIdx: 0,
     digest: null,
-    section: store.get("section", "top"),
+    section: store.get("section", "top") === "todas" ? "top" : store.get("section", "top"),
     read: new Set(store.get("read", [])),
     hiddenSources: new Set(store.get("hiddenSources", [])),
     hiddenTopics: new Set(store.get("hiddenTopics", [])),
@@ -96,7 +96,7 @@
     if (ep?.stories?.length) {
       secs.splice(1, 0, { id: "podcast", name: "En el podcast de hoy", short: "Podcast", items: ep.stories, virtual: true });
     }
-    secs.splice(ep?.stories?.length ? 2 : 1, 0, { id: "todas", name: "Todas", short: "Todas", items: mixedIds(), virtual: true });
+    secs.unshift({ id: "todas", name: "Todas", short: "Todas", items: mixedIds(), virtual: true });
     return secs;
   }
 
@@ -141,12 +141,13 @@
 
   function renderTabs() {
     const secs = viewSections().filter((s) => s.items.length && (s.virtual || !state.hiddenTopics.has(s.id)));
-    if (!secs.find((s) => s.id === state.section)) state.section = secs[0]?.id || "top";
+    if (!secs.find((s) => s.id === state.section)) state.section = "top";
     $("#tabs").innerHTML = secs
       .map((s) => {
         const unread = s.items.filter((id) => !state.read.has(id)).length;
         const sel = !state.query && s.id === state.section;
-        return `<button class="tab" role="tab" data-id="${esc(s.id)}" aria-selected="${sel}">${esc(s.short || s.name)}<span class="count">${unread}</span></button>`;
+        const tab = `<button class="tab" role="tab" data-id="${esc(s.id)}" aria-selected="${sel}">${esc(s.short || s.name)}<span class="count">${unread}</span></button>`;
+        return s.id === "todas" ? tab + `<span class="tab-sep" aria-hidden="true">|</span>` : tab;
       })
       .join("");
     $(`.tab[aria-selected="true"]`)?.scrollIntoView({ inline: "center", block: "nearest" });
@@ -194,13 +195,22 @@
   }
 
   function renderMain() {
-    if (state.query) return renderSearch();
+    if (state.query) { dropFeed(); return renderSearch(); }
+    if (state.section === "todas") {
+      renderSection("top"); // la Portada queda debajo: es lo que se ve al deslizar para salir
+      const feed = $("#feed");
+      if (!feed || feed.dataset.edition !== state.digest.generated_at) renderFeed(viewSections().find((s) => s.id === "todas"));
+      return;
+    }
+    dropFeed();
+    renderSection(state.section);
+  }
+
+  function renderSection(id) {
     const d = state.digest;
-    const sec = viewSections().find((s) => s.id === state.section) || d.sections[0];
+    const sec = viewSections().find((s) => s.id === id) || d.sections[0];
     let html = "";
     let items;
-    if (sec.id === "todas") return renderFeed(sec);
-    document.documentElement.classList.remove("feed-open");
     if (sec.id === "podcast") {
       // Las noticias del episodio, en el orden en que se cuentan, con su relevancia
       const ep = episodeFor(d.date);
@@ -245,7 +255,8 @@
         </div>
       </article>`;
     };
-    $("#main").innerHTML = `<div class="feed" id="feed" tabindex="-1">
+    const layer = $("#feedLayer");
+    layer.innerHTML = `<div class="feed" id="feed" tabindex="-1" data-edition="${esc(d.generated_at)}">
         <div class="feed-bar"><span class="feed-count" id="feedCount">1 / ${items.length}</span><button type="button" class="feed-close" id="feedClose" aria-label="Salir de Todas">✕</button></div>
         ${items.length ? items.map(card).join("") : `<article class="card"><div class="card-body"><h2>No hay noticias que mostrar.</h2></div></article>`}
         ${items.length ? `<article class="card card-end"><div class="card-body"><h2>Has llegado al final.</h2><p>${items.length} noticias de la edición de hoy.</p><button type="button" class="btn" id="feedTop">Volver arriba</button></div></article>` : ""}
@@ -260,15 +271,104 @@
       }
     }, { root: feed, threshold: 0.6 });
     feed.querySelectorAll(".card").forEach((c) => io.observe(c));
+
+    // Entrada: la pantalla completa se abre en círculo desde la pestaña pulsada
+    const from = state.feedFrom;
+    state.feedFrom = null;
+    if (from && !reducedMotion()) {
+      const R = Math.hypot(Math.max(from.x, innerWidth - from.x), Math.max(from.y, innerHeight - from.y));
+      try {
+        layer.animate([{ clipPath: `circle(0px at ${from.x}px ${from.y}px)` }, { clipPath: `circle(${R}px at ${from.x}px ${from.y}px)` }],
+          { duration: 520, easing: "cubic-bezier(.3,.7,.1,1)" });
+      } catch { layer.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 250 }); }
+      feed.querySelector(".card-body")?.animate(
+        [{ opacity: 0, transform: "translateY(26px)" }, { opacity: 1, transform: "none" }],
+        { duration: 460, delay: 200, easing: "cubic-bezier(.2,.7,.2,1)", fill: "backwards" });
+    }
   }
 
-  function closeFeed() {
+  const reducedMotion = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  function dropFeed() {
+    if ($("#feedLayer").firstChild) $("#feedLayer").innerHTML = "";
+    $("#feedLayer").style.transform = "";
     document.documentElement.classList.remove("feed-open");
-    state.section = "top";
-    store.set("section", state.section);
+  }
+
+  function openFeed(tab) {
+    const r = tab?.getBoundingClientRect();
+    state.feedFrom = r ? { x: r.left + r.width / 2, y: r.top + r.height / 2 } : null;
+    state.section = "todas";
+    // una entrada en el historial: el gesto/botón "atrás" del móvil sale de Todas, no de la web
+    if (!history.state?.feed) history.pushState({ feed: true }, "");
     renderTabs();
     renderPodcastBox();
     renderMain();
+  }
+
+  let closingFeed = false;
+  let ignorePop = false;
+  async function closeFeed({ fromPop = false } = {}) {
+    if (closingFeed) return;
+    closingFeed = true;
+    const layer = $("#feedLayer");
+    if ($("#feed") && !reducedMotion()) {
+      // salida: la pantalla completa se va hacia la derecha y deja ver la Portada
+      const start = layer.style.transform || "translateX(0px)";
+      await layer.animate([{ transform: start }, { transform: "translateX(100%)" }],
+        { duration: 280, easing: "cubic-bezier(.3,.6,.2,1)", fill: "forwards" }).finished.catch(() => {});
+    }
+    state.section = "top";
+    store.set("section", "top");
+    dropFeed();
+    layer.getAnimations().forEach((a) => a.cancel());
+    renderTabs();
+    renderPodcastBox();
+    renderSection("top");
+    closingFeed = false;
+    if (!fromPop && history.state?.feed) { ignorePop = true; history.back(); }
+  }
+
+  // Deslizar de izquierda a derecha: la pantalla sigue al dedo y, pasado un tercio
+  // (o con un gesto rápido), sale de Todas. En vertical, el scroll normal.
+  function bindFeedSwipe() {
+    const layer = $("#feedLayer");
+    let x0 = null, y0 = 0, t0 = 0, mode = null;
+    const reset = () => { x0 = null; mode = null; const f = $("#feed"); if (f) f.style.overflowY = ""; };
+    layer.addEventListener("touchstart", (e) => {
+      if (e.touches.length !== 1 || closingFeed) return;
+      x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; t0 = Date.now(); mode = null;
+    }, { passive: true });
+    layer.addEventListener("touchmove", (e) => {
+      if (x0 === null) return;
+      const dx = e.touches[0].clientX - x0, dy = e.touches[0].clientY - y0;
+      if (!mode) {
+        if (Math.abs(dx) < 10 && Math.abs(dy) < 10) return;
+        mode = dx > 0 && Math.abs(dx) > Math.abs(dy) * 1.3 ? "x" : "y";
+        if (mode === "x") $("#feed").style.overflowY = "hidden";
+      }
+      if (mode === "x") layer.style.transform = `translateX(${Math.max(0, dx)}px)`;
+    }, { passive: true });
+    layer.addEventListener("touchend", (e) => {
+      if (mode === "x") {
+        const dx = e.changedTouches[0].clientX - x0;
+        const speed = dx / Math.max(1, Date.now() - t0);
+        if (dx > innerWidth * 0.33 || (dx > 60 && speed > 0.5)) {
+          reset();
+          return closeFeed();
+        }
+        const back = layer.animate([{ transform: layer.style.transform }, { transform: "translateX(0px)" }],
+          { duration: 220, easing: "cubic-bezier(.2,.7,.2,1)" });
+        layer.style.transform = "";
+        back.finished.catch(() => {});
+      }
+      reset();
+    });
+    layer.addEventListener("touchcancel", () => { layer.style.transform = ""; reset(); });
+    window.addEventListener("popstate", () => {
+      if (ignorePop) { ignorePop = false; return; }
+      if (state.section === "todas") closeFeed({ fromPop: true });
+    });
   }
 
   /* ----------------------------------------------------------- buscador */
@@ -463,6 +563,7 @@
       renderTabs();
       if (state.section === "todas" && !state.query) {
         $(`#c-${CSS.escape(id)}`)?.classList.add("read");
+        renderSection("top");
       } else {
         renderMain();
       }
@@ -495,9 +596,17 @@
 
   function bind() {
     document.addEventListener("keydown", feedKeys);
+    bindFeedSwipe();
+    $("#feedLayer").addEventListener("click", (e) => {
+      if (e.target.id === "feedClose") return closeFeed();
+      if (e.target.id === "feedTop") return $("#feed").scrollTo({ top: 0, behavior: "smooth" });
+      const a = e.target.closest("[data-read]");
+      if (a) markRead(a.dataset.read);
+    });
     $("#tabs").addEventListener("click", (e) => {
       const b = e.target.closest(".tab");
       if (!b) return;
+      if (b.dataset.id === "todas") return openFeed(b);
       state.section = b.dataset.id;
       store.set("section", state.section);
       setQuery("");
@@ -522,8 +631,6 @@
 
     $("#main").addEventListener("click", (e) => {
       if (e.target.id === "searchArchive") return loadArchive();
-      if (e.target.id === "feedClose") return closeFeed();
-      if (e.target.id === "feedTop") return $("#feed").scrollTo({ top: 0, behavior: "smooth" });
       const a = e.target.closest("[data-read]");
       if (a) return markRead(a.dataset.read);
       const li = e.target.closest("[data-goto]");

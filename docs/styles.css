@@ -288,8 +288,11 @@ legend { font-size: 10.5px; text-transform: uppercase; color: var(--ink-3); padd
 
 /* "Todas": una noticia por pantalla, deslizando en vertical */
 html.feed-open, html.feed-open body { overflow: hidden; }
+.feed-layer:empty { display: none; }
+.feed-layer { position: fixed; inset: 0; z-index: 40; touch-action: pan-y; will-change: transform; }
+.feed-layer[style*="translateX"] { box-shadow: -18px 0 40px #0000004d; }
 .feed {
-  position: fixed; inset: 0; z-index: 40; background: var(--paper);
+  position: absolute; inset: 0; background: var(--paper);
   overflow-y: auto; overscroll-behavior: contain; outline: 0;
   scroll-snap-type: y mandatory; -webkit-overflow-scrolling: touch;
 }
@@ -339,3 +342,38 @@ html.feed-open, html.feed-open body { overflow: hidden; }
 }
 .feed-count { padding: 7px 12px; }
 .feed-close { width: 38px; height: 38px; cursor: pointer; font-size: 14px; }
+
+/* Separador "Todas | Portada …" */
+.tab-sep { flex: none; align-self: center; color: var(--ink-3); opacity: .55; padding: 0 4px; font-size: 14px; }
+
+/* Papel de periódico para las noticias sin foto: grano fino, fibras, un pliegue
+   horizontal muy tenue y los bordes algo más oscuros. Discreto para leer. */
+:root {
+  --tex-blend: multiply; --tex-opacity: 1;
+  --tex-edge: #6b4f2a24; --tex-fold: #3b2a140d; --tex-fold-hi: #ffffff4d;
+  --tex-noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .35 0 0 0 0 .28 0 0 0 0 .18 0 0 0 .13 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --tex-fibers: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='f'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.006 .35' numOctaves='2' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .4 0 0 0 0 .32 0 0 0 0 .2 0 0 0 .1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23f)'/%3E%3C/svg%3E");
+}
+:root[data-theme="dark"] {
+  --tex-blend: normal; --tex-opacity: .6;
+  --tex-edge: #00000080; --tex-fold: #00000059; --tex-fold-hi: #ffffff0f;
+  --tex-noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .86 0 0 0 0 .78 0 0 0 .1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --tex-fibers: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='f'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.006 .35' numOctaves='2' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .86 0 0 0 0 .78 0 0 0 .07 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23f)'/%3E%3C/svg%3E");
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="auto"] {
+    --tex-blend: normal; --tex-opacity: .6;
+    --tex-edge: #00000080; --tex-fold: #00000059; --tex-fold-hi: #ffffff0f;
+    --tex-noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .86 0 0 0 0 .78 0 0 0 .1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    --tex-fibers: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='f'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.006 .35' numOctaves='2' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .9 0 0 0 0 .86 0 0 0 0 .78 0 0 0 .07 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23f)'/%3E%3C/svg%3E");
+  }
+}
+.card:not(.has-img) { background: var(--paper); }
+.card:not(.has-img)::before {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    radial-gradient(130% 95% at 50% 42%, transparent 58%, var(--tex-edge) 100%),
+    linear-gradient(180deg, transparent 46%, var(--tex-fold) 49.4%, var(--tex-fold-hi) 50.3%, transparent 53%),
+    var(--tex-fibers), var(--tex-noise);
+  mix-blend-mode: var(--tex-blend); opacity: var(--tex-opacity);
+}
