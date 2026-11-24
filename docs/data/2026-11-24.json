@@ -1,11 +1,11 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T15:56:29.450112+00:00",
+ "generated_at": "2026-11-24T18:23:54.653409+00:00",
  "stats": {
-  "fetched": 1757,
-  "fresh": 761,
-  "stories": 688,
-  "selected": 90
+  "fetched": 1778,
+  "fresh": 774,
+  "stories": 691,
+  "selected": 87
  },
  "brief": null,
  "ai_model": null,
@@ -17,19 +17,19 @@
    "items": [
     "7fb4f8840c",
     "27065c561f",
-    "4a847676e9",
     "32a1c54eec",
+    "f340a280d2",
     "112858423d",
     "79f1c6c3ab",
     "559d1062a7",
-    "b9d14a3cf5",
-    "0394285e5b",
+    "6824462015",
     "04143b8a47",
-    "0861aa3dfc",
+    "4a847676e9",
     "79c8244431",
-    "f340a280d2",
-    "de36b121ee",
-    "fa16535798"
+    "6498a22762",
+    "e9afcceb53",
+    "aa7cbe5caf",
+    "5088152c8b"
    ]
   },
   {
@@ -39,19 +39,19 @@
    "items": [
     "27065c561f",
     "79f1c6c3ab",
-    "4a847676e9",
     "7fb4f8840c",
     "49ef9cf508",
-    "dc42a73f7e",
+    "8a546b15d2",
     "bb7331e46f",
     "21c67f8475",
-    "22d7270e7a",
     "c196efadbd",
-    "15c28179b2",
+    "22d7270e7a",
+    "519716230c",
     "0cd17937bd",
     "6498a22762",
-    "a9b8f28b9c",
-    "ca1a189423"
+    "eaadf24237",
+    "ca1a189423",
+    "0d63fb1e6c"
    ]
   },
   {
@@ -62,15 +62,15 @@
     "4a847676e9",
     "6a7990e1ad",
     "da4f755946",
-    "acd7fea175",
     "21c67f8475",
+    "eaadf24237",
     "12c3f2334c",
+    "cac1e87497",
     "7601f68fa2",
     "525af206da",
     "bc5a53032c",
-    "cac1e87497",
-    "7eccd90ac9",
-    "4412d478f9"
+    "ba37ac2274",
+    "7eccd90ac9"
    ]
   },
   {
@@ -78,18 +78,18 @@
    "name": "Empresas y negocios",
    "short": "Negocios",
    "items": [
+    "519716230c",
     "4a847676e9",
-    "15c28179b2",
     "9fcedf2f66",
+    "15c28179b2",
     "178c4b610e",
     "c6ff37588f",
     "9ef3b62ee5",
     "5dd1f1ffe6",
-    "9c84f8a2b1",
-    "d465ec2948",
-    "cd72bd4d8f",
+    "ce7bd5d388",
+    "9c18fd8d23",
     "bc5a53032c",
-    "9c18fd8d23"
+    "011f27166e"
    ]
   },
   {
@@ -98,15 +98,15 @@
    "short": "Economía",
    "items": [
     "112858423d",
-    "5dd1f1ffe6",
     "fa16535798",
+    "5dd1f1ffe6",
+    "3da34b3d04",
     "178c4b610e",
     "46c3046791",
-    "bff7ec6b54",
     "cef4b1d939",
-    "fd4e457920",
-    "03333b14c7",
-    "63706cb843"
+    "adc106deb2",
+    "8ee425b58c",
+    "fd4e457920"
    ]
   },
   {
@@ -114,16 +114,16 @@
    "name": "España",
    "short": "España",
    "items": [
-    "b9d14a3cf5",
+    "6824462015",
     "112858423d",
     "b5dadc549c",
     "04143b8a47",
-    "0861aa3dfc",
+    "6711b2ebaa",
     "cef4b1d939",
     "1bb521f24f",
     "eceda4d909",
     "49196b29f9",
-    "d997108180"
+    "0861aa3dfc"
    ]
   },
   {
@@ -131,16 +131,16 @@
    "name": "Óptica y optometría",
    "short": "Óptica",
    "items": [
-    "14f0fff5d7",
-    "18549f1ab6",
-    "3c6d0a1893",
+    "e9afcceb53",
+    "3343d8f2c0",
     "a32f60799a",
-    "1d05814584",
-    "8d70198d88",
-    "d385192900",
-    "f8cc59acbc",
+    "07a31d82db",
+    "3fc0f8f1d4",
     "ff7ab45776",
-    "bacc0c5d2d"
+    "566d04a56a",
+    "0f37f7e9e6",
+    "94c5c77fe4",
+    "6c54dc6c65"
    ]
   },
   {
@@ -150,14 +150,14 @@
    "items": [
     "79f1c6c3ab",
     "9fcedf2f66",
+    "ce7bd5d388",
     "c6ff37588f",
-    "dc42a73f7e",
+    "8212524832",
     "5dd1f1ffe6",
     "69343500b5",
     "c04e601297",
-    "43393413fe",
-    "d629a3d698",
-    "40c6c8dc9a"
+    "f40d1a4b11",
+    "43393413fe"
    ]
   },
   {
@@ -168,13 +168,13 @@
     "32a1c54eec",
     "79c8244431",
     "559d1062a7",
-    "e5d9be847b",
     "f340a280d2",
-    "a47f52d318",
+    "e5d9be847b",
     "9b79ddeb08",
     "c57a6a58bf",
     "988fb944df",
-    "9496f6bda1"
+    "9496f6bda1",
+    "148db897b8"
    ]
   },
   {
@@ -182,16 +182,16 @@
    "name": "Medical devices",
    "short": "MedTech",
    "items": [
+    "aa7cbe5caf",
+    "5088152c8b",
     "8d06b1e0ce",
     "58c2527b36",
     "4a9f311780",
+    "ba37ac2274",
+    "48cd3fae3a",
     "bb7331e46f",
-    "f41555af86",
-    "20ca79e6dd",
-    "cac1e87497",
-    "e81a7e68d1",
-    "d0847a608c",
-    "3ff9ca0ff2"
+    "a6e7b46575",
+    "ac77935fc9"
    ]
   },
   {
@@ -199,16 +199,16 @@
    "name": "Salud y healthcare",
    "short": "Salud",
    "items": [
-    "0394285e5b",
     "559d1062a7",
     "32a1c54eec",
+    "6824462015",
     "f26da854bd",
-    "585616cf88",
     "6498a22762",
+    "9d246fabf7",
     "9496f6bda1",
     "e252349a0c",
     "d10416ee58",
-    "4fab1e7e0c"
+    "4a9f311780"
    ]
   }
  ],
@@ -225,7 +225,7 @@
    "topics": [
     "ia"
    ],
-   "score": 16.887,
+   "score": 16.009,
    "also": [
     {
      "source_id": "theverge",
@@ -259,7 +259,7 @@
    "topics": [
     "ia"
    ],
-   "score": 15.425,
+   "score": 14.892,
    "also": [
     {
      "source_id": "reuters",
@@ -268,23 +268,6 @@
      "title": "Anthropic launches Claude Ship to help developers ship code faster"
     }
    ]
-  },
-  "4a847676e9": {
-   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-24T15:51:07+00:00",
-   "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech",
-    "ia",
-    "negocios"
-   ],
-   "score": 14.611,
-   "also": []
   },
   "32a1c54eec": {
    "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
@@ -299,13 +282,41 @@
     "pharma",
     "salud"
    ],
-   "score": 13.447,
+   "score": 12.624,
    "also": [
     {
      "source_id": "pharmaphorum",
      "source": "pharmaphorum",
      "url": "https://pharmaphorum.com/news/roche-two-two-breast-cancer-approval-wilserdly",
      "title": "Roche two for two with breast cancer approval for Wilserdly"
+    }
+   ]
+  },
+  "f340a280d2": {
+   "title": "Sanofi to acquire Insmed in deal worth $41bn",
+   "url": "https://pmlive.com/sanofi-to-acquire-insmed-in-deal-worth-41bn/",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-24T12:09:28+00:00",
+   "summary": "The acquisition complements Sanofi's immunology and rare disease portfolio",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 11.949,
+   "also": [
+    {
+     "source_id": "pharmaphorum",
+     "source": "pharmaphorum",
+     "url": "https://pharmaphorum.com/news/rumour-confirmed-sanofi-buys-insmed-41bn",
+     "title": "Rumour confirmed as Sanofi buys Insmed for $41bn"
+    },
+    {
+     "source_id": "pharmexec",
+     "source": "Pharmaceutical Executive",
+     "url": "https://www.pharmexec.com/view/sanofi-eyes-insmed-potential-43b-deal-dupixent-patent-clock-ticks",
+     "title": "Sanofi Announces $41 Billion Deal to Purchase Insmed"
     }
    ]
   },
@@ -322,7 +333,7 @@
     "espana",
     "economia"
    ],
-   "score": 12.716,
+   "score": 11.916,
    "also": [
     {
      "source_id": "elpais",
@@ -351,8 +362,31 @@
     "ia",
     "marketing"
    ],
-   "score": 11.583,
+   "score": 11.014,
    "also": []
+  },
+  "519716230c": {
+   "title": "Anthropic falls below IPO price as tech rally fades",
+   "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-24T17:52:14+00:00",
+   "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 10.94,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+     "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value"
+    }
+   ]
   },
   "559d1062a7": {
    "title": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
@@ -367,44 +401,23 @@
     "salud",
     "pharma"
    ],
-   "score": 11.518,
+   "score": 10.814,
    "also": []
   },
-  "b9d14a3cf5": {
-   "title": "Sánchez responde a González tras su decisión de no votar al PSOE: \"La ultraderecha se frena con el rojo, no con el blanco\"",
-   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b054e7fe9cf4a54648b458c.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-24T15:19:04+00:00",
-   "summary": "El ex presidente, que ha sido muy crítico con el actual inquilino de La Moncloa , considera que no hay ningún proyecto político que le representara. Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955103582204.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 11.402,
-   "also": [
-    {
-     "source_id": "elconfidencial",
-     "source": "El Confidencial",
-     "url": "https://www.elconfidencial.com/espana/2026-11-24/sanchez-gonzalez-voto-blanco-ultraderecha-1tps_4471504/",
-     "title": "Sánchez responde a Felipe González: \"Con el voto en blanco no se frena a la ultraderecha\""
-    }
-   ]
-  },
-  "0394285e5b": {
-   "title": "Atención integral, el gran reto para el bienestar y calidad de vida de los pacientes con cáncer de pulmón",
-   "url": "https://www.consalud.es/profesionales/atencion-integral-el-gran-reto-para-el-bienestar-y-calidad-de-vida-de-los-pacientes-con-cancer-de-pulmon.html",
+  "6824462015": {
+   "title": "29-N: PP, PSOE, Vox y Frente Amplio ponen sobre la mesa sus planes para Atención Primaria y listas de espera",
+   "url": "https://www.consalud.es/politica/pp-psoe-vox-y-frente-amplio-ponen-el-foco-en-atencion-primaria-y-las-listas-de-espera-estas-son-sus-recetas.html",
    "source": "ConSalud",
    "source_id": "consalud",
-   "published": "2026-11-24T11:25:52+00:00",
-   "summary": "profesionales: Atención integral, el gran reto para el bienestar y calidad de vida de los pacientes con cáncer de pulmón",
+   "published": "2026-11-24T16:30:02+00:00",
+   "summary": "política: 29-N: PP, PSOE, Vox y Frente Amplio ponen sobre la mesa sus planes para Atención Primaria y listas de espera",
    "ai_summary": null,
    "image": null,
    "topics": [
-    "salud"
+    "salud",
+    "espana"
    ],
-   "score": 11.204,
+   "score": 10.602,
    "also": []
   },
   "04143b8a47": {
@@ -419,7 +432,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.825,
+   "score": 10.235,
    "also": [
     {
      "source_id": "elmundo",
@@ -435,69 +448,22 @@
     }
    ]
   },
-  "0861aa3dfc": {
-   "title": "El Gobierno aprueba el plan estatal frente a amenazas graves para la salud y el nuevo Estatuto de la Aemps",
-   "url": "https://www.diariomedico.com/medicina/politica/gobierno-aprueba-plan-estatal-frente-amenazas-graves-salud-nuevo-estatuto-aemps.html",
-   "source": "Diario Médico",
-   "source_id": "diariomedico",
-   "published": "2026-11-24T13:20:04+00:00",
-   "summary": "Política y Normativa cristinaff@uni… Consejo de Ministros El último Consejo de Ministros antes de las elecciones del próximo 29-N ha pisado el acelerador y ha aprobado el Real Decreto del Plan Estatal de Preparación y Respuesta frente a amenazas graves para la salud y también el real decreto con el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios (Aemps), que sustituye al aprobado y en…",
-   "ai_summary": null,
-   "image": "https://statics-diariomedico.uecdn.es/cms/2026-11/ultimo-consejo-ministros-24-n-efe-chema_moya.png",
-   "topics": [
-    "salud",
-    "espana"
-   ],
-   "score": 10.818,
-   "also": [
-    {
-     "source_id": "diariofarma",
-     "source": "Diariofarma",
-     "url": "https://diariofarma.com/2026/11/24/el-gobierno-aprueba-el-estatuto-de-la-aemps-para-sostener-sus-nuevas-capacidades-tecnicas",
-     "title": "El Gobierno aprueba el Estatuto de la Aemps para dar soporte a sus nuevas capacidades"
-    },
-    {
-     "source_id": "consalud",
-     "source": "ConSalud",
-     "url": "https://www.consalud.es/industria/el-gobierno-aprueba-el-nuevo-estatuto-de-la-aemps-para-actualizar-su-estructura-y-funciones.html",
-     "title": "El Gobierno aprueba el nuevo Estatuto de la AEMPS para actualizar su estructura y funciones"
-    }
-   ]
-  },
-  "15c28179b2": {
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge",
-   "source_id": "theverge",
-   "published": "2026-11-23T22:10:32+00:00",
-   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+  "4a847676e9": {
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-24T15:51:07+00:00",
+   "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
    "ai_summary": null,
    "image": null,
    "topics": [
+    "tech",
     "ia",
     "negocios"
    ],
-   "score": 10.487,
-   "also": [
-    {
-     "source_id": "techcrunch",
-     "source": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-     "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
-    },
-    {
-     "source_id": "ft",
-     "source": "Financial Times",
-     "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
-     "title": "Nvidia as it happened: Jensen Huang reinstated as CEO after intervention by Donald Trump; Tech group’s valuation leaps by record of almost $1tn"
-    },
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmN5QUFQSGxDSlRyR3gxZzZQczRFSC1SNjFtY0xtMkM4cjhwbnZndkNaSW5JVDNvVVYxMDdObkhjcVZIMVpVZ2FoVFdNZ3NGQU9hckJhZUx6M0dfMERucTNVZk9aamhpRU85TE96c1pEdGUyTlhyZVRMWlNPNUJ1TG1mLTJadHltZ1Utal85WFlTb09aTXF3MTBXNG1TZ0EzeHYzUFNadw?oc=5",
-     "title": "VIEW Nvidia reinstates Jensen Huang as CEO, igniting tech surge"
-    }
-   ]
+   "score": 9.709,
+   "also": []
   },
   "79c8244431": {
    "title": "Sanofi acuerda comprar Insmed por 37.589 millones de euros para reforzar su cartera de medicamentos para enfermedades respiratorias",
@@ -511,7 +477,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 9.976,
+   "score": 9.405,
    "also": []
   },
   "6498a22762": {
@@ -527,7 +493,7 @@
     "salud",
     "ia"
    ],
-   "score": 9.94,
+   "score": 9.332,
    "also": []
   },
   "f26da854bd": {
@@ -542,45 +508,134 @@
    "topics": [
     "salud"
    ],
-   "score": 9.766,
+   "score": 9.151,
    "also": []
   },
-  "585616cf88": {
-   "title": "El Hospital de Cruces incorpora exposiciones de arte para mejorar el bienestar de pacientes y profesionales",
-   "url": "https://www.consalud.es/lupa-sanitaria/el-hospital-de-cruces-incorpora-exposiciones-de-arte-para-mejorar-el-bienestar-de-pacientes-y-profesionales.html",
+  "e9afcceb53": {
+   "title": "El presidente de las Cortes de Castilla-La Mancha rapea por la infancia con gorra y gafas: \"Hagamos los discursos rapeando, bro\"",
+   "url": "https://www.elmundo.es/espana/2026/11/24/6b05cacde85ece1c448b456d.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-24T18:03:33+00:00",
+   "summary": "Tras ser jaleado y aplaudido por este momento, se ha procedido a la lectura del manifiesto conjunto propuesto por Unicef Comité Castilla-La Mancha y por la Plataforma de Organizaciones de la Infancia Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955416490250.png",
+   "topics": [
+    "optica"
+   ],
+   "score": 8.916,
+   "also": [
+    {
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://elpais.com/videos/2026-11-24/el-presidente-de-las-cortes-de-castilla-la-mancha-rapea-por-la-infancia-con-gorra-y-gafas.html",
+     "title": "El presidente de las Cortes de Castilla-La Mancha rapea por la infancia con gorra y gafas"
+    }
+   ]
+  },
+  "8a546b15d2": {
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-24T16:10:00+00:00",
+   "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 8.899,
+   "also": []
+  },
+  "aa7cbe5caf": {
+   "title": "\"Microwave based medical device to monitor patients with implanted stents\" - Faculty of Biology - Facultats - UB",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkR3cmhsQldyNUhUY2JpQjF4S0h1UjdJRjk3eWt3Vl9vbVFWNzR4eklfWDlPQTlBbkdyVTdhTjEwVW1DQThBQXhreThhU1RlSDlHM0NxNlYyeXcxV3o1QmlMQW1lRUE2M3cyeTFFUjZKaldIZnh4VEd4ZXh6RGN3aGg3b1AxcmxVTDEzU3U4ZUNYTDAxTXJOdEFGcE80WFZhSmhtVDhWamtaRWNHQjhTeWFUcUZfY0lKLVY1Qw?oc=5",
+   "source": "UB - Universitat de Barcelona",
+   "source_id": "medtech_search",
+   "published": "2026-11-24T14:06:02+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 8.849,
+   "also": []
+  },
+  "c196efadbd": {
+   "title": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-24T17:14:34+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 8.72,
+   "also": []
+  },
+  "3da34b3d04": {
+   "title": "EEUU se prepara para elevar los aranceles a China y otros países",
+   "url": "https://www.elmundo.es/economia/2026/11/24/6b05b61fe4d4d845488b45bb.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-24T16:18:29+00:00",
+   "summary": "Está previsto que esta semana entren en vigor gravámenes más elevados dirigidos a combatir el exceso de capacidad industrial en el extranjero Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955370283326.jpg",
+   "topics": [
+    "economia"
+   ],
+   "score": 8.507,
+   "also": [
+    {
+     "source_id": "elconfidencial",
+     "source": "El Confidencial",
+     "url": "https://www.elconfidencial.com/economia/2026-11-24/aranceles-china-union-europea-1hms_4471756/",
+     "title": "EEUU se prepara para aumentar los aranceles a China, la Unión Europea y otros países"
+    }
+   ]
+  },
+  "5088152c8b": {
+   "title": "Medtronic continues to see growth in cardiovascular business",
+   "url": "https://www.medtechdive.com/news/medtronic-continues-to-see-growth-in-cardiovascular-business/875613/",
+   "source": "MedTech Dive",
+   "source_id": "medtechdive",
+   "published": "2026-11-24T15:35:48+00:00",
+   "summary": "The cardiovascular unit grew by double digits in the company’s fiscal second quarter, supported by its cardiac ablation solutions portfolio.",
+   "ai_summary": null,
+   "image": "https://imgproxy.divecdn.com/oJCixz9dvLad9k78nsdzalCm9M0nSD-qrieQQ_YTJ4o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVENQMktQLmpwZw==.webp",
+   "topics": [
+    "medtech"
+   ],
+   "score": 8.351,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "MedTech Dive",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWZ4ZW00cEx4Nk5uck5iU2J1WVRhQmpxOW1SbFEtVUxwVGh3Zjc2bmFjT2FoWkxhWTF0ZnJaSE5rU0s1cmNsSUg0dlN1d1FtLWhUdW9KRUl4djloek94blB4M0FjcDN3UXhxX1JHOUh4MC1fN09maldzT0NWRkUtS3ZLTjM5azVHa2tnSFdNc04wSm03SjFFSkVERVBtTC1sMjdz?oc=5",
+     "title": "Medtronic continues to see growth in cardiovascular business"
+    }
+   ]
+  },
+  "9d246fabf7": {
+   "title": "La sanidad valenciana adjudica por 4,5 millones de euros las obras de reforma y ampliación del centro sanitario de Buñol",
+   "url": "https://www.consalud.es/autonomias/c-valenciana/la-sanidad-valenciana-adjudica-por-45-millones-de-euros-las-obras-de-reforma-y-ampliacion-del-centro-sanitario-de-bunol.html",
    "source": "ConSalud",
    "source_id": "consalud",
-   "published": "2026-11-24T13:24:04+00:00",
-   "summary": "lupa sanitaria: El Hospital de Cruces incorpora exposiciones de arte para mejorar el bienestar de pacientes y profesionales",
+   "published": "2026-11-24T15:32:22+00:00",
+   "summary": "c. valenciana: La sanidad valenciana adjudica por 4,5 millones de euros las obras de reforma y ampliación del centro sanitario de Buñol",
    "ai_summary": null,
    "image": null,
    "topics": [
     "salud"
    ],
-   "score": 9.248,
+   "score": 8.339,
    "also": []
-  },
-  "f340a280d2": {
-   "title": "Sanofi to acquire Insmed in deal worth $41bn",
-   "url": "https://pmlive.com/sanofi-to-acquire-insmed-in-deal-worth-41bn/",
-   "source": "PMLiVE",
-   "source_id": "pmlive",
-   "published": "2026-11-24T12:09:28+00:00",
-   "summary": "The acquisition complements Sanofi's immunology and rare disease portfolio",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 9.052,
-   "also": [
-    {
-     "source_id": "pharmaphorum",
-     "source": "pharmaphorum",
-     "url": "https://pharmaphorum.com/news/rumour-confirmed-sanofi-buys-insmed-41bn",
-     "title": "Rumour confirmed as Sanofi buys Insmed for $41bn"
-    }
-   ]
   },
   "22d7270e7a": {
    "title": "Raising the stakes for enterprise networks with AI modernization",
@@ -594,22 +649,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.831,
-   "also": []
-  },
-  "c196efadbd": {
-   "title": "Wall St opens lower as Nvidia-fueled AI rally fades",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-24T15:05:45+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 8.793,
+   "score": 8.279,
    "also": []
   },
   "9496f6bda1": {
@@ -625,7 +665,53 @@
     "salud",
     "pharma"
    ],
-   "score": 8.646,
+   "score": 8.228,
+   "also": []
+  },
+  "15c28179b2": {
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "source_id": "theverge",
+   "published": "2026-11-23T22:10:32+00:00",
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 8.004,
+   "also": [
+    {
+     "source_id": "techcrunch",
+     "source": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+     "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
+    },
+    {
+     "source_id": "ft",
+     "source": "Financial Times",
+     "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+     "title": "Nvidia as it happened: Jensen Huang reinstated as CEO after intervention by Donald Trump; Tech group’s valuation leaps by record of almost $1tn"
+    }
+   ]
+  },
+  "178c4b610e": {
+   "title": "Anthropic pierde el precio de la salida a Bolsa cuatro días después de debutar",
+   "url": "https://cincodias.elpais.com/economia/2026-11-24/anthropic-pierde-el-precio-de-salida-a-bolsa-antes-de-su-cuarto-dia-de-cotizacion-en-wall-street.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-24T16:06:10+00:00",
+   "summary": "La acción se desploma hasta un 13% y cae por debajo 83 dólares a los que la empresa colocó títulos por valor de 120.000 millones",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/NC4ETJCVB5JJHMUOCCGOGQD6HY.jpg?auth=bae17cfedfc9e94a56ce51e2dada80d4957072ef49b31c1951e8a6209cb47cb4",
+   "topics": [
+    "ia",
+    "negocios",
+    "economia"
+   ],
+   "score": 7.85,
    "also": []
   },
   "21c67f8475": {
@@ -641,62 +727,7 @@
     "ia",
     "tech"
    ],
-   "score": 8.327,
-   "also": []
-  },
-  "de36b121ee": {
-   "title": "Tech leaders are celebrating Jensen Huang’s return",
-   "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-   "source": "The Verge",
-   "source_id": "theverge",
-   "published": "2026-11-23T16:14:04+00:00",
-   "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
-   "ai_summary": null,
-   "image": null,
-   "topics": [],
-   "score": 8.115,
-   "also": [
-    {
-     "source_id": "ft",
-     "source": "Financial Times",
-     "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-     "title": "US tech stocks slide as Jensen Huang return rally fades"
-    },
-    {
-     "source_id": "economist",
-     "source": "The Economist",
-     "url": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
-     "title": "Jensen Huang returns. But Nvidia will never be the same"
-    },
-    {
-     "source_id": "techcrunch",
-     "source": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-     "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ"
-    },
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnlVTjVfX19obXNnQmFYcHJyY1VpcHZSOHh1aFJOTHh0eVBZVl9KOG9sWk5TZUlqWVMxSTdMUWVVa1BFeGhhSkZzNXJLSUUtajdRT2xadGhCMG1xOFI3UG9zS0tmbXRhdk05dGU0OEJRcnZ1eVZjWWpmcXNyOTM3ZTk1WVRQNENBMjhzMnpWczQySlJMRmFqc3pDanEtNzNuNllqb1d3?oc=5",
-     "title": "Political and corporate leaders react to Huang's return as Nvidia CEO"
-    }
-   ]
-  },
-  "178c4b610e": {
-   "title": "Anthropic se desploma un 9% y pierde el precio de la salida a Bolsa cuatro días después de debutar",
-   "url": "https://cincodias.elpais.com/economia/2026-11-24/anthropic-pierde-el-precio-de-salida-a-bolsa-antes-de-su-cuarto-dia-de-cotizacion-en-wall-street.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T14:30:56+00:00",
-   "summary": "La acción cae por debajo de los 80 dólares, frente a los 83 a los que la empresa colocó títulos por valor de 120.000 millones",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/NC4ETJCVB5JJHMUOCCGOGQD6HY.jpg?auth=bae17cfedfc9e94a56ce51e2dada80d4957072ef49b31c1951e8a6209cb47cb4",
-   "topics": [
-    "ia",
-    "negocios",
-    "economia"
-   ],
-   "score": 8.032,
+   "score": 7.846,
    "also": []
   },
   "d10416ee58": {
@@ -711,7 +742,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.909,
+   "score": 7.474,
    "also": []
   },
   "9fcedf2f66": {
@@ -728,23 +759,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 7.876,
-   "also": []
-  },
-  "4fab1e7e0c": {
-   "title": "La Fundación PharmaMar distingue a referentes nacionales e internacionales que están redefiniendo la investigación en cáncer",
-   "url": "https://elglobalfarma.com/industria/fundacion-pharmamar-referentes-nacionales-internacionales-investigacion-cancer/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-24T12:53:06+00:00",
-   "summary": "La IV edición de los Premios Argonauta reconoce la excelencia científica, clínica y académica de profesionales cuya trayectoria ha contribuido a ampliar el conocimiento de enfermedades complejas The post La Fundación PharmaMar distingue a referentes nacionales e internacionales que están redefiniendo la investigación en cáncer appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "salud",
-    "pharma"
-   ],
-   "score": 7.836,
+   "score": 7.405,
    "also": []
   },
   "4a9f311780": {
@@ -761,23 +776,23 @@
     "ia",
     "medtech"
    ],
-   "score": 7.806,
+   "score": 7.398,
    "also": []
   },
-  "dc42a73f7e": {
-   "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
-   "url": "https://www.marketingdirecto.com/imprescindibles/inteligencia-artificial/anthropic-asegura-claude-resuelto-mayores-enigmas-matematicas",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-23T10:34:50+00:00",
-   "summary": "Claude podría haber resuelto un problema matemático sin respuesta desde 1859 y la comunidad científica examina la demostración de Anthropic. La entrada Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas se publicó primero en Marketing Directo .",
+  "eaadf24237": {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-24T17:00:00+00:00",
+   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
    "ai_summary": null,
    "image": null,
    "topics": [
     "ia",
-    "marketing"
+    "tech"
    ],
-   "score": 7.623,
+   "score": 7.277,
    "also": []
   },
   "e5d9be847b": {
@@ -792,24 +807,38 @@
    "topics": [
     "pharma"
    ],
-   "score": 7.493,
+   "score": 7.047,
    "also": []
   },
-  "c6ff37588f": {
-   "title": "Solo el 14% de las empresas españolas utiliza la IA de forma avanzada",
-   "url": "https://ipmark.com/solo-14-empresas-espanolas-utiliza-ia-forma-avanzada/",
-   "source": "IPMARK",
-   "source_id": "ipmark",
-   "published": "2026-11-24T12:12:59+00:00",
-   "summary": "El informe de Sesame revela su impacto en la productividad y la preparación de las organizaciones para integrarla en sus procesos. La entrada Solo el 14% de las empresas españolas utiliza la IA de forma avanzada se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+  "bb7331e46f": {
+   "title": "Medica 2026: Ongoing revisions to EU MDR and AI Act require close observation",
+   "url": "https://www.medicaldevice-network.com/news/medica-2026-ongoing-revisions-to-eu-mdr-and-ai-act-require-close-observation/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-23T15:05:57+00:00",
+   "summary": "As the EU MDR and AI Act continue to evolve, manufacturers are advised to pay close attention to the regulations' respective nuances. The post Medica 2026: Ongoing revisions to EU MDR and AI Act require close observation appeared first on Medical Device Network .",
    "ai_summary": null,
    "image": null,
    "topics": [
     "ia",
-    "negocios",
-    "marketing"
+    "medtech"
    ],
-   "score": 7.343,
+   "score": 6.997,
+   "also": []
+  },
+  "49ef9cf508": {
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+   "source": "The Verge",
+   "source_id": "theverge",
+   "published": "2026-11-23T20:00:00+00:00",
+   "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 6.956,
    "also": []
   },
   "5dd1f1ffe6": {
@@ -827,643 +856,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 7.342,
-   "also": []
-  },
-  "b5dadc549c": {
-   "title": "Feijóo y Ayuso alimentan el fantasma del fraude el 29-N: “Sánchez y la limpieza electoral son dos conceptos contradictorios”",
-   "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/feijoo-y-ayuso-alimentan-el-fantasma-del-fraude-el-29-n-sanchez-y-la-limpieza-electoral-son-dos-conceptos-contradictorios.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T09:54:09+00:00",
-   "summary": "Los dirigentes fundamentan sus sospechas en el voto en el exterior por la ‘ley de nietos’, el sufragio por correo emitido en España o en el proceso de primarias por el que Sánchez fue designado secretario general del PSOE",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/OIOJFG5OB5BGJIG3N2L2Q3WH5M.jpg?auth=f0df62f93f79ec528564c5e42a055ce88701aa04da45d1fe3e5d7f68bddb96d1",
-   "topics": [
-    "espana"
-   ],
-   "score": 7.203,
-   "also": []
-  },
-  "d997108180": {
-   "title": "El Gobierno aprueba una bajada histórica de las ratios de alumnos en Educación Infantil, Bachillerato y FP",
-   "url": "https://elpais.com/educacion/2026-11-24/el-gobierno-aprueba-una-bajada-historica-de-las-ratios-de-alumnos-en-educacion-infantil-bachillerato-y-fp.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T09:51:41+00:00",
-   "summary": "El ministerio saca adelante el decreto para acabar con los chiringuitos privados de Formación Profesional, y la normativa que permitirá profesores de asturiano o aragonés",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/ALCUJ5XCPZCFZOEFF4BOAB6EJU.jpg?auth=638fb4ce4392146bd471169dd67b253ae132e2c35b558a483b59bb31a54ed5e9",
-   "topics": [
-    "espana"
-   ],
-   "score": 7.196,
-   "also": [
-    {
-     "source_id": "elconfidencial",
-     "source": "El Confidencial",
-     "url": "https://www.elconfidencial.com/espana/2026-11-24/educacion-asturiano-aragones-ratios-1tps_4471606/",
-     "title": "El Gobierno aprueba la reducción de las ratios en Educación Infantil, Bachillerato y FP"
-    }
-   ]
-  },
-  "49ef9cf508": {
-   "title": "Claude AI can review pull requests and ship fixes on its own now",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-   "source": "The Verge",
-   "source_id": "theverge",
-   "published": "2026-11-23T20:00:00+00:00",
-   "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 7.183,
-   "also": []
-  },
-  "bb7331e46f": {
-   "title": "Medica 2026: Ongoing revisions to EU MDR and AI Act require close observation",
-   "url": "https://www.medicaldevice-network.com/news/medica-2026-ongoing-revisions-to-eu-mdr-and-ai-act-require-close-observation/",
-   "source": "Medical Device Network",
-   "source_id": "mdnetwork",
-   "published": "2026-11-23T15:05:57+00:00",
-   "summary": "As the EU MDR and AI Act continue to evolve, manufacturers are advised to pay close attention to the regulations' respective nuances. The post Medica 2026: Ongoing revisions to EU MDR and AI Act require close observation appeared first on Medical Device Network .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "medtech"
-   ],
-   "score": 7.181,
-   "also": []
-  },
-  "9b79ddeb08": {
-   "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
-   "url": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
-   "source": "STAT",
-   "source_id": "statnews",
-   "published": "2026-11-24T13:39:31+00:00",
-   "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
-   "ai_summary": null,
-   "image": "https://www.statnews.com/wp-content/uploads/2015/12/FirstOp_ClinicalTrials-1024x576.jpg",
-   "topics": [
-    "pharma",
-    "salud"
-   ],
-   "score": 7.053,
-   "also": []
-  },
-  "e252349a0c": {
-   "title": "Aragón impulsa la participación de pacientes en las decisiones de investigación del cáncer",
-   "url": "https://diariofarma.com/2026/11/23/aragon-impulsa-la-participacion-de-pacientes-en-las-decisiones-de-investigacion-del-cancer",
-   "source": "Diariofarma",
-   "source_id": "diariofarma",
-   "published": "2026-11-23T12:43:05+00:00",
-   "summary": "El proyecto 'Paciente Oncológico en Ciencia en Aragón', coordinado por Aspanoa y financiado con 150.000 euros por la Asociación Española Contra el Cáncer, busca incorporar la experiencia de los afectados a las decisiones sobre investigación oncológica",
-   "ai_summary": null,
-   "image": "https://diariofarma.com/wp-content/uploads/2026/11/6b041541538d0.webp",
-   "topics": [
-    "salud",
-    "pharma"
-   ],
-   "score": 7.017,
-   "also": []
-  },
-  "c57a6a58bf": {
-   "title": "El Consejo de Ministros aprueba el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios",
-   "url": "https://elglobalfarma.com/politica/consejo-ministros-estatuto-agencia-espanola-medicamentos-productos-sanitarios-aemps/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-24T10:27:39+00:00",
-   "summary": "El real decreto adapta el régimen de la AEMPS a la Ley 40/2015, crea una Dirección Adjunta y un Departamento de Tecnologías de la Información, reorganiza sus comités e incorpora nuevas competencias sobre disponibilidad de medicamentos y medicamentos estratégicos The post El Consejo de Ministros aprueba el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "salud"
-   ],
    "score": 6.95,
-   "also": []
-  },
-  "f41555af86": {
-   "title": "Adenocyte secures $3.3m grant for pancreatic cancer technology",
-   "url": "https://www.medicaldevice-network.com/news/adenocyte-3m-grant-pancreatic-cancer-technology/",
-   "source": "Medical Device Network",
-   "source_id": "mdnetwork",
-   "published": "2026-11-24T10:30:36+00:00",
-   "summary": "Adenocyte is set to receive a grant of up to $3.3m from the IIA to advance the clinical rollout and commercialisation of its LINFU platform for pancreatic cancer. The post Adenocyte secures $3.3m grant for pancreatic cancer technology appeared first on Medical Device Network .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "salud",
-    "medtech"
-   ],
-   "score": 6.849,
-   "also": []
-  },
-  "cef4b1d939": {
-   "title": "Sánchez exprime su último Consejo de Ministros en campaña con una lluvia de medidas para las familias, las mujeres, los autónomos, más millones para vivienda...",
-   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b058aa3fc6c83f00a8b4582.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-24T15:15:07+00:00",
-   "summary": "\"Estamos en la legislatura y estamos gobernando\", defiende el Gobierno. Pero hay medidas pactadas hace un año e iniciativas por las que Sumar lleva tiempo presionando Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955256674577.jpg",
-   "topics": [
-    "espana",
-    "economia"
-   ],
-   "score": 6.623,
-   "also": []
-  },
-  "9ef3b62ee5": {
-   "title": "Nvidia: la bragueta del CEO",
-   "url": "https://www.elmundo.es/economia/empresas/2026/11/24/6b0577b321efa05e5a8b458e.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-24T11:54:32+00:00",
-   "summary": "En 11 días, el mismo consejo dejó marchar y readmitió a Jensen Huang por unanimidad. La bolsa acaba de ponerle precio a un hombre y a su bragueta Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955204978231.jpg",
-   "topics": [
-    "ia",
-    "negocios"
-   ],
-   "score": 6.59,
-   "also": []
-  },
-  "49196b29f9": {
-   "title": "Sacarte una FP de sanidad en la privada exigirá ir mucho más a clase: así es la nueva norma del Gobierno",
-   "url": "https://www.redaccionmedica.com/formacion/formacion-profesional/20261124/sacarte-una-fp-de-sanidad-en-la-privada-te-exigira-ir-mucho-mas-clase-asi-es-nueva-norma-del-gobierno/366531_0.html",
-   "source": "Redacción Médica",
-   "source_id": "redaccionmedica",
-   "published": "2026-11-24T14:09:16+00:00",
-   "summary": "El Consejo de Ministros ha aprobado el Real Decreto que endurece los criterios para la autorización de centros privados que ofrezcan este tipo de titulaciones. Y además: El Gobierno crea una nueva 'mini' FP sanitaria para la atención a la dependencia y la discapacidad",
-   "ai_summary": null,
-   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/151603.jpg?p=c:3279:1846:nowe:0:190/w:1706/h:960&h=g-rgeSrg",
-   "topics": [
-    "salud",
-    "espana"
-   ],
-   "score": 6.479,
-   "also": []
-  },
-  "fa16535798": {
-   "title": "AI boom looms over Warsh's Fed as inflation worries grow",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTBqVnllWWdXMThBVk1EbTYyUVgwVW9RYTR6TW1faTkwM2R3eV9yRVQ4VUkteFBMbS1TdDRCb2VzZXNCT0kySThGTUg2d3EyalZpMHZrZEltcko1Ui1lTGdlSS1PZUpiQlo1WGlxbG1hclV2NC1pUU5YU01GbjB2R2dPMFZQUVBoSGRBMXBhNnRDZ1JUdURuamtRWkpTdw?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-24T11:25:29+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia",
-    "ia"
-   ],
-   "score": 6.334,
-   "also": []
-  },
-  "12c3f2334c": {
-   "title": "Los AirPods Pro 3 caen a precio mínimo histórico por Black Friday en Amazon",
-   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/apple-airpods-pro-3-ofertas-black-friday-2026.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T12:45:00+00:00",
-   "summary": "Una oportunidad para fichar los auriculares más top de Apple por menos de 200 euros: su cancelación de ruido y autonomía dan un salto",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/2NWNEX4WYFFDLDRO7DNQNEC5JY.png?auth=201a40394b2c5eaa272a6bac14849493b6ecb00490c65639056c0c6a1b0d1c12",
-   "topics": [
-    "tech"
-   ],
-   "score": 6.248,
-   "also": []
-  },
-  "988fb944df": {
-   "title": "Padilla plantea aprovechar el Acuerdo de Pandemias para vincular la I+D pública al acceso a medicamentos",
-   "url": "https://elglobalfarma.com/politica/padilla-financiacion-publica-innovacion-biomedica-acceso-medicamentos/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-23T14:55:50+00:00",
-   "summary": "El secretario de Estado de Sanidad defiende incorporar condiciones de acceso en la financiación pública de la investigación biomédica y avanzar hacia medidas concretas que garanticen el retorno social de la inversión The post Padilla plantea aprovechar el Acuerdo de Pandemias para vincular la I+D pública al acceso a medicamentos appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": "https://diariofarma.com/wp-content/uploads/2024/11/20241030-CRLE5-EEDS-y-DarwinEU-Javier-Padilla-IML_1258-1200x800.jpg",
-   "topics": [
-    "pharma"
-   ],
-   "score": 6.246,
-   "also": [
-    {
-     "source_id": "diariofarma",
-     "source": "Diariofarma",
-     "url": "https://diariofarma.com/2026/11/23/javier-padilla-plantea-vincular-la-id-publica-al-acceso-equitativo-a-medicamentos",
-     "title": "Javier Padilla plantea vincular la I+D pública al acceso equitativo a medicamentos"
-    }
-   ]
-  },
-  "c04e601297": {
-   "title": "Inside AWS’s Bid to Be a Brand for Everyone, Including AI Agents",
-   "url": "https://www.adweek.com/brand-marketing/inside-awss-bid-to-be-a-brand-for-everyone-including-ai-agents/",
-   "source": "Adweek",
-   "source_id": "adweek",
-   "published": "2026-11-24T09:00:00+00:00",
-   "summary": "Amazon Web Services is no longer marketing primarily to developers, but to a wider cohort of knowledge workers, and even AI agents. Its recent campaign for AWS Quick, the company’s […]",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "marketing"
-   ],
-   "score": 6.237,
-   "also": []
-  },
-  "a47f52d318": {
-   "title": "Roche opens key early-stage breast cancer market for oral SERDs with Wilserdly FDA nod",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2RrQzBCa2lVTThuaV9GbHpCNnFpT0RxUlZwODBTbmJLU3o1X3pNSWdnWTdnc1NhRTdMblFLMHZEdVFLSkFOZmpnZjNKVEY5QXhkNVB1NVhWeGRoaEFUcFlPLXdyeVU0RUNjWGd3TGRkeG9LT1JWSzhETXFMSjhGbFVIRFNxWW1ZaVd4eF9fYmVtNkVxbVdEUFdKeENqTXQ0anJkYlNWYUc1dV9WUnYweGRnOA?oc=5",
-   "source": "Fierce Pharma (marketing)",
-   "source_id": "fiercepharma",
-   "published": "2026-11-23T17:25:13+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "salud"
-   ],
-   "score": 6.109,
-   "also": []
-  },
-  "a9b8f28b9c": {
-   "title": "Huang's Nvidia return sparks relief for battered AI trade, but questions remain",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdllUY1JjNjA0T3ZBYjdac2FIVFZWQlF1dUhuclNlcDRfU2gxQzFoQ0kzUk9rcXMxbTJvRXdpZUNVM2ZJTXljQ1B6bjQ3NmxqSmxXTmhqV2JIMFphcGhwQ2dlSGI1Vm56ZUhBcGZMSDdmOVM2eXMyVjMtS19DbWJIVm40U044V0dxR3hPU1NmeldKdGl6VHh0UDVVcnlqUEVudEVrV0MxS1A2UnV6M2U3QldjQjV1OGpV?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-23T20:35:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 6.035,
-   "also": []
-  },
-  "da4f755946": {
-   "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGhGRUlVZHA1MXVNbkVDQUZjN3U0aDR4NHRYNlR3cG1ValF0OUNQbU5wWjNrMnBMOWFVN195eUVNaVhiNy14b3YtSVdFWHpRYl9ZQTNmOFE2ZUdjaEtDRUNva1UxeHJFSVJfSWhHU2hJUHFrNUNWekRGSzBqbU1kRFVxQk52bDVGRUVEUGEtR0MyMDRGM0dacjdmNDNEMEFDaGNTMTVlU2JfUEVrTGVCYkJkb0otSVpyd2c?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-24T08:33:57+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech"
-   ],
-   "score": 5.99,
-   "also": []
-  },
-  "ca1a189423": {
-   "title": "Trump saw Nvidia's Huang as protector of open-weight AI models, sources say",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-23T19:23:26+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 5.937,
-   "also": []
-  },
-  "43393413fe": {
-   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
-   "url": "https://pmlive.com/pmea-2026-a-celebration-of-excellence-in-pharmaceutical-marketing/",
-   "source": "PMLiVE",
-   "source_id": "pmlive",
-   "published": "2026-11-23T12:26:40+00:00",
-   "summary": "This year’s Awards, held at the Sheraton Park Lane London, included 17 categories",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "marketing"
-   ],
-   "score": 5.933,
-   "also": [
-    {
-     "source_id": "mmm",
-     "source": "MM+M",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY0I0Sjcyb1k1Rk8wdGhTUWZVbjhwbUZXTG5PLXJsSHJiWDNnV1VZcHlUNEJHNkdkNEZrZnNzOVgtNkZSUHh5UWhGVHN2aHhWYkRuOUNpay1LdUFDa1JoRWY0M0tzTGtYVjNNSThuRlM1aDZkOUZLd25NY29yUURxSVhqQUcyRXBKQ3c?oc=5",
-     "title": "Five things for pharma marketers to know for Tuesday, November 24, 2026"
-    }
-   ]
-  },
-  "525af206da": {
-   "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
-   "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-24T05:00:16+00:00",
-   "summary": "Five executives are charged with combining Elon Musk’s sprawling enterprises into a potential $3.5tn colossus",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech"
-   ],
-   "score": 5.87,
-   "also": [
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXlLNG9FZFJ0SjJ6YmxybS03UEdTTDZuMUpzQ1pHdmZQUG1WRVdMRktKZ3ptRVVCNXkxdm92eEVBZ0N5c0pDemw5M3NOLUpxWV9tZHdQRWtJM2NnQnZZZVljOEtaRjQzdlRDR2hjM2VIWU9MZS12QmkwbDkyUl9mNGxRRUk4WW5IVm1QVWJuQWhyYS1jN1FMQzBmOHdhLWhTMjRHUnJhOVplSnY4Nm9YMmNfUHdqbms?oc=5",
-     "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports"
-    }
-   ]
-  },
-  "18549f1ab6": {
-   "title": "Análisis facial: llega a la Argentina un sistema de inteligencia artificial para ópticas",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeU9HVmhLbjRzaXMtQjhOeFhyWnNseUpEWlF3QzNhc3JpT0IwQXl4S0k2aHdhMGFuMkxmRUJ6SF9Sem9mWDJJMlZMbjhZVi1SbGw4LTZlNVpmdlNzNEUxN2g0TTNyQzFTVWZTeGZUcHdUQmktelotaFFIOHY2VHJxaF9TbkVEdDJ4NnJicGdLRG8zYnR6LXowOWw4WUJsRWxDUFhUWndwYWNVeVBHVmg3OEVtT1czOGY4RWJqOTl4TmNtU3NfdVdzY3FpcTlCUQ?oc=5",
-   "source": "Perfil",
-   "source_id": "optica_es",
-   "published": "2026-11-24T14:02:47+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica",
-    "ia"
-   ],
-   "score": 5.819,
-   "also": []
-  },
-  "bc5a53032c": {
-   "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan las bolsas disparando el Nasdaq un 7%",
-   "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/23/6b044c51e9cf4a657b8b458e.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-23T17:00:56+00:00",
-   "summary": "En un contexto muy volátil y con dudas hacia la IA, las acciones de Nvidia suben en torno a un 30% después de que la compañía haya anunciado el regreso de su CEO Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439590899.jpg",
-   "topics": [
-    "ia",
-    "tech",
-    "negocios"
-   ],
-   "score": 5.727,
-   "also": []
-  },
-  "6a7990e1ad": {
-   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T17:14:23+00:00",
-   "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech",
-    "ia"
-   ],
-   "score": 5.717,
-   "also": []
-  },
-  "0cd17937bd": {
-   "title": "AI data centers throw another wrench into chaotic UN climate talks",
-   "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-   "source": "The Verge",
-   "source_id": "theverge",
-   "published": "2026-11-23T21:09:37+00:00",
-   "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 5.679,
-   "also": []
-  },
-  "8d06b1e0ce": {
-   "title": "Fenin crea ‘MedTech from Spain’ para impulsar la proyección exterior del sector sanitario nacional",
-   "url": "https://diariofarma.com/2026/11/23/fenin-crea-medtech-from-spain-para-impulsar-la-proyeccion-exterior-del-sector-sanitario-nacional",
-   "source": "Diariofarma",
-   "source_id": "diariofarma",
-   "published": "2026-11-23T17:24:46+00:00",
-   "summary": "Con la creación de la marca abre una nueva etapa para proyectar en el extranjero la tecnología sanitaria desarrollada en España, cuya puesta de largo se produjo en la feria internacional Medica 2026 en Düsseldorf.",
-   "ai_summary": null,
-   "image": "https://diariofarma.com/wp-content/uploads/2026/11/medical-equipment-background-group-health-Depositphotos_228714268_XL.webp",
-   "topics": [
-    "medtech",
-    "salud",
-    "pharma"
-   ],
-   "score": 5.466,
-   "also": []
-  },
-  "acd7fea175": {
-   "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-23T16:53:04+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech",
-    "ia"
-   ],
-   "score": 5.319,
-   "also": []
-  },
-  "9c84f8a2b1": {
-   "title": "Anthropic falls below $83 IPO price in swift reversal after record listing",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-24T15:33:49+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "negocios"
-   ],
-   "score": 5.27,
-   "also": []
-  },
-  "1bb521f24f": {
-   "title": "Sophie Baby, historiadora: “La amenaza fascista es aterradora. Me sorprende que no se discuta más el pacto de PP y Vox”",
-   "url": "https://elpais.com/espana/2026-11-24/sophie-baby-historiadora-la-amenaza-fascista-es-aterradora-me-sorprende-que-no-se-discuta-mas-el-pacto-de-pp-y-vox.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T04:30:01+00:00",
-   "summary": "Especialista en la Transición y la impunidad de los crímenes de la dictadura, la autora de ‘¿Juzgar a Franco?’ analiza el auge de la extrema derecha de cara al 29N y advierte del posible desmantelamiento de las políticas de memoria",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/MEQ22OYTE5BD5HUSAXLO3S73KY.jpg?auth=eaa4d1cbf72dc03bc508939ec7e4bc3c029d6c8fd8fd6ca0de1f9026a72f9e2d",
-   "topics": [
-    "espana"
-   ],
-   "score": 5.201,
-   "also": []
-  },
-  "7601f68fa2": {
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "source": "TechCrunch",
-   "source_id": "techcrunch",
-   "published": "2026-11-23T19:14:46+00:00",
-   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia",
-    "tech"
-   ],
-   "score": 5.155,
-   "also": []
-  },
-  "eceda4d909": {
-   "title": "Ayuso: \"Hablo todos los días con Feijóo. Estamos totalmente compenetrados, pero no me llamará para ser ministra\"",
-   "url": "https://www.elconfidencial.com/espana/2026-11-24/entrevista-ayuso-contraluz-feijoo-cbtrntrv_4470929/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-24T04:00:00+00:00",
-   "summary": "La presidenta de la Comunidad de Madrid describe a Feijóo como \"preparado\", \"paciente\" y \"buena persona\", mientras acusa a Sánchez de dividir a los españoles y ejercer un \"uso obsceno del poder\"",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/tGOuotDtJbD9cYx-G4a8UG4XlEo=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb05%2F85c%2F4ec%2Fb0585c4ec200ba4e6f40fb228a4317cf.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 5.151,
-   "also": []
-  },
-  "58c2527b36": {
-   "title": "GE HealthCare introduces new AI tools to streamline radiology workflows",
-   "url": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-new-ai-tools-to-streamline-radiology-workflows/",
-   "source": "Medical Device Network",
-   "source_id": "mdnetwork",
-   "published": "2026-11-23T10:59:51+00:00",
-   "summary": "GE HealthCare's new AI tools are intended to streamline imaging teams’ ability to find answers to protocol-related questions for individual imaging orders. The post GE HealthCare introduces new AI tools to streamline radiology workflows appeared first on Medical Device Network .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "ia",
-    "salud"
-   ],
-   "score": 5.131,
-   "also": []
-  },
-  "a32f60799a": {
-   "title": "Realizan abordajes territoriales de salud visual en distintos puntos de La Rioja",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95RnBCZ01pZkh4T1FTQ2ZJdy1xZHl0a0s4YVdOTEFUVlI5dmNDZ3RBT1U0cHRDQ1AtelFieTFTNjEzNEhWak5ybkZHNWlMQnFNOWRfUXE2QkVlYjFyU0VjS2tfSm8yUQ?oc=5",
-   "source": "Diario El Independiente",
-   "source_id": "optica_es",
-   "published": "2026-11-24T15:29:04+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.937,
-   "also": []
-  },
-  "bacc0c5d2d": {
-   "title": "El presidente de las Cortes de Castilla-La Mancha rapea por la infancia con gorra y gafas",
-   "url": "https://elpais.com/videos/2026-11-24/el-presidente-de-las-cortes-de-castilla-la-mancha-rapea-por-la-infancia-con-gorra-y-gafas.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T15:20:24+00:00",
-   "summary": "Pablo Bellido ha animado a todos asistentes al acto institucional con motivo del Día de la Infancia a terminar haciendo “los discursos rapeando, bro”",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/OMTZQYY2ZFEFXJD4SXIYRMCCIM.jpg?auth=00ec41f341de91268d08281dfa656ae9b2d5476f68d9010d3f39899efabfcf01",
-   "topics": [
-    "optica"
-   ],
-   "score": 4.918,
-   "also": []
-  },
-  "1d05814584": {
-   "title": "Essilorluxottica integra sus negocios de óptica y oftalmología en Norteamérica",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGN3M2xkWFdHMmlldEJzQkphWFdLOEhZbEFtM3JVMzJnanRIaE5qRTBlelRYM29LZEJRNXJTVDctcy1vYzdjMVBjbl85azhyQ3dOZ0NrRkI2amhJeEl2SHhmSWJfdGhodWh4bll3VmltaXh3ZEt4SUxaR3phRUVrcDJRUTItcUc3UXpIYUJEZmozZkpQQWMydlMzcjJ1X2N1Ni1sUg?oc=5",
-   "source": "Modaengafas.com",
-   "source_id": "optica_es",
-   "published": "2026-11-24T14:01:16+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.747,
-   "also": []
-  },
-  "8d70198d88": {
-   "title": "Novedades de firmware en cámaras mirrorless y compatibilidad de ópticas",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWstUVdpYktpbVdtdmlhS0ZsOElzakp2dUJPVExFU0dTZWI0ZHNxVGM5OEFaREZXVTFRenBSaE9zYkdSdXJkTzJmUjFJM1pZMVFwX3FfRnJBY0hmVkFqQ1RaeHB4MmQ5SVF4TDl4dmRmNzFVOGtnUU5HT2ZpR0liQ1BqNHh6ZG1vRWpoVjhWSVl1V3U4OWhVNXNtNXNIay1vYlREOHdicw?oc=5",
-   "source": "www.windowsnoticias.com",
-   "source_id": "optica_es",
-   "published": "2026-11-24T14:00:46+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.746,
-   "also": []
-  },
-  "cd72bd4d8f": {
-   "title": "Muere un operario de luces navideñas en Santander al ser atropellado por un coche que huía de la Policía",
-   "url": "https://elpais.com/espana/2026-11-24/muere-un-operario-de-luces-navidenas-en-santander-al-ser-atropellado-por-un-coche-que-huia-de-la-policia.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T11:41:20+00:00",
-   "summary": "El compañero y hermano del fallecido se encuentra herido grave. Se ha detenido al fugitivo, que conducía bajo los efectos de sustancias",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/6RA33MHBWNBCZL4JXUNKQX3LTM.jpg?auth=c2d7c4c763b5ece4640d291cf014c7517937c55ef71897325b0b389b8c1021df",
-   "topics": [
-    "negocios"
-   ],
-   "score": 4.742,
-   "also": []
-  },
-  "46c3046791": {
-   "title": "El fracaso de las políticas de empleo: España gasta un 20% más que la media europea para seguir a la cola del paro",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSmQzbkhjODMtMzZjQlN1QzZMbExqbnFucHVycUI2c0VUYUk0dktkczBOLTlyMXlKN3g3Sm9lc3BHcFJydkRLVS1VSTRkaXdjMWMxcGFCckZrY040Tm9aNnVsbW5VTmhTNDM5ZkNkTU9CdHA3NXUzNzVLbVY3Zjh4d0lwQUFoeGhSQ0tsNWVYLTZNZHNYSlhxRmxjQUgxaGItWFY3d0E3Tmd1RUVnN2lzeFB6a0ZFMnhmb1UyTEpZNmV4RUJNX0VUVElsUEJlNG8xb0RkVlQ1MW5jZDl3eV9RV0RlaHJLeG50TFlLaGNKUUFTQ3M0cmN1SnlmMEZaay1JUzZQcHpJckY0UQ?oc=5",
-   "source": "elEconomista",
-   "source_id": "eleconomista",
-   "published": "2026-11-24T05:45:55+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia"
-   ],
-   "score": 4.704,
-   "also": []
-  },
-  "3c6d0a1893": {
-   "title": "EssilorLuxottica Unifies NA Optical Retail, Medical and Surgical Businesses Under New Organization",
-   "url": "http://www.visionmonday.com/business/article/essilorluxottica-unifies-na-optical-retail-medical-and-surgical-businesses-under-new-organization-1/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-24T05:30:00+00:00",
-   "summary": "NEW YORK— EssilorLuxottica (Reuters: ESLX.PA) has announced a new unified leadership model across its optical retail, medical and surgical businesses in North America, creating a new organization called Optical Retail, Medical & Surgical North America (ORMS). The model aims to connect each step of the patient journey, the company said, from refraction to medical diagnosis, treatment, and, when needed, surgery, while…",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.68,
    "also": []
   },
   "cac1e87497": {
@@ -1480,39 +873,728 @@
     "tech",
     "medtech"
    ],
-   "score": 4.626,
+   "score": 6.944,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "MedTech Dive",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUpPZnBTbmd1TVhvWWhTLVBEQWRlSzFNVWpqUXdPTTVVSDVVc05MY1lDNUw4Yk1mNWlIclRVYXdYZmY2elZtRDZCREoyQWtNS3lHTjRHcl8xNWRHSXI3bkRBRlhCbWhrQXZBUE84UnBOYXVtWjJZaGRpZV9kV1ZYWUlKR0QwUWZUM1dHQkNxT0RMS3dIZTh1US1hZWVxQTByUTZ3LXA1NnE?oc=5",
+     "title": "Danaher partners with Microsoft to create an agentic AI platform"
+    }
+   ]
+  },
+  "c6ff37588f": {
+   "title": "Solo el 14% de las empresas españolas utiliza la IA de forma avanzada",
+   "url": "https://ipmark.com/solo-14-empresas-espanolas-utiliza-ia-forma-avanzada/",
+   "source": "IPMARK",
+   "source_id": "ipmark",
+   "published": "2026-11-24T12:12:59+00:00",
+   "summary": "El informe de Sesame revela su impacto en la productividad y la preparación de las organizaciones para integrarla en sus procesos. La entrada Solo el 14% de las empresas españolas utiliza la IA de forma avanzada se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "negocios",
+    "marketing"
+   ],
+   "score": 6.923,
    "also": []
   },
-  "03333b14c7": {
-   "title": "Las refinerías españolas viven su año más rentable al calor de la tensión en los mercados petroleros",
-   "url": "https://elpais.com/economia/2026-11-24/las-refinerias-espanolas-viven-su-ano-mas-rentable-al-calor-de-la-tension-en-los-mercados-petroleros.html",
+  "e252349a0c": {
+   "title": "Aragón impulsa la participación de pacientes en las decisiones de investigación del cáncer",
+   "url": "https://diariofarma.com/2026/11/23/aragon-impulsa-la-participacion-de-pacientes-en-las-decisiones-de-investigacion-del-cancer",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-23T12:43:05+00:00",
+   "summary": "El proyecto 'Paciente Oncológico en Ciencia en Aragón', coordinado por Aspanoa y financiado con 150.000 euros por la Asociación Española Contra el Cáncer, busca incorporar la experiencia de los afectados a las decisiones sobre investigación oncológica",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/6b041541538d0.webp",
+   "topics": [
+    "salud",
+    "pharma"
+   ],
+   "score": 6.855,
+   "also": []
+  },
+  "b5dadc549c": {
+   "title": "Feijóo y Ayuso alimentan el fantasma del fraude el 29-N: “Sánchez y la limpieza electoral son dos conceptos contradictorios”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/feijoo-y-ayuso-alimentan-el-fantasma-del-fraude-el-29-n-sanchez-y-la-limpieza-electoral-son-dos-conceptos-contradictorios.html",
    "source": "El País",
    "source_id": "elpais",
-   "published": "2026-11-24T13:00:13+00:00",
-   "summary": "Las ventas y beneficios del sector crecen casi un 50% entre enero y septiembre impulsadas por la escasez de diésel, según el Banco de España",
+   "published": "2026-11-24T09:54:09+00:00",
+   "summary": "Los dirigentes fundamentan sus sospechas en el voto en el exterior por la ‘ley de nietos’, el sufragio por correo emitido en España o en el proceso de primarias por el que Sánchez fue designado secretario general del PSOE",
    "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/SNGYDQGK45A7DDK6M2QSNDM3X4.jpg?auth=c459712cde448143c35316810593ffe7b795a1f487f3c26733652a62552d24fe",
+   "image": "https://imagenes.elpais.com/resizer/v2/OIOJFG5OB5BGJIG3N2L2Q3WH5M.jpg?auth=f0df62f93f79ec528564c5e42a055ce88701aa04da45d1fe3e5d7f68bddb96d1",
    "topics": [
-    "economia"
+    "espana"
    ],
-   "score": 4.624,
+   "score": 6.82,
    "also": []
   },
-  "4412d478f9": {
-   "title": "Más de 150 organizaciones de protección de la infancia piden a Amazon y eBay que retiren juguetes con IA",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVNSenJyQ2lYU3F0WnlPYmd6LV9kVEpBXzRXUXNkSU1raGJCdWxkRlUyTlBjWlJDdFNLTTRidEpRSDFZeDIycXJJdHFmSVczUHJ1MWEwMjUzN2VaQk02MWRTQzdYMmkwclVVaHdxMDRabmV6SEJXV0h2UFNybFY5bWZoZ1lKd3NmVHVSRVVCM2JObWxBc2JqbkJPOS1ub19HUk8wS1kyUTVBempf?oc=5",
-   "source": "Reason Why",
-   "source_id": "reasonwhy",
-   "published": "2026-11-24T09:54:00+00:00",
+  "8212524832": {
+   "title": "Torrons Vicens reivindica el valor de compartir en su campaña de Navidad",
+   "url": "https://ipmark.com/torrons-vicens-reivindica-valor-compartir-campana-navidad/",
+   "source": "IPMARK",
+   "source_id": "ipmark",
+   "published": "2026-11-24T11:08:28+00:00",
+   "summary": "El anuncio, que se estrenará en televisión el 30 de noviembre, cuenta con la participación de los chefs Albert Adrià, Quique Dacosta, Ángel León y Jordi Roca, La entrada Torrons Vicens reivindica el valor de compartir en su campaña de Navidad se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 6.673,
+   "also": [
+    {
+     "source_id": "marketingdirecto",
+     "source": "Marketing Directo",
+     "url": "https://www.marketingdirecto.com/campanas-navidenas/tenemos-mucho-que-dar-amor-torrons-vicens-navidad",
+     "title": "«Tenemos mucho que dar»: Torrons Vicens apela al amor y al espíritu de compartir en su anuncio de Navidad"
+    }
+   ]
+  },
+  "0861aa3dfc": {
+   "title": "El Gobierno aprueba el plan estatal frente a amenazas graves para la salud y el nuevo Estatuto de la Aemps",
+   "url": "https://www.diariomedico.com/medicina/politica/gobierno-aprueba-plan-estatal-frente-amenazas-graves-salud-nuevo-estatuto-aemps.html",
+   "source": "Diario Médico",
+   "source_id": "diariomedico",
+   "published": "2026-11-24T13:20:04+00:00",
+   "summary": "Política y Normativa cristinaff@uni… Consejo de Ministros El último Consejo de Ministros antes de las elecciones del próximo 29-N ha pisado el acelerador y ha aprobado el Real Decreto del Plan Estatal de Preparación y Respuesta frente a amenazas graves para la salud y también el real decreto con el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios (Aemps), que sustituye al aprobado y en…",
+   "ai_summary": null,
+   "image": "https://statics-diariomedico.uecdn.es/cms/2026-11/ultimo-consejo-ministros-24-n-efe-chema_moya.png",
+   "topics": [
+    "salud",
+    "espana"
+   ],
+   "score": 6.668,
+   "also": [
+    {
+     "source_id": "diariofarma",
+     "source": "Diariofarma",
+     "url": "https://diariofarma.com/2026/11/24/el-gobierno-aprueba-el-estatuto-de-la-aemps-para-sostener-sus-nuevas-capacidades-tecnicas",
+     "title": "El Gobierno aprueba el Estatuto de la Aemps para dar soporte a sus nuevas capacidades"
+    }
+   ]
+  },
+  "6711b2ebaa": {
+   "title": "El Gobierno exige a la Comunidad de Madrid que retire las instrucciones de “neutralidad ideológica” por señalar al profesorado y poner en riesgo derechos fundamentales",
+   "url": "https://elpais.com/educacion/2026-11-24/el-gobierno-requiere-a-la-comunidad-de-madrid-retirar-las-instrucciones-de-la-neutralidad-ideologica-por-generar-desconfianza-hacia-el-profesorado.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-24T17:30:49+00:00",
+   "summary": "El Ministerio de Educación da un mes al Ejecutivo de Ayuso para eliminar la norma que prohíbe carteles sobre los paros en los centros e invita a delatar a docentes",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/OXXWAHNZMNOYFIIUKLSBGA7AP4.jpg?auth=1fb392c74d7cb195106879303030164591060401be170424b3a964859460c97e",
+   "topics": [
+    "espana"
+   ],
+   "score": 6.637,
+   "also": []
+  },
+  "9b79ddeb08": {
+   "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
+   "url": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
+   "source": "STAT",
+   "source_id": "statnews",
+   "published": "2026-11-24T13:39:31+00:00",
+   "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
+   "ai_summary": null,
+   "image": "https://www.statnews.com/wp-content/uploads/2015/12/FirstOp_ClinicalTrials-1024x576.jpg",
+   "topics": [
+    "pharma",
+    "salud"
+   ],
+   "score": 6.632,
+   "also": []
+  },
+  "c57a6a58bf": {
+   "title": "El Consejo de Ministros aprueba el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios",
+   "url": "https://elglobalfarma.com/politica/consejo-ministros-estatuto-agencia-espanola-medicamentos-productos-sanitarios-aemps/",
+   "source": "El Global",
+   "source_id": "elglobal",
+   "published": "2026-11-24T10:27:39+00:00",
+   "summary": "El real decreto adapta el régimen de la AEMPS a la Ley 40/2015, crea una Dirección Adjunta y un Departamento de Tecnologías de la Información, reorganiza sus comités e incorpora nuevas competencias sobre disponibilidad de medicamentos y medicamentos estratégicos The post El Consejo de Ministros aprueba el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios appeared first on El Globalfarma .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "salud"
+   ],
+   "score": 6.574,
+   "also": []
+  },
+  "cef4b1d939": {
+   "title": "Sánchez exprime su último Consejo de Ministros en campaña con una lluvia de medidas para las familias, las mujeres, los autónomos, más millones para vivienda",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b058aa3fc6c83f00a8b4582.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-24T17:20:48+00:00",
+   "summary": "\"Estamos en la legislatura y estamos gobernando\", defiende el Gobierno. Pero hay medidas pactadas hace un año e iniciativas por las que Sumar lleva tiempo presionando Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955256674577.jpg",
+   "topics": [
+    "espana",
+    "economia"
+   ],
+   "score": 6.558,
+   "also": []
+  },
+  "ac77935fc9": {
+   "title": "\"Trabajaremos para conseguir la plena implantación de la Enfermería Geriátrica en Andalucía\"",
+   "url": "https://www.redaccionmedica.com/autonomias/andalucia/20261124/trabajaremos-para-conseguir-la-plena-implantacion-de-enfermeria-geriatrica-en-andalucia/366494_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-24T16:35:25+00:00",
+   "summary": "El nuevo presidente del Consejo Andaluz de Enfermería analiza los retos de la profesión Y además: Rafael Campos, nuevo presidente del Consejo Andaluz de Enfermería",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160549.jpg?p=g:fp:0.48:0.26/w:1706/h:960&h=ht96_hFT",
+   "topics": [
+    "salud",
+    "medtech"
+   ],
+   "score": 6.427,
+   "also": []
+  },
+  "9ef3b62ee5": {
+   "title": "Nvidia: la bragueta del CEO",
+   "url": "https://www.elmundo.es/economia/empresas/2026/11/24/6b0577b321efa05e5a8b458e.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-24T11:54:32+00:00",
+   "summary": "En 11 días, el mismo consejo dejó marchar y readmitió a Jensen Huang por unanimidad. La bolsa acaba de ponerle precio a un hombre y a su bragueta Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955204978231.jpg",
+   "topics": [
+    "ia",
+    "negocios"
+   ],
+   "score": 6.216,
+   "also": []
+  },
+  "988fb944df": {
+   "title": "Padilla plantea aprovechar el Acuerdo de Pandemias para vincular la I+D pública al acceso a medicamentos",
+   "url": "https://elglobalfarma.com/politica/padilla-financiacion-publica-innovacion-biomedica-acceso-medicamentos/",
+   "source": "El Global",
+   "source_id": "elglobal",
+   "published": "2026-11-23T14:55:50+00:00",
+   "summary": "El secretario de Estado de Sanidad defiende incorporar condiciones de acceso en la financiación pública de la investigación biomédica y avanzar hacia medidas concretas que garanticen el retorno social de la inversión The post Padilla plantea aprovechar el Acuerdo de Pandemias para vincular la I+D pública al acceso a medicamentos appeared first on El Globalfarma .",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2024/11/20241030-CRLE5-EEDS-y-DarwinEU-Javier-Padilla-IML_1258-1200x800.jpg",
+   "topics": [
+    "pharma"
+   ],
+   "score": 6.087,
+   "also": [
+    {
+     "source_id": "diariofarma",
+     "source": "Diariofarma",
+     "url": "https://diariofarma.com/2026/11/23/javier-padilla-plantea-vincular-la-id-publica-al-acceso-equitativo-a-medicamentos",
+     "title": "Javier Padilla plantea vincular la I+D pública al acceso equitativo a medicamentos"
+    }
+   ]
+  },
+  "49196b29f9": {
+   "title": "Sacarte una FP de sanidad en la privada exigirá ir mucho más a clase: así es la nueva norma del Gobierno",
+   "url": "https://www.redaccionmedica.com/formacion/formacion-profesional/20261124/sacarte-una-fp-de-sanidad-en-la-privada-te-exigira-ir-mucho-mas-clase-asi-es-nueva-norma-del-gobierno/366531_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-24T14:09:16+00:00",
+   "summary": "El Consejo de Ministros ha aprobado el Real Decreto que endurece los criterios para la autorización de centros privados que ofrezcan este tipo de titulaciones. Y además: El Gobierno crea una nueva 'mini' FP sanitaria para la atención a la dependencia y la discapacidad",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/151603.jpg?p=c:3279:1846:nowe:0:190/w:1706/h:960&h=g-rgeSrg",
+   "topics": [
+    "salud",
+    "espana"
+   ],
+   "score": 6.086,
+   "also": []
+  },
+  "48cd3fae3a": {
+   "title": "DocGo divests cardiac monitoring business in $25m deal",
+   "url": "https://www.medicaldevice-network.com/news/docgo-divests-cardiac-monitoring-business-in-25m-deal/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-24T11:23:56+00:00",
+   "summary": "DocGo is divesting the cardiac implantable portion of its Cardiac RMS subsidiary to Medical Monitoring yet will hold on to the subsidiary’s virtual care segment. The post DocGo divests cardiac monitoring business in $25m deal appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 6.04,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWYtZTB1LU1renNvOEhOSWZfTWd1SFh0VFNlRHRvWUt4bGY3ZEFVZEVfa3JNWUJhaDhQa1pfdlJzOUNRRkszeXRFVEYzQl9NSVN2dmIySHkzY2JwZVdaQlVKYjdJNHdtVzdtQkpvSjdPVmFFU29VRzJEYlh0YVFTcGszM0ZrMDlUcWtMNlVDSHBhbkJxUlBxakozcW1Odw?oc=5",
+     "title": "DocGo divests cardiac monitoring business in $25m deal"
+    }
+   ]
+  },
+  "fa16535798": {
+   "title": "AI boom looms over Warsh's Fed as inflation worries grow",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTBqVnllWWdXMThBVk1EbTYyUVgwVW9RYTR6TW1faTkwM2R3eV9yRVQ4VUkteFBMbS1TdDRCb2VzZXNCT0kySThGTUg2d3EyalZpMHZrZEltcko1Ui1lTGdlSS1PZUpiQlo1WGlxbG1hclV2NC1pUU5YU01GbjB2R2dPMFZQUVBoSGRBMXBhNnRDZ1JUdURuamtRWkpTdw?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-24T11:25:29+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia",
+    "ia"
+   ],
+   "score": 5.981,
+   "also": []
+  },
+  "c04e601297": {
+   "title": "Inside AWS’s Bid to Be a Brand for Everyone, Including AI Agents",
+   "url": "https://www.adweek.com/brand-marketing/inside-awss-bid-to-be-a-brand-for-everyone-including-ai-agents/",
+   "source": "Adweek",
+   "source_id": "adweek",
+   "published": "2026-11-24T09:00:00+00:00",
+   "summary": "Amazon Web Services is no longer marketing primarily to developers, but to a wider cohort of knowledge workers, and even AI agents. Its recent campaign for AWS Quick, the company’s […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "marketing"
+   ],
+   "score": 5.915,
+   "also": []
+  },
+  "12c3f2334c": {
+   "title": "Los AirPods Pro 3 caen a precio mínimo histórico por Black Friday en Amazon",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/apple-airpods-pro-3-ofertas-black-friday-2026.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-24T12:45:00+00:00",
+   "summary": "Una oportunidad para fichar los auriculares más top de Apple por menos de 200 euros: su cancelación de ruido y autonomía dan un salto",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/2NWNEX4WYFFDLDRO7DNQNEC5JY.png?auth=201a40394b2c5eaa272a6bac14849493b6ecb00490c65639056c0c6a1b0d1c12",
+   "topics": [
+    "tech"
+   ],
+   "score": 5.884,
+   "also": []
+  },
+  "43393413fe": {
+   "title": "PMEA 2026: a celebration of excellence in pharmaceutical marketing",
+   "url": "https://pmlive.com/pmea-2026-a-celebration-of-excellence-in-pharmaceutical-marketing/",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-23T12:26:40+00:00",
+   "summary": "This year’s Awards, held at the Sheraton Park Lane London, included 17 categories",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "marketing"
+   ],
+   "score": 5.798,
+   "also": [
+    {
+     "source_id": "mmm",
+     "source": "MM+M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY0I0Sjcyb1k1Rk8wdGhTUWZVbjhwbUZXTG5PLXJsSHJiWDNnV1VZcHlUNEJHNkdkNEZrZnNzOVgtNkZSUHh5UWhGVHN2aHhWYkRuOUNpay1LdUFDa1JoRWY0M0tzTGtYVjNNSThuRlM1aDZkOUZLd25NY29yUURxSVhqQUcyRXBKQ3c?oc=5",
+     "title": "Five things for pharma marketers to know for Tuesday, November 24, 2026"
+    }
+   ]
+  },
+  "ca1a189423": {
+   "title": "Trump saw Nvidia's Huang as protector of open-weight AI models, sources say",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-23T19:23:26+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 5.753,
+   "also": []
+  },
+  "da4f755946": {
+   "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGhGRUlVZHA1MXVNbkVDQUZjN3U0aDR4NHRYNlR3cG1ValF0OUNQbU5wWjNrMnBMOWFVN195eUVNaVhiNy14b3YtSVdFWHpRYl9ZQTNmOFE2ZUdjaEtDRUNva1UxeHJFSVJfSWhHU2hJUHFrNUNWekRGSzBqbU1kRFVxQk52bDVGRUVEUGEtR0MyMDRGM0dacjdmNDNEMEFDaGNTMTVlU2JfUEVrTGVCYkJkb0otSVpyd2c?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-24T08:33:57+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech"
+   ],
+   "score": 5.685,
+   "also": []
+  },
+  "525af206da": {
+   "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
+   "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-24T05:00:16+00:00",
+   "summary": "Five executives are charged with combining Elon Musk’s sprawling enterprises into a potential $3.5tn colossus",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech"
+   ],
+   "score": 5.606,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXlLNG9FZFJ0SjJ6YmxybS03UEdTTDZuMUpzQ1pHdmZQUG1WRVdMRktKZ3ptRVVCNXkxdm92eEVBZ0N5c0pDemw5M3NOLUpxWV9tZHdQRWtJM2NnQnZZZVljOEtaRjQzdlRDR2hjM2VIWU9MZS12QmkwbDkyUl9mNGxRRUk4WW5IVm1QVWJuQWhyYS1jN1FMQzBmOHdhLWhTMjRHUnJhOVplSnY4Nm9YMmNfUHdqbms?oc=5",
+     "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports"
+    }
+   ]
+  },
+  "bc5a53032c": {
+   "title": "Los inversores vuelven a apostar por la IA tras el regreso de Huang y las firmas tecnológicas reavivan las bolsas disparando el Nasdaq un 7%",
+   "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/23/6b044c51e9cf4a657b8b458e.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-23T17:00:56+00:00",
+   "summary": "En un contexto muy volátil y con dudas hacia la IA, las acciones de Nvidia suben en torno a un 30% después de que la compañía haya anunciado el regreso de su CEO Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/23/17954439590899.jpg",
+   "topics": [
+    "ia",
+    "tech",
+    "negocios"
+   ],
+   "score": 5.567,
+   "also": []
+  },
+  "6a7990e1ad": {
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T17:14:23+00:00",
+   "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech",
+    "ia"
+   ],
+   "score": 5.556,
+   "also": []
+  },
+  "0cd17937bd": {
+   "title": "AI data centers throw another wrench into chaotic UN climate talks",
+   "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+   "source": "The Verge",
+   "source_id": "theverge",
+   "published": "2026-11-23T21:09:37+00:00",
+   "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 5.491,
+   "also": []
+  },
+  "3343d8f2c0": {
+   "title": "Análisis facial: llega a la Argentina un sistema de inteligencia artificial para ópticas",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlRzVFlrbk5mbDhKdFpQNEN4d0JZTU9iQk9McUlUSlBlSWRJVVA2MVJjUDduNENjaVJwN2d3eS1SWlhSY1ZRU0RyNFRDSndQR3ZFVE5PRi1fRkFXSjFXcnRwcXNrUzVqNEEzZ2pUWjMxclRtYWo4WEhmWXp3ODgzb25fUGQ0T1VxWVpTNndsMS1nSXdZWkg5dDVKdHV0UFVmbUpBaFlLMGJPWDFkRHhPWVpoR3ZIZmZYY0VoZ05PeUVsQWNmWElhZA?oc=5",
+   "source": "Perfil",
+   "source_id": "optica_es",
+   "published": "2026-11-24T14:02:47+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica",
+    "ia"
+   ],
+   "score": 5.467,
+   "also": []
+  },
+  "0d63fb1e6c": {
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T22:02:05+00:00",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 5.357,
+   "also": []
+  },
+  "8d06b1e0ce": {
+   "title": "Fenin crea ‘MedTech from Spain’ para impulsar la proyección exterior del sector sanitario nacional",
+   "url": "https://diariofarma.com/2026/11/23/fenin-crea-medtech-from-spain-para-impulsar-la-proyeccion-exterior-del-sector-sanitario-nacional",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-23T17:24:46+00:00",
+   "summary": "Con la creación de la marca abre una nueva etapa para proyectar en el extranjero la tecnología sanitaria desarrollada en España, cuya puesta de largo se produjo en la feria internacional Medica 2026 en Düsseldorf.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/medical-equipment-background-group-health-Depositphotos_228714268_XL.webp",
+   "topics": [
+    "medtech",
+    "salud",
+    "pharma"
+   ],
+   "score": 5.311,
+   "also": []
+  },
+  "ce7bd5d388": {
+   "title": "Advertising Is a Top Priority for Best Buy’s New CEO",
+   "url": "https://www.adweek.com/commerce/advertising-is-a-top-priority-for-best-buys-new-ceo/",
+   "source": "Adweek",
+   "source_id": "adweek",
+   "published": "2026-11-24T12:10:45+00:00",
+   "summary": "The retailer expects its advertising business to grow 10% this year.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing",
+    "negocios"
+   ],
+   "score": 5.245,
+   "also": []
+  },
+  "148db897b8": {
+   "title": "El Consejo General incorpora once proyectos humanitarios a la plataforma FarmaColabora",
+   "url": "https://diariofarma.com/2026/11/24/el-consejo-general-incorpora-once-proyectos-humanitarios-a-la-plataforma-farmacolabora",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-24T12:11:54+00:00",
+   "summary": "Las entidades sin ánimo de lucro ya pueden difundir sus iniciativas sociosanitarias en el portal web del Consejo General tras la actualización de su catálogo con actuaciones enfocadas en el acceso a medicamentos y la atención en zonas vulnerables.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/bottom-view-a-team-of-Depositphotos_179529854_XL.webp",
+   "topics": [
+    "pharma"
+   ],
+   "score": 5.126,
+   "also": []
+  },
+  "ba37ac2274": {
+   "title": "The game has changed for medtech startups",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmpXb3BjdUhleDd1dGtqRW4zVl81M1BzT19aaUpRMlE4Y0swRmFXRWNWTXZNOGVFUW12MnVVb3R6Y3psTXVTSHBObmFoQmkyVjFSNFlvMUxKbWdfVGxGZzNaNEtTSmYzRjVTS1Y2VGo3X3phRHNhQ01BT1N6YmxQRngtbUw0UXNaUXowX3lTMlNJS3pHMXEzUHNWQQ?oc=5",
+   "source": "Medical Design & Outsourcing",
+   "source_id": "medtech_search",
+   "published": "2026-11-24T16:53:39+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "tech"
+   ],
+   "score": 5.097,
+   "also": []
+  },
+  "58c2527b36": {
+   "title": "GE HealthCare introduces new AI tools to streamline radiology workflows",
+   "url": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-new-ai-tools-to-streamline-radiology-workflows/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-23T10:59:51+00:00",
+   "summary": "GE HealthCare's new AI tools are intended to streamline imaging teams’ ability to find answers to protocol-related questions for individual imaging orders. The post GE HealthCare introduces new AI tools to streamline radiology workflows appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "ia",
+    "salud"
+   ],
+   "score": 5.022,
+   "also": []
+  },
+  "7601f68fa2": {
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-23T19:14:46+00:00",
+   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 4.997,
+   "also": []
+  },
+  "94c5c77fe4": {
+   "title": "AI oversight key to ‘draw the line’ in medical training",
+   "url": "https://www.healio.com/news/gastroenterology/20261123/you-cant-audit-work-you-never-learned-ai-oversight-key-in-medical-school-expert-warns",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-24T12:00:00+00:00",
+   "summary": "ORLANDO — A debate at AIMed26 highlighted AI’s expanding role in practice and how it is reshaping medical education, with one panelist emphasizing the importance of physician accountability and careful integration of the technology. “Students and residents are already using these tools whether we teach them or not, so the real question is whether we teach them to use AI well,” Laura-Kathryn Neal, DM, MPH, MBA,…",
+   "ai_summary": null,
+   "image": "https://www.healio.com/~/media/slack-news/gastroenterology/misc/infographics/2026/1126/hgi1126neal_aimed_graphic_01.jpg?w=300",
+   "topics": [
+    "ia",
+    "optica"
+   ],
+   "score": 4.975,
+   "also": []
+  },
+  "1bb521f24f": {
+   "title": "Sophie Baby, historiadora: “La amenaza fascista es aterradora. Me sorprende que no se discuta más el pacto de PP y Vox”",
+   "url": "https://elpais.com/espana/2026-11-24/sophie-baby-historiadora-la-amenaza-fascista-es-aterradora-me-sorprende-que-no-se-discuta-mas-el-pacto-de-pp-y-vox.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-24T04:30:01+00:00",
+   "summary": "Especialista en la Transición y la impunidad de los crímenes de la dictadura, la autora de ‘¿Juzgar a Franco?’ analiza el auge de la extrema derecha de cara al 29N y advierte del posible desmantelamiento de las políticas de memoria",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/MEQ22OYTE5BD5HUSAXLO3S73KY.jpg?auth=eaa4d1cbf72dc03bc508939ec7e4bc3c029d6c8fd8fd6ca0de1f9026a72f9e2d",
+   "topics": [
+    "espana"
+   ],
+   "score": 4.971,
+   "also": []
+  },
+  "eceda4d909": {
+   "title": "Ayuso: \"Hablo todos los días con Feijóo. Estamos totalmente compenetrados, pero no me llamará para ser ministra\"",
+   "url": "https://www.elconfidencial.com/espana/2026-11-24/entrevista-ayuso-contraluz-feijoo-cbtrntrv_4470929/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-24T04:00:00+00:00",
+   "summary": "La presidenta de la Comunidad de Madrid describe a Feijóo como \"preparado\", \"paciente\" y \"buena persona\", mientras acusa a Sánchez de dividir a los españoles y ejercer un \"uso obsceno del poder\"",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/tGOuotDtJbD9cYx-G4a8UG4XlEo=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb05%2F85c%2F4ec%2Fb0585c4ec200ba4e6f40fb228a4317cf.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 4.928,
+   "also": []
+  },
+  "adc106deb2": {
+   "title": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczdXX09VbktzSHB2LWVWdy1ZR3d0OTlhbGpndW9HU3ZzWjU0VXZwNzI5M0pFYXhXM0pOSS01REQxeG9rUG9kekdqbzdQdEttaDZ1YUVqSjFBc0xCSk45SnlyQ3ZHeXNlX2RYLUk1aVhuSU9hLTAxMjFoc3pYS3loNWZDLXdIUXFKd2xqcVJOMFVUMFhlOXA1TDd5UVgySHU1d3hwZ3BhTlFxOVc5OEl0UGVfRnUtVEJvZE5zZW82SXU3RmViQnp6Zl9kdkRYZw?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-24T14:18:48+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
     "ia",
-    "tech",
-    "marketing"
+    "economia"
    ],
-   "score": 4.553,
+   "score": 4.717,
+   "also": []
+  },
+  "8ee425b58c": {
+   "title": "Estados Unidos ultima nuevos aranceles a China, la UE y otra docena de países",
+   "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-24T16:04:34+00:00",
+   "summary": "La Oficina Comercial concluye la investigación contra 16 jurisdicciones por fomentar la sobreproducción y permitir la competencia irregular",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/5G3PMYC575IDNA5OUBBEIDIKUI.jpg?auth=e7981eaba55f1451b8154f861fbafc68094f2e1d6545d9c2cf91e39a0cdb3879",
+   "topics": [
+    "economia"
+   ],
+   "score": 4.697,
+   "also": []
+  },
+  "a6e7b46575": {
+   "title": "CGI Brain-Hemorrhage AI Receives EU Medical Device Certification",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGFnOU90V3ZpenNGQ0xGRXVmREliaWdtRUo3X3JqVjlHelVydWlETkl4SF9iMDFDcTluV2JCS1BIS1NvTm5YRU5tdlpvZTNSYTVOcXVidVpOU2JLck5VRFV4cG5HYkMyeDZuQ2l1V1hmLWNnMXUxY2tHWnFvSktvb296YVplMU1PY1E3MzFsTQ?oc=5",
+   "source": "Unite.AI",
+   "source_id": "medtech_search",
+   "published": "2026-11-24T11:50:04+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "ia"
+   ],
+   "score": 4.67,
+   "also": []
+  },
+  "a32f60799a": {
+   "title": "Realizan abordajes territoriales de salud visual en distintos puntos de La Rioja",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95RnBCZ01pZkh4T1FTQ2ZJdy1xZHl0a0s4YVdOTEFUVlI5dmNDZ3RBT1U0cHRDQ1AtelFieTFTNjEzNEhWak5ybkZHNWlMQnFNOWRfUXE2QkVlYjFyU0VjS2tfSm8yUQ?oc=5",
+   "source": "Diario El Independiente",
+   "source_id": "optica_es",
+   "published": "2026-11-24T15:29:04+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.626,
+   "also": []
+  },
+  "07a31d82db": {
+   "title": "Alumna del Grado en Óptica y Optometría ganadora del 1er premio TFG Innocampus",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPOE1TZ1VISlBrbmFPRW8yNjBPQm9YV3l6NWFsZUVJMEItLXBiWmxETGxhTmNKc3JXVEE3cXpYTW5qQzN3cm9mcFZVZGpjMXJkN3pTS281QkhsQTRISnVsdTdLQ1hTZ1I0ak5vMmtUc1FYSkxHVFM5TEZjc0pXMHlhRUlXWmtIQkRkcWxiVkVjSDFOdXBRaGV1N29lZ0RTYjJvYVl6dDhncFM5NmZNSlo1MlI3OHhvc0NvNHR5SndqcEZTZThGZ3BXeW40QVBoQ3A3RU1zSnVRbXFKektldV9LMnFIcmx2X2ZzeWlnZmxPUWRqTnA3OFVlVk9iek1YRWotbElUR09qNUVud2NySUpMM2c4Q2tWUmpIeU1jSmx3UHdIWEQtV2w3cURMdUxzYU5iUWc0OWMtLUowUllJdHZn?oc=5",
+   "source": "Universitat de València",
+   "source_id": "optica_es",
+   "published": "2026-11-24T15:27:07+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.622,
+   "also": []
+  },
+  "3fc0f8f1d4": {
+   "title": "60 personas privadas de la libertad en la Cárcel Distrital se benefician con campaña de salud visual",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYk5ZVHhWSHNMeENtM1BTd29wb281Z3Q0ajgxcDF2LU1CaE5uN2d2d01Ja1o5M0ZJdFF2YTZ3bllTUXNXY2JfSTByOTdvOUhqdmp1Y09hN0ZJVGR6RFZSdzNlMlYzVGNNMFlsQjdqdkREd0lEM0ZXNTZvWTU2NTI5Vm04Nlp5TjMwZHY5YllZdnlIZU91dTR2S1gyS0w5Tzd3aUZ5Tl9VcUJBUkNidzRJVjNVVnIzWUdqaENn?oc=5",
+   "source": "Bogota.gov.co",
+   "source_id": "optica_es",
+   "published": "2026-11-24T14:55:31+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.561,
+   "also": []
+  },
+  "46c3046791": {
+   "title": "El fracaso de las políticas de empleo: España gasta un 20% más que la media europea para seguir a la cola del paro",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSmQzbkhjODMtMzZjQlN1QzZMbExqbnFucHVycUI2c0VUYUk0dktkczBOLTlyMXlKN3g3Sm9lc3BHcFJydkRLVS1VSTRkaXdjMWMxcGFCckZrY040Tm9aNnVsbW5VTmhTNDM5ZkNkTU9CdHA3NXUzNzVLbVY3Zjh4d0lwQUFoeGhSQ0tsNWVYLTZNZHNYSlhxRmxjQUgxaGItWFY3d0E3Tmd1RUVnN2lzeFB6a0ZFMnhmb1UyTEpZNmV4RUJNX0VUVElsUEJlNG8xb0RkVlQ1MW5jZDl3eV9RV0RlaHJLeG50TFlLaGNKUUFTQ3M0cmN1SnlmMEZaay1JUzZQcHpJckY0UQ?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-24T05:45:55+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia"
+   ],
+   "score": 4.487,
+   "also": []
+  },
+  "011f27166e": {
+   "title": "Muere un trabajador y otro está muy grave tras ser arrollados por un coche en Santander",
+   "url": "https://www.elconfidencial.com/espana/2026-11-24/accidente-santander-trabajador-fallecido-1tna-1tps_4471177/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-24T08:33:00+00:00",
+   "summary": "El siniestro se produjo a la salida del túnel de la calle Burgos, alrededor de las 00.40 horas, cuando el turismo en fuga impactó contra el camión en el que los operarios estaban trabajando",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/mH2b86fSiTMKKJoBKFykV-cK6sY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffab%2F012%2F8b6%2Ffab0128b6bf4bb99b5f5446a1b5917b4.jpg",
+   "topics": [
+    "negocios"
+   ],
+   "score": 4.183,
    "also": []
   },
   "ff7ab45776": {
@@ -1527,68 +1609,22 @@
    "topics": [
     "optica"
    ],
-   "score": 4.4,
+   "score": 4.157,
    "also": []
   },
-  "bff7ec6b54": {
-   "title": "Fed's Williams says inflation still too high, signals more rate hikes possible",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-23T23:38:48+00:00",
+  "f40d1a4b11": {
+   "title": "“El Marketing es negocio. ¿Qué es si no?”",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkxVYkxWYVJuODRKRHNqUTRkcXFtN2ZOVHdLYU5wNHJtSHl5TGNjTWxfZnB3RmZXLWM0MkJqNDNYb1NYOXp2STRQQm1VdTRJUThHNnpTSnlHc2N6cTA1RnFjV0JFbzZnZTFmOFY5MEgyelJQMWFfWTVYQ1BjRTVrOU1sVGZPVmRld2hzOUlDbw?oc=5",
+   "source": "Reason Why",
+   "source_id": "reasonwhy",
+   "published": "2026-11-24T11:40:55+00:00",
    "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia"
-   ],
-   "score": 4.213,
-   "also": []
-  },
-  "14f0fff5d7": {
-   "title": "SUNY Optometry Research Plays Key Role in Bringing Breakthrough Vision Technology to U.S. Children",
-   "url": "http://www.visionmonday.com/eyecare/article/suny-optometry-research-plays-key-role-in-bringing-breakthrough-vision-technology-to-us-children/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:18:00+00:00",
-   "summary": "NEW YORK— SUNY College of Optometry played a pivotal role in the clinical research that helped bring the Essilor Stellest spectacle lenses to market, the school recently shared. Stellest lenses received U.S. FDA market authorization in September 2025.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.011,
-   "also": []
-  },
-  "20ca79e6dd": {
-   "title": "Medtronic misses quarterly revenue estimates after diabetes business spinoff",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTdJMTVmekw4SkV5cXlGbzZkblkzRXZ0Z1lQTEtlVXp1elFnRFJlT25Na1B5a295SHhXV1F5cE50dkdxS3NjWkVFc3VwdXFJSXh3XzNmWGZwUnBWaWVfV3phVGFCNEF0ZUNnbmFIcWNWWVZoR2tSWE1yZWt4U3hEWHBoeTdlMjM4WXJnbjk1TnR2NEQ4bFpUbnhyaTJLR2ROQmJhY0xxbG4tQU1lcVVTdU5XeFF2N00wRy1qWElvRkZNS2NHWnRkNXcxcGtwWkZNSlV3?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-24T14:35:57+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "negocios",
-    "medtech"
-   ],
-   "score": 3.904,
-   "also": []
-  },
-  "d629a3d698": {
-   "title": "Hicimos un balón de baloncesto para que nadie jugara con él",
-   "url": "https://ipmark.com/hicimos-balon-baloncesto-para-que-nadie-jugara-con-el/",
-   "source": "IPMARK",
-   "source_id": "ipmark",
-   "published": "2026-11-24T15:01:00+00:00",
-   "summary": "No se trataba de hablar más alto ni de repetir estadísticas, sino de hacer un gesto difícil de ignorar. La entrada Hicimos un balón de baloncesto para que nadie jugara con él se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
    "ai_summary": null,
    "image": null,
    "topics": [
     "marketing"
    ],
-   "score": 3.9,
+   "score": 3.799,
    "also": []
   },
   "fd4e457920": {
@@ -1603,38 +1639,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.891,
-   "also": []
-  },
-  "40c6c8dc9a": {
-   "title": "Turisme de Barcelona renueva su confianza en Normmal para «This is Barcelona»",
-   "url": "https://ipmark.com/turisme-barcelona-renueva-confianzan-normmal-this-is-barcelona/",
-   "source": "IPMARK",
-   "source_id": "ipmark",
-   "published": "2026-11-24T14:41:58+00:00",
-   "summary": "La agencia dará continuidad al proyecto iniciado junto a la entidad, con una nueva fase centrada en la difusión de contenidos. La entrada Turisme de Barcelona renueva su confianza en Normmal para «This is Barcelona» se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "marketing"
-   ],
-   "score": 3.867,
-   "also": []
-  },
-  "d465ec2948": {
-   "title": "The National Average for Gross Revenue at ECP Locations Increased for the Month of October, Jobson’s Latest Practice Performance Tracker Shows",
-   "url": "http://www.visionmonday.com/business/jobsons-weekly-practice-performance-tracker/article/the-national-average-for-gross-revenue-at-ecp-locations-increased-for-the-month-of-october-jobsons-latest-practice-performance-tracker-shows/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-24T05:27:00+00:00",
-   "summary": "NEWARK, N.J.—The national average for gross revenue at ECP locations increased last month, October 2026, when compared with the previous month, at a rate of +6 index points. That places gross revenue at a level -6 index points below where it was at this point in time when compared with last year (October 2025), 1 point above the same period in 2024, 12 points above 2023, 11 points above 2022, 30 points above 2021,…",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "negocios",
-    "optica"
-   ],
-   "score": 3.818,
+   "score": 3.65,
    "also": []
   },
   "9c18fd8d23": {
@@ -1650,37 +1655,7 @@
     "ia",
     "negocios"
    ],
-   "score": 3.486,
-   "also": []
-  },
-  "d385192900": {
-   "title": "VSP Eyes of Hope, Kendra Scott Foundation Partner to Expand Access to Vision Care and Literacy Resources",
-   "url": "http://www.visionmonday.com/people/optical-community/article/vsp-eyes-of-hope-kendra-scott-foundation-partner-to-expand-access-to-vision-care-and-literacy-resources/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:21:00+00:00",
-   "summary": "RANCHO CORDOVA, Calif., and AUSTIN, Texas— VSP Eyes of Hope and the Kendra Scott Foundation announced that they have joined forces to help students learn, read and dream by expanding access to vision care and books.",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 3.439,
-   "also": []
-  },
-  "f8cc59acbc": {
-   "title": "‘It All Came Together’: Donation Brings Eyewear to 100 Children in Florida",
-   "url": "http://www.visionmonday.com/business/article/it-all-came-together-donation-brings-eyewear-to-100-children-in-florida/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-23T05:15:00+00:00",
-   "summary": "BOSTON—Approximately 100 children in Florida now have new eyewear, GoodVision USA has shared, thanks to a set of introductions arranged by the organization that brought together the brand Vontélle Eyewear with the Crestview Lions Foundation .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 3.437,
+   "score": 3.398,
    "also": []
   },
   "69343500b5": {
@@ -1695,7 +1670,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 3.411,
+   "score": 3.321,
    "also": []
   },
   "7eccd90ac9": {
@@ -1711,70 +1686,52 @@
     "tech",
     "marketing"
    ],
-   "score": 3.398,
+   "score": 3.319,
    "also": []
   },
-  "e81a7e68d1": {
-   "title": "Arranca el Plan AMAT-I 2026 de compra de alta tecnología sanitaria con dos acuerdos",
-   "url": "https://diariofarma.com/2026/11/23/arranca-el-plan-amat-i-2026-de-compra-de-alta-tecnologia-sanitaria-con-dos-acuerdos",
-   "source": "Diariofarma",
-   "source_id": "diariofarma",
-   "published": "2026-11-23T16:30:04+00:00",
-   "summary": "Ingesa pone en marcha el Plan AMAT-I 2026 con los dos primeros acuerdos marco para suministrar equipos de radiología y cardiología intervencionista al Sistema Nacional de Salud, lo que supone una inversión superior a 106,6 millones de euros y ahorros de más de 15,98 millones.",
-   "ai_summary": null,
-   "image": "https://diariofarma.com/wp-content/uploads/2026/11/high-tech-hospital-room-digital-Depositphotos_540860014_XL.webp",
-   "topics": [
-    "salud",
-    "medtech",
-    "pharma"
-   ],
-   "score": 3.339,
-   "also": []
-  },
-  "63706cb843": {
-   "title": "Alsea unifica la dirección de los mercados de Starbucks en Europa",
-   "url": "https://www.marketingdirecto.com/anunciantes-general/alsea-unifica-direccion-mercados-starbucks-europa",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-23T11:07:16+00:00",
-   "summary": "Alsea reorganiza dos puestos de Starbucks para reforzar la coordinación europea sin perder de vista las particularidades de cada mercado. La entrada Alsea unifica la dirección de los mercados de Starbucks en Europa se publicó primero en Marketing Directo .",
+  "566d04a56a": {
+   "title": "EssilorLuxottica Unifies NA Optical Retail, Medical and Surgical Businesses Under New Organization",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUVU4eWJRUjJLcGpaV0V4TGpNaHZKaVhrQlZHSWVlYnhpQVJVQ1ZjOW5TWDNqand3bVJUbnRZZWZidTZBdGRYLVZTOXp1Z1BjaXltclFMZXRqSEpaeVk0WDJXZjhWTkprclVoN2MxeExid2xDZEpyRS02Q3pyT2s1dEVsTm1lMmlJYmFyb29ZcHIyMDl2dVBGVU0zZ1JWaFFVY1VMbnRZVVpMZFlFdGdMemhjYThBeW9WTWVIVWs5amVVbm83aUdROG1mV0JvMmY4VllTQkR5NUpQbjA?oc=5",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-23T19:30:00+00:00",
+   "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
-    "economia",
-    "marketing"
+    "optica"
    ],
-   "score": 2.854,
+   "score": 3.201,
    "also": []
   },
-  "d0847a608c": {
-   "title": "Heraeus pulls vascular guidewires over coating detachment risk",
-   "url": "https://www.medtechdive.com/news/heraeus-pulls-vascular-guidewires-over-coating-detachment-risk/875585/",
-   "source": "MedTech Dive",
-   "source_id": "medtechdive",
-   "published": "2026-11-24T15:28:00+00:00",
-   "summary": "The quality problem could lead to release of particles that could block blood vessels.",
+  "0f37f7e9e6": {
+   "title": "Beyond the eye: The future of retinal imaging in medicine",
+   "url": "https://www.ophthalmologytimes.com/view/beyond-the-eye-the-future-of-retinal-imaging-in-medicine",
+   "source": "Ophthalmology Times",
+   "source_id": "ophthalmologytimes",
+   "published": "2026-11-23T12:00:00+00:00",
+   "summary": "",
    "ai_summary": null,
-   "image": "https://imgproxy.divecdn.com/cMUj34TqvJiOKaQyGzAGv2T13uG9QyfwV4eRyQ0OOWM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X0FEc3NFUlAuanBn.webp",
+   "image": null,
    "topics": [
-    "medtech"
+    "optica"
    ],
-   "score": 1.974,
+   "score": 2.666,
    "also": []
   },
-  "3ff9ca0ff2": {
-   "title": "Smith + Nephew names new CFO",
-   "url": "https://www.medtechdive.com/news/smith-nephew-names-new-cfo/875485/",
-   "source": "MedTech Dive",
-   "source_id": "medtechdive",
-   "published": "2026-11-23T16:28:15+00:00",
-   "summary": "Nick Alexos will join the orthopedics company later this month after holding CFO roles at Univar Solutions and Dentsply Sirona.",
+  "6c54dc6c65": {
+   "title": "Lumify with hyaluronic acid reduces eye redness over 10 hours",
+   "url": "https://www.healio.com/news/optometry/20261123/lumify-with-hyaluronic-acid-reduces-eye-redness-up-to-10-hours",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-23T19:40:38+00:00",
+   "summary": "ANAHEIM, Calif. — A formulation of Lumify with hyaluronic acid significantly reduced eye redness within 30 seconds, according to data presented at Academy 2026. “Hyaluronic acid is a naturally occurring molecule with a lot of great lubricating properties,” Jacob R. Lang, OD, FAAO, a consultant for Bausch + Lomb and medical director of dry eye services at Associated Eye Care in Wisconsin, told Healio. “It’s really…",
    "ai_summary": null,
-   "image": "https://imgproxy.divecdn.com/2KbYIz8jd15Po_ZBNd7ponenmf3_OIMtzJc9VBz0-e8/g:nowe:0:11/c:600:338/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OaWNrX0FsZXhvcy5qcGc=.webp",
+   "image": "https://www.healio.com/~/media/slack-news/optometry/misc/stock-images/tear_web.jpg?w=300",
    "topics": [
-    "medtech"
+    "optica"
    ],
-   "score": 1.271,
+   "score": 2.309,
    "also": []
   }
  },
@@ -1783,7 +1740,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 219,
+   "count": 221,
    "ok": true,
    "errors": []
   },
@@ -1791,7 +1748,7 @@
    "id": "elmundo",
    "name": "El Mundo",
    "via": "rss",
-   "count": 74,
+   "count": 72,
    "ok": true,
    "errors": []
   },
@@ -1880,10 +1837,12 @@
   {
    "id": "visionmonday",
    "name": "Vision Monday",
-   "via": "rss",
-   "count": 10,
+   "via": "google-news",
+   "count": 9,
    "ok": true,
-   "errors": []
+   "errors": [
+    "https://www.visionmonday.com/rss/latest-news/: TimeoutError: The read operation timed out"
+   ]
   },
   {
    "id": "healio_eye",
@@ -1905,7 +1864,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 43,
+   "count": 22,
    "ok": true,
    "errors": []
   },
@@ -1929,7 +1888,7 @@
    "id": "reasonwhy",
    "name": "Reason Why",
    "via": "google-news",
-   "count": 6,
+   "count": 8,
    "ok": true,
    "errors": []
   },
@@ -2025,11 +1984,9 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 0,
-   "ok": false,
-   "errors": [
-    "google-news: HTTPError: HTTP Error 429: Too Many Requests"
-   ]
+   "count": 41,
+   "ok": true,
+   "errors": []
   },
   {
    "id": "redaccionmedica",
