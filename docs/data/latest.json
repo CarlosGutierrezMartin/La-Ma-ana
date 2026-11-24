@@ -1,10 +1,10 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T08:09:21.616776+00:00",
+ "generated_at": "2026-11-24T08:34:13.828029+00:00",
  "stats": {
-  "fetched": 1791,
-  "fresh": 748,
-  "stories": 677,
+  "fetched": 1792,
+  "fresh": 751,
+  "stories": 672,
   "selected": 93
  },
  "brief": null,
@@ -18,16 +18,16 @@
     "27065c561f",
     "15c28179b2",
     "79f1c6c3ab",
+    "48e587d0f7",
     "3ce502eefa",
-    "9496f6bda1",
     "e252349a0c",
-    "bec609c72b",
+    "9496f6bda1",
     "f033bf1ef4",
     "de36b121ee",
-    "48e587d0f7",
+    "90713db5f6",
     "58c2527b36",
-    "525af206da",
     "aefe2fb3f5",
+    "525af206da",
     "988fb944df",
     "02ea7b5321"
    ]
@@ -45,8 +45,8 @@
     "3ce502eefa",
     "0cd17937bd",
     "781024e1bc",
-    "ea6b53e751",
     "ca1a189423",
+    "ea6b53e751",
     "9015df9163",
     "0d63fb1e6c",
     "d65c4ac621",
@@ -60,8 +60,8 @@
    "short": "Tech",
    "items": [
     "6a7990e1ad",
-    "acd7fea175",
     "f033bf1ef4",
+    "acd7fea175",
     "302cca83c2",
     "cac1e87497",
     "7601f68fa2",
@@ -98,6 +98,7 @@
    "short": "Economía",
    "items": [
     "90713db5f6",
+    "bff7ec6b54",
     "0bb7fe8a99",
     "84b90024e9",
     "9015df9163",
@@ -105,8 +106,7 @@
     "b62e57fd76",
     "3de197534d",
     "8a6919111a",
-    "63706cb843",
-    "deb8fe2580"
+    "63706cb843"
    ]
   },
   {
@@ -114,11 +114,11 @@
    "name": "España",
    "short": "España",
    "items": [
-    "90713db5f6",
     "48e587d0f7",
+    "90713db5f6",
     "55bbf4cadd",
+    "05fe11e3af",
     "0bb7fe8a99",
-    "1bb521f24f",
     "eceda4d909",
     "ebc9be3631",
     "b8f9a32fdd",
@@ -186,12 +186,12 @@
     "3ce502eefa",
     "9b513f1c62",
     "8d06b1e0ce",
-    "bec609c72b",
     "cac1e87497",
     "d77cce512b",
     "1ddff4a50d",
+    "61c9cd4dfa",
     "e81a7e68d1",
-    "61c9cd4dfa"
+    "3ff9ca0ff2"
    ]
   },
   {
@@ -207,8 +207,8 @@
     "bc1b433a7e",
     "9d49e3a097",
     "93e92ded64",
-    "bba7c35e5a",
-    "d11ff2d988"
+    "15c9134c35",
+    "bba7c35e5a"
    ]
   }
  ],
@@ -225,7 +225,7 @@
    "topics": [
     "ia"
    ],
-   "score": 17.684,
+   "score": 17.537,
    "also": [
     {
      "source_id": "reuters",
@@ -248,7 +248,7 @@
     "ia",
     "negocios"
    ],
-   "score": 17.066,
+   "score": 16.925,
    "also": [
     {
      "source_id": "elconfidencial",
@@ -295,8 +295,30 @@
     "ia",
     "marketing"
    ],
-   "score": 13.995,
+   "score": 13.839,
    "also": []
+  },
+  "48e587d0f7": {
+   "title": "Entrevistas de Plex a Sánchez y a Feijóo: horario y dónde verlas",
+   "url": "https://www.elconfidencial.com/espana/2026-11-24/entrevistas-de-plex-a-sanchez-y-a-feijoo-horario-y-donde-verlas_4471128/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-24T07:39:00+00:00",
+   "summary": "El youtuber publicará las conversaciones con los líderes del PSOE y del PP este miércoles, a pocos días de las elecciones generales",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/5Uu-yxJunEDO1Du9SzrmU8zBzns=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F347%2F128%2F3b0%2F3471283b0b74147bc6bc03247a55cafe.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 12.091,
+   "also": [
+    {
+     "source_id": "eleconomista",
+     "source": "elEconomista",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOeV9jaTBGbk5UYjJ5aWVNY3QwakRYTzJETjU1cWN3dzZCeXJmM041UjNRTkQ3SFgyQ0xtRHFscXJHdEtybzZvd0FqYmRFeWJCZkk5Zk50NEJfbXY2ZzhKN0xDelJoUjZVdmhodjVtOExKVGdIdGFTLUN6Z0g4QVc3aVROWmR5T0psWTdDbE83eDVEa3BfcnFaVVpzdDdXdEs2MTBsSF9NR0dHN1U5T000YzhsZVAzc3dwMTVXMDMzSU5BOWVjWlFrSThUaEJkUC1CVTBBUnhUWk8xbFJwZFBEckxDZGlGSU11Yll4MWhQS2ZYS3dMejVxQ1NMUE5OdWozM1hMc013NnlIMGczS01yMktQd1ZIOXBNVEV3SlRIYjMwOHQ4MzJB0gGSAkFVX3lxTE5OVWFrTldNUXdNQXRmZmIyLXcwRjhpZTVpWE4yd2lOeTA4cUNYWDMwQTRQWXREdGNQd3FvVU1lblZQMGduTThEREFSUFcteV9iazJ6a0htRm1FaDBHQmFheVloY1ZEQ2JnUXJsN2JvV0JsaDFHR0tKTFpBdlVLdWFRbEl5SmZYeDkyRVdrQkVlQVRDWDkxazVNNHJWN0dfZmFvZW9hdU51V1ViSzRwdUkydzlTcm9QRmZ5VTlEX05EcDc2RUdEN2hRWmUybHJnVE5yb1hrVmYzSGozUkVHVzJZYjFnSW5VLUEzX1YxWnJ0WXoydHRUa2FxbmtsNHpneHRWaEd6M24zZE5Qaktra3BhMHc?oc=5",
+     "title": "Horario del debate a cuatro entre Sánchez, Feijóo, Abascal y Colau el jueves 26 de noviembre: dónde ver, canales, ubicación y programas"
+    }
+   ]
   },
   "3ce502eefa": {
    "title": "UK’s NIHR backs largest global AI breast cancer screening trial",
@@ -312,7 +334,7 @@
     "ia",
     "medtech"
    ],
-   "score": 11.345,
+   "score": 11.273,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -341,7 +363,7 @@
     "ia",
     "negocios"
    ],
-   "score": 11.237,
+   "score": 11.153,
    "also": [
     {
      "source_id": "reuters",
@@ -354,6 +376,29 @@
      "source": "Reason Why",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEtSQjg5NUFBSl9kNFRUYm1aVGg5V3VmSXpsaXpHdmdCTlFzdk1MazR4UG4zS19ka2g4WXp5MFdmRzhKVXl1cWpnSzVSaTlhMjBZMDBFUmJUQTdqSXRuLVVHZnFYLU9GbFFvUUNlSjdoaE82b3BuelZ2dV93S0hSc3ViLVV1UDQ1?oc=5",
      "title": "Jensen Huang vuelve a Nvidia como CEO y Presidente"
+    }
+   ]
+  },
+  "e252349a0c": {
+   "title": "Aragón impulsa la participación de pacientes en las decisiones de investigación del cáncer",
+   "url": "https://diariofarma.com/2026/11/23/aragon-impulsa-la-participacion-de-pacientes-en-las-decisiones-de-investigacion-del-cancer",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-23T12:43:05+00:00",
+   "summary": "El proyecto 'Paciente Oncológico en Ciencia en Aragón', coordinado por Aspanoa y financiado con 150.000 euros por la Asociación Española Contra el Cáncer, busca incorporar la experiencia de los afectados a las decisiones sobre investigación oncológica",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/6b041541538d0.webp",
+   "topics": [
+    "salud",
+    "pharma"
+   ],
+   "score": 10.322,
+   "also": [
+    {
+     "source_id": "consalud",
+     "source": "ConSalud",
+     "url": "https://www.consalud.es/pacientes/aragon-pone-en-marcha-un-proyecto-para-que-las-personas-con-cancer-participen-en-las-decisiones-sobre-investigacion.html",
+     "title": "Aragón pone en marcha un proyecto para que las personas con cáncer participen en las decisiones sobre investigación"
     }
    ]
   },
@@ -370,31 +415,8 @@
     "salud",
     "pharma"
    ],
-   "score": 10.416,
+   "score": 10.301,
    "also": []
-  },
-  "e252349a0c": {
-   "title": "Aragón impulsa la participación de pacientes en las decisiones de investigación del cáncer",
-   "url": "https://diariofarma.com/2026/11/23/aragon-impulsa-la-participacion-de-pacientes-en-las-decisiones-de-investigacion-del-cancer",
-   "source": "Diariofarma",
-   "source_id": "diariofarma",
-   "published": "2026-11-23T12:43:05+00:00",
-   "summary": "El proyecto 'Paciente Oncológico en Ciencia en Aragón', coordinado por Aspanoa y financiado con 150.000 euros por la Asociación Española Contra el Cáncer, busca incorporar la experiencia de los afectados a las decisiones sobre investigación oncológica",
-   "ai_summary": null,
-   "image": "https://diariofarma.com/wp-content/uploads/2026/11/6b041541538d0.webp",
-   "topics": [
-    "salud",
-    "pharma"
-   ],
-   "score": 10.382,
-   "also": [
-    {
-     "source_id": "consalud",
-     "source": "ConSalud",
-     "url": "https://www.consalud.es/pacientes/aragon-pone-en-marcha-un-proyecto-para-que-las-personas-con-cancer-participen-en-las-decisiones-sobre-investigacion.html",
-     "title": "Aragón pone en marcha un proyecto para que las personas con cáncer participen en las decisiones sobre investigación"
-    }
-   ]
   },
   "1e66ca7836": {
    "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
@@ -408,7 +430,7 @@
    "topics": [
     "ia"
    ],
-   "score": 9.877,
+   "score": 9.795,
    "also": [
     {
      "source_id": "techcrunch",
@@ -424,25 +446,25 @@
     }
    ]
   },
-  "bec609c72b": {
-   "title": "Este es el gadget de Philips que facilitará el cuidado de tu barba: tiene descuento este Black Friday y he hecho que mi novio lo pruebe",
-   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/probamos-maquinilla-de-afeitar-philips-oneblade-360-oferta-pre-black-friday-2026.html",
+  "f033bf1ef4": {
+   "title": "Los 30 mejores chollos de Amazon solo este 24 de noviembre por Black Friday 2026: descuentos de hasta el 64%",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-chollos-24-noviembre.html",
    "source": "El País",
    "source_id": "elpais",
-   "published": "2026-11-24T04:30:01+00:00",
-   "summary": "Analizamos la Philips OneBlade 360, una maquinilla multifunción que promete adaptarse a los contornos del rostro y que ahora puedes conseguir a un precio único",
+   "published": "2026-11-24T08:12:27+00:00",
+   "summary": "Seleccionamos las ofertas más destacadas de categorías como tecnología, hogar, moda o belleza para que puedas ahorrar en tus compras",
    "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/VLB6F6OHEZBNLBIPCKG2J3IOHM.png?auth=ad1dcdccb79f8228d99cb2160b7b3fa516f72eeb5ae92a0891bef9c5bd653c57",
+   "image": "https://imagenes.elpais.com/resizer/v2/Z56EDYRLWFAJ3LRIBQ25RQ2S6E.png?auth=d1c8fa9dec143c8f743e8b7a59f3c8befa5e87cf93f795cc7edae512a768e0a9",
    "topics": [
-    "medtech"
+    "tech"
    ],
-   "score": 9.081,
+   "score": 9.504,
    "also": [
     {
-     "source_id": "marketingdirecto",
-     "source": "Marketing Directo",
-     "url": "https://www.marketingdirecto.com/anunciantes-general/black-friday-marcas-convierten-descuentos-experiencias",
-     "title": "Black Friday: las marcas convierten los descuentos en experiencias"
+     "source_id": "elmundo",
+     "source": "El Mundo",
+     "url": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/11/23/6b04161ae4d4d858798b4579.html",
+     "title": "Estas son las diez mejores cuentas remuneradas de noviembre de 2026"
     }
    ]
   },
@@ -458,35 +480,13 @@
    "topics": [
     "salud"
    ],
-   "score": 9.065,
+   "score": 9.006,
    "also": [
     {
      "source_id": "consalud",
      "source": "ConSalud",
      "url": "https://www.consalud.es/profesionales/medicina/el-foro-de-atencion-primaria-alerta-del-desaliento-de-los-mir-de-familia-si-las-plazas-las-ocupan-medicos-sin-especialidad.html",
      "title": "El Foro de Atención Primaria alerta del “desaliento” de los MIR de Familia si las plazas las ocupan médicos sin especialidad"
-    }
-   ]
-  },
-  "f033bf1ef4": {
-   "title": "Los 30 mejores chollos de Amazon solo este 24 de noviembre por Black Friday 2026: descuentos de hasta el 64%",
-   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-chollos-24-noviembre.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T06:00:00+00:00",
-   "summary": "Seleccionamos las ofertas más destacadas de categorías como tecnología, hogar, moda o belleza para que puedas ahorrar en tus compras",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/Z56EDYRLWFAJ3LRIBQ25RQ2S6E.png?auth=d1c8fa9dec143c8f743e8b7a59f3c8befa5e87cf93f795cc7edae512a768e0a9",
-   "topics": [
-    "tech"
-   ],
-   "score": 9.058,
-   "also": [
-    {
-     "source_id": "elmundo",
-     "source": "El Mundo",
-     "url": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/11/23/6b04161ae4d4d858798b4579.html",
-     "title": "Estas son las diez mejores cuentas remuneradas de noviembre de 2026"
     }
    ]
   },
@@ -500,7 +500,7 @@
    "ai_summary": null,
    "image": null,
    "topics": [],
-   "score": 9.043,
+   "score": 8.982,
    "also": [
     {
      "source_id": "techcrunch",
@@ -541,7 +541,7 @@
     "espana",
     "economia"
    ],
-   "score": 9.036,
+   "score": 8.943,
    "also": []
   },
   "2be98cfc04": {
@@ -556,7 +556,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.483,
+   "score": 8.433,
    "also": []
   },
   "006b384510": {
@@ -571,7 +571,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.394,
+   "score": 8.346,
    "also": [
     {
      "source_id": "eleconomista",
@@ -594,22 +594,7 @@
     "ia",
     "marketing"
    ],
-   "score": 8.298,
-   "also": []
-  },
-  "48e587d0f7": {
-   "title": "Entrevistas de Plex a Sánchez y a Feijóo: horario y dónde verlas",
-   "url": "https://www.elconfidencial.com/espana/2026-11-24/entrevistas-de-plex-a-sanchez-y-a-feijoo-horario-y-donde-verlas_4471128/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-24T07:39:00+00:00",
-   "summary": "El youtuber publicará las conversaciones con los líderes del PSOE y del PP este miércoles, a pocos días de las elecciones generales",
-   "ai_summary": null,
-   "image": "https://images.ecestaticos.com/5Uu-yxJunEDO1Du9SzrmU8zBzns=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F347%2F128%2F3b0%2F3471283b0b74147bc6bc03247a55cafe.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 8.284,
+   "score": 8.254,
    "also": []
   },
   "49ef9cf508": {
@@ -624,7 +609,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.149,
+   "score": 8.086,
    "also": []
   },
   "58c2527b36": {
@@ -641,7 +626,7 @@
     "ia",
     "salud"
    ],
-   "score": 7.95,
+   "score": 7.908,
    "also": [
     {
      "source_id": "medtech_search",
@@ -665,7 +650,7 @@
     "tech",
     "medtech"
    ],
-   "score": 7.898,
+   "score": 7.848,
    "also": [
     {
      "source_id": "medtech_search",
@@ -687,7 +672,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.628,
+   "score": 7.55,
    "also": []
   },
   "781024e1bc": {
@@ -702,7 +687,22 @@
    "topics": [
     "ia"
    ],
-   "score": 7.606,
+   "score": 7.535,
+   "also": []
+  },
+  "05fe11e3af": {
+   "title": "El Gobierno recurrirá al Constitucional la ley del concebido no nacido de la Comunidad de Madrid",
+   "url": "https://elpais.com/sociedad/2026-11-24/el-gobierno-recurrira-al-constitucional-la-ley-del-concebido-no-nacido-de-la-comunidad-de-madrid.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-24T08:14:37+00:00",
+   "summary": "Sánchez anuncia que el Ejecutivo aprobará un reglamento para asegurar que las mujeres que abortan reciben información “veraz y científica”",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/W6TXV6ZC6REDXGJRBLMQBX5KYE.jpg?auth=0e76c8988c339426ed6bbccff30459c7cc7a6c3354edc45bc854295773b4cc7d",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.532,
    "also": []
   },
   "68d47bc56c": {
@@ -718,35 +718,13 @@
     "ia",
     "pharma"
    ],
-   "score": 7.581,
+   "score": 7.53,
    "also": [
     {
      "source_id": "pharmaphorum",
      "source": "pharmaphorum",
      "url": "https://pharmaphorum.com/press-releases/patients-are-asking-ai-first-advocacy-groups-can-help-shape-answers",
      "title": "Patients Are Asking AI First. Advocacy Groups Can Help Shape the Answers."
-    }
-   ]
-  },
-  "525af206da": {
-   "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
-   "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-24T05:00:16+00:00",
-   "summary": "Five executives are charged with combining Elon Musk’s sprawling enterprises into a potential $3.5tn colossus",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech"
-   ],
-   "score": 6.99,
-   "also": [
-    {
-     "source_id": "reuters",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXlLNG9FZFJ0SjJ6YmxybS03UEdTTDZuMUpzQ1pHdmZQUG1WRVdMRktKZ3ptRVVCNXkxdm92eEVBZ0N5c0pDemw5M3NOLUpxWV9tZHdQRWtJM2NnQnZZZVljOEtaRjQzdlRDR2hjM2VIWU9MZS12QmkwbDkyUl9mNGxRRUk4WW5IVm1QVWJuQWhyYS1jN1FMQzBmOHdhLWhTMjRHUnJhOVplSnY4Nm9YMmNfUHdqbms?oc=5",
-     "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports"
     }
    ]
   },
@@ -763,8 +741,30 @@
     "pharma",
     "salud"
    ],
-   "score": 6.952,
+   "score": 6.919,
    "also": []
+  },
+  "525af206da": {
+   "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
+   "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-24T05:00:16+00:00",
+   "summary": "Five executives are charged with combining Elon Musk’s sprawling enterprises into a potential $3.5tn colossus",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech"
+   ],
+   "score": 6.917,
+   "also": [
+    {
+     "source_id": "reuters",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXlLNG9FZFJ0SjJ6YmxybS03UEdTTDZuMUpzQ1pHdmZQUG1WRVdMRktKZ3ptRVVCNXkxdm92eEVBZ0N5c0pDemw5M3NOLUpxWV9tZHdQRWtJM2NnQnZZZVljOEtaRjQzdlRDR2hjM2VIWU9MZS12QmkwbDkyUl9mNGxRRUk4WW5IVm1QVWJuQWhyYS1jN1FMQzBmOHdhLWhTMjRHUnJhOVplSnY4Nm9YMmNfUHdqbms?oc=5",
+     "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports"
+    }
+   ]
   },
   "988fb944df": {
    "title": "Padilla plantea aprovechar el Acuerdo de Pandemias para vincular la I+D pública al acceso a medicamentos",
@@ -778,7 +778,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 6.92,
+   "score": 6.877,
    "also": [
     {
      "source_id": "diariofarma",
@@ -801,7 +801,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 6.914,
+   "score": 6.876,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -824,7 +824,7 @@
     "salud",
     "pharma"
    ],
-   "score": 6.886,
+   "score": 6.84,
    "also": []
   },
   "a47f52d318": {
@@ -840,7 +840,7 @@
     "pharma",
     "salud"
    ],
-   "score": 6.845,
+   "score": 6.797,
    "also": []
   },
   "ca1a189423": {
@@ -855,7 +855,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.714,
+   "score": 6.664,
    "also": []
   },
   "0bb7fe8a99": {
@@ -871,7 +871,7 @@
     "espana",
     "economia"
    ],
-   "score": 6.688,
+   "score": 6.631,
    "also": []
   },
   "e81a7e68d1": {
@@ -888,7 +888,7 @@
     "medtech",
     "pharma"
    ],
-   "score": 6.563,
+   "score": 6.519,
    "also": [
     {
      "source_id": "consalud",
@@ -911,7 +911,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 6.506,
+   "score": 6.469,
    "also": [
     {
      "source_id": "mmm",
@@ -933,23 +933,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.48,
-   "also": []
-  },
-  "f25b21c8e1": {
-   "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-   "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
-   "source": "STAT",
-   "source_id": "statnews",
-   "published": "2026-11-24T07:54:44+00:00",
-   "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
-   "ai_summary": null,
-   "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
-   "topics": [
-    "pharma",
-    "salud"
-   ],
-   "score": 6.456,
+   "score": 6.428,
    "also": []
   },
   "9015df9163": {
@@ -965,7 +949,7 @@
     "ia",
     "economia"
    ],
-   "score": 6.426,
+   "score": 6.391,
    "also": []
   },
   "9d49e3a097": {
@@ -980,7 +964,23 @@
    "topics": [
     "salud"
    ],
-   "score": 6.42,
+   "score": 6.388,
+   "also": []
+  },
+  "f25b21c8e1": {
+   "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+   "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+   "source": "STAT",
+   "source_id": "statnews",
+   "published": "2026-11-24T07:54:44+00:00",
+   "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+   "ai_summary": null,
+   "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
+   "topics": [
+    "pharma",
+    "salud"
+   ],
+   "score": 6.383,
    "also": []
   },
   "bc5a53032c": {
@@ -997,7 +997,7 @@
     "tech",
     "negocios"
    ],
-   "score": 6.405,
+   "score": 6.361,
    "also": []
   },
   "6a7990e1ad": {
@@ -1013,7 +1013,7 @@
     "tech",
     "ia"
    ],
-   "score": 6.4,
+   "score": 6.356,
    "also": []
   },
   "93e92ded64": {
@@ -1028,7 +1028,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.39,
+   "score": 6.347,
    "also": []
   },
   "0d63fb1e6c": {
@@ -1043,37 +1043,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.358,
-   "also": []
-  },
-  "d11ff2d988": {
-   "title": "La Psicología toma el mando de las candidaturas sanitarias de Podemos al 29N",
-   "url": "https://www.redaccionmedica.com/politica/20261124/la-psicologia-toma-el-mando-de-las-candidaturas-sanitarias-podemos-al/366379_0.html",
-   "source": "Redacción Médica",
-   "source_id": "redaccionmedica",
-   "published": "2026-11-24T04:05:00+00:00",
-   "summary": "La formación morada apuesta por diferentes perfiles profesionales para convencer a la población el próximo domingo Y además: Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
-   "ai_summary": null,
-   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160499.jpg?p=w:1706/h:960&h=97jAQyCx",
-   "topics": [
-    "salud"
-   ],
-   "score": 6.291,
-   "also": []
-  },
-  "1bb521f24f": {
-   "title": "Sophie Baby, historiadora: “La amenaza fascista es aterradora. Me sorprende que no se discuta más el pacto de PP y Vox”",
-   "url": "https://elpais.com/espana/2026-11-24/sophie-baby-historiadora-la-amenaza-fascista-es-aterradora-me-sorprende-que-no-se-discuta-mas-el-pacto-de-pp-y-vox.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T04:30:01+00:00",
-   "summary": "Especialista en la Transición y la impunidad de los crímenes de la dictadura, la autora de ‘¿Juzgar a Franco?’ analiza el auge de la extrema derecha de cara al 29N y advierte del posible desmantelamiento de las políticas de memoria",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/MEQ22OYTE5BD5HUSAXLO3S73KY.jpg?auth=eaa4d1cbf72dc03bc508939ec7e4bc3c029d6c8fd8fd6ca0de1f9026a72f9e2d",
-   "topics": [
-    "espana"
-   ],
-   "score": 6.175,
+   "score": 6.306,
    "also": []
   },
   "d65c4ac621": {
@@ -1088,7 +1058,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.132,
+   "score": 6.095,
    "also": []
   },
   "8d06b1e0ce": {
@@ -1105,7 +1075,7 @@
     "salud",
     "pharma"
    ],
-   "score": 6.124,
+   "score": 6.081,
    "also": []
   },
   "eceda4d909": {
@@ -1120,7 +1090,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.099,
+   "score": 6.038,
    "also": []
   },
   "acd7fea175": {
@@ -1136,7 +1106,7 @@
     "tech",
     "ia"
    ],
-   "score": 5.944,
+   "score": 5.904,
    "also": []
   },
   "7601f68fa2": {
@@ -1152,7 +1122,22 @@
     "ia",
     "tech"
    ],
-   "score": 5.826,
+   "score": 5.782,
+   "also": []
+  },
+  "15c9134c35": {
+   "title": "Una joven de 18 años es diagnosticada de un tipo de cáncer después de que los médicos confundiesen los síntomas con asma",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOUVhGLVB2SG1OYm0zSEZCblcwNUgtWWk3VGdHWEtvS3R6TXlmcHppMXVzODdLOEh4cHJzX01EdFhqWTdJN3FIaTM1UHZkWFNuODdTd3pqNTk5WFhuMWdPcWI2UnFUN0JxdnVZcEpEcVlVSlY4NGw2Wjd0N2EwVUlhempaM1M2YW96eG04blNhT1MxeWdfMEtzeng2ZllsbHktNjB3aVQ4TllVTnR6a3JBMUVidDlRd0tyM0N2T2ZmSl9aSFBGNXFVSk45ZGJTWlhZRHBvM2V2MUNOMzNtT0VPVlBwOW8zd0hLdTd3a3V6eG5tNFpObHJ1cFNORTJWdUZjSGhvSDlLNkkzUlB0MW9qVVNHUnM5Vmp0UEIwamxMZFM3dExOUHRfRHV6MHo2WlBEX2p2cdIBnwJBVV95cUxOWVRqdWNRTWR2cElocUpqNmhPaXNoYUZpYmZsVXJCQktubVlfTV9ReWIwdWlWbDRWMUV2Z1pNdEd5alUxYWpqaGhHeFZlVmFzM0FhUHZoU0FULU11dDdjRzE2cEVQdml0Tk9PalF3WVVFem80Q1JzOWxuenQ1Y2IzNExuRVVLSWlnc2NvOXY4eEZKYWZVSGhEZzIzZmFLWFNNNWdrZlhLNnJIenNocDFGdXl6TEMtSzVHV2pTUWFLVnBqOG5fZ1F4LXZtUEhFQzJXNWZtWnRPV2xHR1hyNHIwTzNvRnp0Y09wYXBUSGZLMUlxM1RTWTkyNk1rOHhtR3pJbUtkMU4wUkJSb3FPZVNlcHIzSmFMLUJyTkpQR3NsRQ?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-23T08:52:42+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud"
+   ],
+   "score": 5.707,
    "also": []
   },
   "ab33412673": {
@@ -1168,7 +1153,7 @@
     "marketing",
     "ia"
    ],
-   "score": 5.654,
+   "score": 5.622,
    "also": []
   },
   "3c6d0a1893": {
@@ -1183,7 +1168,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.588,
+   "score": 5.53,
    "also": []
   },
   "ebc9be3631": {
@@ -1198,7 +1183,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.459,
+   "score": 5.412,
    "also": []
   },
   "84b90024e9": {
@@ -1213,7 +1198,7 @@
    "topics": [
     "economia"
    ],
-   "score": 5.449,
+   "score": 5.393,
    "also": []
   },
   "f8ac521900": {
@@ -1229,22 +1214,7 @@
     "espana",
     "economia"
    ],
-   "score": 5.403,
-   "also": []
-  },
-  "037347ecd6": {
-   "title": "El café más vendido de Amazon tiene un 31% de descuento por Black Friday: así es el Lavazza Qualità Oro",
-   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-descuentos-semana-black-friday-cafe-en-grano-lavazza.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-24T05:45:00+00:00",
-   "summary": "Un café en grano 100% Arábica, con notas de frutas y flores, tueste medio y una intensidad equilibrada que ahora tiene un gran descuento",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/YRLANVZSZVHUXNHZWPBUKKCMTQ.png?auth=c669de6bf7e6fc76cf216b2c4b3c2d9b877fd0ae45b0c1b9a700c5ffc3d4a6b4",
-   "topics": [
-    "tech"
-   ],
-   "score": 5.25,
+   "score": 5.348,
    "also": []
   },
   "302cca83c2": {
@@ -1260,7 +1230,22 @@
     "tech",
     "espana"
    ],
-   "score": 5.235,
+   "score": 5.205,
+   "also": []
+  },
+  "037347ecd6": {
+   "title": "El café más vendido de Amazon tiene un 31% de descuento por Black Friday: así es el Lavazza Qualità Oro",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-descuentos-semana-black-friday-cafe-en-grano-lavazza.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-24T05:45:00+00:00",
+   "summary": "Un café en grano 100% Arábica, con notas de frutas y flores, tueste medio y una intensidad equilibrada que ahora tiene un gran descuento",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/YRLANVZSZVHUXNHZWPBUKKCMTQ.png?auth=c669de6bf7e6fc76cf216b2c4b3c2d9b877fd0ae45b0c1b9a700c5ffc3d4a6b4",
+   "topics": [
+    "tech"
+   ],
+   "score": 5.194,
    "also": []
   },
   "9b513f1c62": {
@@ -1276,7 +1261,7 @@
     "medtech",
     "salud"
    ],
-   "score": 5.212,
+   "score": 5.183,
    "also": []
   },
   "a4bae11b09": {
@@ -1291,7 +1276,7 @@
    "topics": [
     "optica"
    ],
-   "score": 5.168,
+   "score": 5.142,
    "also": []
   },
   "8da34bf647": {
@@ -1306,7 +1291,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.155,
+   "score": 5.128,
    "also": []
   },
   "20dc805c63": {
@@ -1321,7 +1306,7 @@
    "topics": [
     "tech"
    ],
-   "score": 5.085,
+   "score": 5.033,
    "also": []
   },
   "63624829f1": {
@@ -1336,7 +1321,7 @@
    "topics": [
     "tech"
    ],
-   "score": 5.059,
+   "score": 5.007,
    "also": []
   },
   "d77cce512b": {
@@ -1352,7 +1337,22 @@
     "medtech",
     "salud"
    ],
-   "score": 4.893,
+   "score": 4.841,
+   "also": []
+  },
+  "bff7ec6b54": {
+   "title": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-23T23:38:48+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia"
+   ],
+   "score": 4.827,
    "also": []
   },
   "1ddff4a50d": {
@@ -1368,7 +1368,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.865,
+   "score": 4.814,
    "also": []
   },
   "5ec74b87b8": {
@@ -1383,7 +1383,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.787,
+   "score": 4.735,
    "also": []
   },
   "5320043ce8": {
@@ -1399,7 +1399,7 @@
     "salud",
     "optica"
    ],
-   "score": 4.751,
+   "score": 4.725,
    "also": []
   },
   "6f5322db93": {
@@ -1414,7 +1414,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 4.704,
+   "score": 4.677,
    "also": []
   },
   "b8f9a32fdd": {
@@ -1429,7 +1429,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.693,
+   "score": 4.654,
    "also": []
   },
   "7ddeaa3003": {
@@ -1445,7 +1445,7 @@
     "salud",
     "espana"
    ],
-   "score": 4.651,
+   "score": 4.599,
    "also": []
   },
   "36849f98a6": {
@@ -1461,7 +1461,7 @@
     "ia",
     "negocios"
    ],
-   "score": 4.612,
+   "score": 4.568,
    "also": []
   },
   "61c9cd4dfa": {
@@ -1478,7 +1478,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.56,
+   "score": 4.528,
    "also": []
   },
   "d465ec2948": {
@@ -1494,7 +1494,7 @@
     "negocios",
     "optica"
    ],
-   "score": 4.558,
+   "score": 4.51,
    "also": []
   },
   "1838408ebc": {
@@ -1509,7 +1509,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.54,
+   "score": 4.494,
    "also": []
   },
   "b62e57fd76": {
@@ -1524,7 +1524,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.485,
+   "score": 4.439,
    "also": []
   },
   "eb00bc7d9a": {
@@ -1540,7 +1540,7 @@
     "pharma",
     "medtech"
    ],
-   "score": 4.467,
+   "score": 4.432,
    "also": []
   },
   "0c7c7458c7": {
@@ -1557,7 +1557,7 @@
     "tech",
     "negocios"
    ],
-   "score": 4.458,
+   "score": 4.428,
    "also": []
   },
   "17b2c2dee1": {
@@ -1574,7 +1574,7 @@
     "tech",
     "negocios"
    ],
-   "score": 4.449,
+   "score": 4.419,
    "also": []
   },
   "3de197534d": {
@@ -1590,7 +1590,7 @@
     "ia",
     "economia"
    ],
-   "score": 4.412,
+   "score": 4.371,
    "also": []
   },
   "14f0fff5d7": {
@@ -1605,8 +1605,30 @@
    "topics": [
     "optica"
    ],
-   "score": 4.287,
+   "score": 4.269,
    "also": []
+  },
+  "3ff9ca0ff2": {
+   "title": "Smith + Nephew names new CFO",
+   "url": "https://www.medtechdive.com/news/smith-nephew-names-new-cfo/875485/",
+   "source": "MedTech Dive",
+   "source_id": "medtechdive",
+   "published": "2026-11-23T16:28:15+00:00",
+   "summary": "Nick Alexos will join the orthopedics company later this month after holding CFO roles at Univar Solutions and Dentsply Sirona.",
+   "ai_summary": null,
+   "image": "https://imgproxy.divecdn.com/2KbYIz8jd15Po_ZBNd7ponenmf3_OIMtzJc9VBz0-e8/g:nowe:0:11/c:600:338/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OaWNrX0FsZXhvcy5qcGc=.webp",
+   "topics": [
+    "medtech"
+   ],
+   "score": 4.227,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "MedTech Dive",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpTUFobFl5bDRhRlh0dDQ4RnBrdDhwU1VudTZ6eGh3Zkg0dExCN1hXRFZ6bjZDWHFpWnpoVXFQRjg0aDhnTzBYMUtITklxb29Edm1PU3JLSGRxZG9wY1hEVVJTRFVfcW1VZW9rWFhudVNZOS1WcXc?oc=5",
+     "title": "Smith + Nephew names new CFO"
+    }
+   ]
   },
   "f82422b143": {
    "title": "US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
@@ -1621,7 +1643,7 @@
     "ia",
     "negocios"
    ],
-   "score": 4.221,
+   "score": 4.185,
    "also": []
   },
   "8a6919111a": {
@@ -1636,7 +1658,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.146,
+   "score": 4.109,
    "also": []
   },
   "26cb8d2aa5": {
@@ -1652,7 +1674,7 @@
     "marketing",
     "tech"
    ],
-   "score": 3.963,
+   "score": 3.943,
    "also": []
   },
   "4704f794ba": {
@@ -1669,7 +1691,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 3.908,
+   "score": 3.888,
    "also": []
   },
   "6cce577396": {
@@ -1684,7 +1706,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 3.874,
+   "score": 3.854,
    "also": []
   },
   "cecdeaf2a5": {
@@ -1699,7 +1721,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 3.858,
+   "score": 3.838,
    "also": []
   },
   "9c18fd8d23": {
@@ -1715,7 +1737,7 @@
     "ia",
     "negocios"
    ],
-   "score": 3.857,
+   "score": 3.833,
    "also": []
   },
   "69343500b5": {
@@ -1730,7 +1752,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 3.796,
+   "score": 3.771,
    "also": []
   },
   "d385192900": {
@@ -1745,7 +1767,7 @@
    "topics": [
     "optica"
    ],
-   "score": 3.677,
+   "score": 3.661,
    "also": []
   },
   "130257fb00": {
@@ -1761,7 +1783,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 3.419,
+   "score": 3.4,
    "also": []
   },
   "09243112c3": {
@@ -1776,7 +1798,7 @@
    "topics": [
     "espana"
    ],
-   "score": 3.218,
+   "score": 3.199,
    "also": []
   },
   "63706cb843": {
@@ -1792,7 +1814,7 @@
     "economia",
     "marketing"
    ],
-   "score": 3.113,
+   "score": 3.096,
    "also": []
   },
   "0f37f7e9e6": {
@@ -1807,23 +1829,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.984,
-   "also": []
-  },
-  "deb8fe2580": {
-   "title": "El SES ofertará 833 plazas de empleo público en 2026 y acumulará casi 3.000 para las oposiciones de 2027",
-   "url": "https://www.consalud.es/autonomias/extremadura/el-ses-ofertara-833-plazas-de-empleo-publico-en-su-oferta-de-2026-y-acumulara-casi-3000-para-las-oposiciones-de-2027.html",
-   "source": "ConSalud",
-   "source_id": "consalud",
-   "published": "2026-11-23T17:09:55+00:00",
-   "summary": "extremadura: El SES ofertará 833 plazas de empleo público en 2026 y acumulará casi 3.000 para las oposiciones de 2027",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia",
-    "salud"
-   ],
-   "score": 2.906,
+   "score": 2.968,
    "also": []
   },
   "6c54dc6c65": {
@@ -1838,7 +1844,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.7,
+   "score": 2.679,
    "also": []
   },
   "856ebb8b54": {
@@ -1853,7 +1859,7 @@
    "topics": [
     "optica"
    ],
-   "score": 2.554,
+   "score": 2.552,
    "also": []
   }
  },
@@ -1862,7 +1868,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 212,
+   "count": 214,
    "ok": true,
    "errors": []
   },
@@ -1984,7 +1990,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 24,
+   "count": 25,
    "ok": true,
    "errors": []
   },
@@ -2008,7 +2014,7 @@
    "id": "reasonwhy",
    "name": "Reason Why",
    "via": "google-news",
-   "count": 10,
+   "count": 9,
    "ok": true,
    "errors": []
   },
@@ -2104,7 +2110,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 53,
+   "count": 52,
    "ok": true,
    "errors": []
   },
