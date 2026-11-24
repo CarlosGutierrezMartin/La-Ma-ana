@@ -116,42 +116,70 @@ GENERIC = {"ai", "ia", "ceo", "cfo", "cmo", "uk", "us", "usa", "eu", "ue", "eeuu
 
 
 def names(title: str) -> set[str]:
-    """Nombres propios del titular (Nvidia, Jensen, Huang...), sin tildes."""
+    """Nombres propios del titular (Sanofi, Insmed, Jensen, Huang...), sin tildes.
+    La primera palabra cuenta salvo que sea una palabra corriente ("Los", "The"...)."""
     import unicodedata
+    from build_digest import STOPWORDS
     plain = "".join(c for c in unicodedata.normalize("NFKD", title) if not unicodedata.combining(c))
-    words = re.findall(r"\b[A-Z][\w&-]{2,}", plain)
-    found = {w.lower() for w in words[1:]} | ({words[0].lower()} if words and not plain.startswith(words[0]) else set()) \
-        | {w.lower() for w in re.findall(r"\b[A-Z]{2,}\b", plain)}
-    return found - GENERIC
+    words = {w.lower() for w in re.findall(r"\b[A-Z][\w&-]{2,}", plain)} | {w.lower() for w in re.findall(r"\b[A-Z]{2,}\b", plain)}
+    return words - GENERIC - STOPWORDS - COMMON_STARTS
+
+
+# Palabras que a menudo abren un titular con mayúscula sin ser un nombre
+COMMON_STARTS = {"nuevo", "nueva", "nuevos", "nuevas", "como", "cuando", "donde", "quien", "porque", "estos", "estas",
+                 "este", "esta", "todo", "todos", "cada", "otro", "otra", "ahora", "hoy", "ayer", "tras", "segun",
+                 "how", "why", "what", "who", "when", "where", "which", "this", "these", "those", "here", "there",
+                 "inside", "beyond", "after", "before", "while", "will", "can", "does", "did", "should", "could"}
 
 
 def same_story(a: dict, b: dict) -> bool:
-    """La misma historia en dos medios (aunque sea en dos idiomas): comparten
-    al menos dos nombres propios."""
-    return len(names(a["title"]) & names(b["title"])) >= 2
+    """La misma historia en dos medios (aunque sea en dos idiomas): comparten al
+    menos dos nombres propios, o uno y al menos tres palabras importantes."""
+    from build_digest import STOPWORDS, norm
+    shared = len(names(a["title"]) & names(b["title"]))
+    if shared >= 2:
+        return True
+    words = lambda t: {w[:5] for w in re.findall(r"\w+", norm(t)) if len(w) > 2 and w not in STOPWORDS}  # noqa: E731
+    return shared >= 1 and len(words(a["title"]) & words(b["title"])) >= 3
+
+
+ANALYSIS_TOPIC = ("analisis", "Análisis de mercado")
 
 
 def pick_stories(digest: dict, topic_ids: list[str], n_stories: int = 6, per_topic_pool: int = 4,
-                 text_limit: int = 3000) -> list[dict]:
+                 text_limit: int = 3000, exclude: set[str] | None = None, n_analysis: int = 2,
+                 recent_firms: set[str] | None = None) -> list[dict]:
     """Pocas noticias bien contadas. Garantiza al menos una por tema elegido y
-    completa con las de más relevancia; prefiere las que tienen texto completo."""
+    completa con las de más relevancia; prefiere las que tienen texto completo.
+    Añade al final hasta `n_analysis` publicaciones de consultoras (Gartner,
+    Forrester...), una por consultora. `exclude`: ids y URLs ya contados en
+    episodios anteriores, que no se repiten."""
     import concurrent.futures as cf
+    exclude = exclude or set()
+    fresh = lambda sid: sid not in exclude and digest["items"][sid]["url"] not in exclude  # noqa: E731
     by_id = {s["id"]: s for s in digest["sections"]}
+
+    def cand(sid, topic_id, topic_name):
+        it = digest["items"][sid]
+        return {"id": sid, "topic_id": topic_id, "topic": topic_name, "title": it["title"],
+                "source": outlet_name(it["source"]), "source_id": it.get("source_id"), "url": it["url"],
+                "score": float(it.get("score") or 0), "summary": it.get("ai_summary") or it.get("summary") or "",
+                "also": [outlet_name(a["source"]) for a in it.get("also", [])],
+                "item": {k: it.get(k) for k in ("title", "url", "source", "source_id", "published", "summary", "image", "topics", "score", "also")}}
+
     pool, seen = [], set()
     for t in topic_ids:
         sec = by_id.get(t)
         if not sec:
             continue
-        for sid in [x for x in sec["items"] if x not in seen][:per_topic_pool]:
+        for sid in [x for x in sec["items"] if x not in seen and fresh(x)][:per_topic_pool]:
             seen.add(sid)
-            it = digest["items"][sid]
-            pool.append({"id": sid, "topic_id": t, "topic": sec["name"], "title": it["title"],
-                         "source": outlet_name(it["source"]), "url": it["url"], "score": float(it.get("score") or 0),
-                         "summary": it.get("ai_summary") or it.get("summary") or "",
-                         "also": [outlet_name(a["source"]) for a in it.get("also", [])],
-                         "item": {k: it.get(k) for k in ("title", "url", "source", "source_id", "published", "summary", "image", "topics", "score", "also")}})
+            pool.append(cand(sid, t, sec["name"]))
+    analysis_pool = [cand(sid, *ANALYSIS_TOPIC) for sid in digest.get("analysis", [])
+                     if sid in digest["items"] and sid not in seen and fresh(sid)][:8]
     with cf.ThreadPoolExecutor(8) as ex:
-        for c, txt in zip(pool, ex.map(lambda c: article_text(c["url"]), pool)):
+        everything = pool + analysis_pool
+        for c, txt in zip(everything, ex.map(lambda c: article_text(c["url"]), everything)):
             c["text"] = txt[:text_limit]
     # prioridad = relevancia; sin texto completo vale menos (se contaría casi solo el titular)
     prio = lambda c: c["score"] * (1.0 if len(c["text"]) >= 600 else 0.6)  # noqa: E731
@@ -177,11 +205,23 @@ def pick_stories(digest: dict, topic_ids: list[str], n_stories: int = 6, per_top
             break
         if c not in chosen:
             add(c)
+    # 3) análisis de mercado, una por consultora: primero las que tocan tus temas y
+    #    las consultoras que no salieron en el episodio anterior (para ir alternando)
+    recent_firms = recent_firms or set()
+    mine = set(topic_ids)
+    aprio = lambda c: (prio(c) * (1.5 if mine & set(c["item"].get("topics") or []) else 1.0)  # noqa: E731
+                       * (0.5 if c["source_id"] in recent_firms else 1.0))
+    firms = set()
+    for c in sorted(analysis_pool, key=aprio, reverse=True):
+        if len(firms) >= n_analysis:
+            break
+        if c["source_id"] not in firms and add(c):
+            firms.add(c["source_id"])
     top = max((c["score"] for c in chosen), default=1) or 1
     for c in chosen:
         c["relevance"] = max(1, round(100 * c["score"] / top))
     order = {t: i for i, t in enumerate(topic_ids)}
-    chosen.sort(key=lambda c: (order[c["topic_id"]], -c["score"]))
+    chosen.sort(key=lambda c: (order.get(c["topic_id"], 99), -c["score"]))
     return chosen
 
 
@@ -292,6 +332,7 @@ Cómo contar cada noticia, usando SOLO su texto:
 - Prohibido inventar o suponer cifras, nombres, fechas, causas, consecuencias o declaraciones que no estén en el texto. No especules ni opines.
 - Cita el medio con naturalidad ("según El Global...") y, si otros medios la publican, dilo.
 - Traduce al español lo que esté en inglés.
+- Las noticias del tema "Análisis de mercado" son publicaciones de consultoras (Gartner, Forrester, IQVIA, Euromonitor, Nicholas Hall): preséntalas como análisis, encuesta o previsión de esa consultora ("según un análisis de Gartner..."), nunca como hechos consumados.
 
 Diálogo:
 - Cada intervención aporta un dato o una explicación. Uno presenta la noticia y el otro añade datos del texto o pregunta algo que el texto responde. Nada de reacciones vacías ("¡qué interesante!", "sin duda") ni de bromas.
@@ -497,8 +538,17 @@ def generate(args, cfg, index, digest, day, audio_dir, save) -> int:
     topic_ids = [t for t in cfg.get("topics", []) if any(s["id"] == t for s in digest["sections"])]
     if not topic_ids:
         raise SystemExit("[podcast] ninguno de los temas de config/podcast.yaml existe en config/topics.yaml")
+    # lo que ya se contó en episodios anteriores no se repite
+    told, recent_firms = set(), set()
+    previous = sorted((ep for ep in index["episodes"] if ep["date"] != day), key=lambda e: e["date"], reverse=True)
+    for ep in previous:
+        told.update(ep.get("stories", []))
+        told.update(x.get("url") for x in ep.get("story_items", []) if x.get("url"))
+    for ep in previous[:1]:
+        recent_firms.update(x.get("source_id") for x in ep.get("story_items", []) if x.get("source_id"))
     stories = pick_stories(digest, topic_ids, int(cfg.get("stories", 6)),
-                           text_limit=int(cfg.get("text_chars_per_story", 3000)))
+                           text_limit=int(cfg.get("text_chars_per_story", 3000)),
+                           exclude=told, n_analysis=int(cfg.get("analysis_stories", 2)), recent_firms=recent_firms)
     log(f"temas: {', '.join(topic_ids)} · {len(stories)} noticias")
     for st in stories:
         log(f"  {st['relevance']:>3}/100 · {len(st['text']):>5} car. · {st['source']}: {st['title'][:70]}")

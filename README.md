@@ -33,6 +33,7 @@ A partir de ahí se regenera sola todos los días a las 06:20 (07:20 en horario 
 Con el secreto `GEMINI_API_KEY` (Google AI Studio, plan gratuito), cada edición genera además un episodio de ~10 minutos a dos voces:
 
 1. Para cada tema elegido en `config/podcast.yaml` toma sus 3 mejores noticias y lee el texto del artículo (`trafilatura`). Elige 9: la mejor de cada tema y el resto por relevancia, prefiriendo las que tienen texto completo y quitando la misma historia contada por dos medios.
+   Además añade hasta 3 publicaciones abiertas de consultoras (Gartner, Forrester, IQVIA, Euromonitor, Nicholas Hall; `analysis: true` en `sources.yaml`), una por consultora, priorizando las de tus temas y alternando consultoras. Nada que ya haya salido en un episodio anterior se repite.
 2. Gemini Flash escribe el guion solo con esos textos, con la relevancia de cada noticia (0-100) para repartir el tiempo; Gemini TTS lo locuta. Si un modelo está saturado, prueba el siguiente de la lista.
 3. El MP3 se publica en Pages (no se guarda en git) con su feed en `podcast.xml`.
 

@@ -12,6 +12,9 @@
 # window_hours: ventana propia para medios que publican poco.
 # search: en vez de feeds, una búsqueda de Google News (fuente temática);
 #         cada noticia muestra el nombre del medio que la publica.
+# analysis: true en consultoras de análisis de mercado: sus publicaciones se
+#         guardan siempre en la edición y el podcast incluye cada día las que no
+#         hayan salido ya en un episodio anterior.
 
 settings:
   window_hours: 30          # solo noticias publicadas en las últimas N horas
@@ -376,3 +379,57 @@ sources:
     feeds:
       - url: https://www.healthcaredive.com/feeds/news/
     fallback_gnews: "site:healthcaredive.com"
+
+  # ------------- Análisis de mercado (lo que publican en abierto) -------------
+  # Sus informes son de pago y con licencia: aquí solo entran blogs, artículos y
+  # notas de prensa públicos. Publican poco: ventana de 7 días.
+  - id: forrester
+    name: Forrester
+    lang: en
+    weight: 1.0
+    analysis: true
+    topics: [marketing, tech]
+    window_hours: 168
+    feeds:
+      - url: https://www.forrester.com/blogs/feed/
+    fallback_gnews: "site:forrester.com/blogs"
+
+  - id: gartner
+    name: Gartner
+    lang: en
+    weight: 1.0
+    analysis: true
+    topics: [tech, ia]
+    window_hours: 168
+    feeds: []   # bloquea su RSS: notas de prensa y artículos por Google News
+    search: "site:gartner.com/en/newsroom OR site:gartner.com/en/articles"
+
+  - id: iqvia
+    name: IQVIA
+    lang: en
+    weight: 1.0
+    analysis: true
+    topics: [pharma]
+    window_hours: 168
+    feeds: []   # sin RSS; filtrado a su sala de prensa (sin filtro salen ofertas de empleo)
+    search: "site:iqvia.com/newsroom OR site:iqvia.com/insights"
+
+  - id: euromonitor
+    name: Euromonitor
+    lang: en
+    weight: 1.0
+    analysis: true
+    topics: [marketing]
+    window_hours: 168
+    feeds: []   # sin RSS
+    search: "site:euromonitor.com/article"
+
+  - id: nicholashall
+    name: Nicholas Hall
+    lang: en
+    weight: 1.0
+    analysis: true
+    topics: [pharma]   # consumer healthcare / OTC
+    window_hours: 168
+    feeds:
+      - url: https://nicholashallcompany.wordpress.com/feed/

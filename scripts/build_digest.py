@@ -74,8 +74,8 @@ def item_id(url: str) -> str:
     return hashlib.sha1(url.encode()).hexdigest()[:10]
 
 
-def gnews_url(query: str, lang: str) -> str:
-    q = urllib.parse.quote(f"{query} when:1d")
+def gnews_url(query: str, lang: str, days: int = 1) -> str:
+    q = urllib.parse.quote(f"{query} when:{days}d")
     if lang == "en":
         return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
     return f"https://news.google.com/rss/search?q={q}&hl=es&gl=ES&ceid=ES:es"
@@ -200,7 +200,8 @@ def fetch_source(src: dict, settings: dict) -> tuple[list[Article], dict]:
     if not arts and query:
         via = "google-news"
         try:
-            url = gnews_url(query, src.get("lang", "es"))
+            days = max(1, math.ceil(float(src.get("window_hours", 24)) / 24))
+            url = gnews_url(query, src.get("lang", "es"), days)
             arts += parse_feed(http_get(url, ua, timeout), src, False, True)
         except Exception as ex:  # noqa: BLE001
             errors.append(f"google-news: {type(ex).__name__}: {ex}"[:200])
@@ -391,6 +392,22 @@ def main() -> int:
     score_articles(reps, topics, now, {s["id"]: s.get("topics", []) for s in sources})
     sections, selected = select(reps, topics)
 
+    # Análisis de mercado (Gartner, Forrester, IQVIA...): publican poco, así que se
+    # guardan siempre en la edición aunque no entren en ninguna sección; el podcast
+    # los usa cada día. También cuenta la historia en la que una consultora sale como
+    # "también en".
+    analysis_src = {s["id"] for s in sources if s.get("analysis")}
+    firm_of = lambda a: a.source_id if a.source_id in analysis_src else next(  # noqa: E731
+        (x["source_id"] for x in a.also if x["source_id"] in analysis_src), None)
+    analysis, per_firm = [], {}
+    for a in sorted(reps, key=lambda a: a.score, reverse=True):
+        f = firm_of(a)
+        if f and per_firm.get(f, 0) < 4:   # hasta 4 por consultora: que las que publican mucho no tapen al resto
+            analysis.append(a)
+            per_firm[f] = per_firm.get(f, 0) + 1
+    chosen_ids = {a.id for a in selected}
+    selected += [a for a in analysis if a.id not in chosen_ids]
+
     # 5. AI
     ai = ai_enrich(selected, tcfg.get("ai", {}), {t["id"]: t["name"] for t in topics})
 
@@ -420,6 +437,7 @@ def main() -> int:
         "brief": (ai or {}).get("brief"),
         "ai_model": (ai or {}).get("model"),
         "sections": sections,
+        "analysis": [a.id for a in analysis],
         "items": items,
         "sources": statuses,
     }
