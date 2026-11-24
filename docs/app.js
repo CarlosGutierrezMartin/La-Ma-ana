@@ -96,7 +96,29 @@
     if (ep?.stories?.length) {
       secs.splice(1, 0, { id: "podcast", name: "En el podcast de hoy", short: "Podcast", items: ep.stories, virtual: true });
     }
+    secs.splice(ep?.stories?.length ? 2 : 1, 0, { id: "todas", name: "Todas", short: "Todas", items: mixedIds(), virtual: true });
     return secs;
+  }
+
+  // Todas las noticias de la edición, de mayor a menor relevancia pero mezclando
+  // temas: nunca dos seguidas del mismo tema si hay otra cerca para alternar.
+  function mixedIds() {
+    const all = Object.entries(state.digest.items)
+      .map(([id, it]) => ({ id, score: it.score || 0, topic: it.topics?.[0] || "_" }))
+      .sort((a, b) => b.score - a.score);
+    const out = [];
+    const recent = [];  // temas de las últimas 3 tarjetas
+    while (all.length) {
+      // la más relevante (entre las 12 siguientes) cuyo tema no haya salido en las 3 últimas
+      let k = all.findIndex((x, i) => i < 12 && !recent.includes(x.topic));
+      if (k < 0) k = all.findIndex((x, i) => i < 12 && x.topic !== recent[recent.length - 1]);
+      if (k < 0) k = 0;
+      const [x] = all.splice(k, 1);
+      out.push(x.id);
+      recent.push(x.topic);
+      if (recent.length > 3) recent.shift();
+    }
+    return out;
   }
 
   function visibleItems(ids, { allTopics = false } = {}) {
@@ -177,6 +199,8 @@
     const sec = viewSections().find((s) => s.id === state.section) || d.sections[0];
     let html = "";
     let items;
+    if (sec.id === "todas") return renderFeed(sec);
+    document.documentElement.classList.remove("feed-open");
     if (sec.id === "podcast") {
       // Las noticias del episodio, en el orden en que se cuentan, con su relevancia
       const ep = episodeFor(d.date);
@@ -195,6 +219,56 @@
       ? items.map((it, i) => storyHTML(it, i, sec.id === "top" && i === 0)).join("")
       : `<p class="empty">${state.prefs.hideRead ? "Lo has leído todo en esta sección." : "Hoy no hay noticias para este tema."}</p>`;
     $("#main").innerHTML = html;
+  }
+
+  /* ----------------------------------------------------------- "Todas": feed vertical */
+  // Una noticia por pantalla; al deslizar encaja la siguiente entera (scroll-snap).
+  function renderFeed(sec) {
+    const d = state.digest;
+    const topicName = Object.fromEntries(d.sections.map((s) => [s.id, s.short || s.name]));
+    const items = visibleItems(sec.items);
+    document.documentElement.classList.add("feed-open");
+    const card = (it, i) => {
+      const read = state.read.has(it.id);
+      const img = state.prefs.showImages && it.image
+        ? `<img class="card-img" src="${esc(safeUrl(it.image))}" alt="" loading="${i < 2 ? "eager" : "lazy"}" referrerpolicy="no-referrer" onerror="this.closest('.card').classList.remove('has-img');this.remove()">`
+        : "";
+      const text = it.ai_summary || it.summary || "";
+      return `<article class="card${img ? " has-img" : ""}${read ? " read" : ""}" id="c-${esc(it.id)}">
+        ${img}
+        <div class="card-body">
+          <div class="card-meta"><span class="src">${esc(it.source)}</span><span class="dot"></span><time datetime="${esc(it.published)}">${ago(it.published)}</time>${it.topics?.[0] ? `<span class="chip">${esc(topicName[it.topics[0]] || it.topics[0])}</span>` : ""}${read ? '<span class="chip">Leída ✓</span>' : ""}</div>
+          <h2>${esc(it.title)}</h2>
+          ${text ? `<p>${esc(text)}</p>` : ""}
+          ${it.also?.length ? `<p class="card-also">También en ${it.also.map((a) => esc(a.source)).join(" · ")}</p>` : ""}
+          <a class="card-open" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener" data-read="${esc(it.id)}">Leer en ${esc(it.source)} ›</a>
+        </div>
+      </article>`;
+    };
+    $("#main").innerHTML = `<div class="feed" id="feed" tabindex="-1">
+        <div class="feed-bar"><span class="feed-count" id="feedCount">1 / ${items.length}</span><button type="button" class="feed-close" id="feedClose" aria-label="Salir de Todas">✕</button></div>
+        ${items.length ? items.map(card).join("") : `<article class="card"><div class="card-body"><h2>No hay noticias que mostrar.</h2></div></article>`}
+        ${items.length ? `<article class="card card-end"><div class="card-body"><h2>Has llegado al final.</h2><p>${items.length} noticias de la edición de hoy.</p><button type="button" class="btn" id="feedTop">Volver arriba</button></div></article>` : ""}
+      </div>`;
+    const feed = $("#feed");
+    feed.focus({ preventScroll: true });
+    const io = new IntersectionObserver((entries) => {
+      for (const e of entries) {
+        if (!e.isIntersecting) continue;
+        const n = [...feed.querySelectorAll(".card")].indexOf(e.target);
+        $("#feedCount").textContent = `${Math.min(n + 1, items.length)} / ${items.length}`;
+      }
+    }, { root: feed, threshold: 0.6 });
+    feed.querySelectorAll(".card").forEach((c) => io.observe(c));
+  }
+
+  function closeFeed() {
+    document.documentElement.classList.remove("feed-open");
+    state.section = "top";
+    store.set("section", state.section);
+    renderTabs();
+    renderPodcastBox();
+    renderMain();
   }
 
   /* ----------------------------------------------------------- buscador */
@@ -385,7 +459,14 @@
     state.read.add(id);
     // guarda solo los últimos 600 ids para no crecer sin fin
     store.set("read", [...state.read].slice(-600));
-    setTimeout(() => { renderTabs(); renderMain(); }, 400);
+    setTimeout(() => {
+      renderTabs();
+      if (state.section === "todas" && !state.query) {
+        $(`#c-${CSS.escape(id)}`)?.classList.add("read");
+      } else {
+        renderMain();
+      }
+    }, 400);
   }
 
   function setQuery(v) {
@@ -394,12 +475,26 @@
     if (!v) $("#q").value = "";
     if (query === state.query) return;
     state.query = query;
+    if (query) document.documentElement.classList.remove("feed-open");
     renderTabs();
     renderPodcastBox();
     renderMain();
   }
 
+  function feedKeys(e) {
+    if (state.section !== "todas" || state.query || $("#settings").open) return;
+    const feed = $("#feed");
+    if (!feed) return;
+    if (e.key === "Escape") return closeFeed();
+    const step = { ArrowDown: 1, PageDown: 1, " ": 1, ArrowUp: -1, PageUp: -1 }[e.key];
+    if (step && e.target.tagName !== "INPUT") {
+      e.preventDefault();
+      feed.scrollBy({ top: step * feed.clientHeight, behavior: "smooth" });
+    }
+  }
+
   function bind() {
+    document.addEventListener("keydown", feedKeys);
     $("#tabs").addEventListener("click", (e) => {
       const b = e.target.closest(".tab");
       if (!b) return;
@@ -409,7 +504,7 @@
       renderTabs();
       renderPodcastBox();
       renderMain();
-      window.scrollTo({ top: $(".tabs").offsetTop, behavior: "smooth" });
+      if (state.section !== "todas") window.scrollTo({ top: $(".tabs").offsetTop, behavior: "smooth" });
     });
 
     // Buscador: filtra todas las noticias mientras se escribe
@@ -427,6 +522,8 @@
 
     $("#main").addEventListener("click", (e) => {
       if (e.target.id === "searchArchive") return loadArchive();
+      if (e.target.id === "feedClose") return closeFeed();
+      if (e.target.id === "feedTop") return $("#feed").scrollTo({ top: 0, behavior: "smooth" });
       const a = e.target.closest("[data-read]");
       if (a) return markRead(a.dataset.read);
       const li = e.target.closest("[data-goto]");

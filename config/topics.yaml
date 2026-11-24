@@ -298,7 +298,7 @@ topics:
       - Siemens Healthineers
       - GE HealthCare
       - Intuitive Surgical
-      - Philips
+      - Philips Healthcare   # solo "Philips" metía maquinillas de afeitar en MedTech
 
   - id: salud
     name: Salud y healthcare
