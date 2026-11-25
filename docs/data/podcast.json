@@ -1,6 +1,467 @@
 {
  "episodes": [
   {
+   "date": "2026-11-25",
+   "file": "2026-11-25.mp3",
+   "title": "La Mañana: Ensayos clínicos en Europa, compra de Insmed y volatilidad en la IA",
+   "duration": 556,
+   "bytes": 4446302,
+   "published": "2026-11-25T08:48:47.192249+00:00",
+   "topics": [
+    "optica",
+    "pharma",
+    "medtech",
+    "marketing",
+    "ia"
+   ],
+   "topic_names": [
+    "Óptica y optometría",
+    "Industria y marketing farmacéutico",
+    "Medical devices",
+    "Marketing y publicidad",
+    "Inteligencia artificial"
+   ],
+   "stories": [
+    "c6822a935c",
+    "799b2c44da",
+    "32a1c54eec",
+    "440cba59cd",
+    "e1bab506ce",
+    "9fcedf2f66",
+    "bab8680004",
+    "42cb577d7e",
+    "6e5f032fb0",
+    "4499caf6a2",
+    "8f71933902"
+   ],
+   "story_items": [
+    {
+     "id": "c6822a935c",
+     "relevance": 46,
+     "title": "Eschenbach MaxEVENT – Gafas Telescópicas ópticas Para Conciertos, Teatro Y Eventos – Hechas En Alemania – Aumento 2.1x Con Campo De Visión Nítido",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3J4dzRyTG40b2RCMmNGRG9WWDFlblVZaHBudnY5YXY3WV9wM0xzZWw3WmZhWVdkYUNDVlJBc0dXMzJDOWNpaGFxM0tlX2pOUjNYZHRULVhMMHVIeGFVX3c3aVFJaFE5ZUhScjZHeXRId0lXM1Z6UlUxV0h5Y2xGTk43ZGJTeDRzNExmZ01iejVSNmc?oc=5",
+     "source": "MotorVSMotor",
+     "source_id": "optica_es",
+     "published": "2026-11-24T23:17:49+00:00",
+     "summary": "",
+     "image": null,
+     "topics": [
+      "optica"
+     ],
+     "score": 6.368,
+     "also": []
+    },
+    {
+     "id": "799b2c44da",
+     "relevance": 100,
+     "title": "Las medidas de la industria farmacéutica para acelerar los ensayos clínicos en Europa con la futura Biotech Act",
+     "url": "https://elglobalfarma.com/industria/medidas-industria-farmaceutica-acelerar-ensayos-clinicos-europa-biotech-act/",
+     "source": "El Global",
+     "source_id": "elglobal",
+     "published": "2026-11-25T08:40:53+00:00",
+     "summary": "La patronal europea advierte de que acelerar las autorizaciones no es suficiente para garantizar que los pacientes puedan incorporarse antes a los ensayos The post Las medidas de la industria farmacéutica para acelerar los ensayos clínicos en Europa con la futura Biotech Act appeared first on El Globalfarma .",
+     "image": null,
+     "topics": [
+      "pharma"
+     ],
+     "score": 13.98,
+     "also": []
+    },
+    {
+     "id": "32a1c54eec",
+     "relevance": 68,
+     "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+     "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+     "source": "STAT",
+     "source_id": "statnews",
+     "published": "2026-11-24T14:27:36+00:00",
+     "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+     "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+     "topics": [
+      "pharma",
+      "salud"
+     ],
+     "score": 9.537,
+     "also": [
+      {
+       "source_id": "pharmaphorum",
+       "source": "pharmaphorum",
+       "url": "https://pharmaphorum.com/news/roche-two-two-breast-cancer-approval-wilserdly",
+       "title": "Roche two for two with breast cancer approval for Wilserdly"
+      }
+     ]
+    },
+    {
+     "id": "440cba59cd",
+     "relevance": 51,
+     "title": "Medica 2026: AI’s rise in healthcare will render humans as “data platforms”",
+     "url": "https://www.medicaldevice-network.com/news/medica-2026-ai-rise-in-healthcare-will-render-humans-as-data-platforms/",
+     "source": "Medical Device Network",
+     "source_id": "mdnetwork",
+     "published": "2026-11-24T14:20:55+00:00",
+     "summary": "According to a presentation on AI’s future in healthcare at Medica 2026, the technology is likely to become more deeply entwined with physiological data points. The post Medica 2026: AI’s rise in healthcare will render humans as “data platforms” appeared first on Medical Device Network .",
+     "image": null,
+     "topics": [
+      "ia",
+      "salud",
+      "medtech"
+     ],
+     "score": 7.192,
+     "also": [
+      {
+       "source_id": "medtech_search",
+       "source": "Medical Device Network",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmhUeU9CeVdDcGprRVBscEFuTFFRRElreWdMZGJ6NTZzM0toVkgyWVZrXzZYelBJSFlkQmtzZFVucGhLQVk0aWRFNDNRdUswMDR0Z0xWRTBySzhzMmdqNU53bGMzeG9oMnBLaWw5QjlSRzgxRGRIcnVfYklBaFM4bDdpcWYtR0dVU0l1WWd4N09XRGJ5Ynl4TVU2VEFQZm5FQm9NY0xCUGFGLXlxLUNlaHhmR0o?oc=5",
+       "title": "Medica 2026: AI’s rise in healthcare will render humans as “data platforms”"
+      }
+     ]
+    },
+    {
+     "id": "e1bab506ce",
+     "relevance": 49,
+     "title": "Si la IA va a organizar las vacaciones, como marca ¿qué tengo que saber?",
+     "url": "https://ipmark.com/si-la-ia-va-a-organizar-las-vacaciones-como-marca-que-tengo-que-saber/",
+     "source": "IPMARK",
+     "source_id": "ipmark",
+     "published": "2026-11-25T08:00:00+00:00",
+     "summary": "CASO DE ÉXITO. ONCLUSIVE PARA HILTON. La entrada Si la IA va a organizar las vacaciones, como marca ¿qué tengo que saber? se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+     "image": null,
+     "topics": [
+      "ia",
+      "marketing"
+     ],
+     "score": 6.861,
+     "also": []
+    },
+    {
+     "id": "9fcedf2f66",
+     "relevance": 40,
+     "title": "Los trucos para anunciarse en ChatGPT: 5 claves para que las marcas no malgasten su inversión",
+     "url": "https://www.marketingdirecto.com/digital-general/digital/trucos-anunciarse-chatgpt-claves-para-marcas-no-malgasten-inversion",
+     "source": "Marketing Directo",
+     "source_id": "marketingdirecto",
+     "published": "2026-11-24T13:39:21+00:00",
+     "summary": "Las primeras campañas en ChatGPT dejan 5 lecciones para las marcas que buscan mejorar sus resultados sin malgastar su inversión publicitaria. La entrada Los trucos para anunciarse en ChatGPT: 5 claves para que las marcas no malgasten su inversión se publicó primero en Marketing Directo .",
+     "image": null,
+     "topics": [
+      "ia",
+      "negocios",
+      "marketing"
+     ],
+     "score": 5.639,
+     "also": []
+    },
+    {
+     "id": "bab8680004",
+     "relevance": 77,
+     "title": "La euforia por las tecnológicas se evapora y regresa el miedo a la IA, arrastrando a Nvidia y Anthropic con caídas del 8%",
+     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/24/6b05d85be9cf4ad2508b4586.html",
+     "source": "El Mundo",
+     "source_id": "elmundo",
+     "published": "2026-11-24T19:16:13+00:00",
+     "summary": "El cóctel de preocupaciones ya está servido en los parqués: moratorias a los centros de datos, controles a la exportación de chips, investigación a Nvidi, el tono restrictivo de la Fed... ahuyentan a los inversores este martes Leer",
+     "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955455379013.jpg",
+     "topics": [
+      "ia",
+      "tech"
+     ],
+     "score": 10.829,
+     "also": []
+    },
+    {
+     "id": "42cb577d7e",
+     "relevance": 65,
+     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+     "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+     "source": "TechCrunch",
+     "source_id": "techcrunch",
+     "published": "2026-11-24T21:32:38+00:00",
+     "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+     "image": null,
+     "topics": [
+      "ia",
+      "tech"
+     ],
+     "score": 9.13,
+     "also": []
+    },
+    {
+     "id": "6e5f032fb0",
+     "relevance": 52,
+     "title": "Even the best AI agents struggle with everyday life",
+     "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+     "source": "TechCrunch",
+     "source_id": "techcrunch",
+     "published": "2026-11-24T21:33:29+00:00",
+     "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+     "image": null,
+     "topics": [
+      "ia"
+     ],
+     "score": 7.265,
+     "also": []
+    },
+    {
+     "id": "4499caf6a2",
+     "relevance": 39,
+     "title": "Microsoft Ignite 2026 — A Promise To Do Better",
+     "url": "https://www.forrester.com/blogs/microsoft-ignite-2026-a-promise-to-do-better/",
+     "source": "Forrester",
+     "source_id": "forrester",
+     "published": "2026-11-24T14:40:01+00:00",
+     "summary": "This year’s Ignite was all about shoring up trust and reliability. Unlike last year, which focused heavily on a fictitious frontier company for examples, Microsoft brought to the stage Accenture, Alaska Airlines, BlackRock, BNY, Chevron, Publicis Groupe, Unilever, and others. These companies lent real-world credence to the idea that Microsoft remains a trusted enterprise partner […]",
+     "image": null,
+     "topics": [
+      "tech",
+      "marketing"
+     ],
+     "score": 5.432,
+     "also": []
+    },
+    {
+     "id": "8f71933902",
+     "relevance": 36,
+     "title": "AI Agents in Marketing: Scaling With Earned Autonomy",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tdWFFd2o2X01HZGZoTm43cC1kUUEyZlVnc2NnY0JFRGxhNU82WXg3bFBVVVFpczJFcTlBNU1XTElrY09ZWTF0RnZDei1rcW5KWlZQRHotN3BUa3N1cFlzRmdNaDNSbmFURlRkUjA2VWd0a0VrU01MNVZNWQ?oc=5",
+     "source": "Gartner",
+     "source_id": "gartner",
+     "published": "2026-11-23T21:41:01+00:00",
+     "summary": "",
+     "image": null,
+     "topics": [
+      "ia",
+      "marketing",
+      "tech"
+     ],
+     "score": 5.056,
+     "also": []
+    }
+   ],
+   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: El Global, El Mundo, Forrester, Gartner, IPMARK, Marketing Directo, Medical Device Network, MotorVSMotor, STAT, TechCrunch. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
+   "transcript": [
+    {
+     "speaker": "Lucía",
+     "text": "Buenos días, hoy es miércoles veinticinco de noviembre de dos mil veintiséis y les damos la bienvenida a La Mañana."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Comenzamos en el sector de la óptica y la optometría con una novedad recogida por el medio MotorVSMotor."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Se trata de las gafas telescópicas ópticas Eschenbach MaxEVENT, fabricadas en Alemania y diseñadas para conciertos, teatro y eventos, que ofrecen un aumento de dos coma uno por ciento con un campo de visión nítido."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Pasamos a la industria farmacéutica. Según informa El Global, la Federación Europea de Industrias y Asociaciones Farmacéuticas, la EFPIA, ha planteado siete medidas para optimizar los ensayos clínicos en Europa mediante la futura Ley de Biotecnología."
+    },
+    {
+     "speaker": "Álex",
+     "text": "La propuesta busca agilizar y hacer más predecibles las autorizaciones regulatorias y éticas, armonizar requisitos entre países y reforzar la plataforma europea de solicitudes de ensayos clínicos, conocida como CTIS."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Estas medidas se basan en un estudio realizado por Copenhagen Economics para la EFPIA, que compara los plazos de autorización en la Unión Europea y el Espacio Económico Europeo con Estados Unidos y China."
+    },
+    {
+     "speaker": "Álex",
+     "text": "El informe señala que las medidas de la Ley de Biotecnología permitirían reducir los tiempos de autorización en Europa de ciento seis a setenta y cinco días. Si no hay solicitudes adicionales de información, el plazo pasaría de sesenta a cuarenta y siete días."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "¿Y cómo se comparan estas cifras con otras regiones según ese estudio?"
+    },
+    {
+     "speaker": "Álex",
+     "text": "En Estados Unidos el plazo de autorización se sitúa en noventa y seis días, o sesenta sin solicitudes adicionales. En China es de ochenta y cuatro días, o cuarenta y dos sin peticiones extra."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Sin embargo, la EFPIA advierte de que acelerar las autorizaciones no basta por sí solo para que los pacientes accedan antes a los ensayos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Efectivamente. La norma se centra en la solicitud, pero no aborda todos los pasos necesarios para que los centros estén preparados para reclutar participantes. El proceso completo, desde la solicitud hasta la activación del centro, supone entre doscientos noventa y cuatro y trescientos treinta y nueve días en Europa."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Frente a los ciento sesenta y ocho a doscientos setenta y seis días en Estados Unidos y los ciento veintiséis a doscientos noventa y uno en China."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Por eso la EFPIA propone también una evaluación coordinada con un Estado miembro ponente más fuerte y menos solicitudes de información redundantes."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Seguimos en el sector farmacéutico. El medio STAT, junto con pharmaphorum y El Global, informa de que Sanofi ha acordado la compra de la biotecnológica estadounidense Insmed por treinta y siete mil setecientos ochenta y nueve millones de euros."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Es la mayor adquisición de Sanofi en más de dos décadas y un movimiento de su consejera delegada, Belén Garijo, para compensar la futura pérdida de exclusividad de su medicamento Dupixent."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Sanofi pagará ciento sesenta coma cuarenta y cuatro euros por acción en efectivo, lo que representa una prima del cuarenta y seis por ciento sobre el cierre de Insmed del dieciocho de noviembre."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Belén Garijo ha señalado que la operación podría aportar hasta nueve mil ciento sesenta y ocho millones de euros en ventas máximas a finales de esta década."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "¿Qué productos aporta Insmed a la cartera de Sanofi según el texto?"
+    },
+    {
+     "speaker": "Álex",
+     "text": "Aporta dos tratamientos ya comercializados: Brinsupri, que superó los novecientos diecisiete millones de euros en ventas en su primer año, y Arikayce, para infecciones pulmonares crónicas, que generó trescientos noventa y ocho millones el pasado año."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "El presidente y consejero delegado de Insmed, Will Lewis, ha destacado que la cartera conjunta presenta un potencial de ventas máximas de varios miles de millones de euros en enfermedades respiratorias, inmunología y enfermedades raras."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En el ámbito de los dispositivos médicos, leemos en Medical Device Network que durante la feria Medica dos mil veintiséis se ha presentado una ponencia sobre el futuro de la inteligencia artificial en la salud."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "La presentación sostiene que el auge de esta tecnología convertirá a los seres humanos en plataformas de datos, al estar cada vez más vinculada a los parámetros fisiológicos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En marketing y publicidad, el medio IPMARK recoge un análisis de la firma Onclusive sobre cómo las marcas turísticas deben analizar su huella GEO en los modelos de lenguaje de inteligencia artificial."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Onclusive analizó la presencia de la cadena hotelera Hilton en motores como ChatGPT, Perplexity, Claude, Gemini y Grok para los mercados de Estados Unidos y Reino Unido."
+    },
+    {
+     "speaker": "Álex",
+     "text": "El análisis muestra que la cuota de voz general de Hilton en estos modelos es del veintinueve por ciento, pero cae al nueve por ciento al preguntar por el mejor hotel para familias en Roma."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En visibilidad general, Hilton aparece en el ochenta y cinco por ciento de las respuestas relevantes de la IA, pero desciende al cincuenta y ocho por ciento para la consulta concreta de Roma."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Además, en posición media ocupan el tercer lugar a nivel general, pero caen al sexto puesto en la búsqueda de Roma. El informe destaca que el treinta y nueve por ciento de las fuentes consultadas por las IA son artículos de prensa y el treinta y tres por ciento sitios web."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Continuamos en publicidad con una información de Marketing Directo sobre los primeros resultados de las campañas publicitarias dentro de ChatGPT."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Un análisis de la plataforma Adthena entre clientes empresariales que se anunciaron entre julio y septiembre muestra que el cincuenta y dos por ciento gastó más de lo obtenido en beneficios, y un veintidós por ciento logró alcance pero con escasas conversiones."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Por su parte, un veintiséis por ciento igualó o superó sus resultados habituales en Google. Sin embargo, un análisis de la agencia PGM con ocho marcas arrojó resultados más optimistas, ya que siete de ellas mejoraron su rendimiento por dólar invertido."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Adthena señala que los anunciantes deben ofrecer indicaciones con mayor precisión sobre el contexto del usuario en lugar de limitarse a acumular palabras clave amplias, para asegurar que los anuncios aparezcan en conversaciones adecuadas."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Pasamos a la inteligencia artificial y los mercados. Según publica El Mundo, la cotización de las grandes empresas tecnológicas vuelve a sufrir caídas en Wall Street."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Las acciones de Nvidia cayeron un siete por ciento este martes, un día después de haber subido un treinta y uno coma cinco por ciento tras el regreso de su director ejecutivo, Jensen Huang."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Esa subida previa representó la mayor ganancia de capitalización en una sola sesión para la firma, sumando novecientos cincuenta mil millones de dólares."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Sin embargo, el índice Nasdaq retrocedió casi un dos por ciento y el S y P quinientos cayó un cero coma seis por ciento."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "¿Qué factores explican la preocupación de los inversores respecto a Nvidia?"
+    },
+    {
+     "speaker": "Álex",
+     "text": "Jensen Huang dimitió tras revelarse sus relaciones extramatrimoniales con Alice Huang, antigua directiva de Megaspeed, empresa investigada por posible contrabando de chips a China. Su retorno fue impulsado personalmente por Donald Trump, lo que ha generado críticas de medios como Financial Times."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Analistas de la firma XTB advierten de que existe un riesgo evidente si la marcha o regreso de una persona pone en duda la estrategia de una compañía valorada en cuatro billones de dólares."
+    },
+    {
+     "speaker": "Álex",
+     "text": "A esto se añade el temor a una burbuja tecnológica, los elevados costes de los centros de datos y la amenaza de límites regulatorios tras las elecciones de medio término en Estados Unidos."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En este escenario, Anthropic también registró una caída del siete coma cuatro por ciento en bolsa, situando sus acciones por debajo de los ochenta y tres dólares de su salida al mercado."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En comercio e inteligencia artificial, TechCrunch informa de la alianza entre Walmart y Meta para ofrecer ofertas de Black Friday a través del agente de IA Muse."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Los clientes podrán buscar productos, comparar opciones y crear carritos de compra directamente desde la aplicación Muse iniciando sesión en su cuenta de Walmart."
+    },
+    {
+     "speaker": "Álex",
+     "text": "A diferencia de Amazon, que bloquea a los agentes de IA de terceros, Walmart impulsa esta conexión a través de su plataforma Agent Gateway, lanzada en octubre."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Walmart destaca que Muse no tendrá acceso al historial de compras ni a datos personales de los clientes, permitiendo fijar límites de gasto y supervisar los pedidos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Además, Walmart ha sumado funciones a su propio asistente Sparky, como convertir listas manuscritas en compras o activar el botón Flash Price Tag para iluminar la etiqueta física en el estante de la tienda."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Seguimos en inteligencia artificial. TechCrunch analiza un estudio sobre la fiabilidad de los agentes personales realizado por The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat y la Universidad de Berkeley."
+    },
+    {
+     "speaker": "Álex",
+     "text": "El informe, llamado ShellBench, evaluó diez millones de interacciones reales de agentes como Muse de Meta, Dots de OpenAI y Claude Duet de Anthropic."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Los datos indican que incluso los modelos más avanzados fallaron más de un tercio de las veces al intentar resolver tareas cotidianas reales."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Un quince coma siete por ciento de los intentos incumplió requisitos de seguridad. El modelo mejor valorado, GPT seis Astra de OpenAI, completó con éxito las tareas en tres intentos seguidos menos de la mitad de las veces."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Entre los fallos concretos, los agentes no gestionaron adecuadamente la recogida escolar de los niños en un setenta y nueve coma cinco por ciento de las ocasiones, y filtraron datos bancarios confidenciales en un dieciocho coma seis por ciento de intentos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En el ámbito del análisis de mercado, un informe de la consultora Forrester evalúa la conferencia Microsoft Ignite dos mil veintiséis."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Según la valoración de Forrester, Microsoft centró el encuentro en restablecer la confianza tras las recientes caídas del servicio, contando con la participación de socios como Accenture, BlackRock o Unilever."
+    },
+    {
+     "speaker": "Álex",
+     "text": "El informe destaca la Iniciativa de Transparencia de la IA con cuarenta empresas y herramientas como Agent tres sesenta y cinco. También recoge la solución Microsoft IQ, que incluye Work IQ con veinte exabytes de datos almacenados."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Para terminar con el análisis de mercado, la consultora Gartner ha publicado una previsión titulada Agentes de IA en marketing: escalando con autonomía ganada."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Les esperamos mañana con una nueva edición de La Mañana."
+    }
+   ]
+  },
+  {
    "date": "2026-11-24",
    "file": "2026-11-24.mp3",
    "title": "La Mañana: Actualidad de IA, tecnología médica y sector farmacéutico",
