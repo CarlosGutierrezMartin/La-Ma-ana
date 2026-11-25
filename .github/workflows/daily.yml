@@ -1,6 +1,9 @@
 name: Edición diaria
 
 on:
+  # La ejecución diaria la lanza un disparador externo (cron-job.org, ver README)
+  # porque GitHub retrasa mucho los horarios de este repo. Estos horarios quedan
+  # como respaldo: si llegan tarde solo refrescan la edición (el podcast no se repite).
   schedule:
     # GitHub usa UTC. 05:20 UTC = 06:20 en Madrid en invierno, 07:20 en verano.
     # (GitHub puede retrasar los cron unos minutos en horas punta.)
@@ -15,10 +18,10 @@ on:
       podcast:
         description: "Podcast"
         type: choice
-        default: regenerar
+        default: auto
         options:
+          - auto          # solo si hoy aún no hay episodio (lo que usa el disparador externo)
           - regenerar     # genera el episodio de hoy aunque ya exista
-          - auto          # solo si hoy aún no hay episodio
           - solo-guion    # escribe el guion y lo muestra en el log, sin voz
           - "no"          # no gasta cupo de Gemini
   push:
