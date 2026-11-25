@@ -1,10 +1,10 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T08:43:54.435628+00:00",
+ "generated_at": "2026-11-25T08:49:34.383250+00:00",
  "stats": {
-  "fetched": 1902,
-  "fresh": 850,
-  "stories": 772,
+  "fetched": 1896,
+  "fresh": 847,
+  "stories": 765,
   "selected": 96
  },
  "brief": null,
@@ -15,7 +15,6 @@
    "name": "Lo más relevante",
    "short": "Portada",
    "items": [
-    "799b2c44da",
     "519716230c",
     "bab8680004",
     "32a1c54eec",
@@ -23,13 +22,14 @@
     "42cb577d7e",
     "559d1062a7",
     "58393d338f",
-    "6824462015",
     "8630ec4c11",
     "4a847676e9",
     "5cf4dc17f3",
     "6498a22762",
+    "3ce502eefa",
+    "aa7cbe5caf",
     "58c2527b36",
-    "c6822a935c"
+    "5088152c8b"
    ]
   },
   {
@@ -64,13 +64,13 @@
     "42cb577d7e",
     "4499caf6a2",
     "8946d043c4",
+    "cd6fa17047",
     "cac1e87497",
     "21c67f8475",
     "171f3651d0",
     "eaadf24237",
     "a1c5dd9a0f",
-    "94b4729a63",
-    "433d7f648d"
+    "94b4729a63"
    ]
   },
   {
@@ -114,13 +114,13 @@
    "name": "España",
    "short": "España",
    "items": [
-    "6824462015",
     "04a1f1f254",
     "8268e3c4b4",
     "5cf4dc17f3",
     "2d83ce77b2",
     "5e24a9f822",
     "45d856ce6b",
+    "3c7c624292",
     "a8e69b89f5",
     "8630ec4c11",
     "6711b2ebaa"
@@ -131,14 +131,14 @@
    "name": "Óptica y optometría",
    "short": "Óptica",
    "items": [
-    "c6822a935c",
     "5320043ce8",
-    "4c72c07150",
-    "a4bae11b09",
+    "e44a11c1f6",
     "e8e3695421",
     "55d442714c",
     "639e0d726d",
+    "7cc1209757",
     "3c6d0a1893",
+    "4532823651",
     "ff7ab45776",
     "a8f7740add"
    ]
@@ -156,8 +156,8 @@
     "c6ff37588f",
     "8212524832",
     "69343500b5",
-    "5dd1f1ffe6",
-    "4499caf6a2"
+    "cd6fa17047",
+    "5dd1f1ffe6"
    ]
   },
   {
@@ -165,16 +165,16 @@
    "name": "Industria y marketing farmacéutico",
    "short": "Pharma",
    "items": [
-    "799b2c44da",
-    "79c8244431",
     "32a1c54eec",
     "559d1062a7",
     "f340a280d2",
     "e5d9be847b",
     "a47f52d318",
-    "c57a6a58bf",
     "9b79ddeb08",
-    "43393413fe"
+    "3c7c624292",
+    "43393413fe",
+    "f25b21c8e1",
+    "148db897b8"
    ]
   },
   {
@@ -182,14 +182,14 @@
    "name": "Medical devices",
    "short": "MedTech",
    "items": [
+    "aa7cbe5caf",
     "58c2527b36",
+    "9b513f1c62",
     "cf41043b35",
     "5088152c8b",
     "440cba59cd",
     "433d7f648d",
-    "3945d7900e",
     "3ce502eefa",
-    "beb1326861",
     "bb7331e46f",
     "cac1e87497"
    ]
@@ -200,7 +200,6 @@
    "short": "Salud",
    "items": [
     "559d1062a7",
-    "6824462015",
     "f26da854bd",
     "32a1c54eec",
     "6498a22762",
@@ -208,7 +207,8 @@
     "3ce502eefa",
     "d10416ee58",
     "4a9f311780",
-    "4fab1e7e0c"
+    "f41555af86",
+    "3c7c624292"
    ]
   }
  ],
@@ -226,21 +226,6 @@
   "dca6429eba"
  ],
  "items": {
-  "799b2c44da": {
-   "title": "Las medidas de la industria farmacéutica para acelerar los ensayos clínicos en Europa con la futura Biotech Act",
-   "url": "https://elglobalfarma.com/industria/medidas-industria-farmaceutica-acelerar-ensayos-clinicos-europa-biotech-act/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-25T08:40:53+00:00",
-   "summary": "La patronal europea advierte de que acelerar las autorizaciones no es suficiente para garantizar que los pacientes puedan incorporarse antes a los ensayos The post Las medidas de la industria farmacéutica para acelerar los ensayos clínicos en Europa con la futura Biotech Act appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 13.98,
-   "also": []
-  },
   "519716230c": {
    "title": "Anthropic closes below IPO price as tech rally fades",
    "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
@@ -254,7 +239,7 @@
     "ia",
     "negocios"
    ],
-   "score": 11.527,
+   "score": 11.506,
    "also": [
     {
      "source_id": "techcrunch",
@@ -283,7 +268,7 @@
     "ia",
     "tech"
    ],
-   "score": 10.829,
+   "score": 10.811,
    "also": []
   },
   "32a1c54eec": {
@@ -299,7 +284,7 @@
     "pharma",
     "salud"
    ],
-   "score": 9.537,
+   "score": 9.523,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -321,7 +306,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 9.232,
+   "score": 9.22,
    "also": [
     {
      "source_id": "pharmaphorum",
@@ -350,7 +335,7 @@
     "ia",
     "tech"
    ],
-   "score": 9.13,
+   "score": 9.114,
    "also": []
   },
   "79f1c6c3ab": {
@@ -366,7 +351,7 @@
     "ia",
     "marketing"
    ],
-   "score": 8.879,
+   "score": 8.87,
    "also": []
   },
   "800ec154ee": {
@@ -381,7 +366,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.48,
+   "score": 8.458,
    "also": [
     {
      "source_id": "reuters",
@@ -404,7 +389,7 @@
     "salud",
     "pharma"
    ],
-   "score": 8.171,
+   "score": 8.16,
    "also": []
   },
   "58393d338f": {
@@ -417,7 +402,7 @@
    "ai_summary": null,
    "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/07/31/17539740696503.jpg",
    "topics": [],
-   "score": 7.942,
+   "score": 7.921,
    "also": [
     {
      "source_id": "elpais",
@@ -433,22 +418,6 @@
     }
    ]
   },
-  "6824462015": {
-   "title": "29-N: PP, PSOE, Vox y Frente Amplio ponen sobre la mesa sus planes para Atención Primaria y listas de espera",
-   "url": "https://www.consalud.es/politica/pp-psoe-vox-y-frente-amplio-ponen-el-foco-en-atencion-primaria-y-las-listas-de-espera-estas-son-sus-recetas.html",
-   "source": "ConSalud",
-   "source_id": "consalud",
-   "published": "2026-11-24T16:30:02+00:00",
-   "summary": "política: 29-N: PP, PSOE, Vox y Frente Amplio ponen sobre la mesa sus planes para Atención Primaria y listas de espera",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "salud",
-    "espana"
-   ],
-   "score": 7.845,
-   "also": []
-  },
   "04a1f1f254": {
    "title": "El PSOE se aferra a un milagro en la \"España periférica\" mientras asume \"la fortaleza de PP y Vox\"",
    "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b05f94821efa094338b4587.html",
@@ -461,7 +430,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.738,
+   "score": 7.724,
    "also": []
   },
   "112858423d": {
@@ -477,7 +446,7 @@
     "espana",
     "economia"
    ],
-   "score": 7.533,
+   "score": 7.522,
    "also": [
     {
      "source_id": "elconfidencial",
@@ -505,7 +474,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.52,
+   "score": 7.503,
    "also": [
     {
      "source_id": "eleconomista",
@@ -527,22 +496,7 @@
    "topics": [
     "ia"
    ],
-   "score": 7.265,
-   "also": []
-  },
-  "79c8244431": {
-   "title": "Sanofi acuerda comprar Insmed por 37.589 millones de euros para reforzar su cartera de medicamentos para enfermedades respiratorias",
-   "url": "https://elglobalfarma.com/industria/sanofi-comprar-insmed-reforzar-cartera-medicamentos-respiratorios/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-24T12:13:59+00:00",
-   "summary": "La operación, la mayor adquisición de la farmacéutica francesa en más de 20 años, incorpora dos tratamientos ya comercializados para enfermedades pulmonares y una cartera de proyectos en desarrollo The post Sanofi acuerda comprar Insmed por 37.589 millones de euros para reforzar su cartera de medicamentos para enfermedades respiratorias appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 7.261,
+   "score": 7.252,
    "also": []
   },
   "4a847676e9": {
@@ -559,7 +513,7 @@
     "ia",
     "negocios"
    ],
-   "score": 7.232,
+   "score": 7.222,
    "also": []
   },
   "440cba59cd": {
@@ -576,7 +530,7 @@
     "salud",
     "medtech"
    ],
-   "score": 7.192,
+   "score": 7.182,
    "also": [
     {
      "source_id": "medtech_search",
@@ -598,7 +552,7 @@
    "topics": [
     "ia"
    ],
-   "score": 7.162,
+   "score": 7.145,
    "also": []
   },
   "5cf4dc17f3": {
@@ -614,7 +568,7 @@
     "espana",
     "economia"
    ],
-   "score": 7.103,
+   "score": 7.086,
    "also": []
   },
   "6498a22762": {
@@ -630,22 +584,7 @@
     "salud",
     "ia"
    ],
-   "score": 7.05,
-   "also": []
-  },
-  "4054838678": {
-   "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE80eU84aDZfY24tLUhfMURrVFZHdkt3UHZuNjcxOXA3MUdWU0ZXUV9Od0d2QUJUWVFtZEN4X19BekxhdUFzcUNlVFYtZVdiMHgtTEFPQWtxU2xIS2NwUW1HVzJkUjNRS2tiMkJEa1ltcG42enk0czYyQXNjN0xibUd1SFNGU3pzd1diLWxDcFlmUVVqUmRoNVJ5VzVDNUVmMDJNRmxTY2dJSjJ3MGk4UUNhTk9DaGNLQ1E?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-24T22:29:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "ia"
-   ],
-   "score": 7.046,
+   "score": 7.04,
    "also": []
   },
   "3ce502eefa": {
@@ -662,7 +601,7 @@
     "ia",
     "medtech"
    ],
-   "score": 7.037,
+   "score": 7.034,
    "also": [
     {
      "source_id": "medtech_search",
@@ -671,6 +610,38 @@
      "title": "UK’s NIHR backs largest global AI breast cancer screening trial"
     }
    ]
+  },
+  "4054838678": {
+   "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE80eU84aDZfY24tLUhfMURrVFZHdkt3UHZuNjcxOXA3MUdWU0ZXUV9Od0d2QUJUWVFtZEN4X19BekxhdUFzcUNlVFYtZVdiMHgtTEFPQWtxU2xIS2NwUW1HVzJkUjNRS2tiMkJEa1ltcG42enk0czYyQXNjN0xibUd1SFNGU3pzd1diLWxDcFlmUVVqUmRoNVJ5VzVDNUVmMDJNRmxTY2dJSjJ3MGk4UUNhTk9DaGNLQ1E?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-24T22:29:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 7.033,
+   "also": []
+  },
+  "3c7c624292": {
+   "title": "El Gobierno moviliza más de 22 millones para suministrar medicamentos a las farmacias no hospitalarias del Ministerio de Defensa",
+   "url": "https://www.consalud.es/politica/administracion/gobierno-inyecta-mas-de-22-millones-para-suministrar-medicamentos-a-las-farmacias-no-hospitalarias-del-ministerio-de-defensa.html",
+   "source": "ConSalud",
+   "source_id": "consalud",
+   "published": "2026-11-25T08:46:25+00:00",
+   "summary": "administración: El Gobierno moviliza más de 22 millones para suministrar medicamentos a las farmacias no hospitalarias del Ministerio de Defensa",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud",
+    "pharma",
+    "espana"
+   ],
+   "score": 7.01,
+   "also": []
   },
   "2d83ce77b2": {
    "title": "Luis de los Santos, candidato de Adelante Andalucía: \"Nos van a votar los conservadores que no quieren el retroceso que plantean el PP y Vox\"",
@@ -684,7 +655,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.961,
+   "score": 6.946,
    "also": []
   },
   "e1bab506ce": {
@@ -700,7 +671,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.861,
+   "score": 6.843,
    "also": []
   },
   "f26da854bd": {
@@ -715,7 +686,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.845,
+   "score": 6.835,
    "also": []
   },
   "9633e7af5d": {
@@ -730,7 +701,22 @@
    "topics": [
     "ia"
    ],
-   "score": 6.834,
+   "score": 6.822,
+   "also": []
+  },
+  "aa7cbe5caf": {
+   "title": "\"Microwave based medical device to monitor patients with implanted stents\" - Faculty of Biology - Facultats - UB",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkR3cmhsQldyNUhUY2JpQjF4S0h1UjdJRjk3eWt3Vl9vbVFWNzR4eklfWDlPQTlBbkdyVTdhTjEwVW1DQThBQXhreThhU1RlSDlHM0NxNlYyeXcxV3o1QmlMQW1lRUE2M3cyeTFFUjZKaldIZnh4VEd4ZXh6RGN3aGg3b1AxcmxVTDEzU3U4ZUNYTDAxTXJOdEFGcE80WFZhSmhtVDhWamtaRWNHQjhTeWFUcUZfY0lKLVY1Qw?oc=5",
+   "source": "UB - Universitat de Barcelona",
+   "source_id": "medtech_search",
+   "published": "2026-11-24T14:06:02+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 6.699,
    "also": []
   },
   "8a546b15d2": {
@@ -745,7 +731,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.607,
+   "score": 6.598,
    "also": []
   },
   "58c2527b36": {
@@ -762,7 +748,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.554,
+   "score": 6.551,
    "also": [
     {
      "source_id": "medtech_search",
@@ -771,21 +757,6 @@
      "title": "GE HealthCare introduces new AI tools to streamline radiology workflows"
     }
    ]
-  },
-  "c6822a935c": {
-   "title": "Eschenbach MaxEVENT – Gafas Telescópicas ópticas Para Conciertos, Teatro Y Eventos – Hechas En Alemania – Aumento 2.1x Con Campo De Visión Nítido",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3J4dzRyTG40b2RCMmNGRG9WWDFlblVZaHBudnY5YXY3WV9wM0xzZWw3WmZhWVdkYUNDVlJBc0dXMzJDOWNpaGFxM0tlX2pOUjNYZHRULVhMMHVIeGFVX3c3aVFJaFE5ZUhScjZHeXRId0lXM1Z6UlUxV0h5Y2xGTk43ZGJTeDRzNExmZ01iejVSNmc?oc=5",
-   "source": "MotorVSMotor",
-   "source_id": "optica_es",
-   "published": "2026-11-24T23:17:49+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 6.368,
-   "also": []
   },
   "8268e3c4b4": {
    "title": "El legado de Sánchez al próximo Gobierno en Bruselas: un gasto público \"disparado\", amenaza de expediente y una gestión fiscal sin presupuestos \"que no es la ideal\"",
@@ -799,7 +770,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.355,
+   "score": 6.343,
    "also": []
   },
   "bb7331e46f": {
@@ -815,7 +786,7 @@
     "ia",
     "medtech"
    ],
-   "score": 6.305,
+   "score": 6.302,
    "also": []
   },
   "cf41043b35": {
@@ -833,7 +804,7 @@
     "ia",
     "pharma"
    ],
-   "score": 6.298,
+   "score": 6.286,
    "also": []
   },
   "cac1e87497": {
@@ -850,7 +821,7 @@
     "tech",
     "medtech"
    ],
-   "score": 6.261,
+   "score": 6.258,
    "also": [
     {
      "source_id": "medtech_search",
@@ -872,7 +843,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 6.237,
+   "score": 6.228,
    "also": [
     {
      "source_id": "medtech_search",
@@ -894,7 +865,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.231,
+   "score": 6.222,
    "also": []
   },
   "45d856ce6b": {
@@ -909,7 +880,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.088,
+   "score": 6.074,
    "also": []
   },
   "21c67f8475": {
@@ -925,7 +896,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.042,
+   "score": 6.034,
    "also": []
   },
   "e8e3695421": {
@@ -941,7 +912,7 @@
     "optica",
     "salud"
    ],
-   "score": 5.936,
+   "score": 5.922,
    "also": []
   },
   "4a9f311780": {
@@ -958,7 +929,7 @@
     "ia",
     "medtech"
    ],
-   "score": 5.869,
+   "score": 5.862,
    "also": []
   },
   "d10416ee58": {
@@ -973,7 +944,7 @@
    "topics": [
     "salud"
    ],
-   "score": 5.841,
+   "score": 5.834,
    "also": []
   },
   "80bd1e685e": {
@@ -988,23 +959,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 5.73,
-   "also": []
-  },
-  "4fab1e7e0c": {
-   "title": "La Fundación PharmaMar distingue a referentes nacionales e internacionales que están redefiniendo la investigación en cáncer",
-   "url": "https://elglobalfarma.com/industria/fundacion-pharmamar-referentes-nacionales-internacionales-investigacion-cancer/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-24T12:53:06+00:00",
-   "summary": "La IV edición de los Premios Argonauta reconoce la excelencia científica, clínica y académica de profesionales cuya trayectoria ha contribuido a ampliar el conocimiento de enfermedades complejas The post La Fundación PharmaMar distingue a referentes nacionales e internacionales que están redefiniendo la investigación en cáncer appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "salud",
-    "pharma"
-   ],
-   "score": 5.661,
+   "score": 5.716,
    "also": []
   },
   "9fcedf2f66": {
@@ -1021,7 +976,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 5.639,
+   "score": 5.631,
    "also": []
   },
   "47c90e676b": {
@@ -1036,7 +991,7 @@
    "topics": [
     "economia"
    ],
-   "score": 5.619,
+   "score": 5.61,
    "also": [
     {
      "source_id": "elmundo",
@@ -1045,6 +1000,22 @@
      "title": "EEUU se prepara para elevar los aranceles a China y otros países"
     }
    ]
+  },
+  "cd6fa17047": {
+   "title": "¿Trend or Hype?: Cómo sobrevivir a la fiebre tecnológica cuando el yo virtual y el real se confunden",
+   "url": "https://www.marketingdirecto.com/especiales/reportajes-a-fondo/trend-or-hype-sobrevivir-fiebre-tecnologica",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-25T08:42:16+00:00",
+   "summary": "En el nuevo capítulo del podcast de MarketingDirecto.com y Publicis Groupe, Alfredo Torres y Jorge Morata repasan las claves tecnológicas del observatorio Trend or Hype y explican cómo posicionar una marca cuando son los propios modelos de lenguaje quienes prescriben qué comprar. La entrada ¿Trend or Hype?: Cómo sobrevivir a la fiebre tecnológica cuando el yo virtual y el real se confunden se publicó primero en…",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech",
+    "marketing"
+   ],
+   "score": 5.531,
+   "also": []
   },
   "5dd1f1ffe6": {
    "title": "¿Fin del culebrón?: el regreso de Jensen Huang desata vítores en Nvidia y una subida récord en bolsa",
@@ -1061,7 +1032,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.482,
+   "score": 5.475,
    "also": []
   },
   "4499caf6a2": {
@@ -1077,7 +1048,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.432,
+   "score": 5.424,
    "also": []
   },
   "171f3651d0": {
@@ -1092,7 +1063,7 @@
    "topics": [
     "tech"
    ],
-   "score": 5.4,
+   "score": 5.386,
    "also": []
   },
   "e5d9be847b": {
@@ -1107,7 +1078,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.374,
+   "score": 5.367,
    "also": []
   },
   "a97b0d5cd8": {
@@ -1122,7 +1093,7 @@
    "topics": [
     "economia"
    ],
-   "score": 5.371,
+   "score": 5.359,
    "also": []
   },
   "eaadf24237": {
@@ -1138,7 +1109,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.357,
+   "score": 5.349,
    "also": []
   },
   "c6ff37588f": {
@@ -1155,7 +1126,7 @@
     "negocios",
     "marketing"
    ],
-   "score": 5.346,
+   "score": 5.339,
    "also": []
   },
   "43393413fe": {
@@ -1171,7 +1142,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 5.291,
+   "score": 5.289,
    "also": [
     {
      "source_id": "mmm",
@@ -1194,7 +1165,7 @@
     "pharma",
     "salud"
    ],
-   "score": 5.285,
+   "score": 5.282,
    "also": []
   },
   "8946d043c4": {
@@ -1210,7 +1181,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.263,
+   "score": 5.256,
    "also": []
   },
   "a8e69b89f5": {
@@ -1225,7 +1196,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.254,
+   "score": 5.244,
    "also": []
   },
   "8212524832": {
@@ -1240,7 +1211,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.205,
+   "score": 5.199,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -1262,23 +1233,7 @@
    "topics": [
     "tech"
    ],
-   "score": 5.173,
-   "also": []
-  },
-  "c57a6a58bf": {
-   "title": "El Consejo de Ministros aprueba el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios",
-   "url": "https://elglobalfarma.com/politica/consejo-ministros-estatuto-agencia-espanola-medicamentos-productos-sanitarios-aemps/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-24T10:27:39+00:00",
-   "summary": "El real decreto adapta el régimen de la AEMPS a la Ley 40/2015, crea una Dirección Adjunta y un Departamento de Tecnologías de la Información, reorganiza sus comités e incorpora nuevas competencias sobre disponibilidad de medicamentos y medicamentos estratégicos The post El Consejo de Ministros aprueba el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma",
-    "salud"
-   ],
-   "score": 5.161,
+   "score": 5.16,
    "also": []
   },
   "94b4729a63": {
@@ -1293,7 +1248,23 @@
    "topics": [
     "tech"
    ],
-   "score": 5.108,
+   "score": 5.095,
+   "also": []
+  },
+  "f41555af86": {
+   "title": "Adenocyte secures $3.3m grant for pancreatic cancer technology",
+   "url": "https://www.medicaldevice-network.com/news/adenocyte-3m-grant-pancreatic-cancer-technology/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-24T10:30:36+00:00",
+   "summary": "Adenocyte is set to receive a grant of up to $3.3m from the IIA to advance the clinical rollout and commercialisation of its LINFU platform for pancreatic cancer. The post Adenocyte secures $3.3m grant for pancreatic cancer technology appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud",
+    "medtech"
+   ],
+   "score": 5.077,
    "also": []
   },
   "433d7f648d": {
@@ -1309,23 +1280,7 @@
     "medtech",
     "tech"
    ],
-   "score": 5.069,
-   "also": []
-  },
-  "3945d7900e": {
-   "title": "Dongkook Pharmaceutical, CG MedTech partner on human tissue skin booster",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmRGNThxQ2NTdFVYdWc2Rzc1d204X0tObU5OSHJoaEFFNjZDTXJYbU9CUGVqSy1ZS0VabFZaSlEzQl81cUxtQkJmMUEwQ0tzcWNlaHJ0azc4X1hGQnoxd0Njdk55NUozYjZkQTB4SjdyTGN5OGhYRDFfazRCb2REMtIBlAFBVV95cUxPOFEwVzBkbk1IcU9VVmVwLUI3eDU1YzFka1JmbkpOc1RWSEZXaG5oUHBpTGx3N29aQXZrMExxb1JZNldwWFJUd0twRVYyaFF6QVZpUG1VQ3JBQk5GYUhBWkZBbERiOUFGd2pRbUhlTnpOVVhRWV9yck5Qd0YwbzlySzZjT0pGYjhyUGp1a2hKdEotNXlN?oc=5",
-   "source": "Chosunbiz",
-   "source_id": "medtech_search",
-   "published": "2026-11-25T07:52:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "pharma"
-   ],
-   "score": 5.054,
+   "score": 5.057,
    "also": []
   },
   "9b79ddeb08": {
@@ -1341,7 +1296,7 @@
     "pharma",
     "salud"
    ],
-   "score": 5.05,
+   "score": 5.043,
    "also": []
   },
   "6711b2ebaa": {
@@ -1356,7 +1311,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.929,
+   "score": 4.921,
    "also": []
   },
   "ecf696e995": {
@@ -1371,7 +1326,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.878,
+   "score": 4.866,
    "also": []
   },
   "5e24a9f822": {
@@ -1387,7 +1342,7 @@
     "espana",
     "salud"
    ],
-   "score": 4.769,
+   "score": 4.76,
    "also": []
   },
   "c6f2e81540": {
@@ -1402,7 +1357,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 4.745,
+   "score": 4.734,
    "also": []
   },
   "5320043ce8": {
@@ -1418,7 +1373,22 @@
     "optica",
     "salud"
    ],
-   "score": 4.722,
+   "score": 4.72,
+   "also": []
+  },
+  "7cc1209757": {
+   "title": "Ofrecerán lentes graduados a 150 pesos durante Feria de Salud Visual en Pueblito Mexicano",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGY0Mkd3SEVOTjA3M3VkNmtmNlZJeEVNZWJHOTJ1MzhqVWs0VzJPM1UxWk1FQm45R25PUHJVUUFiMHF2djZpY0lJRjNqd054YWJrY2lqdTlIanhzSnZ4RUlTLXVCSG5NNFRTTEZYZTNjRGRRckUxTHVtUGJEYVhwQTJyVEFoeU95R2ZoRlNqT2dWRWQzc19abVJtQnFGa2hXcHdSWUhWYUNYOGFnRm9MbTFXOGtiRnloZk5rZTBEQWI0dGdSczZfcEJrUQ?oc=5",
+   "source": "El Sol de México",
+   "source_id": "optica_es",
+   "published": "2026-11-25T06:40:25+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.718,
    "also": []
   },
   "1767e42cff": {
@@ -1433,7 +1403,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 4.716,
+   "score": 4.705,
    "also": []
   },
   "fa16535798": {
@@ -1449,7 +1419,7 @@
     "economia",
     "ia"
    ],
-   "score": 4.653,
+   "score": 4.647,
    "also": []
   },
   "0035451fb7": {
@@ -1466,23 +1436,7 @@
     "marketing",
     "tech"
    ],
-   "score": 4.58,
-   "also": []
-  },
-  "beb1326861": {
-   "title": "Thermo Fisher gains expanded FDA clearance for EXENT to help monitor two blood cancers",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVQycVBmY2VZUDktRHJrS1BRbFVPZGdWTDIxS0liN1FEaEF4alBTNUVnTjBsTFFDTDhzNmxLS0IwWW9YbjZaNFluS3pZTW1uaGJMTGZ1Sm9tQTlKbHUtWmdUWUZ2VVZyeWM2eGNUaW1FZkNXdXFCbkdULTJ2U0pqMFdlRHBUQnB6WVNZY2wtMkE4REM2T3dwMGFFQnZ6M3B3VjNRa2V0dlNwLTZubnQ3QkwtcVlEakYxSmpoNGsyWVBKTlpFN0ZldFRzZmFsZXAzX0p5RlV3?oc=5",
-   "source": "BioSpectrum Asia",
-   "source_id": "medtech_search",
-   "published": "2026-11-25T03:58:43+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "medtech",
-    "pharma"
-   ],
-   "score": 4.575,
+   "score": 4.577,
    "also": []
   },
   "2fd98efcb1": {
@@ -1497,7 +1451,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.476,
+   "score": 4.466,
    "also": []
   },
   "abd9143ad1": {
@@ -1512,22 +1466,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.476,
-   "also": []
-  },
-  "4c72c07150": {
-   "title": "La nueva campaña de MONO Madrid une la salud visual con la cultura cosmética para General Óptica",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2VKWVFzR011NXlnQUVhVXM5LWxNWVNweTJwMnBKbEdvOGNodTg3ZDJBMml2b2Z6d1JMVEdLaVlTMFl6bGpOa05Cb3drY2VOZmFyank2V1VqcGhRY0VXOFpiXy1FN2JFazJrQV9nLVg2anNMN25wLVQ5Y2hwUk53d0dwNWY0Mm5URnFnU3NDT1dNeUdZcXNWa09oSTlGX3BCX2o2TTJlRUpzYzNieEtVcmtaQUZOUQ?oc=5",
-   "source": "PuroMarketing",
-   "source_id": "optica_es",
-   "published": "2026-11-23T17:54:53+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.463,
+   "score": 4.466,
    "also": []
   },
   "c28725e97b": {
@@ -1543,22 +1482,53 @@
     "medtech",
     "negocios"
    ],
-   "score": 4.377,
+   "score": 4.368,
    "also": []
   },
-  "a4bae11b09": {
-   "title": "Rusia y China desarrollan ópticas compactas para reducir peso en gafas de VR",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTIzTUpnZXpZeU1zMHVuWi1qakRlN1luU2ZNX2txcEVQVDRTcThTc05IMFNjOFdKZk9TU2tXLS1NYU1sM3JyVEg2Z3I4TTF4NEVNSjRGSFQ2bDlBNXdVUlV5X0pmZXJoTUdLN1Z1aTU4SjAzRVdzUFB4dVp4cExaN05heGtmOWtJbnIzMkZoQXFVQUsydGVjWlE3dEUzYkVNNnJ5WWRGZWw5OXJ4V1E?oc=5",
-   "source": "Foro3D",
+  "4532823651": {
+   "title": "CRE lleva salud visual a más de 800 personas en San Matías",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1ZRYXNHTENyRzNlcUV4VVJqS0RfVGRxRnFSTTk2ZEJSZWRMMnJWTW5tN1VEM3lGaVFoZWlUXzhqUnBad2dPVTZ1bDRRWHQwSVFvVWZVS2VfdXQ1ZUllVEdZd2VtT1lFS1RjaTQzRVAzYVVscktiTzdKZUdPenB3Mm8zemw1Zkp6VUE?oc=5",
+   "source": "El Mundo Bolivia",
    "source_id": "optica_es",
-   "published": "2026-11-23T10:00:00+00:00",
+   "published": "2026-11-25T03:08:22+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
     "optica"
    ],
-   "score": 4.298,
+   "score": 4.323,
+   "also": []
+  },
+  "9b513f1c62": {
+   "title": "Fenin launches the MedTech brand from Spain to boost the international projection of Spanish healthcare technology",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUmNaSXlPcWlBcVctRXY2TW5GOW0yYjVFUEpHWDhqYnNEdXZyREFVc2x2MURCc05pVlhqcTRGUkpiUnJfME9DVHJfLUZhRW5vMXp0NmhsU1RUZGhBNUl1SEI2WmFjdHVCS05IdWk2Q0JjNWJsUGl1enVWVTZyRVduaktnOV9wX0N2Q1EzR0NuQV8wU0NUQVozQzNmTlk2YlBVcW1DV2txWGhtZjNVclRuUjBWTTU3Sl9UYm5wOExMVmZpWHRmSFlYWDhPXzdrQzNTcmJFWHlOUndWSGxKZDFXU2pYNFLSAeoBQVVfeXFMTl9EVGZ4ZHdyRlV3Q1hWWmtzdk9EYWR0Mkh2TVFUOEN1WENqRzVXaWdmbFIyV244NVlmS3luaXRjLVhrZEZDcGlOcXdLemFLZmtMMkR3cmFLX2tuY0JoN2FscWtLNExnMUhTOG5meU9la25sQWczMUpXRFF4bWNqY1ZaU0JZalg5Rmh6YmJjaWxnYUVhZEZQakRiaXZoNloyajhaUUVNVFRwYW8tMzFrdVpuSzVNTDJ3aEVSMnVyUUxxeDZJYktWWm15UnVxdEJQOEYwa2tJTGdGRkhLbUVzRkVkRjkyQUdXaFpR?oc=5",
+   "source": "Demócrata",
+   "source_id": "medtech_search",
+   "published": "2026-11-23T11:51:13+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "salud"
+   ],
+   "score": 4.261,
+   "also": []
+  },
+  "e44a11c1f6": {
+   "title": "Miopía infantil amenaza salud visual a largo plazo",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Wd1prV3JocVFuNmZGbTRpQ1ZIRXY5RkROMGRpMTc1THVaOTNDRlI0RzMzenJqazZRX3lVRjVGNnRRWjNoVGNjMUh0MWRUQUdwMHFkN01HUlA2SGF4VlRmWXZkTjQ1NDJETDlOLW95RllKWHVaU1hNbkZB?oc=5",
+   "source": "El Dia.com.do",
+   "source_id": "optica_es",
+   "published": "2026-11-23T05:05:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.226,
    "also": []
   },
   "55d442714c": {
@@ -1573,7 +1543,23 @@
    "topics": [
     "optica"
    ],
-   "score": 4.103,
+   "score": 4.096,
+   "also": []
+  },
+  "f25b21c8e1": {
+   "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+   "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+   "source": "STAT",
+   "source_id": "statnews",
+   "published": "2026-11-24T07:54:44+00:00",
+   "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+   "ai_summary": null,
+   "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
+   "topics": [
+    "pharma",
+    "salud"
+   ],
+   "score": 4.064,
    "also": []
   },
   "ce7bd5d388": {
@@ -1589,7 +1575,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 4.052,
+   "score": 4.047,
    "also": []
   },
   "6863371c3f": {
@@ -1605,7 +1591,7 @@
     "ia",
     "negocios"
    ],
-   "score": 3.998,
+   "score": 3.991,
    "also": []
   },
   "639e0d726d": {
@@ -1620,7 +1606,22 @@
    "topics": [
     "optica"
    ],
-   "score": 3.997,
+   "score": 3.99,
+   "also": []
+  },
+  "148db897b8": {
+   "title": "El Consejo General incorpora once proyectos humanitarios a la plataforma FarmaColabora",
+   "url": "https://diariofarma.com/2026/11/24/el-consejo-general-incorpora-once-proyectos-humanitarios-a-la-plataforma-farmacolabora",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-24T12:11:54+00:00",
+   "summary": "Las entidades sin ánimo de lucro ya pueden difundir sus iniciativas sociosanitarias en el portal web del Consejo General tras la actualización de su catálogo con actuaciones enfocadas en el acceso a medicamentos y la atención en zonas vulnerables.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/bottom-view-a-team-of-Depositphotos_179529854_XL.webp",
+   "topics": [
+    "pharma"
+   ],
+   "score": 3.954,
    "also": []
   },
   "e87caa498f": {
@@ -1635,7 +1636,7 @@
    "topics": [
     "economia"
    ],
-   "score": 3.754,
+   "score": 3.745,
    "also": []
   },
   "3c6d0a1893": {
@@ -1650,7 +1651,7 @@
    "topics": [
     "optica"
    ],
-   "score": 3.661,
+   "score": 3.657,
    "also": []
   },
   "a8f7740add": {
@@ -1665,7 +1666,7 @@
    "topics": [
     "optica"
    ],
-   "score": 3.657,
+   "score": 3.649,
    "also": []
   },
   "ff7ab45776": {
@@ -1680,7 +1681,7 @@
    "topics": [
     "optica"
    ],
-   "score": 3.247,
+   "score": 3.244,
    "also": []
   },
   "d465ec2948": {
@@ -1696,7 +1697,7 @@
     "negocios",
     "optica"
    ],
-   "score": 2.988,
+   "score": 2.985,
    "also": []
   },
   "69343500b5": {
@@ -1711,7 +1712,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 2.98,
+   "score": 2.978,
    "also": []
   },
   "db3e3cb3d4": {
@@ -1728,7 +1729,7 @@
     "tech",
     "marketing"
    ],
-   "score": 5.211,
+   "score": 5.203,
    "also": []
   },
   "8f71933902": {
@@ -1745,7 +1746,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.056,
+   "score": 5.053,
    "also": []
   },
   "f3f14a90c4": {
@@ -1762,7 +1763,7 @@
     "tech",
     "marketing"
    ],
-   "score": 4.9,
+   "score": 4.893,
    "also": []
   },
   "f2be24a804": {
@@ -1778,7 +1779,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.461,
+   "score": 4.459,
    "also": []
   },
   "735861d048": {
@@ -1827,7 +1828,7 @@
     "negocios",
     "pharma"
    ],
-   "score": 2.069,
+   "score": 2.068,
    "also": []
   },
   "86e17d6a37": {
@@ -1842,7 +1843,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 1.08,
+   "score": 1.079,
    "also": []
   },
   "dca6429eba": {
@@ -1988,7 +1989,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 60,
+   "count": 44,
    "ok": true,
    "errors": []
   },
@@ -2043,10 +2044,12 @@
   {
    "id": "elglobal",
    "name": "El Global",
-   "via": "rss",
-   "count": 10,
-   "ok": true,
-   "errors": []
+   "via": "google-news",
+   "count": 0,
+   "ok": false,
+   "errors": [
+    "https://elglobal.es/feed/: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   ]
   },
   {
    "id": "pharmaphorum",
@@ -2108,7 +2111,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 80,
+   "count": 100,
    "ok": true,
    "errors": []
   },
