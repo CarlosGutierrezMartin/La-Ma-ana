@@ -190,7 +190,7 @@ sources:
     topics: [optica]
     window_hours: 72
     feeds: []
-    search: 'optometría OR optometrista OR "salud visual" OR oftalmología OR "ópticas"'
+    search: 'optometría OR optometrista OR "salud visual" OR oftalmología OR "óptico-optometrista"'  # sin "ópticas": en motor son los faros
 
   # ------------- Marketing -------------
   - id: marketingdirecto
