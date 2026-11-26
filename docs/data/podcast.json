@@ -1,6 +1,403 @@
 {
  "episodes": [
   {
+   "date": "2026-11-26",
+   "file": "2026-11-26.mp3",
+   "title": "La Mañana - 26 de noviembre de 2026",
+   "duration": 300,
+   "bytes": 2399346,
+   "published": "2026-11-26T15:25:23.361682+00:00",
+   "topics": [
+    "optica",
+    "pharma",
+    "medtech",
+    "marketing",
+    "ia"
+   ],
+   "topic_names": [
+    "Óptica y optometría",
+    "Industria y marketing farmacéutico",
+    "Medical devices",
+    "Marketing y publicidad",
+    "Inteligencia artificial"
+   ],
+   "stories": [
+    "91695169e3",
+    "1759419ed3",
+    "dd1725c397",
+    "a80fb23a27",
+    "254bead45c",
+    "ab14c8318a",
+    "4caa6ce3bb",
+    "b47f021e12",
+    "dc85126b0a",
+    "8876a8e90e",
+    "768ca23629",
+    "c2193df545"
+   ],
+   "story_items": [
+    {
+     "id": "91695169e3",
+     "relevance": 100,
+     "title": "Las peticiones de ópticos-optometristas al nuevo Gobierno: incorporación al SNS y una estrategia estatal de salud visual",
+     "url": "https://www.consalud.es/profesionales/otros-profesionales/las-peticion-de-opticos-optometristas-al-nuevo-gobierno-su-incorporacion-a-la-sanidad-publica-y-una-estrategia-estatal-de-salud-visual.html",
+     "source": "ConSalud",
+     "source_id": "consalud",
+     "published": "2026-11-26T15:08:15+00:00",
+     "summary": "otros profesionales: Las peticiones de ópticos-optometristas al nuevo Gobierno: incorporación al SNS y una estrategia estatal de salud visual",
+     "image": null,
+     "topics": [
+      "optica",
+      "espana",
+      "salud"
+     ],
+     "score": 11.895,
+     "also": [
+      {
+       "source_id": "optica_es",
+       "source": "Infosalus",
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGtuakVJZk9jd0V4ZXZ3VWxwamc5cUFTa1ZNU0RtVzhFdGxIZHdGRkR6Wmo0V1MyeXkyTi1WN0FZTlNYTlV5RDVGYzY2YkFFUzdvRS1Bek94cmNDaTBDRG5TT0VKNWo2R1JLOTFrODJCd0J6N0tsSk9HVjBQVzg1OHVmMFFObUZ0aDhGR2xIektQOG9FdDl6YTlWSU5vYjVURjFfTVIzWU5Ob2RyWEVpS254ZjBsSlZZTTBlWGQ5NDRpOTBrNnJobHRGdUJXdmlIbVZsN1JHT2VsVHF0ckE?oc=5",
+       "title": "Los ópticos-optometristas reclaman su incorporación en el SNS y una estrategia estatal de salud visual"
+      }
+     ]
+    },
+    {
+     "id": "1759419ed3",
+     "relevance": 79,
+     "title": "FDA clears DeepHealth's AI tool for 3D mammograms",
+     "url": "https://pharmaphorum.com/news/fda-clears-deephealths-ai-tool-3d-mammograms",
+     "source": "pharmaphorum",
+     "source_id": "pharmaphorum",
+     "published": "2026-11-26T12:27:40+00:00",
+     "summary": "Phil.Taylor Thu, 26/11/2026 - 12:27 Phil.Taylor Thu, 26/11/2026 - 12:27",
+     "image": null,
+     "topics": [
+      "pharma",
+      "ia"
+     ],
+     "score": 9.371,
+     "also": [
+      {
+       "source_id": "medtech_search",
+       "source": "HLTH",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHNfZVVPcnVpRWpDNHo4SDBXejVoaXpxVE5pd3N3aUp2X09zV01SSUVybmUyV0Y2QnNfS2hodG51N0dUVWl3aDE5VXpzcWVndlE1amJyNlF5NmxURlc3NlIzWU9FRGJXQ1N2Sy0yWFNkZjVoOEV6ekhzU1U3NVlrNV96UTFrUUtwblhIeWFZNGp2UXBiNTRnWjhsVmQ5a2xYeWxYbk9hVURkdjA0OHVDMUtkUFVSTm8?oc=5",
+       "title": "DeepHealth Receives FDA Clearance for AI Tool Predicting Five-Year Breast Cancer Risk"
+      }
+     ]
+    },
+    {
+     "id": "dd1725c397",
+     "relevance": 70,
+     "title": "Sanidad ratifica a Pfizer e Hipra como sus elegidas para las vacunas Covid de 2027 y 2028",
+     "url": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261126/sanidad-ratifica-pfizer-hipra-como-sus-elegidas-para-las-vacunas-covid-de/366786_0.html",
+     "source": "Redacción Médica",
+     "source_id": "redaccionmedica",
+     "published": "2026-11-26T11:31:31+00:00",
+     "summary": "Falta por conocer si finalmente Pfizer, única que se ha presentado, se hará con el lote pediátrico de estos fármacos",
+     "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/147759.jpg?p=w:1706/h:960&h=OT57gNym",
+     "topics": [
+      "salud",
+      "pharma"
+     ],
+     "score": 8.362,
+     "also": []
+    },
+    {
+     "id": "a80fb23a27",
+     "relevance": 74,
+     "title": "Cairdac implants autonomous leadless pacemaker in first human study",
+     "url": "https://www.medicaldevice-network.com/news/cairdac-implants-first-human-study/",
+     "source": "Medical Device Network",
+     "source_id": "mdnetwork",
+     "published": "2026-11-26T10:41:05+00:00",
+     "summary": "Cairdac has performed the initial human implantations of its Autonomous Leadless Pacing System (ALPS) under the ASCEND clinical study. The post Cairdac implants autonomous leadless pacemaker in first human study appeared first on Medical Device Network .",
+     "image": null,
+     "topics": [
+      "medtech"
+     ],
+     "score": 8.767,
+     "also": []
+    },
+    {
+     "id": "254bead45c",
+     "relevance": 76,
+     "title": "La industria publicitaria suma un 7% más de empresas en 2025",
+     "url": "https://ipmark.com/industria-publicitaria-suma-mas-empresas-en-2025/",
+     "source": "IPMARK",
+     "source_id": "ipmark",
+     "published": "2026-11-26T14:05:37+00:00",
+     "summary": "En nuestro país se contabilizan 50.574 compañías, en su mayoría microempresas, de las cuales un 31% tiene menos de un año. El mayor número de agencias contrasta con la menor contribución del sector al PIB nacional, que pasa del 1,22% al 1,15% en 2025. La entrada La industria publicitaria suma un 7% más de empresas en 2025 se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y…",
+     "image": null,
+     "topics": [
+      "marketing",
+      "negocios"
+     ],
+     "score": 9.056,
+     "also": []
+    },
+    {
+     "id": "ab14c8318a",
+     "relevance": 71,
+     "title": "Ester García Cosín, nueva directora general de PHD Media en España",
+     "url": "https://ipmark.com/ester-garcia-cosin-directora-general-phd-media-espana/",
+     "source": "IPMARK",
+     "source_id": "ipmark",
+     "published": "2026-11-26T13:04:37+00:00",
+     "summary": "La directiva sustituye a Sandra Sotelo, nombrada CEO de PHD para EMEA el pasado octubre, y asume la dirección de la agencia tras su participación en el proceso de integración de Omnicom Media en España. La entrada Ester García Cosín, nueva directora general de PHD Media en España se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+     "image": null,
+     "topics": [
+      "marketing"
+     ],
+     "score": 8.463,
+     "also": [
+      {
+       "source_id": "reasonwhy",
+       "source": "Reason Why",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1l1aHJkMGUxVWdubHhhM2F4WUJvUFFKWEpvRC1ZVkhiQzlGaTVBYkVjd1RyVlpKZTJMcDlISDQwckhfcXZmTG5JNVZDS3E4MlVXMWNzR0xzOUtScmlIakNfa1BFem5Qc1N6ZlROT0toZUhEUjk3MnozRFlnNmh6N2xhZXlqNUdOTEI1Q1UzZGs3UzFBUENreFNRN3I?oc=5",
+       "title": "Ester García Cosín regresa a la dirección de agencias de medios al frente de PHD España"
+      }
+     ]
+    },
+    {
+     "id": "4caa6ce3bb",
+     "relevance": 62,
+     "title": "La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building»",
+     "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/ia-afianza-agenda-cmo-ponen-simultaneamente-ojitos-brand-building",
+     "source": "Marketing Directo",
+     "source_id": "marketingdirecto",
+     "published": "2026-11-26T09:38:16+00:00",
+     "summary": "El 66% de los CMO contempla la IA como el tema más importante con la vista puesta en el futuro en el seno del departamento de marketing. La entrada La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building» se publicó primero en Marketing Directo .",
+     "image": null,
+     "topics": [
+      "marketing",
+      "ia"
+     ],
+     "score": 7.342,
+     "also": []
+    },
+    {
+     "id": "b47f021e12",
+     "relevance": 65,
+     "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+     "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+     "source": "TechCrunch",
+     "source_id": "techcrunch",
+     "published": "2026-11-25T15:41:43+00:00",
+     "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+     "image": null,
+     "topics": [
+      "ia"
+     ],
+     "score": 7.706,
+     "also": []
+    },
+    {
+     "id": "dc85126b0a",
+     "relevance": 61,
+     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+     "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+     "source": "TechCrunch",
+     "source_id": "techcrunch",
+     "published": "2026-11-25T20:03:27+00:00",
+     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+     "image": null,
+     "topics": [
+      "ia"
+     ],
+     "score": 7.247,
+     "also": []
+    },
+    {
+     "id": "8876a8e90e",
+     "relevance": 41,
+     "title": "Beyond The Label: What The HHS AI Roadmap Means For Healthcare",
+     "url": "https://www.forrester.com/blogs/beyond-the-label-what-the-hhs-ai-roadmap-means-for-healthcare/",
+     "source": "Forrester",
+     "source_id": "forrester",
+     "published": "2026-11-25T14:52:48+00:00",
+     "summary": "The US Department of Health and Human Services has released its Clinical Super Intelligence Roadmap, outlining an ambitious vision for AI that delivers better answers, faster care, and lower costs.",
+     "image": null,
+     "topics": [
+      "ia",
+      "salud",
+      "tech",
+      "marketing"
+     ],
+     "score": 4.932,
+     "also": []
+    },
+    {
+     "id": "768ca23629",
+     "relevance": 34,
+     "title": "The 2027 Gartner Strategic Predictions Explain Why AI Adoption Was the Easy Part",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWHFOR1BWVzdsYjdjbGgzSUlHVlQ1bm52NkpOZDZkRU5hc0dVYzZJMElOV2JoSGc4LVNZa084MmotVGRzY1pSd2ZfR2cwQlJlY3lKV1QzMEdRUC1QeWNEamhETjRhR3M5?oc=5",
+     "source": "Gartner",
+     "source_id": "gartner",
+     "published": "2026-11-19T22:22:10+00:00",
+     "summary": "",
+     "image": null,
+     "topics": [
+      "ia",
+      "tech"
+     ],
+     "score": 4.051,
+     "also": []
+    },
+    {
+     "id": "c2193df545",
+     "relevance": 16,
+     "title": "IQVIA Announces Acquisition of Quotient Sciences",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12NnZrZXp2eVRJRkpIQ2EyV3VyR0Q0elZaZkVRbzA1LUNkNXRhSnhWQzBUbG9xNjFXM0FqLWJTdzdoQzVZQjJHd3dRbUJQdFZfOWpkZUU0QUV3U0NkWkxIYVFQSWdvVzdCTEpYMkY1bGFNYnM1WUZjYUpIaw?oc=5",
+     "source": "IQVIA",
+     "source_id": "iqvia",
+     "published": "2026-11-23T13:11:32+00:00",
+     "summary": "",
+     "image": null,
+     "topics": [
+      "negocios",
+      "pharma"
+     ],
+     "score": 1.931,
+     "also": []
+    }
+   ],
+   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: ConSalud, Forrester, Gartner, IPMARK, IQVIA, Marketing Directo, Medical Device Network, Redacción Médica, TechCrunch, pharmaphorum. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
+   "transcript": [
+    {
+     "speaker": "Lucía",
+     "text": "Buenos días, hoy es jueves, veintiséis de noviembre de dos mil veintiséis."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Comenzamos con la sanidad y los ópticos-optometristas, que a pocos días de las elecciones generales del veintinueve de noviembre han presentado al nuevo Gobierno un decálogo."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Según ConSalud, el Consejo General de Colegios de Ópticos-Optometristas reclama incorporar la salud visual al Sistema Nacional de Salud y crear una Estrategia Estatal."
+    },
+    {
+     "speaker": "Álex",
+     "text": "El presidente del Consejo, Andrés Gené, señala que buscan aprovechar su capacidad asistencial en Atención Primaria con protocolos de derivación y colaboración con Oftalmología."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "También piden actualizar la Ley de Ordenación de las Profesiones Sanitarias para adecuar la regulación a la formación universitaria y a los avances tecnológicos actuales."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Pasamos a la industria farmacéutica con la Administración de Alimentos y Medicamentos de Estados Unidos, que ha autorizado una herramienta de inteligencia artificial de DeepHealth para mamografías tridimensionales."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Según pharmaphorum, la herramienta llamada Mammo Risk predice el riesgo de cáncer de mama a tres, cuatro y cinco años analizando mamografías en tres dimensiones."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Es la primera solución aprobada para mamografía tridimensional y se ha entrenado con doscientos veinte mil estudios, según la compañía."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Un estudio independiente con más de sesenta y cinco mil mamografías en diez centros de Estados Unidos demostró su eficacia en mujeres de raza negra y con mamas densas."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En cuanto a vacunas en España, el Instituto Nacional de Gestión Sanitaria ha ratificado la adjudicación a Pfizer e Hipra para el suministro contra la Covid-19 en el periodo dos mil veintisiete y dos mil veintiocho."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Según Redacción Médica, la Mesa de Contratación validó la documentación este veinticinco de noviembre. Pfizer lidera el lote de ARN mensajero con cien puntos y un presupuesto de ciento sesenta y tres millones de euros."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Hipra encabeza el lote de proteínas recombinantes con su vacuna Bimervax, alcanzando cien puntos frente a los catorce de Sanofi, con un presupuesto de cuarenta y dos millones."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En tecnología médica, la francesa Cairdac ha realizado las primeras implantaciones humanas de su sistema autónomo de estimulación sin cables, conocido como A-L-P-S."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Según Medical Device Network, los procedimientos se hicieron en la República Checa dentro del estudio ASCEND por los profesores Petr Neužil y Vivek Reddy."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "El dispositivo minúsculo utiliza una tecnología sincronizada con el ritmo cardíaco para capturar energía cinética directamente del movimiento del corazón, evitando la dependencia de baterías convencionales."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Cambiamos a marketing y publicidad. Según el Observatorio de la Publicidad en España dos mil veintiséis de la Asociación Española de Anunciantes, el sector sumó un siete por ciento más de empresas en dos mil veinticinco."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Según IPMark, el número de empresas de publicidad y estudios de mercado alcanzó las cincuenta y tres mil cuatrocientos cincuenta y dos firmas, representando el uno con seis por ciento del tejido empresarial español."
+    },
+    {
+     "speaker": "Álex",
+     "text": "La repercusión agregada de la publicidad en el Producto Interior Bruto se redujo del uno con veintidós al uno con quince por ciento, situándose en diecinueve mil cuatrocientos cincuenta y cinco millones de euros."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En nombramientos del sector, Ester García Cosín es la nueva directora general de P-H-D Media en España, relevando a Sandra Sotelo."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Según IPMark y Reason Why, la directiva cuenta con más de treinta años de experiencia y asumirá la estrategia y el desarrollo de negocio en el mercado español."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "El nombramiento llega tras registrar un saldo positivo de cincuenta y seis millones de dólares en nuevo negocio en los primeros nueve meses de dos mil veintiséis, según COMvergence."
+    },
+    {
+     "speaker": "Álex",
+     "text": "En tendencias de marketing, un informe de Serviceplan Group indica que la inteligencia artificial se afianza en la agenda de los directores de marketing."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Según Marketing Directo, el sesenta y seis por ciento de los directivos considera la inteligencia artificial el tema más importante para el futuro de sus departamentos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Ante un presupuesto hipotético de cien euros, los directores invertirían trece con veintidós euros en inteligencia artificial, superando a las inversiones en motores de búsqueda y construcción de marca."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En inteligencia artificial y centros de datos, TechCrunch señala que Nvidia no respaldará ningún centro de datos hasta que esté listo para operar."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Empresas como Arizona Land Consulting preparan terrenos con energía y edificios terminados para desarrolladores y laboratorios de inteligencia artificial ante un posible reajuste del sector en dos mil veintisiete."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Por su parte, OpenAI ha comenzado a fusionar las experiencias de chat y trabajo en ChatGPT para un grupo reducido de usuarios."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Según TechCrunch, un portavoz de OpenAI indicó que la mayoría de los usuarios no sufrirá más límites, pero una pequeña fracción de usuarios intensivos podría alcanzar sus topes antes al compartir un medidor único."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "En análisis de mercado sanitario, un informe de Forrester repasa la hoja de ruta de inteligencia artificial del Departamento de Salud y Servicios Humanos de Estados Unidos."
+    },
+    {
+     "speaker": "Álex",
+     "text": "La consultora destaca cuatro prioridades federales: generar confianza pública, crear bases de datos seguras, establecer reglas claras y pagar por resultados efectivos en la atención médica."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Como predicción estratégica, Gartner ha publicado las perspectivas para dos mil veintisiete, señalando que la adopción inicial de la inteligencia artificial era la parte sencilla."
+    },
+    {
+     "speaker": "Álex",
+     "text": "Finalmente, IQVIA ha anunciado la adquisición de Quotient Sciences, según su último comunicado corporativo de análisis y mercado."
+    },
+    {
+     "speaker": "Lucía",
+     "text": "Hasta aquí la actualidad de hoy."
+    }
+   ]
+  },
+  {
    "date": "2026-11-25",
    "file": "2026-11-25.mp3",
    "title": "La Mañana: Ensayos clínicos en Europa, compra de Insmed y volatilidad en la IA",
