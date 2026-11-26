@@ -1,10 +1,10 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T15:25:59.686653+00:00",
+ "generated_at": "2026-11-26T15:50:49.605995+00:00",
  "stats": {
-  "fetched": 1902,
-  "fresh": 877,
-  "stories": 774,
+  "fetched": 1938,
+  "fresh": 909,
+  "stories": 803,
   "selected": 103
  },
  "brief": null,
@@ -17,19 +17,19 @@
    "items": [
     "6df0e5d25f",
     "91695169e3",
-    "5802d07e50",
     "5db24db3e3",
+    "5802d07e50",
     "0c2c9ae8f6",
+    "44131c221f",
+    "98dffd866a",
     "1759419ed3",
     "2f9e3a7f05",
-    "819beaf1de",
     "254bead45c",
     "a80fb23a27",
     "b63ff3c4fd",
     "ab14c8318a",
-    "dad32772c4",
-    "b47f021e12",
-    "7853491ba1"
+    "c83b68e704",
+    "b47f021e12"
    ]
   },
   {
@@ -48,8 +48,8 @@
     "b44c37dc70",
     "b63ff3c4fd",
     "e1845ee0b5",
-    "1759419ed3",
     "6359c2ce09",
+    "1759419ed3",
     "4caa6ce3bb",
     "e5180f4a40"
    ]
@@ -61,6 +61,7 @@
    "items": [
     "e1845ee0b5",
     "b63ff3c4fd",
+    "c83b68e704",
     "0769f64cce",
     "4499caf6a2",
     "8946d043c4",
@@ -69,8 +70,7 @@
     "687e8c71f9",
     "ceecf9e348",
     "6359c2ce09",
-    "c83b68e704",
-    "ccce013de5"
+    "75529b48bd"
    ]
   },
   {
@@ -85,11 +85,11 @@
     "512d91f610",
     "be94d14891",
     "832537f2e7",
+    "1ddff4a50d",
     "56e10199ef",
     "d2af0f56ee",
     "23a6cf107d",
-    "f103411b78",
-    "18c76792f7"
+    "f103411b78"
    ]
   },
   {
@@ -102,11 +102,11 @@
     "0f3f18b334",
     "dad32772c4",
     "a376682f78",
-    "fadf9b46b8",
     "80f51b62ae",
     "d7653c6b7d",
     "ed7c1ffc63",
-    "c0a3c67b0c"
+    "c0a3c67b0c",
+    "a27e940576"
    ]
   },
   {
@@ -115,8 +115,8 @@
    "short": "España",
    "items": [
     "5db24db3e3",
-    "91695169e3",
     "dc439d9020",
+    "91695169e3",
     "0043d02733",
     "aef88efb7f",
     "9c1c13e264",
@@ -137,10 +137,10 @@
     "4c72c07150",
     "273a2e446d",
     "7c75ea1438",
-    "4f1f643c37",
-    "e8e3695421",
-    "3c6d0a1893",
-    "55d442714c"
+    "77e0266f4b",
+    "55d442714c",
+    "639e0d726d",
+    "9668369b61"
    ]
   },
   {
@@ -154,8 +154,8 @@
     "9248ad2af7",
     "234c135fa3",
     "3fd2ff1dbf",
-    "889b8ef3f8",
     "32ff2a31e7",
+    "889b8ef3f8",
     "8d41e9b628",
     "dc8e487040"
    ]
@@ -169,12 +169,12 @@
     "1759419ed3",
     "dd1725c397",
     "6f9a718205",
+    "fa5d8e74bb",
     "6ad05d340f",
     "c9a93d3c93",
-    "843e7eb867",
     "c20df9dc26",
-    "86454a1dc4",
-    "b0a4a4b367"
+    "843e7eb867",
+    "86454a1dc4"
    ]
   },
   {
@@ -183,15 +183,15 @@
    "short": "MedTech",
    "items": [
     "a80fb23a27",
-    "f0a42e7c1b",
+    "98dffd866a",
     "7853491ba1",
+    "f0a42e7c1b",
     "c964efb942",
     "d58fdcda4c",
     "5d1cc7f58f",
     "ef36aa7867",
     "5088152c8b",
-    "512e5f5aa8",
-    "84f63be9b0"
+    "512e5f5aa8"
    ]
   },
   {
@@ -199,6 +199,7 @@
    "name": "Salud y healthcare",
    "short": "Salud",
    "items": [
+    "44131c221f",
     "0c2c9ae8f6",
     "819beaf1de",
     "dd1725c397",
@@ -206,9 +207,8 @@
     "263c01319f",
     "5802d07e50",
     "91695169e3",
-    "65c0df6bb3",
-    "103182d263",
-    "abd30f99c0"
+    "98dffd866a",
+    "65c0df6bb3"
    ]
   }
  ],
@@ -238,7 +238,7 @@
    "topics": [
     "economia"
    ],
-   "score": 12.333,
+   "score": 12.2,
    "also": [
     {
      "source_id": "elpais",
@@ -268,41 +268,13 @@
     "espana",
     "salud"
    ],
-   "score": 11.872,
+   "score": 11.739,
    "also": [
     {
      "source_id": "optica_es",
      "source": "Infosalus",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGtuakVJZk9jd0V4ZXZ3VWxwamc5cUFTa1ZNU0RtVzhFdGxIZHdGRkR6Wmo0V1MyeXkyTi1WN0FZTlNYTlV5RDVGYzY2YkFFUzdvRS1Bek94cmNDaTBDRG5TT0VKNWo2R1JLOTFrODJCd0J6N0tsSk9HVjBQVzg1OHVmMFFObUZ0aDhGR2xIektQOG9FdDl6YTlWSU5vYjVURjFfTVIzWU5Ob2RyWEVpS254ZjBsSlZZTTBlWGQ5NDRpOTBrNnJobHRGdUJXdmlIbVZsN1JHT2VsVHF0ckE?oc=5",
      "title": "Los ópticos-optometristas reclaman su incorporación en el SNS y una estrategia estatal de salud visual"
-    }
-   ]
-  },
-  "5802d07e50": {
-   "title": "201 farmacias comunitarias y 3 servicios de FH logran aumentar la adherencia de trasplantados",
-   "url": "https://www.diariomedico.com/farmacia/comunitaria/201-farmacias-comunitarias-3-servicios-fh-logran-aumentar-adherencia-trasplantados.html",
-   "source": "Diario Médico",
-   "source_id": "diariomedico",
-   "published": "2026-11-26T11:07:06+00:00",
-   "summary": "Farmacia Comunitaria Lucía de Mingo Colaboración La intervención coordinada de farmacia hospitalaria y comunitaria ha conseguido mantener una elevada tasa de adherencia terapéutica de al menos el 95% en pacientes recién trasplantados a los 18 meses de seguimiento. Además, en ese mismo periodo de seguimiento en farmacia comunitaria, se ha logrado aumentar la tasa de adherencia en 11 puntos porcentuales en pacientes…",
-   "ai_summary": null,
-   "image": "https://statics-diariomedico.uecdn.es/cms/2025-12/trasplante.-alberto-di-lolli.jpg",
-   "topics": [
-    "salud"
-   ],
-   "score": 10.721,
-   "also": [
-    {
-     "source_id": "elglobal",
-     "source": "El Global",
-     "url": "https://elglobalfarma.com/farmacia/colaboracion-farmacias-adherencia-pacientes-trasplantados/",
-     "title": "La colaboración entre farmacias logra hasta un 96% de adherencia en pacientes trasplantados"
-    },
-    {
-     "source_id": "consalud",
-     "source": "ConSalud",
-     "url": "https://www.consalud.es/profesionales/farmacia/la-coordinacion-entre-farmacia-hospitalaria-y-comunitaria-eleva-hasta-el-95-la-adherencia-terapeutica-en-pacientes-trasplantados.html",
-     "title": "La coordinación entre farmacia hospitalaria y comunitaria eleva hasta el 95% la adherencia terapéutica en pacientes trasplantados"
     }
    ]
   },
@@ -318,7 +290,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.71,
+   "score": 10.635,
    "also": [
     {
      "source_id": "elpais",
@@ -331,6 +303,34 @@
      "source": "elEconomista",
      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOckpKX01kXzNSVW5JeDlxa0lzRlVvNkVsQWNKSDc1YTFRemI4ekpkVVdoekFXN3hjTWVUUHd1eXIycUI1c2dxZEN3aE52N2c5dUZzaVdmdW0zeFNTUGVJX1Q5WnJzdDlqMVM0VXRoSHVBaEM1ZVBpdWlDcnNvd3FtMUpVRURONXNfaHZvelF4YVItd2U1dW1nSWJmWEg1MXl6blJIZFRIa2ZWSVBTMlBoS1pMYXhxV1U4V25iRkJwbDRFS2VyTFh0ZHZBUGw4bDlmNi1nRXg5VWJHR2xLVUJRNm1fd3pkbmlGTGs4T0pwaXVGa0JaWVZobTZvZ2RMcjh6YU5lZVRCdU9BWWhHREVkaURESk5HY1pLbHJ4dmZ3TTR3N0NPZmRwalp4VDJfMjB0bzZLWnl3SFjSAaMCQVVfeXFMUE5sek9hM3FhZXcwNXIyMkFneV9GM19NODNQcUxkVGpTbnR6cEQ3NTBOcTVYckNONExKOVVrNEtnbm1iSTAtS0lqMlJTYWU4b3lvWjhnNFo5NDA3OUVDaC1fakN3b0dWcHpKVUNXS1RCaFN2MzBPSnJucDNKS3VNTnhNcldHY0luMnlpaUQwTk9MTzNtMFlVakJ4bmxVYVdtNEYyM1ZCRXFtLVNoa1U0bkJRZm5lNFZFUVNNb3Q1YlpvUXQ3VzRyUjN4bUNhNTY0aS04NDNnQjNfeWNTcFdoakN3RWJYbVhReEFPb2tuYmJ2dlZJMnNseDZxZjVSYzVab2E4RVdyRHVQQ1YwbWc0aGJxNm5nTVo3S002MVlWYTNweWQw?oc=5",
      "title": "A qué hora es el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau hoy, jueves 26 de noviembre de 2026: dónde ver, programación y candidatos"
+    }
+   ]
+  },
+  "5802d07e50": {
+   "title": "201 farmacias comunitarias y 3 servicios de FH logran aumentar la adherencia de trasplantados",
+   "url": "https://www.diariomedico.com/farmacia/comunitaria/201-farmacias-comunitarias-3-servicios-fh-logran-aumentar-adherencia-trasplantados.html",
+   "source": "Diario Médico",
+   "source_id": "diariomedico",
+   "published": "2026-11-26T11:07:06+00:00",
+   "summary": "Farmacia Comunitaria Lucía de Mingo Colaboración La intervención coordinada de farmacia hospitalaria y comunitaria ha conseguido mantener una elevada tasa de adherencia terapéutica de al menos el 95% en pacientes recién trasplantados a los 18 meses de seguimiento. Además, en ese mismo periodo de seguimiento en farmacia comunitaria, se ha logrado aumentar la tasa de adherencia en 11 puntos porcentuales en pacientes…",
+   "ai_summary": null,
+   "image": "https://statics-diariomedico.uecdn.es/cms/2025-12/trasplante.-alberto-di-lolli.jpg",
+   "topics": [
+    "salud"
+   ],
+   "score": 10.614,
+   "also": [
+    {
+     "source_id": "elglobal",
+     "source": "El Global",
+     "url": "https://elglobalfarma.com/farmacia/colaboracion-farmacias-adherencia-pacientes-trasplantados/",
+     "title": "La colaboración entre farmacias logra hasta un 96% de adherencia en pacientes trasplantados"
+    },
+    {
+     "source_id": "consalud",
+     "source": "ConSalud",
+     "url": "https://www.consalud.es/profesionales/farmacia/la-coordinacion-entre-farmacia-hospitalaria-y-comunitaria-eleva-hasta-el-95-la-adherencia-terapeutica-en-pacientes-trasplantados.html",
+     "title": "La coordinación entre farmacia hospitalaria y comunitaria eleva hasta el 95% la adherencia terapéutica en pacientes trasplantados"
     }
    ]
   },
@@ -347,13 +347,51 @@
     "salud",
     "pharma"
    ],
-   "score": 10.324,
+   "score": 10.262,
    "also": [
     {
      "source_id": "fiercepharma",
      "source": "Fierce Pharma (marketing)",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOThlOUVENmg5eExhVm1QSnRmR3RiVDR4ZjdWRVhyMVFTR2RaNk1maWhZcGR6cmxmS3RaZmRIblZ5ZW5YX3ZKMWZIUHBBcDJfeTlGNThNR0oxZjlPYXF2TkQzYm83N2toazN3OFRSOVpEaTJYTlY0T3VNT1Q1WmlYb1Y2M1U1VzBNdlVtQUN0cUFrR0ljX2JHMDlDd3dMZjZFOXRDNFp3?oc=5",
      "title": "Cogent secures 2nd-line approval in rare GI cancer, the first in 20 years"
+    }
+   ]
+  },
+  "44131c221f": {
+   "title": "FEFCI presenta los estándares europeos para garantizar una atención equitativa a los menores con cáncer",
+   "url": "https://www.consalud.es/pacientes/fefci-presenta-los-estandares-europeos-para-garantizar-una-atencion-equitativa-a-los-menores-con-cancer.html",
+   "source": "ConSalud",
+   "source_id": "consalud",
+   "published": "2026-11-26T15:40:23+00:00",
+   "summary": "pacientes: FEFCI presenta los estándares europeos para garantizar una atención equitativa a los menores con cáncer",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud"
+   ],
+   "score": 9.852,
+   "also": []
+  },
+  "98dffd866a": {
+   "title": "GE HealthCare introduces new CT platforms and workflow enhancements",
+   "url": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-new-ct-platforms-and-workflow-enhancements/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-26T11:28:21+00:00",
+   "summary": "The new CT scanners and tools are intended to give clinicians the ability to uncover more detailed imaging insights while streamlining image acquisition protocols. The post GE HealthCare introduces new CT platforms and workflow enhancements appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "salud"
+   ],
+   "score": 9.635,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFJWekFQOFJUMlkwZHRFLVpST2cxS3doekg1RHV5NmJHVWYtTlZqTlpTWUI3YWtVeUNCYXk2ZUVlRkVYTlBUQ1luTDNROWV6ajNOQ1VBZnFWOTZMSXBUX2pzblFXMWY3enhKX2VSaU5OQnlZVVlMUzdCUEdmdWx2WUJSVWZvTTJqamZERXJzVW1GZHdOc2cteUF3UFlWVTQtM0Q1TkhpSFkyV0ZzcnhFbQ?oc=5",
+     "title": "GE HealthCare introduces new CT platforms and workflow enhancements"
     }
    ]
   },
@@ -370,7 +408,7 @@
     "pharma",
     "ia"
    ],
-   "score": 9.354,
+   "score": 9.257,
    "also": [
     {
      "source_id": "medtech_search",
@@ -390,7 +428,7 @@
    "ai_summary": null,
    "image": "https://imagenes.elpais.com/resizer/v2/NYD6YN6FEJF2VB4E2MDMAOLDQ4.jpg?auth=da6e93f6c14320ca4822ca1bfdec735efbf1ebd5de48000c3862b1afd367d237",
    "topics": [],
-   "score": 9.212,
+   "score": 9.116,
    "also": [
     {
      "source_id": "elmundo",
@@ -418,7 +456,7 @@
    "topics": [
     "salud"
    ],
-   "score": 9.17,
+   "score": 9.075,
    "also": []
   },
   "254bead45c": {
@@ -434,7 +472,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 9.039,
+   "score": 8.94,
    "also": []
   },
   "a80fb23a27": {
@@ -449,7 +487,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 8.752,
+   "score": 8.666,
    "also": []
   },
   "b63ff3c4fd": {
@@ -465,7 +503,7 @@
     "ia",
     "tech"
    ],
-   "score": 8.503,
+   "score": 8.434,
    "also": [
     {
      "source_id": "reuters",
@@ -487,7 +525,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 8.448,
+   "score": 8.358,
    "also": [
     {
      "source_id": "reasonwhy",
@@ -510,8 +548,30 @@
     "salud",
     "pharma"
    ],
-   "score": 8.347,
+   "score": 8.263,
    "also": []
+  },
+  "c83b68e704": {
+   "title": "Los 32 mejores chollos de Amazon solo este 26 de noviembre en Black Friday 2026: rebajas de hasta el 65%",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-26-noviembre.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-26T08:27:48+00:00",
+   "summary": "Quedan pocos días para que los descuentos terminen. Encuentra en nuestra lista ese capricho que quieres hacerte y te mereces o ese regalo que tanto buscas",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/SCN7DECI7ZBIBMYIH7GX4REIVE.png?auth=1e076006a3b334622c9c30d36402119c3005022762f7470c7b20275adc7bfcbf",
+   "topics": [
+    "tech"
+   ],
+   "score": 7.985,
+   "also": [
+    {
+     "source_id": "elconfidencial",
+     "source": "El Confidencial",
+     "url": "https://www.elconfidencial.com/tecnologia/2026-11-25/moviles-chollazo-del-black-friday-2026_4472371/",
+     "title": "Móviles en Black Friday 2026: los mejores chollos en Samsung, Xiaomi, Google y TCL"
+    }
+   ]
   },
   "263c01319f": {
    "title": "El cáncer de pulmón sigue avanzando en mujeres, que ya suman casi un tercio de los tumores",
@@ -525,7 +585,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.883,
+   "score": 7.806,
    "also": []
   },
   "dad32772c4": {
@@ -540,7 +600,7 @@
    "topics": [
     "economia"
    ],
-   "score": 7.79,
+   "score": 7.715,
    "also": [
     {
      "source_id": "elmundo",
@@ -562,7 +622,7 @@
    "topics": [
     "ia"
    ],
-   "score": 7.7,
+   "score": 7.663,
    "also": []
   },
   "7853491ba1": {
@@ -573,12 +633,12 @@
    "published": "2026-11-25T14:53:24+00:00",
    "summary": "Lower surgical volumes weighed on results for some top medical device makers in the latest quarter, but not all companies saw an impact. MedTech Dive’s coverage roundup breaks it down.",
    "ai_summary": null,
-   "image": "https://imgproxy.divecdn.com/JroMTiEO1J3X0W6sE138eLmgWx8i_zGjfigjLKYeNeU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcwMTc2NjYxLmpwZw==.webp",
+   "image": "https://imgproxy.divecdn.com/6Tl9xYnA3nofH5sOsqVCz89Rl2KorJfwz614h7hHtYg/g:nowe:0:204/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcwMTc2NjYxLmpwZw==.webp",
    "topics": [
     "medtech",
     "negocios"
    ],
-   "score": 7.425,
+   "score": 7.39,
    "also": [
     {
      "source_id": "medtech_search",
@@ -600,7 +660,7 @@
    "topics": [
     "salud"
    ],
-   "score": 7.4,
+   "score": 7.323,
    "also": []
   },
   "889b8ef3f8": {
@@ -615,7 +675,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 7.392,
+   "score": 7.314,
    "also": [
     {
      "source_id": "marketingdirecto",
@@ -638,7 +698,7 @@
     "marketing",
     "ia"
    ],
-   "score": 7.33,
+   "score": 7.26,
    "also": []
   },
   "dc85126b0a": {
@@ -653,7 +713,7 @@
    "topics": [
     "ia"
    ],
-   "score": 7.24,
+   "score": 7.199,
    "also": []
   },
   "00d3c793ba": {
@@ -668,7 +728,7 @@
    "topics": [
     "ia"
    ],
-   "score": 7.208,
+   "score": 7.167,
    "also": []
   },
   "b44c37dc70": {
@@ -684,7 +744,7 @@
     "ia",
     "marketing"
    ],
-   "score": 7.204,
+   "score": 7.134,
    "also": []
   },
   "0043d02733": {
@@ -699,7 +759,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.105,
+   "score": 7.03,
    "also": []
   },
   "e5180f4a40": {
@@ -716,22 +776,7 @@
     "pharma",
     "salud"
    ],
-   "score": 7.054,
-   "also": []
-  },
-  "abd30f99c0": {
-   "title": "A juicio la “mujer medicina” de Gran Canaria que prometía curar el cáncer con ayahuasca y veneno de sapo",
-   "url": "https://elpais.com/espana/2026-11-26/a-juicio-la-mujer-medicina-de-gran-canaria-que-prometia-curar-el-cancer-con-ayahuasca-y-veneno-de-sapo.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-26T10:25:29+00:00",
-   "summary": "La Fiscalía pide cuatro años de cárcel para la organizadora de rituales neochamánicos en Vecindario. La Policía halló en su local DMT, psilocina y bufotenina",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/JHLJMDUFHRB2RK43XSDCR4Z5XM.jpeg?auth=ebb250bfca2014b49746967c2878600f2ce4c316f0fa7d87f144222300262df1",
-   "topics": [
-    "salud"
-   ],
-   "score": 7.028,
+   "score": 6.981,
    "also": []
   },
   "dc439d9020": {
@@ -746,7 +791,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.011,
+   "score": 6.966,
    "also": []
   },
   "ac7baae785": {
@@ -761,7 +806,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.884,
+   "score": 6.83,
    "also": []
   },
   "687e8c71f9": {
@@ -778,7 +823,7 @@
     "marketing",
     "tech"
    ],
-   "score": 6.739,
+   "score": 6.672,
    "also": []
   },
   "a13c733144": {
@@ -794,7 +839,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.629,
+   "score": 6.591,
    "also": []
   },
   "4e39bda975": {
@@ -809,7 +854,7 @@
    "topics": [
     "espana"
    ],
-   "score": 6.599,
+   "score": 6.527,
    "also": []
   },
   "c9a93d3c93": {
@@ -825,7 +870,7 @@
     "salud",
     "pharma"
    ],
-   "score": 6.558,
+   "score": 6.491,
    "also": []
   },
   "e1845ee0b5": {
@@ -841,7 +886,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.481,
+   "score": 6.451,
    "also": [
     {
      "source_id": "techcrunch",
@@ -850,6 +895,22 @@
      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse"
     }
    ]
+  },
+  "fa5d8e74bb": {
+   "title": "Bayer se suma a la carrera por los ADC chinos con un acuerdo millonario por un candidato en fase I",
+   "url": "https://www.diariomedico.com/medicina/empresas/bayer-suma-carrera-adc-chinos-acuerdo-millonario-candidato-fase-i.html",
+   "source": "Diario Médico",
+   "source_id": "diariomedico",
+   "published": "2026-11-26T15:18:05+00:00",
+   "summary": "Empresas cristinareal Pagará 3.300 millones por Hansoh La multinacional alemana Bayer ha anunciado un acuerdo con la biofarmacéutica china Hansoh Pharma para desarrollar, fabricar y comercializar el compuesto HS-20122, un conjugado anticuerpo-fármaco (ADC, por sus siglas en inglés) biespecífico dirigido contra EGFR y c-MET. La operación contempla un desembolso inicial de 150 millones de dólares y pagos potenciales…",
+   "ai_summary": null,
+   "image": "https://statics-diariomedico.uecdn.es/cms/2026-07/bayer_cross_in_leverkusen_at_nightdefault.jpg",
+   "topics": [
+    "pharma",
+    "salud"
+   ],
+   "score": 6.403,
+   "also": []
   },
   "f0a42e7c1b": {
    "title": "King's manufacturing facility produces its first implantable medical device",
@@ -863,7 +924,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 6.452,
+   "score": 6.387,
    "also": []
   },
   "80f51b62ae": {
@@ -879,7 +940,7 @@
     "ia",
     "economia"
    ],
-   "score": 6.406,
+   "score": 6.371,
    "also": []
   },
   "32ff2a31e7": {
@@ -895,7 +956,7 @@
     "ia",
     "marketing"
    ],
-   "score": 6.384,
+   "score": 6.321,
    "also": []
   },
   "103182d263": {
@@ -911,22 +972,7 @@
     "salud",
     "espana"
    ],
-   "score": 6.341,
-   "also": []
-  },
-  "9248ad2af7": {
-   "title": "Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año",
-   "url": "https://www.marketingdirecto.com/marketing-general/agencias/omnicom-media-lleva-batuta-nuevo-negocio-espana-llevamos-ano",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-26T11:24:32+00:00",
-   "summary": "Entre enero y septiembre de 2026 Omnicom Media generó en nuestro país nuevo negocio valorado en 112 millones de dólares. La entrada Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año se publicó primero en Marketing Directo .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "marketing"
-   ],
-   "score": 6.299,
+   "score": 6.286,
    "also": []
   },
   "6359c2ce09": {
@@ -942,7 +988,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.291,
+   "score": 6.258,
    "also": [
     {
      "source_id": "reuters",
@@ -951,6 +997,21 @@
      "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space"
     }
    ]
+  },
+  "9248ad2af7": {
+   "title": "Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año",
+   "url": "https://www.marketingdirecto.com/marketing-general/agencias/omnicom-media-lleva-batuta-nuevo-negocio-espana-llevamos-ano",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-26T11:24:32+00:00",
+   "summary": "Entre enero y septiembre de 2026 Omnicom Media generó en nuestro país nuevo negocio valorado en 112 millones de dólares. La entrada Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 6.235,
+   "also": []
   },
   "ed7c1ffc63": {
    "title": "La doble cara de Shein: multiplica su beneficio por su salida a bolsa pero las ventas se hunden en Europa y EEUU",
@@ -965,7 +1026,7 @@
     "negocios",
     "economia"
    ],
-   "score": 6.242,
+   "score": 6.183,
    "also": []
   },
   "06e3e1964d": {
@@ -980,7 +1041,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.156,
+   "score": 6.119,
    "also": []
   },
   "f53f55f2d4": {
@@ -995,7 +1056,7 @@
    "topics": [
     "ia"
    ],
-   "score": 6.132,
+   "score": 6.095,
    "also": []
   },
   "c0a3c67b0c": {
@@ -1010,7 +1071,7 @@
    "topics": [
     "economia"
    ],
-   "score": 6.112,
+   "score": 6.053,
    "also": [
     {
      "source_id": "elpais",
@@ -1034,7 +1095,7 @@
     "pharma",
     "salud"
    ],
-   "score": 6.072,
+   "score": 6.031,
    "also": []
   },
   "ceabbaf3a8": {
@@ -1050,7 +1111,7 @@
     "salud",
     "espana"
    ],
-   "score": 6.063,
+   "score": 5.995,
    "also": []
   },
   "234c135fa3": {
@@ -1065,7 +1126,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.962,
+   "score": 5.906,
    "also": []
   },
   "b3e09e75dc": {
@@ -1081,7 +1142,7 @@
     "economia",
     "espana"
    ],
-   "score": 5.922,
+   "score": 5.862,
    "also": []
   },
   "9c1c13e264": {
@@ -1096,7 +1157,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.87,
+   "score": 5.823,
    "also": []
   },
   "6ad05d340f": {
@@ -1112,7 +1173,7 @@
     "pharma",
     "espana"
    ],
-   "score": 5.85,
+   "score": 5.79,
    "also": []
   },
   "aef88efb7f": {
@@ -1127,7 +1188,7 @@
    "topics": [
     "espana"
    ],
-   "score": 5.805,
+   "score": 5.768,
    "also": []
   },
   "3fd2ff1dbf": {
@@ -1142,7 +1203,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 5.752,
+   "score": 5.701,
    "also": []
   },
   "8e879d8edc": {
@@ -1157,7 +1218,7 @@
    "topics": [
     "ia"
    ],
-   "score": 5.724,
+   "score": 5.696,
    "also": []
   },
   "5136ae5bd3": {
@@ -1172,7 +1233,23 @@
    "topics": [
     "optica"
    ],
-   "score": 5.711,
+   "score": 5.672,
+   "also": []
+  },
+  "0769f64cce": {
+   "title": "Software stocks spared in tech rout as AI narrative shifts",
+   "url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-26T05:00:29+00:00",
+   "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech",
+    "ia"
+   ],
+   "score": 5.513,
    "also": []
   },
   "ef36aa7867": {
@@ -1189,23 +1266,7 @@
     "pharma",
     "salud"
    ],
-   "score": 5.562,
-   "also": []
-  },
-  "0769f64cce": {
-   "title": "Software stocks spared in tech rout as AI narrative shifts",
-   "url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "source_id": "ft",
-   "published": "2026-11-26T05:00:29+00:00",
-   "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "tech",
-    "ia"
-   ],
-   "score": 5.559,
+   "score": 5.502,
    "also": []
   },
   "d58fdcda4c": {
@@ -1222,7 +1283,7 @@
     "pharma",
     "salud"
    ],
-   "score": 5.498,
+   "score": 5.471,
    "also": []
   },
   "512d91f610": {
@@ -1237,7 +1298,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 5.483,
+   "score": 5.431,
    "also": []
   },
   "d7653c6b7d": {
@@ -1253,7 +1314,7 @@
     "negocios",
     "economia"
    ],
-   "score": 5.402,
+   "score": 5.366,
    "also": []
   },
   "512e5f5aa8": {
@@ -1268,7 +1329,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 5.394,
+   "score": 5.343,
    "also": [
     {
      "source_id": "medtech_search",
@@ -1290,7 +1351,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.355,
+   "score": 5.302,
    "also": []
   },
   "0f3f18b334": {
@@ -1306,7 +1367,7 @@
     "ia",
     "economia"
    ],
-   "score": 5.169,
+   "score": 5.137,
    "also": []
   },
   "4d5807e802": {
@@ -1322,7 +1383,7 @@
     "marketing",
     "tech"
    ],
-   "score": 5.086,
+   "score": 5.064,
    "also": []
   },
   "6f9a718205": {
@@ -1337,22 +1398,22 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.034,
+   "score": 5.01,
    "also": []
   },
-  "832537f2e7": {
-   "title": "Una web y una aplicación permitirán seguir en tiempo real los resultados electorales",
-   "url": "https://www.elconfidencial.com/espana/2026-11-26/elecciones-generales-resultados-provisionales-app-1tps_4473243/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-26T12:29:00+00:00",
-   "summary": "Las plataformas ofrecerán datos de mesas, participación y escrutinio, además de un simulador para explorar pactos parlamentarios",
+  "77e0266f4b": {
+   "title": "El CAPS El Ombú incorpora oftalmología",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmNlhPb054U1RfbTJlTFhNOXRONlR4LXV5ZllZZHZmdi1idVZYWWxrbGp5andSNXBWNWlTUE9HaE5ZVXVtbmw3SkQzR1V2Nk1MQWc?oc=5",
+   "source": "El Civismo",
+   "source_id": "optica_es",
+   "published": "2026-11-26T15:35:16+00:00",
+   "summary": "",
    "ai_summary": null,
-   "image": "https://images.ecestaticos.com/M6zTVqw309Hj3s9o8w0vQ9Q-eAs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F797%2Fd32%2Fac4%2F797d32ac41d9f434b4802787f5a81041.jpg",
+   "image": null,
    "topics": [
-    "negocios"
+    "optica"
    ],
-   "score": 4.899,
+   "score": 4.964,
    "also": []
   },
   "4f06f88895": {
@@ -1367,7 +1428,22 @@
    "topics": [
     "optica"
    ],
-   "score": 4.879,
+   "score": 4.859,
+   "also": []
+  },
+  "832537f2e7": {
+   "title": "Una web y una aplicación permitirán seguir en tiempo real los resultados electorales",
+   "url": "https://www.elconfidencial.com/espana/2026-11-26/elecciones-generales-resultados-provisionales-app-1tps_4473243/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-26T12:29:00+00:00",
+   "summary": "Las plataformas ofrecerán datos de mesas, participación y escrutinio, además de un simulador para explorar pactos parlamentarios",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/M6zTVqw309Hj3s9o8w0vQ9Q-eAs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F797%2Fd32%2Fac4%2F797d32ac41d9f434b4802787f5a81041.jpg",
+   "topics": [
+    "negocios"
+   ],
+   "score": 4.848,
    "also": []
   },
   "5088152c8b": {
@@ -1382,7 +1458,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 4.816,
+   "score": 4.808,
    "also": [
     {
      "source_id": "medtech_search",
@@ -1392,19 +1468,20 @@
     }
    ]
   },
-  "c83b68e704": {
-   "title": "Los 32 mejores chollos de Amazon solo este 26 de noviembre en Black Friday 2026: rebajas de hasta el 65%",
-   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-26-noviembre.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-26T08:27:48+00:00",
-   "summary": "Quedan pocos días para que los descuentos terminen. Encuentra en nuestra lista ese capricho que quieres hacerte y te mereces o ese regalo que tanto buscas",
+  "1ddff4a50d": {
+   "title": "Integris Medtech IPO Date, Price Band, Issue Size",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5",
+   "source": "IPO Watch",
+   "source_id": "medtech_search",
+   "published": "2026-11-26T11:41:39+00:00",
+   "summary": "",
    "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/SCN7DECI7ZBIBMYIH7GX4REIVE.png?auth=1e076006a3b334622c9c30d36402119c3005022762f7470c7b20275adc7bfcbf",
+   "image": null,
    "topics": [
-    "tech"
+    "medtech",
+    "negocios"
    ],
-   "score": 4.701,
+   "score": 4.702,
    "also": []
   },
   "56e10199ef": {
@@ -1419,52 +1496,22 @@
    "topics": [
     "negocios"
    ],
-   "score": 4.648,
+   "score": 4.603,
    "also": []
   },
-  "4f1f643c37": {
-   "title": "La optometría española pone rumbo a Santiago de Compostela con Optom Meeting 2027",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUFXc19OMzFiRlNxcHNrS2J3MG9ZRWJhWW4wMEpncVNOR1Z3MzRsR3lVVTJxNDRzbktOYlRIOF9vTVdfR0R5MThTT3hlTHFNVUdJTFluekQ2Y2VUYWllWEVOeEtGUFRPTENrUGFvejlSYTRMUkhXcGZnZkNtMl80ZU9ORGpmZUdfLXhXak1faWNDY0lGTXhrV2hfMzljOXJlbmdtMXFkNUI?oc=5",
-   "source": "Modaengafas.com",
-   "source_id": "optica_es",
-   "published": "2026-11-26T12:04:44+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.575,
-   "also": []
-  },
-  "ccce013de5": {
-   "title": "Las Adidas con estampado ‘animal print’ que arrasan en Amazon: rebajadas a menos de 40 euros en Black Friday",
-   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-descuentos-semana-black-friday-adidas-animal-print.html",
+  "a27e940576": {
+   "title": "El problema de la vivienda y las posibles soluciones, explicadas con datos y gráficos",
+   "url": "https://elpais.com/videos/2026-11-26/el-problema-de-la-vivienda-y-las-posibles-soluciones-explicadas-con-datos-y-graficos.html",
    "source": "El País",
    "source_id": "elpais",
-   "published": "2026-11-26T06:10:00+00:00",
-   "summary": "Un diseño que fusiona el ADN deportivo de la marca con una de las tendencias más potentes del momento a un precio difícil de igualar",
+   "published": "2026-11-26T04:30:01+00:00",
+   "summary": "La evolución histórica de la construcción de vivienda en España y lo que se puede hacer en el futuro analizado en un vídeo con gráficos eleborados con la asistencia de la IA",
    "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/P4YUSXOCV5GWHCOSZSKRQ2NDUY.png?auth=2863521b55473edeab378f2f7f71bd6f1c748b3f66b2e627b6bfaad280c2209f",
+   "image": "https://imagenes.elpais.com/resizer/v2/LGYFBITUZNFVXJSTO24ASAV7II.jpg?auth=1b3993e5fb3a31b9ae100ea453e413f8e02c52d41e8b5909d513df553fefb701",
    "topics": [
-    "tech"
+    "economia"
    ],
-   "score": 4.473,
-   "also": []
-  },
-  "843e7eb867": {
-   "title": "La EFPIA considera que la reforma farmacéutica se queda corta: «Se ha desaprovechado la oportunidad de ayudar a Europa a ser competitiva»",
-   "url": "https://elglobalfarma.com/industria/efpia-reforma-farmaceutica-europa-competitiva/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-25T16:09:46+00:00",
-   "summary": "Farmaindustria ha trasladado a El Globalfarma que \"está alineada\" con la posición de la patronal europea The post La EFPIA considera que la reforma farmacéutica se queda corta: «Se ha desaprovechado la oportunidad de ayudar a Europa a ser competitiva» appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 4.461,
+   "score": 4.597,
    "also": []
   },
   "c20df9dc26": {
@@ -1479,22 +1526,38 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.46,
+   "score": 4.439,
    "also": []
   },
-  "b0a4a4b367": {
-   "title": "El Parlamento Europeo culmina la reforma farmacéutica con nueve años de protección regulatoria de base",
-   "url": "https://elglobalfarma.com/politica/parlamento-europeo-aprobacion-definitiva-reforma-farmaceutica/",
+  "843e7eb867": {
+   "title": "La EFPIA considera que la reforma farmacéutica se queda corta: «Se ha desaprovechado la oportunidad de ayudar a Europa a ser competitiva»",
+   "url": "https://elglobalfarma.com/industria/efpia-reforma-farmaceutica-europa-competitiva/",
    "source": "El Global",
    "source_id": "elglobal",
-   "published": "2026-11-25T12:28:37+00:00",
-   "summary": "La Eurocámara da luz verde a la nueva Directiva y al Reglamento de medicamentos, así como a la Ley de Medicamentos Críticos, destinada a reforzar la producción europea y garantizar el suministro de medicamentos esenciales The post El Parlamento Europeo culmina la reforma farmacéutica con nueve años de protección regulatoria de base appeared first on El Globalfarma .",
+   "published": "2026-11-25T16:09:46+00:00",
+   "summary": "Farmaindustria ha trasladado a El Globalfarma que \"está alineada\" con la posición de la patronal europea The post La EFPIA considera que la reforma farmacéutica se queda corta: «Se ha desaprovechado la oportunidad de ayudar a Europa a ser competitiva» appeared first on El Globalfarma .",
    "ai_summary": null,
    "image": null,
    "topics": [
     "pharma"
    ],
-   "score": 4.283,
+   "score": 4.439,
+   "also": []
+  },
+  "75529b48bd": {
+   "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-26T07:19:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 4.381,
    "also": []
   },
   "4499caf6a2": {
@@ -1510,22 +1573,7 @@
     "tech",
     "marketing"
    ],
-   "score": 4.24,
-   "also": []
-  },
-  "be94d14891": {
-   "title": "Las empresas catalanas escriben su 'carta a los Reyes Magos' de la próxima legislatura: menos impuestos y más respaldo público",
-   "url": "https://www.elmundo.es/economia/empresas/2026/11/26/6b082606e4d4d869358b4595.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-26T13:17:41+00:00",
-   "summary": "El XXV Congreso CEDE ha reunido en Barcelona a los primeros ejecutivos de grandes compañías del país a tres días de las elecciones generales Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956965219272.jpg",
-   "topics": [
-    "negocios"
-   ],
-   "score": 4.154,
+   "score": 4.234,
    "also": []
   },
   "8d41e9b628": {
@@ -1541,7 +1589,22 @@
     "marketing",
     "tech"
    ],
-   "score": 4.145,
+   "score": 4.126,
+   "also": []
+  },
+  "be94d14891": {
+   "title": "Las empresas catalanas escriben su 'carta a los Reyes Magos' de la próxima legislatura: menos impuestos y más respaldo público",
+   "url": "https://www.elmundo.es/economia/empresas/2026/11/26/6b082606e4d4d869358b4595.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-26T13:17:41+00:00",
+   "summary": "El XXV Congreso CEDE ha reunido en Barcelona a los primeros ejecutivos de grandes compañías del país a tres días de las elecciones generales Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956965219272.jpg",
+   "topics": [
+    "negocios"
+   ],
+   "score": 4.109,
    "also": []
   },
   "8946d043c4": {
@@ -1557,7 +1620,7 @@
     "tech",
     "marketing"
    ],
-   "score": 4.107,
+   "score": 4.101,
    "also": []
   },
   "4c72c07150": {
@@ -1572,7 +1635,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.084,
+   "score": 4.082,
    "also": []
   },
   "a376682f78": {
@@ -1587,22 +1650,7 @@
    "topics": [
     "economia"
    ],
-   "score": 4.068,
-   "also": []
-  },
-  "fadf9b46b8": {
-   "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-25T20:42:46+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia"
-   ],
-   "score": 4.06,
+   "score": 4.044,
    "also": []
   },
   "273a2e446d": {
@@ -1617,7 +1665,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.041,
+   "score": 4.021,
    "also": []
   },
   "5c30bcc2bc": {
@@ -1632,7 +1680,22 @@
    "topics": [
     "espana"
    ],
-   "score": 4.006,
+   "score": 3.969,
+   "also": []
+  },
+  "7c75ea1438": {
+   "title": "Excimer laser trabeculostomy lowers IOP in glaucoma",
+   "url": "https://www.healio.com/news/ophthalmology/20261124/excimer-laser-trabeculostomy-lowers-iop-in-glaucoma",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-25T15:05:05+00:00",
+   "summary": "NEW ORLEANS — Patients who underwent excimer laser trabeculostomy experienced a reduction in IOP, according to a study presented at the American Academy of Ophthalmology meeting. Mark J. Gallardo, MD, presented 24-month data from the excimer laser trabeculostomy (ELT) study. The study evaluated the safety and effectiveness of ELT in combination with cataract surgery in 318 patients with mild-to-moderate primary open…",
+   "ai_summary": null,
+   "image": "https://www.healio.com/~/media/slack-news/ophthalmology/misc/video-images/2026/osn1126_aao_gallardo_video_og.jpg?w=300",
+   "topics": [
+    "optica"
+   ],
+   "score": 3.946,
    "also": []
   },
   "ceecf9e348": {
@@ -1648,22 +1711,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.965,
-   "also": []
-  },
-  "7c75ea1438": {
-   "title": "Excimer laser trabeculostomy lowers IOP in glaucoma",
-   "url": "https://www.healio.com/news/ophthalmology/20261124/excimer-laser-trabeculostomy-lowers-iop-in-glaucoma",
-   "source": "Healio (ojos)",
-   "source_id": "healio_eye",
-   "published": "2026-11-25T15:05:05+00:00",
-   "summary": "NEW ORLEANS — Patients who underwent excimer laser trabeculostomy experienced a reduction in IOP, according to a study presented at the American Academy of Ophthalmology meeting. Mark J. Gallardo, MD, presented 24-month data from the excimer laser trabeculostomy (ELT) study. The study evaluated the safety and effectiveness of ELT in combination with cataract surgery in 318 patients with mild-to-moderate primary open…",
-   "ai_summary": null,
-   "image": "https://www.healio.com/~/media/slack-news/ophthalmology/misc/video-images/2026/osn1126_aao_gallardo_video_og.jpg?w=300",
-   "topics": [
-    "optica"
-   ],
-   "score": 3.964,
+   "score": 3.94,
    "also": []
   },
   "d2af0f56ee": {
@@ -1679,7 +1727,7 @@
     "ia",
     "negocios"
    ],
-   "score": 3.964,
+   "score": 3.934,
    "also": []
   },
   "23a6cf107d": {
@@ -1695,7 +1743,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 3.894,
+   "score": 3.865,
    "also": []
   },
   "5d1cc7f58f": {
@@ -1710,75 +1758,22 @@
    "topics": [
     "medtech"
    ],
-   "score": 3.779,
+   "score": 3.765,
    "also": []
   },
-  "84f63be9b0": {
-   "title": "Insulet names Todd Trapp as CFO",
-   "url": "https://www.medtechdive.com/news/insulet-names-todd-trapp-as-cfo/875711/",
-   "source": "MedTech Dive",
-   "source_id": "medtechdive",
-   "published": "2026-11-25T14:00:00+00:00",
-   "summary": "Insulet is changing CFOs 14 months after appointing Flavia Pease to the role.",
-   "ai_summary": null,
-   "image": "https://imgproxy.divecdn.com/bKyPPPQw2392XYGvmrvgPkvo0mD115NMdjA__pU5yp4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnN1bGV0X09tbmlwb2RfNV9kZXhjb21fc29jY2VyLmpwZw==.webp",
-   "topics": [
-    "medtech"
-   ],
-   "score": 3.73,
-   "also": [
-    {
-     "source_id": "medtech_search",
-     "source": "MedTech Dive",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05a3ZiczFqanBVRi1vRmtjVm85djJOaG9uX3JCY0hSQmloSElMdHY2ZGFSRVp2V2tFRDJDcHkzT1M2N1JpNjI1YUFYMm1Ub2k0YU9BY1YxYml4OVZxUTdiOS13LWNYazNwaHlnczRrbW1Ra1p1Z3J3dE1UOUg?oc=5",
-     "title": "Insulet names Todd Trapp as CFO"
-    }
-   ]
-  },
-  "18c76792f7": {
-   "title": "¿Cuánto vale un CEO en Bolsa? Del billón de dólares de Elon Musk y Jensen Huang al jet de Steve Jobs",
-   "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/cuanto-vale-un-ceo-en-bolsa-del-billon-de-dolares-de-elon-musk-y-jensen-huang-al-jet-de-steve-jobs.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-26T04:25:00+00:00",
-   "summary": "La resurrección de Jensen Huang reabre el debate sobre la dependencia de los grandes gurús de la IA, convertidos en timoneles de la economía mundial",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/RCBO6TWHOJJORAXDPMVOCU534E.jpg?auth=3c3f017cd7c0ff298b8442c4ec4077494c0a96cd5fc78032fceb6c5700f80375",
-   "topics": [
-    "economia",
-    "negocios"
-   ],
-   "score": 3.721,
-   "also": []
-  },
-  "e8e3695421": {
-   "title": "GoodVision Trains Technicians for New Vision Centers Across Liberia, Bringing Eyecare to Over 600,000 People",
-   "url": "http://www.visionmonday.com/business/article/goodvision-trains-technicians-for-new-vision-centers-across-liberia-bringing-eyecare-to-over-600000-people/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-25T05:18:00+00:00",
-   "summary": "BOSTON—In Liberia, five new Vision Centers are bringing eyecare to existing health facilities in Grand Cape Mount (Sinje, Damballa, Lofa Bridge and WAHO) and Gbarpolu (Emirates Hospital) counties, serving a region with a population of over 600,000 people, GoodVision has shared.",
+  "9668369b61": {
+   "title": "Longer fellow-eye axial length tied to more severe retinal detachment",
+   "url": "https://www.optometrytimes.com/view/longer-fellow-eye-axial-length-tied-to-more-severe-retinal-detachment",
+   "source": "Optometry Times",
+   "source_id": "optometrytimes",
+   "published": "2026-11-25T11:00:00+00:00",
+   "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
     "optica"
    ],
-   "score": 3.45,
-   "also": []
-  },
-  "3c6d0a1893": {
-   "title": "EssilorLuxottica Unifies NA Optical Retail, Medical and Surgical Businesses Under New Organization",
-   "url": "http://www.visionmonday.com/business/article/essilorluxottica-unifies-na-optical-retail-medical-and-surgical-businesses-under-new-organization-1/",
-   "source": "Vision Monday",
-   "source_id": "visionmonday",
-   "published": "2026-11-24T05:30:00+00:00",
-   "summary": "NEW YORK— EssilorLuxottica (Reuters: ESLX.PA) has announced a new unified leadership model across its optical retail, medical and surgical businesses in North America, creating a new organization called Optical Retail, Medical & Surgical North America (ORMS). The model aims to connect each step of the patient journey, the company said, from refraction to medical diagnosis, treatment, and, when needed, surgery, while…",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 3.12,
+   "score": 3.003,
    "also": []
   },
   "dc8e487040": {
@@ -1793,7 +1788,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 2.973,
+   "score": 2.957,
    "also": []
   },
   "55d442714c": {
@@ -1808,7 +1803,22 @@
    "topics": [
     "optica"
    ],
-   "score": 2.955,
+   "score": 2.949,
+   "also": []
+  },
+  "639e0d726d": {
+   "title": "Silverstone RGB platform extends boundaries of retinal imaging",
+   "url": "https://www.healio.com/news/ophthalmology/20261124/silverstone-rgb-platform-extends-boundaries-of-retinal-imaging",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-24T19:31:46+00:00",
+   "summary": "VIENNA — Ultra-widefield multimodal imaging offers distinct advantages and has become the modern gold standard for the diagnosis and objective monitoring of retinal diseases, according to a specialist. A symposium at the Euretina congress explored the many applications of ultra-widefield (UWF) multimodal imaging with the Optos Silverstone RGB platform and highlighted the transformative impact of this technology on…",
+   "ai_summary": null,
+   "image": "https://www.healio.com/~/media/slack-news/ophthalmology/misc/infographics/2026/osn1126_euretina_stanga_video_infographic.jpg?w=300",
+   "topics": [
+    "optica"
+   ],
+   "score": 2.93,
    "also": []
   },
   "f103411b78": {
@@ -1823,7 +1833,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 2.722,
+   "score": 2.71,
    "also": []
   },
   "8876a8e90e": {
@@ -1841,7 +1851,7 @@
     "tech",
     "marketing"
    ],
-   "score": 4.928,
+   "score": 4.905,
    "also": []
   },
   "cfe1d18872": {
@@ -1858,7 +1868,7 @@
     "marketing",
     "tech"
    ],
-   "score": 4.668,
+   "score": 4.646,
    "also": []
   },
   "768ca23629": {
@@ -1890,7 +1900,7 @@
     "ia",
     "tech"
    ],
-   "score": 2.602,
+   "score": 2.584,
    "also": []
   },
   "c2193df545": {
@@ -1906,7 +1916,7 @@
     "negocios",
     "pharma"
    ],
-   "score": 1.931,
+   "score": 1.93,
    "also": []
   },
   "77cf6c3edf": {
@@ -1922,7 +1932,7 @@
     "ia",
     "tech"
    ],
-   "score": 1.887,
+   "score": 1.885,
    "also": []
   },
   "7d4a041160": {
@@ -1938,7 +1948,7 @@
     "ia",
     "tech"
    ],
-   "score": 1.831,
+   "score": 1.83,
    "also": []
   },
   "86e17d6a37": {
@@ -1977,7 +1987,7 @@
    "id": "elpais",
    "name": "El País",
    "via": "rss",
-   "count": 230,
+   "count": 232,
    "ok": true,
    "errors": []
   },
@@ -1985,7 +1995,7 @@
    "id": "elmundo",
    "name": "El Mundo",
    "via": "rss",
-   "count": 80,
+   "count": 83,
    "ok": true,
    "errors": []
   },
@@ -1993,7 +2003,7 @@
    "id": "elconfidencial",
    "name": "El Confidencial",
    "via": "rss",
-   "count": 40,
+   "count": 45,
    "ok": true,
    "errors": []
   },
@@ -2074,10 +2084,12 @@
   {
    "id": "visionmonday",
    "name": "Vision Monday",
-   "via": "rss",
-   "count": 10,
+   "via": "google-news",
+   "count": 30,
    "ok": true,
-   "errors": []
+   "errors": [
+    "https://www.visionmonday.com/rss/latest-news/: TimeoutError: The read operation timed out"
+   ]
   },
   {
    "id": "healio_eye",
@@ -2099,7 +2111,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 47,
+   "count": 43,
    "ok": true,
    "errors": []
   },
@@ -2187,7 +2199,7 @@
    "id": "mmm",
    "name": "MM+M",
    "via": "google-news",
-   "count": 18,
+   "count": 19,
    "ok": true,
    "errors": []
   },
@@ -2219,7 +2231,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 91,
+   "count": 100,
    "ok": true,
    "errors": []
   },
