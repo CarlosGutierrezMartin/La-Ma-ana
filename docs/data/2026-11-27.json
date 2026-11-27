@@ -1,0 +1,2156 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T15:10:27.303089+00:00",
+ "stats": {
+  "fetched": 1861,
+  "fresh": 794,
+  "stories": 722,
+  "selected": 97
+ },
+ "brief": null,
+ "ai_model": null,
+ "sections": [
+  {
+   "id": "top",
+   "name": "Lo más relevante",
+   "short": "Portada",
+   "items": [
+    "11e500ffa6",
+    "2b1265f29b",
+    "3eb8625cdd",
+    "9a1fe6462d",
+    "1812d87bd2",
+    "93472c1a4d",
+    "f3c2a5b9c4",
+    "f529d7c259",
+    "82237839a7",
+    "83d192b296",
+    "567e3d1fe6",
+    "bd3b90e035",
+    "7f7fc9eef3",
+    "78823f102f",
+    "9d3c136eca"
+   ]
+  },
+  {
+   "id": "ia",
+   "name": "Inteligencia artificial",
+   "short": "IA",
+   "items": [
+    "3a851e04d7",
+    "9a1fe6462d",
+    "93472c1a4d",
+    "94305b427e",
+    "9d3c136eca",
+    "b44c37dc70",
+    "f80545a51c",
+    "bd3b90e035",
+    "8d2804ba0c",
+    "f2be24a804",
+    "954782265f",
+    "2aeacf6659",
+    "4caa6ce3bb",
+    "e5180f4a40",
+    "1759419ed3"
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tecnología y big tech",
+   "short": "Tech",
+   "items": [
+    "83d192b296",
+    "a1c415a79c",
+    "4499caf6a2",
+    "8946d043c4",
+    "bd3b90e035",
+    "94305b427e",
+    "f80545a51c",
+    "777dde2c1c",
+    "95ef5039da",
+    "bb64c88577",
+    "aac47d1644",
+    "e08a67c02b"
+   ]
+  },
+  {
+   "id": "negocios",
+   "name": "Empresas y negocios",
+   "short": "Negocios",
+   "items": [
+    "2b1265f29b",
+    "42f547519f",
+    "83d192b296",
+    "aa1a74a905",
+    "7853491ba1",
+    "c4deda4af5",
+    "304c6a3913",
+    "1c648f8f7e",
+    "2704af33d4",
+    "95ef5039da",
+    "1b1f214221",
+    "dd67c5f3d7"
+   ]
+  },
+  {
+   "id": "economia",
+   "name": "Economía y mercados",
+   "short": "Economía",
+   "items": [
+    "820c9b3f22",
+    "a1b7694ef1",
+    "fec2c2c6c7",
+    "9907156804",
+    "e9da2d6494",
+    "3063b7c5b2",
+    "b9861fba4f",
+    "25e9c6f22c",
+    "0ba06f0bd5",
+    "cf3770201f"
+   ]
+  },
+  {
+   "id": "espana",
+   "name": "España",
+   "short": "España",
+   "items": [
+    "3eb8625cdd",
+    "f529d7c259",
+    "cf752d1193",
+    "d8f59895e0",
+    "78823f102f",
+    "2aeacf6659",
+    "304c6a3913",
+    "ad9b46b5d3",
+    "282206b712",
+    "31719da306"
+   ]
+  },
+  {
+   "id": "optica",
+   "name": "Óptica y optometría",
+   "short": "Óptica",
+   "items": [
+    "7ec5cc2013",
+    "5136ae5bd3",
+    "4f06f88895",
+    "9f464e308b",
+    "bd3b90e035",
+    "273a2e446d",
+    "7c75ea1438",
+    "e8e3695421",
+    "9fba509ad9",
+    "55d442714c"
+   ]
+  },
+  {
+   "id": "marketing",
+   "name": "Marketing y publicidad",
+   "short": "Marketing",
+   "items": [
+    "93472c1a4d",
+    "7f7fc9eef3",
+    "c4deda4af5",
+    "4caa6ce3bb",
+    "9248ad2af7",
+    "8d2804ba0c",
+    "8d41e9b628",
+    "41979f2d15",
+    "0e759b6aef",
+    "3e4290bd35"
+   ]
+  },
+  {
+   "id": "pharma",
+   "name": "Industria y marketing farmacéutico",
+   "short": "Pharma",
+   "items": [
+    "41979f2d15",
+    "f3c2a5b9c4",
+    "ba0c0a0c98",
+    "5faf0e6f19",
+    "1759419ed3",
+    "bd3b90e035",
+    "567e3d1fe6",
+    "6ad05d340f",
+    "c9a93d3c93",
+    "a10206dbd7"
+   ]
+  },
+  {
+   "id": "medtech",
+   "name": "Medical devices",
+   "short": "MedTech",
+   "items": [
+    "11e500ffa6",
+    "9a1fe6462d",
+    "a80fb23a27",
+    "8f67a85581",
+    "d14adaea61",
+    "970b3abded",
+    "7853491ba1",
+    "c964efb942",
+    "d58fdcda4c",
+    "bd3b90e035"
+   ]
+  },
+  {
+   "id": "salud",
+   "name": "Salud y healthcare",
+   "short": "Salud",
+   "items": [
+    "11e500ffa6",
+    "1812d87bd2",
+    "82237839a7",
+    "015297f4b7",
+    "819beaf1de",
+    "cf752d1193",
+    "807942d87d",
+    "567e3d1fe6",
+    "301d0a2bfe",
+    "4dd12c3728"
+   ]
+  }
+ ],
+ "analysis": [
+  "8876a8e90e",
+  "f2be24a804",
+  "4499caf6a2",
+  "cfe1d18872",
+  "8946d043c4",
+  "8dc114fd2b",
+  "c2193df545",
+  "77cf6c3edf",
+  "7d4a041160",
+  "f500fcecdd",
+  "86e17d6a37",
+  "dca6429eba"
+ ],
+ "items": {
+  "11e500ffa6": {
+   "title": "UK hospital completes world-first implantation of new Medtronic pacemaker",
+   "url": "https://www.medicaldevice-network.com/news/uk-hospital-completes-world-first-implantation-of-new-medtronic-pacemaker/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-27T13:50:04+00:00",
+   "summary": "Medtronic’s Restoria uses conduction system pacing to directly targets the heart’s natural electrical pathways versus non-selective stimulation as with traditional pacemakers. The post UK hospital completes world-first implantation of new Medtronic pacemaker appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "salud"
+   ],
+   "score": 17.354,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXgySjE5Q3JLNE8tWE9oTnJYcHRxS1pSazZtSGtFOTBQd09IOTlKYUNPaWdxZE1TaW5laTFsUGhXOUhKNjVQV2RoaUdVVGZWdHFhc25FSm5lY2loVmpkSUpjN2h6aVdnUENFakhPTzdGaGFlZEllNjRiOGo1a2NtMmlTTUpwWmJSWEIyODJzUG9HbVhWdEFaWlZmQmtJZ1l6TGFvWVhBVXp4Ym1OSTZXMVZfdlBaNWtZ?oc=5",
+     "title": "UK hospital completes world-first implantation of new Medtronic pacemaker"
+    }
+   ]
+  },
+  "2b1265f29b": {
+   "title": "El Santander refuerza su modelo de empresas en España con cambios en sus directores territoriales",
+   "url": "https://cincodias.elpais.com/companias/2026-11-27/el-santander-refuerza-su-modelo-de-empresas-en-espana-con-cambios-en-sus-directores-territoriales.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T12:10:52+00:00",
+   "summary": "La entidad nombra siete nuevos directores territoriales para Madrid, Andalucía, Galicia, Castilla La Mancha, Castilla y León, Canarias y Baleares",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/FTWTDRDRRVL5XK5DFUQITCPV5Q.jpg?auth=0b8354aa406a4b452bb1cf5d793c75a0fe70d8388d5a53e92ef55c31dd67f1bb",
+   "topics": [
+    "negocios"
+   ],
+   "score": 11.635,
+   "also": [
+    {
+     "source_id": "elmundo",
+     "source": "El Mundo",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/27/6b0978e3e85eceb9638b4587.html",
+     "title": "Banco Santander potencia su negocio de empresas en España con relevos en siete Direcciones Territoriales del país"
+    }
+   ]
+  },
+  "3eb8625cdd": {
+   "title": "Sánchez confía en revalidar el Gobierno progresista sin depender de Junts y Feijóo insiste en que los socios del PSOE han estado “calladitos y calladitas”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/sanchez-confia-en-revalidar-el-gobierno-progresista-sin-depender-de-junts-y-feijoo-insiste-en-que-los-socios-del-psoe-han-estado-calladitos-y-calladitas.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T11:23:39+00:00",
+   "summary": "El candidato socialista pide una mayoría de izquierdas para avanzar en medidas sobre vivienda y el líder popular reitera la construcción de un millón de casas",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/LACMVWCYGBB2ZOGWMKVGUYLNBI.jpg?auth=202ba79d5663e69f6b9fd53c4562050cf175541048d7ccb2c024c788b2ad0ccd",
+   "topics": [
+    "espana"
+   ],
+   "score": 10.501,
+   "also": []
+  },
+  "9a1fe6462d": {
+   "title": "Medica 2026: Consumers open to AI-based medtech, but personal touch remains key",
+   "url": "https://www.medicaldevice-network.com/news/medica-2026-consumers-open-to-ai-based-medtech-but-personal-touch-remains-key/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-27T11:25:28+00:00",
+   "summary": "DNV surveyed 12,500 consumers for their perceived trust and acceptance levels around medical devices and IVDs. The post Medica 2026: Consumers open to AI-based medtech, but personal touch remains key appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "ia"
+   ],
+   "score": 10.192,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX0tTRmZ2djQyQk45RkdZc09TMG5ISEVyV0hTNEdVOTZhb0xoTnhETDNXTWxWWk1weXZzaW82cnFWY3pmaDVFM1lKYm1SVHRNbmNNZXJYYXIyaV82RWlWRkE0RTNGQ3l2eVpQSks2aTdDUjBIaHRvRExySWZfTUVxU1hPUHFGU3cxeTJIZXlkb2tmSVctbU5VZ0lFSW9mQnpyUjZJZlEtY0dNYkhnN2RoMVN6VEY1eXU2TTFqcG9n?oc=5",
+     "title": "Medica 2026: Consumers open to AI-based medtech, but personal touch remains key"
+    }
+   ]
+  },
+  "1812d87bd2": {
+   "title": "\"El silencio roto\", una historia de superación tras un diagnóstico de cáncer de cabeza y cuello",
+   "url": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261127/el-silencio-roto-una-historia-de-superacion-tras-un-diagnostico-cancer-cabeza-cuello/367122_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-27T14:28:02+00:00",
+   "summary": "El documental narra la historia de Marcelo Chorny, quien, tras sobrevivir a un cáncer de laringe, se propuso correr la maratón de Madrid Y además: Sensibilización, IA, diagnóstico hipertemprano e investigación, los grandes aliados ante la necesidad de \"anticiparse al cáncer\"",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160948.jpg?p=w:1706/h:960&h=VnGLXx-A",
+   "topics": [
+    "salud"
+   ],
+   "score": 9.807,
+   "also": []
+  },
+  "93472c1a4d": {
+   "title": "El criterio humano, la ventaja competitiva del marketing frente a la IA",
+   "url": "https://ipmark.com/criterio-humano-ventaja-competitiva-de-marketing-frente-a-ia/",
+   "source": "IPMARK",
+   "source_id": "ipmark",
+   "published": "2026-11-27T11:29:39+00:00",
+   "summary": "Los anunciantes advierten de los riesgos de la homogeneización publicitaria y reclaman mayor supervisión humana y pensamiento crítico. La entrada El criterio humano, la ventaja competitiva del marketing frente a la IA se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing",
+    "ia"
+   ],
+   "score": 9.529,
+   "also": []
+  },
+  "a1c415a79c": {
+   "title": "Las 40 mejores ofertas de Amazon hoy por Black Friday: descuentos de hasta el 79%",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T13:10:15+00:00",
+   "summary": "Disfruta de una selección de superventas de grandes marcas muy rebajados (y también con precios mínimos históricos) en las principales categorías de compra",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/ED3L2XP2AFAFZA7TBTE6YLSM4E.png?auth=2dbfecf0c02662157236d0f963e73f85d331107549c2ea2ee5fb7727733d3d77",
+   "topics": [
+    "tech"
+   ],
+   "score": 9.094,
+   "also": [
+    {
+     "source_id": "elmundo",
+     "source": "El Mundo",
+     "url": "https://www.elmundo.es/ofertas-regalos/2026/11/27/6b084310fdddffb9248b4573.html",
+     "title": "Black Friday en Amazon, las ofertas que están arrasando, en directo: el Fire TV Stick HD al 65%, Under Armour al 50%, cremas de L'Oréal a mitad de precio..."
+    }
+   ]
+  },
+  "d8f59895e0": {
+   "title": "Discursos de odio: PSOE y Frente Amplio plantean proteger a colectivos, el PP endurecer las penas y Vox alimenta la hostilidad",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/discursos-de-odio-psoe-y-frente-amplio-plantean-proteger-a-colectivos-el-pp-endurecer-las-penas-y-vox-alimenta-la-hostilidad.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T14:44:37+00:00",
+   "summary": "Interior registra un aumento del 23,6% en delitos e incidentes discriminatorios durante 2025, mientras los extremismos son una preocupación para los españoles según el CIS",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/2HKGONNYFFFULIZI2BDVOVHAII.jpg?auth=47ad24d5c4d448ebd824c50ae27d35d07ad76a5ee6464a0e4d7a1e7c5b0a1a9d",
+   "topics": [
+    "espana"
+   ],
+   "score": 9.091,
+   "also": []
+  },
+  "f3c2a5b9c4": {
+   "title": "El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves",
+   "url": "https://elglobalfarma.com/politica/boe-estatuto-aemps-claves/",
+   "source": "El Global",
+   "source_id": "elglobal",
+   "published": "2026-11-27T11:33:27+00:00",
+   "summary": "Uno de los principales cambios es la creación de una Dirección Adjunta, que asumirá funciones de gestión y coordinación de las relaciones institucionales con las administraciones y organismos competentes The post El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves appeared first on El Globalfarma .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 9.09,
+   "also": [
+    {
+     "source_id": "consalud",
+     "source": "ConSalud",
+     "url": "https://www.consalud.es/industria/farmaceutica/publicado-en-el-boe-el-nuevo-estatuto-de-la-aemps-por-el-que-se-crea-una-direccion-adjunta.html",
+     "title": "El BOE publica el nuevo Estatuto de la Aemps por el que se crea una Dirección Adjunta"
+    }
+   ]
+  },
+  "f529d7c259": {
+   "title": "La campaña del 'todo por la patria' de Sánchez con banderas y la mili para sumar votos: \"Los símbolos no son sólo de PP y Vox\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b096724fc6c83cf3e8b4570.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-27T11:31:03+00:00",
+   "summary": "El líder del PSOE ondea en sus mítines distintas enseñas -la última vez este viernes en Extremadura; está por ver si lo hace con la de Madrid- y presume de mili Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957807784211.gif",
+   "topics": [
+    "espana"
+   ],
+   "score": 9.081,
+   "also": []
+  },
+  "82237839a7": {
+   "title": "La fórmula para atraer sanitarios más allá del sueldo: de la cooperación hospitalaria al bienestar personal",
+   "url": "https://www.redaccionmedica.com/politica/20261127/la-formula-para-atraer-sanitarios-mas-alla-del-sueldo-de-la-cooperacion-hospitalaria-al-bienestar-personal/366935_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-27T10:43:21+00:00",
+   "summary": "Distintos hospitales presentan sus programas para la retención y atracción de talento asistencial, un objetivo complejo tanto en el ámbito urbano como el rural. Y además: Jara: \"El gran reto de la sanidad es la sostenibilidad social y organizativa\"",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160816.jpg?p=w:1706/h:960&h=UJP_9lHk",
+   "topics": [
+    "salud"
+   ],
+   "score": 8.904,
+   "also": []
+  },
+  "83d192b296": {
+   "title": "Jeff Bezos, empresario, 62 años: \"Amazon nunca fue el plan B. Si no hubiese salido, habría sido un programador de software extremadamente feliz\"",
+   "url": "https://www.elconfidencial.com/tecnologia/2026-11-27/jeff-bezos-empresario-62-anos_4473974/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-27T10:55:00+00:00",
+   "summary": "Jeff Bezos, fundador de Amazon y uno de los empresarios más reconocidos del sector tecnológico, ha desvelado qué habría sido de su carrera profesional si su",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/RJKBgfj8Kt3CBw71Zto1tWqvtCI=/0x0:2272x1537/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F548%2F040%2F70a54804025ee23a4cc1710cbb58ac9f.jpg",
+   "topics": [
+    "tech",
+    "negocios"
+   ],
+   "score": 8.499,
+   "also": []
+  },
+  "567e3d1fe6": {
+   "title": "Cataluña llevará la PrEP a atención primaria y farmacias a partir de 2027",
+   "url": "https://elglobalfarma.com/farmacia/cataluna-prep-atencion-primaria-farmacias-2027/",
+   "source": "El Global",
+   "source_id": "elglobal",
+   "published": "2026-11-27T09:16:46+00:00",
+   "summary": "El nuevo modelo aumentará progresivamente la capacidad del sistema sanitario para ofrecer este tratamiento preventivo a las personas con mayor riesgo de contraer el VIH The post Cataluña llevará la PrEP a atención primaria y farmacias a partir de 2027 appeared first on El Globalfarma .",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2022/10/202209-medicamentos-vih-sida-1200x800.jpg",
+   "topics": [
+    "salud",
+    "pharma"
+   ],
+   "score": 8.173,
+   "also": [
+    {
+     "source_id": "diariofarma",
+     "source": "Diariofarma",
+     "url": "https://diariofarma.com/2026/11/26/cataluna-incorporara-las-oficinas-de-farmacia-y-atencion-primaria-al-circuito-de-la-prep",
+     "title": "Cataluña incorporará a las oficinas de farmacia y atención primaria al circuito de la PrEP"
+    }
+   ]
+  },
+  "3a851e04d7": {
+   "title": "DPAM señala a Anthropic y OpenAI entre las grandes perjudicadas por el regreso de Jensen Huang",
+   "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/dpam-senala-a-anthropic-y-openai-entre-las-grandes-perjudicadas-por-el-regreso-de-jensen-huang.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T04:25:00+00:00",
+   "summary": "La gestora cree que a las desarrolladoras les interesa que Nvidia se debilite y surjan más competidores en semiconductores",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/NNF4KWYIWNO6VKKNRDH6C4YUU4.jpg?auth=0115454a3ef29989f04bc452ff0812c1c15c9b1a90c80d41cdad657fa306864e",
+   "topics": [
+    "ia"
+   ],
+   "score": 8.138,
+   "also": []
+  },
+  "301d0a2bfe": {
+   "title": "En los comités clínicos del aborto no entran médicos objetores registrados en los tres últimos años",
+   "url": "https://www.diariomedico.com/medicina/politica/comites-clinicos-aborto-entran-medicos-objetores-registrados-tres-ultimos-anos.html",
+   "source": "Diario Médico",
+   "source_id": "diariomedico",
+   "published": "2026-11-27T11:06:00+00:00",
+   "summary": "Política y Normativa soledadvalle RD El Boletín Oficial del Estad o (BOE) ha publicado el Real Decreto que regula la información previa al consentimiento que se da a la mujer que quiere abortar y el funcionamiento de los comités clínicos del aborto. El objetivo en cuanto a la información es que esta \"sea veraz, clara, objetiva, comprensible, accesible y actualizada\" y, además, que no dependa de la comunidad autónoma…",
+   "ai_summary": null,
+   "image": "https://statics-diariomedico.uecdn.es/cms/2024-05/embarazo_ecografia.jpg",
+   "topics": [
+    "salud"
+   ],
+   "score": 8.088,
+   "also": [
+    {
+     "source_id": "redaccionmedica",
+     "source": "Redacción Médica",
+     "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261127/la-paciente-podra-elegir-un-medico-para-estar-en-el-comite-clinico-de-su-aborto/366956_0.html",
+     "title": "La paciente podrá elegir a un médico para estar en el comité clínico de su aborto"
+    }
+   ]
+  },
+  "970b3abded": {
+   "title": "Dongwoon secures digital medical device GMP certification in South Korea",
+   "url": "https://www.medicaldevice-network.com/news/dongwoon-medical-device-gmp-certification-korea/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-27T09:16:49+00:00",
+   "summary": "South Korea's MFDS has granted digital medical device manufacturing GMP certification to Dongwoon Anatech for its D-SaLife saliva-based glucose monitoring system. The post Dongwoon secures digital medical device GMP certification in South Korea appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 7.743,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "Medical Device Network",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVZXdi10am56QmJUM3pjbnlsNTFIWDBUTHc0bEVPdWhuTG91OWpqbk9uN3RvM095SGRtZE5QUHh1TjF2cHRWdF95cVVjTk9neTk4elVwT2RfSkRQU0lZU3FUZm1KSHlGY0NhcnJZZzFYTnpjZm1TemZLWTJSUFhibzRXMzNZblJmVzVNV0ltNEhfWlUxTXc?oc=5",
+     "title": "Dongwoon secures digital medical device GMP certification in Korea"
+    }
+   ]
+  },
+  "cf752d1193": {
+   "title": "El debate contrapone la sanidad universal de PSOE y Frente Amplio al plan gestor del PP y a la prioridad nacional de Vox",
+   "url": "https://www.redaccionmedica.com/politica/20261126/el-debate-contrapone-la-sanidad-universal-de-psoe-frente-amplio-al-plan-gestor-del-pp-prioridad-nacional-vox/366948_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-26T22:54:31+00:00",
+   "summary": "Sánchez rechaza que una UCI dependa del bolsillo y Colau saca pecho de la gestión del Ministerio de Sanidad mientras ataca los cribados en Andalucía; Feijóo se escuda en los ceses tras esos casos y señala la gestión sobre Ceuta y Melilla, frente a un Abascal que liga listas de espera e inmigración Y además: Debate | Sánchez promete llegar al 7% del PIB en sanidad mientras Feijóo recuerda su experiencia gestora",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/160813.jpg?p=w:1706/h:960&h=OO0rbyMC",
+   "topics": [
+    "espana",
+    "salud"
+   ],
+   "score": 7.587,
+   "also": []
+  },
+  "fec2c2c6c7": {
+   "title": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
+   "url": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T08:00:08+00:00",
+   "summary": "El Gobierno adelanta el anuncio de la revalorización de las mínimas y las no contributivas, que mejorarán entre el 8,8% y el 14,2%. El Ingreso Mínimo Vital aumentará un 14,1%",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/X5OIUMOA5RAZHGOFPVNVGCZMLA.jpg?auth=db188a7aba1a177bc231cdd37d4973412ca0075ecb8a851d53df180f409a47f2",
+   "topics": [
+    "economia"
+   ],
+   "score": 7.521,
+   "also": [
+    {
+     "source_id": "elconfidencial",
+     "source": "El Confidencial",
+     "url": "https://www.elconfidencial.com/economia/2026-11-27/gobierno-revalorizara-pensiones-3-5-en-2027_4473744/",
+     "title": "El Gobierno subirá las pensiones un 3,5% en 2027"
+    }
+   ]
+  },
+  "bd3b90e035": {
+   "title": "Mediwhale Announces First FDA 510(k) Clearance for Its Retinal-AI Cardiovascular Risk Assessment Software",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUGNrSUNyVXdLd2Ezdk1Fcjl6dWdFNWR6dTVpUGV1b2tEOWlob1VTTndtdlFDUzNaX0lPSWlmZmF2V1oxNzZPOF9UcmFjeEdQLVFmN0xCVGtHUXFkTWNvM2R4VjJBdEk5b1BTTkVnME9DWm9aTlN2SG50bl8tdTJNUmZjbGg4bWZUd3c2bHc3c3p3WGxaVzl6SFdyb2paQkIwUFRSOFdoLTNIOFFRajd1aGlTRFF1blNhSVVNWGEwVmd6MENpRkhBaHc2eU1feUdUdnJ4X1B3WkN4cERUalVFa2VlM3lGSUJoMXJUTlNFaHc?oc=5",
+   "source": "PR Newswire",
+   "source_id": "medtech_search",
+   "published": "2026-11-27T14:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "ia",
+    "tech",
+    "optica",
+    "pharma"
+   ],
+   "score": 7.43,
+   "also": []
+  },
+  "7f7fc9eef3": {
+   "title": "Addoor firma un acuerdo con Público para gestionar su publicidad nativa",
+   "url": "https://www.marketingdirecto.com/marketing-general/agencias/addoor-firma-acuerdo-publico-gestionar-publicidad-nativa",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-27T12:14:36+00:00",
+   "summary": "La incorporación de Público amplía la cobertura de Addoor en el mercado editorial español y refuerza su apuesta por soluciones de monetización que aportan valor a editores y anunciantes, respetando la experiencia del lector La entrada Addoor firma un acuerdo con Público para gestionar su publicidad nativa se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 7.399,
+   "also": []
+  },
+  "8f67a85581": {
+   "title": "España registra 6.140 donantes de tejidos y 51.247 implantes en 2025, con la incorporación de leche materna y microbiota fecal",
+   "url": "https://www.consalud.es/pacientes/espana-registra-6140-donantes-de-tejidos-y-51247-implantes-en-2025-con-la-incorporacion-de-leche-materna-y-microbiota-fecal.html",
+   "source": "ConSalud",
+   "source_id": "consalud",
+   "published": "2026-11-27T12:18:04+00:00",
+   "summary": "pacientes: España registra 6.140 donantes de tejidos y 51.247 implantes en 2025, con la incorporación de leche materna y microbiota fecal",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "salud"
+   ],
+   "score": 7.294,
+   "also": []
+  },
+  "78823f102f": {
+   "title": "Feijóo pide \"votar en masa contra el miedo\" para asegurar el cambio en España: \"Sánchez ya no tiene nada que ofrecer\"",
+   "url": "https://www.elmundo.es/cataluna/2026/11/27/6b0982f621efa0f2578b45be.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-27T13:18:09+00:00",
+   "summary": "El candidato del PP reclama que \"la gente de izquierdas no se quede en casa\" y también apueste por la alternancia: \"La decencia no tiene ideología\" Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957872387761.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 7.225,
+   "also": []
+  },
+  "807942d87d": {
+   "title": "El dengue desborda el sistema sanitario de Bangladés: “El hospital se ha convertido en nuestro hogar”",
+   "url": "https://elpais.com/planeta-futuro/2026-11-27/el-dengue-desborda-el-sistema-sanitario-de-banglades-el-hospital-se-ha-convertido-en-nuestro-hogar.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T04:30:01+00:00",
+   "summary": "El país acumula más de 175.000 casos de esta enfermedad mientras lucha también contra un gran brote de sarampión, una doble crisis que satura las clínicas y obliga a muchos pacientes a pasar de un centro a otro",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/5QTUTU3X7NFLVGV3DD7WLEERGM.JPG?auth=f1e17c6b43b2888ccdf104424631a550c723cb7db10ae0c9322a04ae2f3a4b07",
+   "topics": [
+    "salud"
+   ],
+   "score": 6.987,
+   "also": []
+  },
+  "aa1a74a905": {
+   "title": "“Hemos sido siempre una empresa soñadora y valiente”",
+   "url": "https://elpais.com/aniversario/branded/un-futuro-por-escribir/2026-11-27/hemos-sido-siempre-una-empresa-sonadora-y-valiente.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T12:21:40+00:00",
+   "summary": "Juan José Hernández, presidente ejecutivo de Hospiten, habla de la vocación de crecimiento de una empresa que acaba de realizar una inversión cercana a los 200 millones de euros para poner en marcha un centro hospitalario de 55.000 metros cuadrados en Madrid",
+   "ai_summary": null,
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261126/1242542_100911_still.0000001.jpg",
+   "topics": [
+    "negocios"
+   ],
+   "score": 6.957,
+   "also": []
+  },
+  "2aeacf6659": {
+   "title": "El gran búnker de las redes del PSOE: “No usamos la IA; para eso están los cortes reales de Feijóo y Abascal”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/el-gran-bunker-de-las-redes-del-psoe-no-usamos-la-ia-para-eso-estan-los-cortes-reales-de-feijoo-y-abascal.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T04:30:01+00:00",
+   "summary": "La Moncloa y Ferraz cuentan con una productora inglesa que ha trabajado con Barack Obama. El presidente ha pasado de 2,6 millones de seguidores en 2023 a 8,2 millones en esta campaña",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/KX3MWNY45RBPFBS5KWHWTRUZFE.JPG?auth=fa7005541e66f8f86b7fe0d0e2d4666426f873c95556b68e9312c1a2b2020a7e",
+   "topics": [
+    "espana",
+    "ia"
+   ],
+   "score": 6.774,
+   "also": []
+  },
+  "015297f4b7": {
+   "title": "Primera nueva terapia hormonal en 20 años para frenar las recaídas del cáncer de mama",
+   "url": "https://www.diariomedico.com/medicina/oncologia/primera-nueva-terapia-hormonal-20-anos-frenar-recaidas-cancer-mama.html",
+   "source": "Diario Médico",
+   "source_id": "diariomedico",
+   "published": "2026-11-26T16:19:36+00:00",
+   "summary": "Oncología Rosalía Sierra 30% menos riesgo Una nueva alternativa para tratar tumores de mama dependientes de hormonas ha mostrado buenos resultados. Un ensayo en fase III ha demostrado que giredestrant (Roche/Genentech), un nuevo fármaco desarrollado para este tipo de cáncer, permite reducir el riesgo relativo de recaída o muerte tras una media de 32 meses en un 30% respecto al tratamiento estándar actual. La Agencia…",
+   "ai_summary": null,
+   "image": "https://statics-diariomedico.uecdn.es/cms/2026-11/mamografia-cordon-press.jpg",
+   "topics": [
+    "salud",
+    "pharma"
+   ],
+   "score": 6.725,
+   "also": []
+  },
+  "9d3c136eca": {
+   "title": "STAT+: Here are some health AI conversation starters for the holidays",
+   "url": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+   "source": "STAT",
+   "source_id": "statnews",
+   "published": "2026-11-27T14:54:22+00:00",
+   "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+   "ai_summary": null,
+   "image": "https://www.statnews.com/wp-content/uploads/2026/11/AIPrognosis_Wordpress_Thanksgiving-1024x576.jpg",
+   "topics": [
+    "ia",
+    "salud"
+   ],
+   "score": 6.452,
+   "also": []
+  },
+  "42f547519f": {
+   "title": "S&P ratifica el rating 'BBB+' de Iberdrola y mejora su valoración del perfil financiero de la compañía",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbk15eWVJOWgxX0x4cGo5ejU2LXZXdTRKdjNWTHJISW1SOElsS3Zmb1hHakMwMWg3NHBVbzE3ZDNFUy05V1BCVXpnODNKY256Ty1ubFRGTGYyYUw4ZGxJaC03ZXlkZFJkeUZ4ZVRGVEp2ODVNdVEtLWFJbzh3MC1nR1FBYkR6M3o1YmcxekxLdWVMLThCTnlGXzJnQ1hlSE5XUlZ5em5xNDNybkR4RjlGQ214dV9sY01ZR1VuSFBLYnpMOFJPOW56aFFoUGZrbzN3aVlfSnoyU1lybE9vczFLRU14R0pXUU1uZEttOVhTVzBmZS1xXzZaMFZua01FdjE2Qkp0NF9STlrSAfMBQVVfeXFMTm4xek5oY2NFQm5rMGlVeGdvLUVfbmhOcGZEWWs5NGI1WF80OUI2R19ncFhGRy1ISlFMSy1xNkU4WkFvQ2JMNXBHMkxuWUtrQ2YwMy05aFFNSjY3YXVzczltNmV2N1ptWUdQZDk3R2tvZWgwSW1hTmR5eW8tUXIyM0x6ZUoxN1QxWkpaX1pWSmw5UmlSNmlmeDlTdjA2S3J0LURScmlsWXlpOU9XRVVEMjVRY2J4dnRFQU5Ia0NqR3VpTjZGYXZEQ0t3MHJ2blB4eVVhdHJUSGJBTFlKX28xblJySlJQSEhaM0U3Y0k5WmpseEk4?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-26T16:37:22+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios"
+   ],
+   "score": 6.364,
+   "also": []
+  },
+  "7853491ba1": {
+   "title": "Medtech earnings: Surgery slowdown takes a toll",
+   "url": "https://www.medtechdive.com/news/medtech-earnings-surgery-slowdown-takes-a-toll/875737/",
+   "source": "MedTech Dive",
+   "source_id": "medtechdive",
+   "published": "2026-11-25T14:53:24+00:00",
+   "summary": "Lower surgical volumes weighed on results for some top medical device makers in the latest quarter, but not all companies saw an impact. MedTech Dive’s coverage roundup breaks it down.",
+   "ai_summary": null,
+   "image": "https://imgproxy.divecdn.com/JroMTiEO1J3X0W6sE138eLmgWx8i_zGjfigjLKYeNeU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcwMTc2NjYxLmpwZw==.webp",
+   "topics": [
+    "medtech",
+    "negocios"
+   ],
+   "score": 6.317,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "MedTech Dive",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQazkzNEQ0alJFRmZHQ1ZXcHNjUWtqNEtidWhETHN3ZWNwLU9ua2Vwdmc4QkdiZ3RyV2NxU0ZYcTVGOVQ2MVBwamtFSEMwY3BjamFzdzlyRGp5b21Xd0VRc2JCbVRET3I0MHhHaGJyQlVXTlVObVlWd2dpR0RObFdnOWFWTVdXRFdrTG0zdkMyRGU?oc=5",
+     "title": "Medtech earnings: Surgery slowdown takes a toll"
+    }
+   ]
+  },
+  "41979f2d15": {
+   "title": "Farmaindustria y Cataluña refuerzan la autorregulación de la publicidad de fármacos",
+   "url": "https://diariofarma.com/2026/11/26/farmaindustria-y-cataluna-refuerzan-la-autorregulacion-de-la-publicidad-de-medicamentos",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-26T16:16:13+00:00",
+   "summary": "El Departamento de Salud de Cataluña y Farmaindustria analizan los desafíos de la transformación digital en la promoción sanitaria, en el marco del convenio pionero de autorregulación que ambas entidades mantienen desde noviembre de 2023.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/Gemini_Generated_Image_zch15pzch15pzch1.webp",
+   "topics": [
+    "pharma",
+    "marketing"
+   ],
+   "score": 6.241,
+   "also": []
+  },
+  "1759419ed3": {
+   "title": "FDA clears DeepHealth's AI tool for 3D mammograms",
+   "url": "https://pharmaphorum.com/news/fda-clears-deephealths-ai-tool-3d-mammograms",
+   "source": "pharmaphorum",
+   "source_id": "pharmaphorum",
+   "published": "2026-11-26T12:27:40+00:00",
+   "summary": "Phil.Taylor Thu, 26/11/2026 - 12:27 Phil.Taylor Thu, 26/11/2026 - 12:27",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma",
+    "ia"
+   ],
+   "score": 6.21,
+   "also": [
+    {
+     "source_id": "medtech_search",
+     "source": "MobiHealthNews",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUItajNXSTdFb05yVkJaWjBzc1pFbURJNlYxZUQ3WkNNX2hmdWQtampVQTJEemtVN3duRV9IdmR1S2lmckJ4dm1rZjJJakd0a0R2V0JUT1hPOXVzMkxYR3BpZzFQMDdldzNYZ1Q3eDN5SlYwWkViRGNlVGpUekMyUjQ1UmFITXNkMUU2NVpuNEc4d1ZHc1FMZURB?oc=5",
+     "title": "DeepHealth wins FDA clearance for AI tool that predicts cancer risk"
+    }
+   ]
+  },
+  "819beaf1de": {
+   "title": "Luz verde a la subida de sueldo de médicos y enfermeros: entre 1.260 y 3.240 euros brutos más al año",
+   "url": "https://www.redaccionmedica.com/politica/20261126/luz-verde-la-subida-de-sueldo-medicos-enfermeros-entre-euros-brutos-mas-al-ano/366724_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-26T12:09:51+00:00",
+   "summary": "Los especialistas facultativos lideran el alza retributiva en jornada ordinaria sin guardias, mientras que el incremento en Enfermería oscilará entre los 1.260 y los 1.935 euros anuales Y además: Las claves del aumento de sueldo para médicos y enfermeros: Moncloa fija cómo y cuándo se abonará",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/44656.jpg?p=w:1706/h:960&h=6JqE2cnO",
+   "topics": [
+    "salud"
+   ],
+   "score": 6.115,
+   "also": []
+  },
+  "f80545a51c": {
+   "title": "Las escuelas de Los Ángeles bloquean funciones de Inteligencia Artificial y Google amenaza con cortar el acceso a su buscador",
+   "url": "https://www.elmundo.es/economia/2026/11/27/6b094f6efc6c83666f8b45b3.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-27T09:54:27+00:00",
+   "summary": "La preocupación sobre el impacto de la IA en el aprendizaje ha encendido una batalla entre las escuelas y el gigante tecnológico Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957731991178.jpg",
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 6.025,
+   "also": []
+  },
+  "a80fb23a27": {
+   "title": "Cairdac implants autonomous leadless pacemaker in first human study",
+   "url": "https://www.medicaldevice-network.com/news/cairdac-implants-first-human-study/",
+   "source": "Medical Device Network",
+   "source_id": "mdnetwork",
+   "published": "2026-11-26T10:41:05+00:00",
+   "summary": "Cairdac has performed the initial human implantations of its Autonomous Leadless Pacing System (ALPS) under the ASCEND clinical study. The post Cairdac implants autonomous leadless pacemaker in first human study appeared first on Medical Device Network .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 5.967,
+   "also": []
+  },
+  "9907156804": {
+   "title": "Enfermeras reclaman el reconocimiento efectivo de las especialistas en Geriatría y su baremación justa en la bolsa pública",
+   "url": "https://www.consalud.es/profesionales/enfermeria/el-coecs-reclama-el-reconocimiento-efectivo-de-las-especialistas-en-geriatria-y-su-baremacion-justa-en-la-bolsa-publica.html",
+   "source": "ConSalud",
+   "source_id": "consalud",
+   "published": "2026-11-27T13:02:36+00:00",
+   "summary": "enfermería: Enfermeras reclaman el reconocimiento efectivo de las especialistas en Geriatría y su baremación justa en la bolsa pública",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud",
+    "economia"
+   ],
+   "score": 5.948,
+   "also": []
+  },
+  "304c6a3913": {
+   "title": "Euskadi será la comunidad donde la alianza entre PP y Vox obtendrá sus peores resultados, según los sondeos",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/euskadi-sera-la-comunidad-donde-la-alianza-entre-pp-y-vox-obtendra-sus-peores-resultados-segun-los-sondeos.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T04:30:01+00:00",
+   "summary": "El temor al partido de Abascal favorece a Bildu y al PSE frente al PNV",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/NZN77JFJLVIYBO26X7UOJSW4MY.jpg?auth=42c8b61265b3e6f112bd2952d145a5f6753bb15b392eaffc57cf2c24641a9447",
+   "topics": [
+    "espana",
+    "negocios"
+   ],
+   "score": 5.92,
+   "also": []
+  },
+  "8d2804ba0c": {
+   "title": "¿Quién mejora a quién: la IA a nosotros o al revés?",
+   "url": "https://ipmark.com/quien-mejora-a-quien-la-ia-nosotros-o-al-reves/",
+   "source": "IPMARK",
+   "source_id": "ipmark",
+   "published": "2026-11-27T08:00:01+00:00",
+   "summary": "A la mayoría de la gente no le molesta saber que un anuncio se hizo con IA. Lo que molesta es notar que nadie pensó detrás. La entrada ¿Quién mejora a quién: la IA a nosotros o al revés? se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "marketing"
+   ],
+   "score": 5.85,
+   "also": []
+  },
+  "3063b7c5b2": {
+   "title": "Golpe de Bruselas a la prioridad nacional de Vox: las medidas de vivienda aprobadas en Valencia vulneran la ley europea",
+   "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-27/golpe-de-bruselas-a-la-prioridad-nacional-de-vox-las-medidas-de-vivienda-aprobadas-en-valencia-vulneran-la-ley-europea.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T10:30:40+00:00",
+   "summary": "Una ley exige 10 años de empadronamiento para comprar una vivienda protegida cuando la ley europea solo permite dejar un límite de cinco, según una respuesta de la Comisión a Compromís",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/SGS3YC6IPBH27BTP5PIB6ITZOE.JPG?auth=87741b1dcfc3a0f5acaca5a7d27b72683a11c01a272e9df8c449a522084dc7fd",
+   "topics": [
+    "economia",
+    "espana"
+   ],
+   "score": 5.847,
+   "also": []
+  },
+  "820c9b3f22": {
+   "title": "Así retrata 'The Wall Street Journal' la crisis de la vivienda en España: \"Sin casas para alquilar, sin formas para desalojar\"",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ1pZUjhZRC0zMmZyQXA2a1lGc0dOdnV0eHRFWnlHMkRId0I0dXkxMVVlRVZwSS1LbkJZY055VmI5U1JiWjBOdk5IMFAxWUQxS3JYbDdEUGdTTTJ6VWhYQ3U3eTVuOTY3QnFGeVZvNkhOM1g4NlA4T1dIdFZBN0lIMklOWE5QbTdwTVY5WkJpMzNSSXFEcHAyUXdrXzl1YXVFZXFWR3VFampPUTJqRGt0WGoxWWNvMzhkTWRIazNCX2lMQ01jLTFvbTZPNDU4c1ZEWWF1VXdMYkwyNmtMV1h2NzJ3bk1QTFA0RXNPQk5yQzdNVTZEVDd1WFBLS0Z0OG0xS1NuZnlwT0tZVGExYmZEYWUtTXVQUTdTdE5keC0zNmh2N2dO0gGPAkFVX3lxTE15U0R4SVFuazl0dlJaRVhzckFwcHNMVDB0ZmdkM05XNUJtSTBmMUZoYVR3cVZMc1NORjhkYUNsdHlEUUVCUTJ2Nkh5b3VZdU1hRldlYjRrdkNDNEh4MVUxc2o1T0JBT1I1WDhIekxGbG5DTFFOaTJEeVBqSmg3RmFkVGhVckpQWWFZSjJFSXBMekdSZWlNNmhLVjRob0FUazI0cmFBSTc3aWVfczd2b24zV0JSZ3doTlRKRzNGMTlRaWFFNTFwXzk4UDYwQUtVZ1NmUVN1WkRjd1ZQb1o0MWF6cnRsemxNdEwxc2NMQy1QeUZQMUtaTXd6SG5YWXJuS18tSGV3S1BlYVAyR005U1E?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-27T14:12:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia"
+   ],
+   "score": 5.842,
+   "also": []
+  },
+  "d14adaea61": {
+   "title": "Singapore’s MedTech sector and locally made medical devices punching above their weight",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS1RFS3Z2S2p1X0NiOFNTSE4tMzhPYkdoRVpQanNqMjBBM0d6dzBTUHFKclpSb1NIMHdVaWpmOS10d0Y4TU1CQUYtWnJPcmhMX01NbnNNdnNETGQtY21oQkJpai16c1JyamFMYml2RTZ1ZlhTZUFoa1hiaFlnVlF5ODM4X0gybTVaam91V0UwMlN5V2ZDYjdVbk9SRjQ2aXc3QncyOHNQZE54X1hYWDMyM0x2ZkZjQk5adDkwejRzTmJGMG1DaFE?oc=5",
+   "source": "Singapore Economic Development Board (EDB)",
+   "source_id": "medtech_search",
+   "published": "2026-11-27T06:33:41+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 5.831,
+   "also": []
+  },
+  "b9861fba4f": {
+   "title": "De Francia a la inflación y de la IA a la integración europea: la larga lista de deberes de Hernández de Cos",
+   "url": "https://elpais.com/economia/2026-11-27/de-francia-a-la-inflacion-y-de-la-ia-a-la-integracion-europea-la-larga-lista-de-deberes-de-hernandez-de-cos.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T04:30:01+00:00",
+   "summary": "La UE arma al BCE con una cúpula de alto perfil técnico y menos peso político para afrontar un escenario plagado de incertidumbres",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/YEXH5RJRIFH7XLIHBEAKLYD7FY.jpg?auth=0c2c0ed6454ef9808bde520312288cd603a5a8292b49b8b769bae651d6182ed3",
+   "topics": [
+    "ia",
+    "economia"
+   ],
+   "score": 5.823,
+   "also": []
+  },
+  "9f464e308b": {
+   "title": "Operativo oftalmológico en el Hospital de Linares realizó 202 atenciones y 12 cirugías",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHNCSVBSQ3NkM0lJd3VXYmhrYzY1UGwtblBfWGd1ck5aVUdFaXRmRkxZVWVFMlBLVmdNODRHS21aX2FSdDVzZmh3Wm1icE1MOTlBX2ZYSXlkSmJydlgwTFZLNG1iWjlxSlZSV3NLakZHWEx3MjNrUWxrLXB1TzlHcC1CQWEtbDY0MUY3ZS05ZTIybkZIUGRQcWVCWkFlWUxhZmRySXA0MEcwY2hCNmc?oc=5",
+   "source": "Radio Ancoa",
+   "source_id": "optica_es",
+   "published": "2026-11-27T15:01:06+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica",
+    "salud"
+   ],
+   "score": 5.725,
+   "also": []
+  },
+  "4dd12c3728": {
+   "title": "Cetir celebra 25 años de medicina nuclear en Girona logrando más de 130.000 pacientes atendidos",
+   "url": "https://www.consalud.es/industria/sanidad-privada/cetir-celebra-25-anos-de-medicina-nuclear-en-girona-logrando-mas-de-130000-pacientes-atendidos.html",
+   "source": "ConSalud",
+   "source_id": "consalud",
+   "published": "2026-11-27T10:35:48+00:00",
+   "summary": "sanidad privada: Cetir celebra 25 años de medicina nuclear en Girona logrando más de 130.000 pacientes atendidos",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud"
+   ],
+   "score": 5.593,
+   "also": []
+  },
+  "1c648f8f7e": {
+   "title": "Pablo Caba, optometrista, explica cómo podría superar Marc Márquez sus problemas de diplopía: “Cuanto más joven, más resultados tienes”",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeHAzaXdrZVVHWTItNWdXdmpXS2FpN05sLVNTcGRSeGExRWQ2ZklUR0hOSEkyczdYNTYxR2lVc1ZESllPRWxHNHU2b0hwcWxZa2hfRjBCUkdvd05Pb00wQS1hM1NvNHN2SGNfUEFnVGNkN2ZNVUFfQUNmeE02WXdaSmlVcm9SaDJnQ283WWFRWWJCNTZGTnZTb3M2SGc2aURlVzRjVmN2SG1JbEg1cjFvVTlyeGFRb3lGYXVzQjN6Ry1BZDViOHh4Y3MtdlNoRGdMemNwdmVRVFJPLVB5amJiYnFOMGJIQnBtb2VDXzBmWndIS2kxZlHSAfYBQVVfeXFMUHdzZ0ZranM0bDFCWExxeFNSY0pEV29acy1WY0dfVS1ld3hBdl9aNUpTVGYwMXd3ZTFha21JWkJkUmJnSEM5SVFMRHdRY1JXTzFwNkU5S3Y1WC14YUlPOHJ4TzMwWlhYWGVGaWhEa1B2Y3BpZXJVMXBiOGtEcVoxaHN6dVZlWXVMSU9LZ2EtWENQTENZTnFzbU9ISmdZSTc4TUYzQVlSeEdpa0tQTUZPcDhqclVyZmJNckJRTEFBeW1NeW05UXNkOW9pQWllS3RKMjc2aDBWTTd3Ykl2bnhmaU1WOVN1RTNTaW9DUHc0T0tsanNNYW5n?oc=5",
+   "source": "MARCA",
+   "source_id": "optica_es",
+   "published": "2026-11-27T13:36:40+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica",
+    "negocios"
+   ],
+   "score": 5.583,
+   "also": []
+  },
+  "954782265f": {
+   "title": "Delaware’s dangerous plan for autonomous AI companies",
+   "url": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "source_id": "ft",
+   "published": "2026-11-27T12:00:05+00:00",
+   "summary": "US state’s proposed law would gut human accountability for agentic AI",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia"
+   ],
+   "score": 5.515,
+   "also": []
+  },
+  "0e759b6aef": {
+   "title": "El PP, su giro en redes sociales y el hombre misterioso que las dirige: “La izquierda es un coñazo”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/el-pp-su-giro-en-redes-sociales-y-el-hombre-misterioso-que-las-dirige-la-izquierda-es-un-conazo.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T13:49:18+00:00",
+   "summary": "Génova ha fiado la estrategia en internet a una persona que tiene entre 22 y 50 años y que afirma que el uso de la inteligencia artificial ha sido clave",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/NEH4Z4VS6BDA3P7ONXHVFIHR34.jpeg?auth=56a09f1ad199ad602a1d199e682bdde2e9384c32d5b9ec614bac94ad4a66a2b1",
+   "topics": [
+    "marketing",
+    "espana"
+   ],
+   "score": 5.397,
+   "also": []
+  },
+  "ba0c0a0c98": {
+   "title": "EMA: El 14 % de nuevos usuarios de GLP-1 en la UE no tiene diabetes tipo 2 ni obesidad",
+   "url": "https://diariofarma.com/2026/11/27/ema-menos-del-14-de-nuevos-usuarios-de-glp-1-en-la-ue-no-tiene-diabetes-tipo-2-ni-obesidad",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-27T11:07:23+00:00",
+   "summary": "El seguimiento a través de Darwin EU a más de 1,6 millones de pacientes en 12 bases de datos europeas revela que las pautas reales con GLP-1 incluyen subidas y bajadas de dosis, cambios de fármaco y oscilaciones de prescripción ligadas al desabastecimiento desde 2022.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/Base-para-infografias-y-tablas-de-Diariofarma-1-38.webp",
+   "topics": [
+    "pharma"
+   ],
+   "score": 5.395,
+   "also": []
+  },
+  "5faf0e6f19": {
+   "title": "El informe anual del Codi-Vet identifica las necesidades de medicamentos veterinarios",
+   "url": "https://diariofarma.com/2026/11/27/el-informe-anual-del-codi-vet-identifica-las-necesidades-de-medicamentos-veterinarios",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-27T10:26:43+00:00",
+   "summary": "La Agencia Española de Medicamentos y Productos Sanitarios publicó el Informe Anual del Comité de Disponibilidad de Medicamentos Veterinarios correspondiente a 2026. El documento identifica carencias para orientar la investigación de la industria.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2024/01/Depositphotos_312368814_XL.jpg",
+   "topics": [
+    "pharma"
+   ],
+   "score": 5.307,
+   "also": []
+  },
+  "94305b427e": {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch",
+   "source_id": "techcrunch",
+   "published": "2026-11-26T20:03:54+00:00",
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 5.269,
+   "also": []
+  },
+  "c4deda4af5": {
+   "title": "La publicidad española crece, pero pierde inversión en 2025",
+   "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/publicidad-espanola-crece-pierde-inversion-empleo-2025",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-26T16:40:44+00:00",
+   "summary": "La AEA identifica la IA, la medición y la diferenciación de marca como los principales desafíos de la industria en la undécima edición del Observatorio de la Publicidad en España. La entrada La publicidad española crece, pero pierde inversión en 2025 se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing",
+    "negocios"
+   ],
+   "score": 5.211,
+   "also": []
+  },
+  "777dde2c1c": {
+   "title": "El sérum coreano de Medicube con PDRN de salmón por menos de 13 euros en Amazon por Black Friday",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-black-friday-2026-serum-coreano-medicube-pdrn.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T12:05:00+00:00",
+   "summary": "Este cosmético coreano tiene un descuento del 32% y combina varios ingredientes populares en las rutinas de cuidado facial para mejorar el aspecto de la piel",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/Y6QRHKTE5JFPFO56CNHV4VYKM4.png?auth=edfb3faff023f3dc7af0b5784fb480b53c1458a22782bc51c38e880fc2f744ae",
+   "topics": [
+    "tech"
+   ],
+   "score": 5.158,
+   "also": []
+  },
+  "4caa6ce3bb": {
+   "title": "La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building»",
+   "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/ia-afianza-agenda-cmo-ponen-simultaneamente-ojitos-brand-building",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-26T09:38:16+00:00",
+   "summary": "El 66% de los CMO contempla la IA como el tema más importante con la vista puesta en el futuro en el seno del departamento de marketing. La entrada La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building» se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing",
+    "ia"
+   ],
+   "score": 5.074,
+   "also": []
+  },
+  "ad9b46b5d3": {
+   "title": "Por qué Federico, ingeniero de 46 años, votará a Santiago Abascal (aunque realmente quiere que gobierne Feijóo)",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b05d3ffe9cf4a97348b45aa.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-27T02:00:35+00:00",
+   "summary": "Más de un millón de españoles que votaron al PP en 2023 ahora dicen que apoyarán a Vox. La paradoja es que la mayoría no quiere a Abascal en Moncloa, sino un contrapeso que evite tentaciones centristas. Su modelo es el Aznar de la mayoría absoluta. \"No necesitamos un ‘pepito grillo’ que nos recuerde la necesidad de reformas\", replican desde Génova Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955441445959.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 5.036,
+   "also": []
+  },
+  "a1b7694ef1": {
+   "title": "La inflación se modera en casi un punto en noviembre, hasta el 4,1%, por la bajada de los carburantes",
+   "url": "https://www.elconfidencial.com/economia/2026-11-27/inflacion-modera-casi-un-punto-noviembre-4-1-bajada-carburantes_4473856/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-27T08:00:00+00:00",
+   "summary": "La caída del precio del petróleo en los mercados internacionales ya empieza a percibirse en el IPC. La inflación subyacente también se modera en medio punto, hasta el 2,6%. Se mantienen las ayudas fiscales",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/OneNHAtxIcIOqrFeywMVoS4Yr_A=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0c2%2Ff59%2F888%2F0c2f59888b6c0f48e938b188526870ed.jpg",
+   "topics": [
+    "economia"
+   ],
+   "score": 5.014,
+   "also": []
+  },
+  "b44c37dc70": {
+   "title": "Globant anuncia Converge 2026, una edición enfocada en la reinvención en la era AI-native",
+   "url": "https://www.marketingdirecto.com/digital-general/digital/globant-anuncia-converge-2026-edicion-enfocada-reinvencion-era-ai-native",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-26T10:10:12+00:00",
+   "summary": "El evento insignia de Globant, que se llevará a cabo el 10 de diciembre de manera virtual, mostrará cómo líderes de FIFA, Anthropic, PlayStation o LALIGA ya están construyendo la era AI-native. La entrada Globant anuncia Converge 2026, una edición enfocada en la reinvención en la era AI-native se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "marketing"
+   ],
+   "score": 4.948,
+   "also": []
+  },
+  "95ef5039da": {
+   "title": "Neuralink, la empresa de implantes de chip cerebrales de Musk, anuncia un paso \"decisivo\" en su trabajo contra el ELA",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOS1FQbWdybThrdTAtVFU3MnNseEFIcl83Nm95SjBPYWVNWEdXWlFwZGE3MmM5eUlwYnZ5V2ZIY2FFZGtUandTc2xreHFPcjh6QVhmTDRwLWNLMWFGNjVYSWFSUXZObkdwblV0TzA0VTMyeFBQQ3pGYm4xeDYzUk5MQTJQM2RFM2R6THlPaUdMVGxsckxUejVxbjJUWDNzbjdYb1Y2RzNSY1dPbzhOUFpiN2g4UENCamhmejFEblBlcUU0OU5zUG00bWYyc01peGdQVkpORXVfSldTMm44S3lsc0VmMGRtNXhKU1l2eFNZUWttTlZvbDVlemRWdlZKclhaMlVDeVlkRm1MQ0w2ZXc?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-26T16:19:24+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "tech",
+    "negocios"
+   ],
+   "score": 4.948,
+   "also": []
+  },
+  "7ec5cc2013": {
+   "title": "Los ópticos-optometristas reclaman su incorporación en el SNS y una estrategia estatal de salud visual",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGtuakVJZk9jd0V4ZXZ3VWxwamc5cUFTa1ZNU0RtVzhFdGxIZHdGRkR6Wmo0V1MyeXkyTi1WN0FZTlNYTlV5RDVGYzY2YkFFUzdvRS1Bek94cmNDaTBDRG5TT0VKNWo2R1JLOTFrODJCd0J6N0tsSk9HVjBQVzg1OHVmMFFObUZ0aDhGR2xIektQOG9FdDl6YTlWSU5vYjVURjFfTVIzWU5Ob2RyWEVpS254ZjBsSlZZTTBlWGQ5NDRpOTBrNnJobHRGdUJXdmlIbVZsN1JHT2VsVHF0ckE?oc=5",
+   "source": "Infosalus",
+   "source_id": "optica_es",
+   "published": "2026-11-26T12:20:27+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.901,
+   "also": []
+  },
+  "1b1f214221": {
+   "title": "La 'lista de deseos' de las sociedades científicas médicas para el 29N: más inversión, diálogo y reformas",
+   "url": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261127/la-lista-de-deseos-las-sociedades-cientificas-medicas-para-el-mas-inversion-dialogo-reformas/364946_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-27T14:45:09+00:00",
+   "summary": "Diferentes instituciones trasladan sus principales reivindicaciones de cara al nuevo Ejecutivo para un mejor funcionamiento del SNS ante la celebración de las elecciones generales Y además: Los pacientes fijan sus prioridades ante el 29N: desbloqueo de la ley y tijeretazo a las listas de espera",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/154472.jpg?p=c:3584:2021:nowe:199:86/w:1706/h:960&h=cDf-MxmZ",
+   "topics": [
+    "salud",
+    "negocios"
+   ],
+   "score": 4.769,
+   "also": []
+  },
+  "bb64c88577": {
+   "title": "He convencido a mi novio para probar los calzoncillos más vendidos de Amazon: ahora están rebajados por Black Friday",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/probamos-calzoncillos-calvin-klein-oferta-amazon-prime-day-2026.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T08:47:32+00:00",
+   "summary": "Son casi tan deseados como los rostros que aparecen en sus campañas: de Justin Bieber a Jude Bellingham. Ponemos a prueba estos calzoncillos para ver si realmente merecen la pena",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/IZZD6VLJIJCQXD3QN6VKWVXGVI.png?auth=00e3e44da837e9317d210f5321b9fa7029b5cddf679eeb1f1a0ae094e2ca2b7a",
+   "topics": [
+    "tech"
+   ],
+   "score": 4.764,
+   "also": []
+  },
+  "c964efb942": {
+   "title": "GE HealthCare submits new total-body PET/CT for FDA clearance",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUc5U3A4RlhNbFYwR1dPWmhsVG1uSnh1OVVMOGpRX3lsVVpkYzdEM3prdEY5eUtWNWZMRzZSVDBETk1jcTRXazVibm9OakVMQmxTTkJrNmFBTG1ER214WHV4N2pVTnRFLWZFRDFVNlFuVXB6MTN3eWVvSGVoU2ZRdnUyU1o3TlA5RmpJWi1tQWxxZDhGd284d3h2Skp2dV84RzVqZHdhQWRmVlNaVXFlZ2loZjBlekI3Z0w1VlJUWlNDZ1lHNVh2QjhjalRUaDZsS1l5dWRtdlR5RWxhSS1V?oc=5",
+   "source": "AuntMinnie",
+   "source_id": "medtech_search",
+   "published": "2026-11-25T23:49:59+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma",
+    "salud"
+   ],
+   "score": 4.756,
+   "also": []
+  },
+  "e5180f4a40": {
+   "title": "The global state of AI in healthcare 2026: from search to answers",
+   "url": "https://pmlive.com/pharma_thought_leadership/the-global-state-of-ai-in-healthcare-2026-from-search-to-answers/",
+   "source": "PMLiVE",
+   "source_id": "pmlive",
+   "published": "2026-11-26T11:52:04+00:00",
+   "summary": "Our new research reveals how patient and HCP AI use, trust and behaviours are reshaping pharma marketing",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "pharma",
+    "salud"
+   ],
+   "score": 4.725,
+   "also": []
+  },
+  "282206b712": {
+   "title": "PSOE, PP, FA Y VOX, ante el deporte: \"Respetamos las selecciones autonómicas, pero es un disparate que compitan contra España. Revertiremos eso\"",
+   "url": "https://www.elmundo.es/deportes/mas-deporte/2026/11/26/6b086bd3e85ecea12e8b45b5.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-26T21:00:08+00:00",
+   "summary": "Los principales partidos que concurren al 29-N explican su proyecto para el deporte en España y afrontan cuestiones como los deportistas tranas, la final del Mundial 2030 o el deporte femenino Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957175483191.jpg",
+   "topics": [
+    "espana"
+   ],
+   "score": 4.639,
+   "also": []
+  },
+  "d58fdcda4c": {
+   "title": "GE HealthCare’s Omni 128 cm PET/CT is 510(k) pending at FDA",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDlsSC02dFJvQS1TbGp3MjF6aTFmS05BeFRFcm9wWEd3U0xlZTZFaVpVNnJoWDhDQTVwNWZhRlRPTWQxYV9kX0JacjNvVml3aVVrRlpKb0FnZFBCeDBJRG90M1otX3NiaEM1RnlsTVk0aF9XWk8xUlJHT0dJNmFUYzQxcFlxUXdxeW9GaW11LTBpYWo4RnhxTS1WeXFrWEtuOTJJVHpBZ0I?oc=5",
+   "source": "Crypto Briefing",
+   "source_id": "medtech_search",
+   "published": "2026-11-25T16:54:47+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "pharma",
+    "salud"
+   ],
+   "score": 4.602,
+   "also": []
+  },
+  "dd67c5f3d7": {
+   "title": "Detenido un hombre que presuntamente había intentando llevarse a un niño por agredir a un policía en Santander",
+   "url": "https://www.elconfidencial.com/espana/2026-11-27/detenido-agredir-agente-intentar-llevarse-nino-1tna-1tps_4473989/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-27T09:33:00+00:00",
+   "summary": "El sospechoso se negó a identificarse y lanzó varios puñetazos al ser localizado en un centro comercial de Peñacastillo",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/mH2b86fSiTMKKJoBKFykV-cK6sY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffab%2F012%2F8b6%2Ffab0128b6bf4bb99b5f5446a1b5917b4.jpg",
+   "topics": [
+    "negocios"
+   ],
+   "score": 4.589,
+   "also": []
+  },
+  "5136ae5bd3": {
+   "title": "Exitosa Noticias. . 🔴🔵 #DRStream 👨‍⚕️🩺 | El oftalmólogo Fernando Soito llegó a Dr Stream para compartir importantes recomendaciones sobre el cuidado de la salud visual. Durante su participación, brindó consejos para proteger nuestra vista y destacó la importancia de adoptar buenos hábitos desde la…",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFRTUGNnQWVacmQ2elpPQXcxWlpMeVJMaUNnUXBtd2VWdGhVU2FUWUhhRS1LOGM2c3lUNlVIcW9zbGR4dWpzRHFFY3daNGZZSXo2U01MeXBEd0xXaFdOY2NZZ1RKVlU2YXZFa0JScUY1UWg4SHR6bW4wR0JYYk5xOG1uUFhSbml6dDladkRTZDlzTF9QWW41U0FGX29PUGpJRm5qZlZNc1Izb2h3RlRiZVdqdk1GbkxxZEpGSWZaLVFWZFU4YTNVU0JjZF90b2hKNkNJZXc2cUUzdlRYOEtqU2o3WHVZT3MxQTJkVg?oc=5",
+   "source": "Facebook",
+   "source_id": "optica_es",
+   "published": "2026-11-26T00:08:57+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.458,
+   "also": []
+  },
+  "c9a93d3c93": {
+   "title": "Bayer taps Hansoh for cancer ADC in $3.25bn deal",
+   "url": "https://pharmaphorum.com/news/bayer-taps-hansoh-cancer-adc-325bn-deal",
+   "source": "pharmaphorum",
+   "source_id": "pharmaphorum",
+   "published": "2026-11-26T11:37:13+00:00",
+   "summary": "Phil.Taylor Thu, 26/11/2026 - 11:37 Phil.Taylor Thu, 26/11/2026 - 11:37",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "salud",
+    "pharma"
+   ],
+   "score": 4.409,
+   "also": []
+  },
+  "a10206dbd7": {
+   "title": "Bayer deepens China commitment with €500m Beijing manufacturing expansion",
+   "url": "https://pharmaphorum.com/news/bayer-deepens-china-commitment-eu500m-beijing-manufacturing-expansion",
+   "source": "pharmaphorum",
+   "source_id": "pharmaphorum",
+   "published": "2026-11-27T09:03:20+00:00",
+   "summary": "Nicole.Raleigh Fri, 27/11/2026 - 09:03 Nicole.Raleigh Fri, 27/11/2026 - 09:03",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 4.28,
+   "also": []
+  },
+  "2704af33d4": {
+   "title": "Más dinero para las empresas que nacen de la ciencia: Deep Start amplía su financiación",
+   "url": "https://www.consalud.es/politica/el-miciu-y-el-fei-amplian-la-dotacion-del-programa-deep-start-de-innvierte-hasta-los-4707-millones-de-euros.html",
+   "source": "ConSalud",
+   "source_id": "consalud",
+   "published": "2026-11-27T13:51:16+00:00",
+   "summary": "política: Más dinero para las empresas que nacen de la ciencia: Deep Start amplía su financiación",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios",
+    "salud"
+   ],
+   "score": 4.254,
+   "also": []
+  },
+  "9248ad2af7": {
+   "title": "Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año",
+   "url": "https://www.marketingdirecto.com/marketing-general/agencias/omnicom-media-lleva-batuta-nuevo-negocio-espana-llevamos-ano",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-26T11:24:32+00:00",
+   "summary": "Entre enero y septiembre de 2026 Omnicom Media generó en nuestro país nuevo negocio valorado en 112 millones de dólares. La entrada Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 4.248,
+   "also": []
+  },
+  "aac47d1644": {
+   "title": "South Korea November exports seen posting fastest growth in over 50 years on AI chip surge",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTkp1LWozY2ZReDhYRHNMVDFCYXFRd0p5UXFrbnltSC0weTB2TUdpaXZpSlYyUXJMbzJDMmRTbU15ajBYU2pTMEpNT2wzT2dlRy1TQzRaZXRQaERGMVlIamV0NWxPVnU1U2t1UzRHZ1ZLUUIzYVVWSWpjb2xvdVZNY1c1SmVfem03dF9kMGZqMnZkZUFCaGFJdWtkVDBEM290NXdpaFlwS0NybmV0Nmp4dTY3N1hlZlRhTmRnYmE4SG1GZ0Vfb05JMnZTaWFDUQ?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-27T05:03:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 4.238,
+   "also": []
+  },
+  "4f06f88895": {
+   "title": "Los ópticos-optometristas llevan la salud visual al debate político sobre el uso de pantallas en menores",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVE9oU0ROcURfMHZtUXVLVHQzQ3A4RVBKOVEzR0lyRmhOc1VzMVhOaFlicVhJSzNNcHp4Mk5QaFdFRldSSWVEdFNyVnpLamZ4a1RTbExtQ1R5S0E1RzhPaXV2dXR6RGpwazJJWV9lMXdPaG9PbVJYVDJCWlRUSjJkdXhaVzhsRmdmWWZqUGhtRTFETmVodEpaeGR6WlN3RmlyUkh4M1BJWXJjczhmUExKXzVidU9Nc2tJRmtJLTVaN3ZFM0d5d0Zz?oc=5",
+   "source": "Modaengafas.com",
+   "source_id": "optica_es",
+   "published": "2026-11-25T12:09:35+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.235,
+   "also": []
+  },
+  "31719da306": {
+   "title": "Ana Rosa atiza a Sánchez en su último editorial antes de las elecciones por \"manipular\" el \"calladita\" de Feijóo",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQY2hlQjd6azNIY0xRb2dFemM0bkxFeDBBVDR0RTEzeWpnbkg5WVBsWE5PSjFVdVpTWVhUcmFzZWF4WUtSeExva0hEV0pyNVdUNVJVX0xabXhvc0NiUklMLVFGQ0ZSY1llQzhpNERMTEg2X0NpRDB3MUxKa1JNS2lhYUloVTJqU2s3MG9YakxDeFdxRE9zVndMNlNUczRtMTZNMWdHc1NxbTBqN3E4OVVwY0NXeVdjTE1XVlI4dWV3UzJrbWJPbW1GUmVCU0xOSFhpWEx4Sld6QUxHX3d4aEhOc3JQZW5uYXNfSmpyXzQ3UHNiZE01LWRnczV1eHVVc19jcjBPbDZLYnhoZ0hENjR6MlBzcWpnQdIBgAJBVV95cUxPUlh4UlBKeHBpREZNSzlYS2FWN1JXY2hGb21EZl9wd0hhWnJUbGxWTUMxNldVLVVqaVJwNEZ4Sjgxd0lhYUFtNUxzemFocWN5dW9kd2d5dHpjSFpGZ1lMRXdMU0JoV1FkMzJJV24wSXFYNG0zemc1U2Y2a3AzMjF1VnhOMGl1OVhNeFd1cVB2RjFYVXVUT0lYWmVOc04tMl9peEpsMzhOcHJBUTQ0UmdmcFVwdXZyVmR4TmFFNS1pdko0NWs2ZVZnbWlKS3B1N1cwcl9SOWpQVTdOVlJ5dVlBazAycHBPblBSNEZyQlNwQmt3M0xPdkRDNHRsVjVsVHNz?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-27T09:42:43+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "espana"
+   ],
+   "score": 4.172,
+   "also": []
+  },
+  "f2be24a804": {
+   "title": "AI Context Platforms Close the Agentic AI Value Gap",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFZSQWltQTROTWRVelZiakJBNWx5Y0dNM05heE5JTXZaX2liWDZoak1CVmM1TEpsb0h4eXBhVktxQ2oxdXhDX3AtRU0tb2hHTDBwQkRoQ21jdjZrOEg1TDNReWRid21LSy14VFJxeUFrb0VlNTk5azZvekhEdUlWOEFPbw?oc=5",
+   "source": "Gartner",
+   "source_id": "gartner",
+   "published": "2026-11-23T15:34:06+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 4.07,
+   "also": []
+  },
+  "4499caf6a2": {
+   "title": "Microsoft Ignite 2026 — A Promise To Do Better",
+   "url": "https://www.forrester.com/blogs/microsoft-ignite-2026-a-promise-to-do-better/",
+   "source": "Forrester",
+   "source_id": "forrester",
+   "published": "2026-11-24T14:40:01+00:00",
+   "summary": "This year’s Ignite was all about shoring up trust and reliability. Unlike last year, which focused heavily on a fictitious frontier company for examples, Microsoft brought to the stage Accenture, Alaska Airlines, BlackRock, BNY, Chevron, Publicis Groupe, Unilever, and others. These companies lent real-world credence to the idea that Microsoft remains a trusted enterprise partner […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech",
+    "marketing"
+   ],
+   "score": 4.046,
+   "also": []
+  },
+  "9fba509ad9": {
+   "title": "Introducing Rising Star Darius Bordbar, MD: from county clinics to the retina",
+   "url": "https://www.ophthalmologytimes.com/view/introducing-rising-star-darius-bordbar-md-from-county-clinics-to-the-retina",
+   "source": "Ophthalmology Times",
+   "source_id": "ophthalmologytimes",
+   "published": "2026-11-27T11:00:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.034,
+   "also": []
+  },
+  "8946d043c4": {
+   "title": "KubeCon North America 2026 — “Cloud-Native Without Limits”",
+   "url": "https://www.forrester.com/blogs/kubecon-north-america-2026-cloud-native-without-limits/",
+   "source": "Forrester",
+   "source_id": "forrester",
+   "published": "2026-11-24T14:41:18+00:00",
+   "summary": "It’s no surprise that KubeCon North America 2026 focused on agentic AI, as nearly everything has this year. Among 9,000 attendees in Salt Lake City, Utah, what stood out was the level of collaboration among IT giants, traditional open-source companies, and even chipmakers. Contributions from large technology companies are not new, but the roundtable discussions […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "tech",
+    "marketing"
+   ],
+   "score": 3.919,
+   "also": []
+  },
+  "e9da2d6494": {
+   "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-26T17:43:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia"
+   ],
+   "score": 3.911,
+   "also": []
+  },
+  "6ad05d340f": {
+   "title": "Los partidos discrepan sobre cómo retomar la Ley del Medicamento para la nueva legislatura",
+   "url": "https://diariofarma.com/2026/11/26/los-partidos-discrepan-sobre-como-retomar-la-ley-del-medicamento-para-la-nueva-legislatura",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-26T12:02:15+00:00",
+   "summary": "Representantes de Más Madrid, Partido Popular, PSOE y Vox debatieron en Madrid sobre el futuro de la Ley del Medicamento, cuya tramitación quedó interrumpida por las elecciones, así como sobre la política de precios, los plazos de acceso y la investigación sanitaria.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/health-healthcare-medicine-pharmacy-spain-Depositphotos_210322530_XL.webp",
+   "topics": [
+    "pharma",
+    "espana"
+   ],
+   "score": 3.909,
+   "also": []
+  },
+  "25e9c6f22c": {
+   "title": "US excess-capacity tariffs put India’s MedTech MSMEs under margin strain",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmRUcU04YlVVMUZXSW9DcFZMaXFnbVhhaWs5eW1seV9ZLVI2SlVocXJsYzNBTlRNeUF5ZGlMQ3hIdEJpNFlBZmZwNHhPOXo3RzJWbWUxakhXZkUyaHJhM091ZWF6cDc4VjNCNC1XeVZCbDRaMjJocnFGWXpBUy15bHp5VHlKSnVzcDI3UnM1QmQ5MVRVZ0luRzZqdVlHZUN5?oc=5",
+   "source": "Medical Buyer",
+   "source_id": "medtech_search",
+   "published": "2026-11-27T02:52:50+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech",
+    "economia"
+   ],
+   "score": 3.894,
+   "also": []
+  },
+  "e08a67c02b": {
+   "title": "Japan's JERA enters talks with Anthropic, Meta to build data centres, Nikkei reports",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTV4V1Uwcm12UjRESWc2c1RLT0lrS2p3d29wSW1SRWRDLUJySUV4eG9ZMW4zd3g0OEtCdkw5RkJkVUVVZFdUdDZmcGZXb0hEQVpTSE1XVHpOdzB3UnZVWVVYZUw5dHJuNkZkU2NKYlBtSXUyVnlWTEtxaUxEMmNPN2l3SWVpV1lOaUs5amZLU0VKZ0NOeHV4ajdlYzNRajExcWpyR01ORTFoaVpfWU5ablZnZWVsNVM3SHpKVF84cmdCUXU5a3NoUUFYRHU5dw?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-26T22:13:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 3.752,
+   "also": []
+  },
+  "8d41e9b628": {
+   "title": "Creative Adtech (Finally) Enters Its Intelligence And Orchestration Era",
+   "url": "https://www.forrester.com/blogs/creative-adtech-finally-enters-its-intelligence-and-orchestration-era/",
+   "source": "Forrester",
+   "source_id": "forrester",
+   "published": "2026-11-25T14:54:20+00:00",
+   "summary": "AI transcends the division of labor between creative and media, forcing creative adtech to evolve with it. For too long, brands and agencies treated creative and media as disparate disciplines: Creative teams conceptualized, tested, and designed ads, while media teams segmented and bought audiences and optimized bids and budgets. Technology sat between the two, attempting […]",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing",
+    "tech"
+   ],
+   "score": 3.526,
+   "also": []
+  },
+  "273a2e446d": {
+   "title": "Household water hardness may be connected to glaucoma",
+   "url": "https://www.healio.com/news/optometry/20261125/harder-household-water-may-be-connected-to-higher-glaucoma-risk",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-25T16:42:04+00:00",
+   "summary": "Harder household water may be associated with an increased risk for developing glaucoma, according to data published in Investigative Ophthalmology & Visual Science. “Water hardness, mainly determined by the concentrations of dissolved calcium and magnesium, represents an important characteristic of domestic water and may have cumulative biological effects through long-term exposure,” Yukun Xiao, of the Zhongsan…",
+   "ai_summary": null,
+   "image": "https://www.healio.com/~/media/slack-news/stock-images/nephrology/w/tap-water.jpeg?w=300",
+   "topics": [
+    "optica"
+   ],
+   "score": 3.388,
+   "also": []
+  },
+  "7c75ea1438": {
+   "title": "Excimer laser trabeculostomy lowers IOP in glaucoma",
+   "url": "https://www.healio.com/news/ophthalmology/20261124/excimer-laser-trabeculostomy-lowers-iop-in-glaucoma",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-25T15:05:05+00:00",
+   "summary": "NEW ORLEANS — Patients who underwent excimer laser trabeculostomy experienced a reduction in IOP, according to a study presented at the American Academy of Ophthalmology meeting. Mark J. Gallardo, MD, presented 24-month data from the excimer laser trabeculostomy (ELT) study. The study evaluated the safety and effectiveness of ELT in combination with cataract surgery in 318 patients with mild-to-moderate primary open…",
+   "ai_summary": null,
+   "image": "https://www.healio.com/~/media/slack-news/ophthalmology/misc/video-images/2026/osn1126_aao_gallardo_video_og.jpg?w=300",
+   "topics": [
+    "optica"
+   ],
+   "score": 3.368,
+   "also": []
+  },
+  "cf3770201f": {
+   "title": "El examen de fondo para Anthropic en Wall Street: las 23 fechas de desbloqueo que medirán su pulso bursátil",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObk54WXUwQmY0T2ZRNUtwSHR2VUF0N3ItUGJQeVYweG1HUUhNN1dkZ1hBY2U2dENYUUpQOEhGd3ZFVnVsUnlwaTEtZEh1YXVqRVVzX3cxLUpvZEQwZnplZ3RzUFJ3dFNMSHItUkl0VndMdEJkQm5jcVFlc0ZEZ0FxYkRVYzk4RDFKY3RlanRtSy00QnZHbHFmSzhVWXNHbFRhQ3FGc1NDc0VkWWcyNGhPSDdNdDRnODZ6c29qY3E0VXI4ZVJma0d1OWZJMHJVanMtTDVmMUFBMUR2YkpCbVU2Ujg5X0l2ZmdQZElTSHVQNmI4LTFucE02MFpDaHBpdGsyYXdfRUpYUFE5YVZQU3dibVl4d9IB_gFBVV95cUxPQ1pnT093YkVQcW9aay1aVGZ6U1Y0X0kzaGVoWVgyQnpZdlZTY3hfTk9pRWRRNXlwV2cyZ2JhRklIWlFKRWxUSWdsUklKRGNNakw0eXdGX1VIS0RlQzVDczhjSXdLUURjdEVnTUV4MWk3Q0p0eFBHR01oNXZvQnI1ODliTW41RHBRTVZzOU1XOG1LLXo4VjVmX3B4ckNVRHJHZHYwa0ZRT05SMEp2Wk90aktkSzYtOE94bXdNU24zSnc2TDl4SjZJR1dHVGFfTVplOXFyTExXYzNLMlhUVS1mNllXS1NtMGNZMElYT2FBbEMwS2lQMmNiVGRoRHhfdw?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-26T15:52:30+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "economia"
+   ],
+   "score": 3.344,
+   "also": []
+  },
+  "e8e3695421": {
+   "title": "GoodVision Trains Technicians for New Vision Centers Across Liberia, Bringing Eyecare to Over 600,000 People",
+   "url": "http://www.visionmonday.com/business/article/goodvision-trains-technicians-for-new-vision-centers-across-liberia-bringing-eyecare-to-over-600000-people/",
+   "source": "Vision Monday",
+   "source_id": "visionmonday",
+   "published": "2026-11-25T05:18:00+00:00",
+   "summary": "BOSTON—In Liberia, five new Vision Centers are bringing eyecare to existing health facilities in Grand Cape Mount (Sinje, Damballa, Lofa Bridge and WAHO) and Gbarpolu (Emirates Hospital) counties, serving a region with a population of over 600,000 people, GoodVision has shared.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 3.12,
+   "also": []
+  },
+  "3e4290bd35": {
+   "title": "“Marketing es una disciplina exigente, aunque sigas las normas, si te despistas… palmas”",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxd2pSN0J6VE5aNU9yTW5DUHhiWE11OXZ6RmRMYXc5d1dBTzd3NUVCRDNuSzBRRUVQT1lPUm1QSXdINF8yZ0xqV045Umxud3lqdGxCVkRPdUVuZmxTMmlTdDZaM3hQQlB6WW1DdVJhVDhvUV9kZktDeEFPUVg?oc=5",
+   "source": "Reason Why",
+   "source_id": "reasonwhy",
+   "published": "2026-11-26T18:31:10+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 2.964,
+   "also": []
+  },
+  "55d442714c": {
+   "title": "Nutrition, lifestyle: Overlooked first-line therapies in eye care",
+   "url": "https://www.healio.com/news/optometry/20261124/nutrition-and-lifestyle-overlooked-firstline-therapies-in-eye-care",
+   "source": "Healio (ojos)",
+   "source_id": "healio_eye",
+   "published": "2026-11-24T20:57:14+00:00",
+   "summary": "When a patient presents with burning, gritty eyes, our reflex is often pharmacologic or procedural: artificial tears, immunomodulators, thermal expression and light-based therapy. These tools matter, and I use them daily. But if we skip past the patient’s diet, hydration, sleep and screen behavior, we are treating the fire while ignoring the fuel. In the first installment of this column, I argued that optometry is…",
+   "ai_summary": null,
+   "image": "https://www.healio.com/~/media/slack-news/optometry/misc/infographics/2026/pcon1126gray_blog_graphic.jpg?w=300",
+   "topics": [
+    "optica"
+   ],
+   "score": 2.768,
+   "also": []
+  },
+  "0ba06f0bd5": {
+   "title": "Un gran número de miembros del BCE habría apoyado una subida de los tipos en octubre",
+   "url": "https://www.elconfidencial.com/economia/2026-11-26/bce-preve-subida-tipos-inflacion-1hms_4473410/",
+   "source": "El Confidencial",
+   "source_id": "elconfidencial",
+   "published": "2026-11-26T14:31:00+00:00",
+   "summary": "Las actas revelan respaldo a actuar ante el repunte energético y el riesgo de que la inflación se enquiste, aunque se optó por esperar a diciembre",
+   "ai_summary": null,
+   "image": "https://images.ecestaticos.com/s_WiQm8TT2FQgAK2FriVW6oggys=/0x0:2272x1467/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7a2%2F1a2%2F14f%2F7a21a214fd4655a183e6f9c08e36e62f.jpg",
+   "topics": [
+    "economia"
+   ],
+   "score": 2.508,
+   "also": []
+  },
+  "8876a8e90e": {
+   "title": "Beyond The Label: What The HHS AI Roadmap Means For Healthcare",
+   "url": "https://www.forrester.com/blogs/beyond-the-label-what-the-hhs-ai-roadmap-means-for-healthcare/",
+   "source": "Forrester",
+   "source_id": "forrester",
+   "published": "2026-11-25T14:52:48+00:00",
+   "summary": "The US Department of Health and Human Services has released its Clinical Super Intelligence Roadmap, outlining an ambitious vision for AI that delivers better answers, faster care, and lower costs.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "salud",
+    "tech",
+    "marketing"
+   ],
+   "score": 4.193,
+   "also": []
+  },
+  "cfe1d18872": {
+   "title": "The More AI Reshapes B2B, The More Human It Needs To Become",
+   "url": "https://www.forrester.com/blogs/the-more-ai-reshapes-b2b-the-more-human-it-needs-to-become/",
+   "source": "Forrester",
+   "source_id": "forrester",
+   "published": "2026-11-25T15:52:54+00:00",
+   "summary": "As AI reshapes how B2B buyers discover, evaluate, and engage with providers, the qualities that differentiate companies are becoming more human, not less. Drawing on key themes from B2B World Fest 2026, Cristina De Martini and Dave Frankland explore why brand preference, creativity, human judgment, and connected marketing will matter even more as AI becomes embedded across the buying journey.",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "marketing",
+    "tech"
+   ],
+   "score": 3.941,
+   "also": []
+  },
+  "8dc114fd2b": {
+   "title": "Gartner Survey Reveals Only 35% of Australians Trust Government Organizations to Protect Their Personal Data",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdjlzc3FnUlJ3MlhNYzVuRUk4YWp4SkNBNXdFRzZXLXh4SU8tQ0JqczBNaWFqYXNGYjUzZy1wYkYtVU85c2JaanRadVBvZ3ZRUHNhODJkR1Z1dnNtdTJXeDVaTUxwSTJUZ3lfODhpS1V4MVpmREJHUlg0ZnJsd1ZDSVVHSThXR21xMWVpdElsbzBtcGQzNWRuUXZxQXA5dngxYUsxNEQ4RzJyTnRsUE9KZ2V1Y3Q4ZS1nS3JMQmtFd29sZHdlckZkcjdHUllTTTBHcHdZS0IwS2JKZmhQSVN5WkxUOUFMZEhTZUdTZXV2MERhc1JXdFRIdXhGX0lBaUVf?oc=5",
+   "source": "Gartner",
+   "source_id": "gartner",
+   "published": "2026-11-26T00:53:14+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 2.015,
+   "also": []
+  },
+  "c2193df545": {
+   "title": "IQVIA Announces Acquisition of Quotient Sciences",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12NnZrZXp2eVRJRkpIQ2EyV3VyR0Q0elZaZkVRbzA1LUNkNXRhSnhWQzBUbG9xNjFXM0FqLWJTdzdoQzVZQjJHd3dRbUJQdFZfOWpkZUU0QUV3U0NkWkxIYVFQSWdvVzdCTEpYMkY1bGFNYnM1WUZjYUpIaw?oc=5",
+   "source": "IQVIA",
+   "source_id": "iqvia",
+   "published": "2026-11-23T13:11:32+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "negocios",
+    "pharma"
+   ],
+   "score": 1.908,
+   "also": []
+  },
+  "77cf6c3edf": {
+   "title": "Gartner Forecasts IT Spending in Europe to Grow 9.9% in 2027",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYjRLVHo1Ym5HcFBUWXo3dGRSdmRBUU9DQTgtTm5YX2V3aFV4aC0tRmlDRlNGSjZTbHJrSG9XWnh2M0ZfWk9DQ1MwZmhZaGo2MHAzYi1rYUNRenVfRWhaeWkyY3ZwdHpuMG0wSlhaQWpZdTktbU4zdVB5TDdJcVRRU0VadmxvUW1iMnFqVHdta1ZPc2o4Zmk4SzgyaTVkSUljcWFzUEZNTVVMbjB3RkwyYzlWX1JyWVQ0WDQyQWhVYjJvdVk4ZjlYcXlBMkhkd2JDZEFaeFkxLXBhRGdPUWhObnVZbw?oc=5",
+   "source": "Gartner",
+   "source_id": "gartner",
+   "published": "2026-11-24T08:55:33+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 1.823,
+   "also": []
+  },
+  "7d4a041160": {
+   "title": "Gartner Survey Finds CFOs Focused on Finance Efficiency, Cost Optimization and Stronger Data Foundations for First Half of 2027",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWhzNmZFMEUyQUtWVFVrWVI1WGZyTmtyTlVRZk9hRUlfYk1oYVdWREM5b0RFdVc2Yi04RGYxRnNndEZ5YnJhMFczQWZUd0JRY3E4eGVPdjNNTGJVVjd1QVo2V2ZWYzgwRUVOZS1lYkZ4VnlVLTV0aElFaElJM3I1YTFVb2dWSnIzR3J3aDA5S0tMU0Vqa1BGUkJFdTk3Z2taX1l0QnFhMTdGZ2FtckVMME1wU2llMnU0RGh0T0lJV2wxemhzYllLTEdwZTNpMzla?oc=5",
+   "source": "Gartner",
+   "source_id": "gartner",
+   "published": "2026-11-23T14:17:51+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "ia",
+    "tech"
+   ],
+   "score": 1.808,
+   "also": []
+  },
+  "f500fcecdd": {
+   "title": "The Restaurant Loyalty Wars: Why Aggregators Are Winning Your Best Customers",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONURiVkZrcjBvc3JYNGEyS3dDUzJJMFNMNHhWQldDSWdtd1IxOTMySXVRRHJ3Z3UxZ20wSXRFRmE0a2xPdFEyVERXemFEMzBFU2czMVNpbUZKNDVzcmk2S1JkUkxxWVpHblVDU3Nfby1BVVlueGZnTng5ZWhpT0MzLUV4eVdkMFhoVDBMWlV1cTFGRlA5ZlJDT01jal9yeWFHYVRfeGJPV3FwdVVzTVJUZg?oc=5",
+   "source": "Euromonitor",
+   "source_id": "euromonitor",
+   "published": "2026-11-26T10:05:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 1.199,
+   "also": []
+  },
+  "86e17d6a37": {
+   "title": "Tribute to Nina Stimson",
+   "url": "https://nicholashallcompany.wordpress.com/2026/11/23/tribute-to-nina-stimson/",
+   "source": "Nicholas Hall",
+   "source_id": "nicholashall",
+   "published": "2026-11-23T11:12:43+00:00",
+   "summary": "Nicholas Hall Writes: It is with the greatest sadness that we pay tribute to our dear friend and colleague, Nina Stimson – Executive Vice President and Member of the Supervisory Board of The Nicholas Hall Group of Companies – who has died unexpectedly at the age of 79 years. We understand that Nina’s death was peaceful […]",
+   "ai_summary": null,
+   "image": "https://1.gravatar.com/avatar/7a63ca6d19dc5f755f1ff0087d8b42384951a1e94b57dc962c06d84fc80e6559?s=96&d=identicon&r=G",
+   "topics": [
+    "pharma"
+   ],
+   "score": 1.004,
+   "also": []
+  },
+  "dca6429eba": {
+   "title": "GTA 6: Classic Reimagined In A Different Vice City",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkNiV0tLN3I1YmE0MUJnWE8wNXhLbm9OeUN1d2t5SVhWd2xJWHNoaUxLeTQ4UXY1UXVSbzZCUmdJQWo5ZGpHRXZLQ1hkWGkzVjhJMkZhNGo5VHExQ21BUnF3dUhYMnFXZWVBc1FQOG1ZYTM2bDRQVWlKSVBqeUNodjBNOFU5VEZWVXZOeVF3?oc=5",
+   "source": "Euromonitor",
+   "source_id": "euromonitor",
+   "published": "2026-11-20T19:37:26+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 1.0,
+   "also": []
+  }
+ },
+ "sources": [
+  {
+   "id": "elpais",
+   "name": "El País",
+   "via": "rss",
+   "count": 215,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "elmundo",
+   "name": "El Mundo",
+   "via": "rss",
+   "count": 84,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "elconfidencial",
+   "name": "El Confidencial",
+   "via": "rss",
+   "count": 45,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "eleconomista",
+   "name": "elEconomista",
+   "via": "google-news",
+   "count": 100,
+   "ok": true,
+   "errors": [
+    "https://www.eleconomista.es/rss/rss-portada.php: HTTPError: HTTP Error 404: Not Found"
+   ]
+  },
+  {
+   "id": "techcrunch",
+   "name": "TechCrunch",
+   "via": "rss",
+   "count": 40,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "theverge",
+   "name": "The Verge",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "mittr",
+   "name": "MIT Technology Review",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "arstechnica",
+   "name": "Ars Technica",
+   "via": "rss",
+   "count": 20,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "economist",
+   "name": "The Economist",
+   "via": "rss",
+   "count": 600,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "ft",
+   "name": "Financial Times",
+   "via": "rss",
+   "count": 25,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "reuters",
+   "name": "Reuters",
+   "via": "google-news",
+   "count": 100,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "optometrytimes",
+   "name": "Optometry Times",
+   "via": "rss",
+   "count": 30,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "visionmonday",
+   "name": "Vision Monday",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "healio_eye",
+   "name": "Healio (ojos)",
+   "via": "rss",
+   "count": 40,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "ophthalmologytimes",
+   "name": "Ophthalmology Times",
+   "via": "rss",
+   "count": 30,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "optica_es",
+   "name": "Óptica en prensa española",
+   "via": "google-news",
+   "count": 55,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "marketingdirecto",
+   "name": "Marketing Directo",
+   "via": "rss",
+   "count": 100,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "ipmark",
+   "name": "IPMARK",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "reasonwhy",
+   "name": "Reason Why",
+   "via": "google-news",
+   "count": 7,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "adweek",
+   "name": "Adweek",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "marketingdive",
+   "name": "Marketing Dive",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "diariofarma",
+   "name": "Diariofarma",
+   "via": "rss",
+   "count": 35,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "elglobal",
+   "name": "El Global",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "pharmaphorum",
+   "name": "pharmaphorum",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "pmlive",
+   "name": "PMLiVE",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "pharmexec",
+   "name": "Pharmaceutical Executive",
+   "via": "rss",
+   "count": 30,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "mmm",
+   "name": "MM+M",
+   "via": "google-news",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "fiercepharma",
+   "name": "Fierce Pharma (marketing)",
+   "via": "google-news",
+   "count": 0,
+   "ok": false,
+   "errors": [
+    "google-news: HTTPError: HTTP Error 429: Too Many Requests"
+   ]
+  },
+  {
+   "id": "medtechdive",
+   "name": "MedTech Dive",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "mdnetwork",
+   "name": "Medical Device Network",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "medtech_search",
+   "name": "Medical devices en prensa",
+   "via": "google-news",
+   "count": 68,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "redaccionmedica",
+   "name": "Redacción Médica",
+   "via": "rss",
+   "count": 30,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "consalud",
+   "name": "ConSalud",
+   "via": "rss",
+   "count": 20,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "diariomedico",
+   "name": "Diario Médico",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "statnews",
+   "name": "STAT",
+   "via": "rss",
+   "count": 20,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "healthcaredive",
+   "name": "Healthcare Dive",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "forrester",
+   "name": "Forrester",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "gartner",
+   "name": "Gartner",
+   "via": "google-news",
+   "count": 4,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "iqvia",
+   "name": "IQVIA",
+   "via": "google-news",
+   "count": 1,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "euromonitor",
+   "name": "Euromonitor",
+   "via": "google-news",
+   "count": 2,
+   "ok": true,
+   "errors": []
+  },
+  {
+   "id": "nicholashall",
+   "name": "Nicholas Hall",
+   "via": "rss",
+   "count": 10,
+   "ok": true,
+   "errors": []
+  }
+ ]
+}
