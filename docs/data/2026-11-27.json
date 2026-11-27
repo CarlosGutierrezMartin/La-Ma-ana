@@ -1,11 +1,11 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T15:10:27.303089+00:00",
+ "generated_at": "2026-11-27T15:38:34.282300+00:00",
  "stats": {
-  "fetched": 1861,
-  "fresh": 794,
-  "stories": 722,
-  "selected": 97
+  "fetched": 1866,
+  "fresh": 792,
+  "stories": 716,
+  "selected": 98
  },
  "brief": null,
  "ai_model": null,
@@ -16,19 +16,19 @@
    "short": "Portada",
    "items": [
     "11e500ffa6",
-    "2b1265f29b",
+    "e7a8acdf29",
     "3eb8625cdd",
     "9a1fe6462d",
     "1812d87bd2",
     "93472c1a4d",
     "f3c2a5b9c4",
+    "a1c415a79c",
     "f529d7c259",
     "82237839a7",
     "83d192b296",
     "567e3d1fe6",
     "bd3b90e035",
     "7f7fc9eef3",
-    "78823f102f",
     "9d3c136eca"
    ]
   },
@@ -41,15 +41,15 @@
     "9a1fe6462d",
     "93472c1a4d",
     "94305b427e",
-    "9d3c136eca",
     "b44c37dc70",
+    "9d3c136eca",
     "f80545a51c",
     "bd3b90e035",
     "8d2804ba0c",
     "f2be24a804",
     "954782265f",
+    "30ac68c609",
     "2aeacf6659",
-    "4caa6ce3bb",
     "e5180f4a40",
     "1759419ed3"
    ]
@@ -78,7 +78,7 @@
    "name": "Empresas y negocios",
    "short": "Negocios",
    "items": [
-    "2b1265f29b",
+    "e7a8acdf29",
     "42f547519f",
     "83d192b296",
     "aa1a74a905",
@@ -89,7 +89,7 @@
     "2704af33d4",
     "95ef5039da",
     "1b1f214221",
-    "dd67c5f3d7"
+    "be94d14891"
    ]
   },
   {
@@ -100,13 +100,13 @@
     "820c9b3f22",
     "a1b7694ef1",
     "fec2c2c6c7",
-    "9907156804",
+    "5ea47e0e9b",
     "e9da2d6494",
+    "9907156804",
     "3063b7c5b2",
     "b9861fba4f",
     "25e9c6f22c",
-    "0ba06f0bd5",
-    "cf3770201f"
+    "0ba06f0bd5"
    ]
   },
   {
@@ -122,8 +122,8 @@
     "2aeacf6659",
     "304c6a3913",
     "ad9b46b5d3",
-    "282206b712",
-    "31719da306"
+    "31719da306",
+    "0d6ad112db"
    ]
   },
   {
@@ -134,10 +134,10 @@
     "7ec5cc2013",
     "5136ae5bd3",
     "4f06f88895",
-    "9f464e308b",
-    "bd3b90e035",
+    "1c648f8f7e",
     "273a2e446d",
     "7c75ea1438",
+    "bd3b90e035",
     "e8e3695421",
     "9fba509ad9",
     "55d442714c"
@@ -151,11 +151,11 @@
     "93472c1a4d",
     "7f7fc9eef3",
     "c4deda4af5",
-    "4caa6ce3bb",
     "9248ad2af7",
     "8d2804ba0c",
     "8d41e9b628",
     "41979f2d15",
+    "687e8c71f9",
     "0e759b6aef",
     "3e4290bd35"
    ]
@@ -191,7 +191,7 @@
     "7853491ba1",
     "c964efb942",
     "d58fdcda4c",
-    "bd3b90e035"
+    "f0a42e7c1b"
    ]
   },
   {
@@ -240,7 +240,7 @@
     "medtech",
     "salud"
    ],
-   "score": 17.354,
+   "score": 17.14,
    "also": [
     {
      "source_id": "medtech_search",
@@ -250,25 +250,25 @@
     }
    ]
   },
-  "2b1265f29b": {
-   "title": "El Santander refuerza su modelo de empresas en España con cambios en sus directores territoriales",
-   "url": "https://cincodias.elpais.com/companias/2026-11-27/el-santander-refuerza-su-modelo-de-empresas-en-espana-con-cambios-en-sus-directores-territoriales.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-27T12:10:52+00:00",
-   "summary": "La entidad nombra siete nuevos directores territoriales para Madrid, Andalucía, Galicia, Castilla La Mancha, Castilla y León, Canarias y Baleares",
+  "e7a8acdf29": {
+   "title": "Banco Santander potencia su negocio de empresas en España con relevos en siete Direcciones Territoriales del país",
+   "url": "https://www.elmundo.es/economia/empresas/2026/11/27/6b0978e3e85eceb9638b4587.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-27T12:47:15+00:00",
+   "summary": "La entidad cuenta ahora con más de 450.000 empresas clientes y una cuota de mercado del 25% en pymes. Busca reforzar el asesoramiento empresarial en los territorios Leer",
    "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/FTWTDRDRRVL5XK5DFUQITCPV5Q.jpg?auth=0b8354aa406a4b452bb1cf5d793c75a0fe70d8388d5a53e92ef55c31dd67f1bb",
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/19/17923993524303.jpg",
    "topics": [
     "negocios"
    ],
-   "score": 11.635,
+   "score": 12.695,
    "also": [
     {
-     "source_id": "elmundo",
-     "source": "El Mundo",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/27/6b0978e3e85eceb9638b4587.html",
-     "title": "Banco Santander potencia su negocio de empresas en España con relevos en siete Direcciones Territoriales del país"
+     "source_id": "elpais",
+     "source": "El País",
+     "url": "https://cincodias.elpais.com/companias/2026-11-27/el-santander-refuerza-su-modelo-de-empresas-en-espana-con-cambios-en-sus-directores-territoriales.html",
+     "title": "El Santander refuerza su modelo de empresas en España con cambios en sus directores territoriales"
     }
    ]
   },
@@ -284,7 +284,7 @@
    "topics": [
     "espana"
    ],
-   "score": 10.501,
+   "score": 10.381,
    "also": []
   },
   "9a1fe6462d": {
@@ -300,7 +300,7 @@
     "medtech",
     "ia"
    ],
-   "score": 10.192,
+   "score": 10.075,
    "also": [
     {
      "source_id": "medtech_search",
@@ -322,7 +322,7 @@
    "topics": [
     "salud"
    ],
-   "score": 9.807,
+   "score": 9.684,
    "also": []
   },
   "93472c1a4d": {
@@ -338,8 +338,30 @@
     "marketing",
     "ia"
    ],
-   "score": 9.529,
+   "score": 9.419,
    "also": []
+  },
+  "f3c2a5b9c4": {
+   "title": "El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves",
+   "url": "https://elglobalfarma.com/politica/boe-estatuto-aemps-claves/",
+   "source": "El Global",
+   "source_id": "elglobal",
+   "published": "2026-11-27T11:33:27+00:00",
+   "summary": "Uno de los principales cambios es la creación de una Dirección Adjunta, que asumirá funciones de gestión y coordinación de las relaciones institucionales con las administraciones y organismos competentes The post El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves appeared first on El Globalfarma .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "pharma"
+   ],
+   "score": 8.985,
+   "also": [
+    {
+     "source_id": "consalud",
+     "source": "ConSalud",
+     "url": "https://www.consalud.es/industria/farmaceutica/publicado-en-el-boe-el-nuevo-estatuto-de-la-aemps-por-el-que-se-crea-una-direccion-adjunta.html",
+     "title": "El BOE publica el nuevo Estatuto de la Aemps por el que se crea una Dirección Adjunta"
+    }
+   ]
   },
   "a1c415a79c": {
    "title": "Las 40 mejores ofertas de Amazon hoy por Black Friday: descuentos de hasta el 79%",
@@ -353,7 +375,7 @@
    "topics": [
     "tech"
    ],
-   "score": 9.094,
+   "score": 8.984,
    "also": [
     {
      "source_id": "elmundo",
@@ -375,30 +397,8 @@
    "topics": [
     "espana"
    ],
-   "score": 9.091,
+   "score": 8.976,
    "also": []
-  },
-  "f3c2a5b9c4": {
-   "title": "El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves",
-   "url": "https://elglobalfarma.com/politica/boe-estatuto-aemps-claves/",
-   "source": "El Global",
-   "source_id": "elglobal",
-   "published": "2026-11-27T11:33:27+00:00",
-   "summary": "Uno de los principales cambios es la creación de una Dirección Adjunta, que asumirá funciones de gestión y coordinación de las relaciones institucionales con las administraciones y organismos competentes The post El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves appeared first on El Globalfarma .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "pharma"
-   ],
-   "score": 9.09,
-   "also": [
-    {
-     "source_id": "consalud",
-     "source": "ConSalud",
-     "url": "https://www.consalud.es/industria/farmaceutica/publicado-en-el-boe-el-nuevo-estatuto-de-la-aemps-por-el-que-se-crea-una-direccion-adjunta.html",
-     "title": "El BOE publica el nuevo Estatuto de la Aemps por el que se crea una Dirección Adjunta"
-    }
-   ]
   },
   "f529d7c259": {
    "title": "La campaña del 'todo por la patria' de Sánchez con banderas y la mili para sumar votos: \"Los símbolos no son sólo de PP y Vox\"",
@@ -412,7 +412,7 @@
    "topics": [
     "espana"
    ],
-   "score": 9.081,
+   "score": 8.976,
    "also": []
   },
   "82237839a7": {
@@ -427,7 +427,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.904,
+   "score": 8.804,
    "also": []
   },
   "83d192b296": {
@@ -443,7 +443,7 @@
     "tech",
     "negocios"
    ],
-   "score": 8.499,
+   "score": 8.403,
    "also": []
   },
   "567e3d1fe6": {
@@ -459,7 +459,7 @@
     "salud",
     "pharma"
    ],
-   "score": 8.173,
+   "score": 8.085,
    "also": [
     {
      "source_id": "diariofarma",
@@ -481,7 +481,7 @@
    "topics": [
     "ia"
    ],
-   "score": 8.138,
+   "score": 8.064,
    "also": []
   },
   "301d0a2bfe": {
@@ -496,7 +496,7 @@
    "topics": [
     "salud"
    ],
-   "score": 8.088,
+   "score": 7.996,
    "also": [
     {
      "source_id": "redaccionmedica",
@@ -518,7 +518,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 7.743,
+   "score": 7.66,
    "also": [
     {
      "source_id": "medtech_search",
@@ -541,7 +541,7 @@
     "espana",
     "salud"
    ],
-   "score": 7.587,
+   "score": 7.531,
    "also": []
   },
   "fec2c2c6c7": {
@@ -556,7 +556,7 @@
    "topics": [
     "economia"
    ],
-   "score": 7.521,
+   "score": 7.443,
    "also": [
     {
      "source_id": "elconfidencial",
@@ -582,7 +582,7 @@
     "optica",
     "pharma"
    ],
-   "score": 7.43,
+   "score": 7.338,
    "also": []
   },
   "7f7fc9eef3": {
@@ -597,7 +597,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 7.399,
+   "score": 7.312,
    "also": []
   },
   "8f67a85581": {
@@ -613,7 +613,7 @@
     "medtech",
     "salud"
    ],
-   "score": 7.294,
+   "score": 7.208,
    "also": []
   },
   "78823f102f": {
@@ -628,7 +628,7 @@
    "topics": [
     "espana"
    ],
-   "score": 7.225,
+   "score": 7.137,
    "also": []
   },
   "807942d87d": {
@@ -643,7 +643,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.987,
+   "score": 6.923,
    "also": []
   },
   "aa1a74a905": {
@@ -658,7 +658,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 6.957,
+   "score": 6.875,
    "also": []
   },
   "2aeacf6659": {
@@ -674,7 +674,7 @@
     "espana",
     "ia"
    ],
-   "score": 6.774,
+   "score": 6.712,
    "also": []
   },
   "015297f4b7": {
@@ -690,7 +690,7 @@
     "salud",
     "pharma"
    ],
-   "score": 6.725,
+   "score": 6.687,
    "also": []
   },
   "9d3c136eca": {
@@ -706,7 +706,7 @@
     "ia",
     "salud"
    ],
-   "score": 6.452,
+   "score": 6.37,
    "also": []
   },
   "42f547519f": {
@@ -721,7 +721,7 @@
    "topics": [
     "negocios"
    ],
-   "score": 6.364,
+   "score": 6.328,
    "also": []
   },
   "7853491ba1": {
@@ -737,7 +737,7 @@
     "medtech",
     "negocios"
    ],
-   "score": 6.317,
+   "score": 6.306,
    "also": [
     {
      "source_id": "medtech_search",
@@ -760,7 +760,7 @@
     "pharma",
     "marketing"
    ],
-   "score": 6.241,
+   "score": 6.206,
    "also": []
   },
   "1759419ed3": {
@@ -776,7 +776,7 @@
     "pharma",
     "ia"
    ],
-   "score": 6.21,
+   "score": 6.181,
    "also": [
     {
      "source_id": "medtech_search",
@@ -798,7 +798,7 @@
    "topics": [
     "salud"
    ],
-   "score": 6.115,
+   "score": 6.086,
    "also": []
   },
   "f80545a51c": {
@@ -814,7 +814,7 @@
     "ia",
     "tech"
    ],
-   "score": 6.025,
+   "score": 5.959,
    "also": []
   },
   "a80fb23a27": {
@@ -829,7 +829,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 5.967,
+   "score": 5.941,
    "also": []
   },
   "9907156804": {
@@ -845,7 +845,7 @@
     "salud",
     "economia"
    ],
-   "score": 5.948,
+   "score": 5.876,
    "also": []
   },
   "304c6a3913": {
@@ -861,7 +861,7 @@
     "espana",
     "negocios"
    ],
-   "score": 5.92,
+   "score": 5.865,
    "also": []
   },
   "8d2804ba0c": {
@@ -877,7 +877,7 @@
     "ia",
     "marketing"
    ],
-   "score": 5.85,
+   "score": 5.789,
    "also": []
   },
   "3063b7c5b2": {
@@ -893,22 +893,7 @@
     "economia",
     "espana"
    ],
-   "score": 5.847,
-   "also": []
-  },
-  "820c9b3f22": {
-   "title": "Así retrata 'The Wall Street Journal' la crisis de la vivienda en España: \"Sin casas para alquilar, sin formas para desalojar\"",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ1pZUjhZRC0zMmZyQXA2a1lGc0dOdnV0eHRFWnlHMkRId0I0dXkxMVVlRVZwSS1LbkJZY055VmI5U1JiWjBOdk5IMFAxWUQxS3JYbDdEUGdTTTJ6VWhYQ3U3eTVuOTY3QnFGeVZvNkhOM1g4NlA4T1dIdFZBN0lIMklOWE5QbTdwTVY5WkJpMzNSSXFEcHAyUXdrXzl1YXVFZXFWR3VFampPUTJqRGt0WGoxWWNvMzhkTWRIazNCX2lMQ01jLTFvbTZPNDU4c1ZEWWF1VXdMYkwyNmtMV1h2NzJ3bk1QTFA0RXNPQk5yQzdNVTZEVDd1WFBLS0Z0OG0xS1NuZnlwT0tZVGExYmZEYWUtTXVQUTdTdE5keC0zNmh2N2dO0gGPAkFVX3lxTE15U0R4SVFuazl0dlJaRVhzckFwcHNMVDB0ZmdkM05XNUJtSTBmMUZoYVR3cVZMc1NORjhkYUNsdHlEUUVCUTJ2Nkh5b3VZdU1hRldlYjRrdkNDNEh4MVUxc2o1T0JBT1I1WDhIekxGbG5DTFFOaTJEeVBqSmg3RmFkVGhVckpQWWFZSjJFSXBMekdSZWlNNmhLVjRob0FUazI0cmFBSTc3aWVfczd2b24zV0JSZ3doTlRKRzNGMTlRaWFFNTFwXzk4UDYwQUtVZ1NmUVN1WkRjd1ZQb1o0MWF6cnRsemxNdEwxc2NMQy1QeUZQMUtaTXd6SG5YWXJuS18tSGV3S1BlYVAyR005U1E?oc=5",
-   "source": "elEconomista",
-   "source_id": "eleconomista",
-   "published": "2026-11-27T14:12:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia"
-   ],
-   "score": 5.842,
+   "score": 5.781,
    "also": []
   },
   "d14adaea61": {
@@ -923,7 +908,7 @@
    "topics": [
     "medtech"
    ],
-   "score": 5.831,
+   "score": 5.774,
    "also": []
   },
   "b9861fba4f": {
@@ -939,23 +924,22 @@
     "ia",
     "economia"
    ],
-   "score": 5.823,
+   "score": 5.769,
    "also": []
   },
-  "9f464e308b": {
-   "title": "Operativo oftalmológico en el Hospital de Linares realizó 202 atenciones y 12 cirugías",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHNCSVBSQ3NkM0lJd3VXYmhrYzY1UGwtblBfWGd1ck5aVUdFaXRmRkxZVWVFMlBLVmdNODRHS21aX2FSdDVzZmh3Wm1icE1MOTlBX2ZYSXlkSmJydlgwTFZLNG1iWjlxSlZSV3NLakZHWEx3MjNrUWxrLXB1TzlHcC1CQWEtbDY0MUY3ZS05ZTIybkZIUGRQcWVCWkFlWUxhZmRySXA0MEcwY2hCNmc?oc=5",
-   "source": "Radio Ancoa",
-   "source_id": "optica_es",
-   "published": "2026-11-27T15:01:06+00:00",
+  "820c9b3f22": {
+   "title": "Así retrata 'The Wall Street Journal' la crisis de la vivienda en España: \"Sin casas para alquilar, sin formas para desalojar\"",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ1pZUjhZRC0zMmZyQXA2a1lGc0dOdnV0eHRFWnlHMkRId0I0dXkxMVVlRVZwSS1LbkJZY055VmI5U1JiWjBOdk5IMFAxWUQxS3JYbDdEUGdTTTJ6VWhYQ3U3eTVuOTY3QnFGeVZvNkhOM1g4NlA4T1dIdFZBN0lIMklOWE5QbTdwTVY5WkJpMzNSSXFEcHAyUXdrXzl1YXVFZXFWR3VFampPUTJqRGt0WGoxWWNvMzhkTWRIazNCX2lMQ01jLTFvbTZPNDU4c1ZEWWF1VXdMYkwyNmtMV1h2NzJ3bk1QTFA0RXNPQk5yQzdNVTZEVDd1WFBLS0Z0OG0xS1NuZnlwT0tZVGExYmZEYWUtTXVQUTdTdE5keC0zNmh2N2dO0gGPAkFVX3lxTE15U0R4SVFuazl0dlJaRVhzckFwcHNMVDB0ZmdkM05XNUJtSTBmMUZoYVR3cVZMc1NORjhkYUNsdHlEUUVCUTJ2Nkh5b3VZdU1hRldlYjRrdkNDNEh4MVUxc2o1T0JBT1I1WDhIekxGbG5DTFFOaTJEeVBqSmg3RmFkVGhVckpQWWFZSjJFSXBMekdSZWlNNmhLVjRob0FUazI0cmFBSTc3aWVfczd2b24zV0JSZ3doTlRKRzNGMTlRaWFFNTFwXzk4UDYwQUtVZ1NmUVN1WkRjd1ZQb1o0MWF6cnRsemxNdEwxc2NMQy1QeUZQMUtaTXd6SG5YWXJuS18tSGV3S1BlYVAyR005U1E?oc=5",
+   "source": "elEconomista",
+   "source_id": "eleconomista",
+   "published": "2026-11-27T14:12:00+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
-    "optica",
-    "salud"
+    "economia"
    ],
-   "score": 5.725,
+   "score": 5.769,
    "also": []
   },
   "4dd12c3728": {
@@ -970,7 +954,7 @@
    "topics": [
     "salud"
    ],
-   "score": 5.593,
+   "score": 5.53,
    "also": []
   },
   "1c648f8f7e": {
@@ -986,7 +970,7 @@
     "optica",
     "negocios"
    ],
-   "score": 5.583,
+   "score": 5.514,
    "also": []
   },
   "954782265f": {
@@ -1001,7 +985,37 @@
    "topics": [
     "ia"
    ],
-   "score": 5.515,
+   "score": 5.451,
+   "also": []
+  },
+  "30ac68c609": {
+   "title": "Cómo la IA amenaza con matar a los genios matemáticos: \"Estamos tan descolocados como cuando descubrimos que la Biblia no es fuente de verdad\"",
+   "url": "https://www.elmundo.es/papel/historias/2026/11/26/6b0874a9e9cf4a2a398b45cd.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-26T21:00:29+00:00",
+   "summary": "No todo es luz en los anuncios de resolución de los más colosales problemas matemáticos, ya que la ambición desmedida de las empresas de IA para promocionarse puede terminar liquidando la visión de las grandes mentes que desafiaron las fronteras del conocimiento con papel y lápiz Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957173555435.jpg",
+   "topics": [
+    "ia"
+   ],
+   "score": 5.421,
+   "also": []
+  },
+  "ba0c0a0c98": {
+   "title": "EMA: El 14 % de nuevos usuarios de GLP-1 en la UE no tiene diabetes tipo 2 ni obesidad",
+   "url": "https://diariofarma.com/2026/11/27/ema-menos-del-14-de-nuevos-usuarios-de-glp-1-en-la-ue-no-tiene-diabetes-tipo-2-ni-obesidad",
+   "source": "Diariofarma",
+   "source_id": "diariofarma",
+   "published": "2026-11-27T11:07:23+00:00",
+   "summary": "El seguimiento a través de Darwin EU a más de 1,6 millones de pacientes en 12 bases de datos europeas revela que las pautas reales con GLP-1 incluyen subidas y bajadas de dosis, cambios de fármaco y oscilaciones de prescripción ligadas al desabastecimiento desde 2022.",
+   "ai_summary": null,
+   "image": "https://diariofarma.com/wp-content/uploads/2026/11/Base-para-infografias-y-tablas-de-Diariofarma-1-38.webp",
+   "topics": [
+    "pharma"
+   ],
+   "score": 5.334,
    "also": []
   },
   "0e759b6aef": {
@@ -1017,22 +1031,7 @@
     "marketing",
     "espana"
    ],
-   "score": 5.397,
-   "also": []
-  },
-  "ba0c0a0c98": {
-   "title": "EMA: El 14 % de nuevos usuarios de GLP-1 en la UE no tiene diabetes tipo 2 ni obesidad",
-   "url": "https://diariofarma.com/2026/11/27/ema-menos-del-14-de-nuevos-usuarios-de-glp-1-en-la-ue-no-tiene-diabetes-tipo-2-ni-obesidad",
-   "source": "Diariofarma",
-   "source_id": "diariofarma",
-   "published": "2026-11-27T11:07:23+00:00",
-   "summary": "El seguimiento a través de Darwin EU a más de 1,6 millones de pacientes en 12 bases de datos europeas revela que las pautas reales con GLP-1 incluyen subidas y bajadas de dosis, cambios de fármaco y oscilaciones de prescripción ligadas al desabastecimiento desde 2022.",
-   "ai_summary": null,
-   "image": "https://diariofarma.com/wp-content/uploads/2026/11/Base-para-infografias-y-tablas-de-Diariofarma-1-38.webp",
-   "topics": [
-    "pharma"
-   ],
-   "score": 5.395,
+   "score": 5.331,
    "also": []
   },
   "5faf0e6f19": {
@@ -1047,7 +1046,7 @@
    "topics": [
     "pharma"
    ],
-   "score": 5.307,
+   "score": 5.248,
    "also": []
   },
   "94305b427e": {
@@ -1063,7 +1062,7 @@
     "ia",
     "tech"
    ],
-   "score": 5.269,
+   "score": 5.234,
    "also": []
   },
   "c4deda4af5": {
@@ -1079,7 +1078,7 @@
     "marketing",
     "negocios"
    ],
-   "score": 5.211,
+   "score": 5.181,
    "also": []
   },
   "777dde2c1c": {
@@ -1094,23 +1093,7 @@
    "topics": [
     "tech"
    ],
-   "score": 5.158,
-   "also": []
-  },
-  "4caa6ce3bb": {
-   "title": "La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building»",
-   "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/ia-afianza-agenda-cmo-ponen-simultaneamente-ojitos-brand-building",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-26T09:38:16+00:00",
-   "summary": "El 66% de los CMO contempla la IA como el tema más importante con la vista puesta en el futuro en el seno del departamento de marketing. La entrada La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building» se publicó primero en Marketing Directo .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "marketing",
-    "ia"
-   ],
-   "score": 5.074,
+   "score": 5.098,
    "also": []
   },
   "ad9b46b5d3": {
@@ -1125,7 +1108,22 @@
    "topics": [
     "espana"
    ],
-   "score": 5.036,
+   "score": 4.994,
+   "also": []
+  },
+  "5ea47e0e9b": {
+   "title": "Francia entra en recesión técnica tras la caída del PIB por segundo trimestre consecutivo",
+   "url": "https://www.elmundo.es/economia/2026/11/27/6b09a09021efa02d428b459b.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-27T15:31:22+00:00",
+   "summary": "Para recuperar el terreno perdido y lograr el pírrico aumento del PIB del 0,5% a fin de año, la economía francesa tendría que crecer un 1,4% en el último trimestre, algo altamente improbable Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957934481197.jpg",
+   "topics": [
+    "economia"
+   ],
+   "score": 4.983,
    "also": []
   },
   "a1b7694ef1": {
@@ -1140,7 +1138,7 @@
    "topics": [
     "economia"
    ],
-   "score": 5.014,
+   "score": 4.962,
    "also": []
   },
   "b44c37dc70": {
@@ -1156,7 +1154,7 @@
     "ia",
     "marketing"
    ],
-   "score": 4.948,
+   "score": 4.927,
    "also": []
   },
   "95ef5039da": {
@@ -1173,7 +1171,7 @@
     "tech",
     "negocios"
    ],
-   "score": 4.948,
+   "score": 4.92,
    "also": []
   },
   "7ec5cc2013": {
@@ -1188,38 +1186,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.901,
-   "also": []
-  },
-  "1b1f214221": {
-   "title": "La 'lista de deseos' de las sociedades científicas médicas para el 29N: más inversión, diálogo y reformas",
-   "url": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261127/la-lista-de-deseos-las-sociedades-cientificas-medicas-para-el-mas-inversion-dialogo-reformas/364946_0.html",
-   "source": "Redacción Médica",
-   "source_id": "redaccionmedica",
-   "published": "2026-11-27T14:45:09+00:00",
-   "summary": "Diferentes instituciones trasladan sus principales reivindicaciones de cara al nuevo Ejecutivo para un mejor funcionamiento del SNS ante la celebración de las elecciones generales Y además: Los pacientes fijan sus prioridades ante el 29N: desbloqueo de la ley y tijeretazo a las listas de espera",
-   "ai_summary": null,
-   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/154472.jpg?p=c:3584:2021:nowe:199:86/w:1706/h:960&h=cDf-MxmZ",
-   "topics": [
-    "salud",
-    "negocios"
-   ],
-   "score": 4.769,
-   "also": []
-  },
-  "bb64c88577": {
-   "title": "He convencido a mi novio para probar los calzoncillos más vendidos de Amazon: ahora están rebajados por Black Friday",
-   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/probamos-calzoncillos-calvin-klein-oferta-amazon-prime-day-2026.html",
-   "source": "El País",
-   "source_id": "elpais",
-   "published": "2026-11-27T08:47:32+00:00",
-   "summary": "Son casi tan deseados como los rostros que aparecen en sus campañas: de Justin Bieber a Jude Bellingham. Ponemos a prueba estos calzoncillos para ver si realmente merecen la pena",
-   "ai_summary": null,
-   "image": "https://imagenes.elpais.com/resizer/v2/IZZD6VLJIJCQXD3QN6VKWVXGVI.png?auth=00e3e44da837e9317d210f5321b9fa7029b5cddf679eeb1f1a0ae094e2ca2b7a",
-   "topics": [
-    "tech"
-   ],
-   "score": 4.764,
+   "score": 4.878,
    "also": []
   },
   "c964efb942": {
@@ -1236,7 +1203,38 @@
     "pharma",
     "salud"
    ],
-   "score": 4.756,
+   "score": 4.743,
+   "also": []
+  },
+  "bb64c88577": {
+   "title": "He convencido a mi novio para probar los calzoncillos más vendidos de Amazon: ahora están rebajados por Black Friday",
+   "url": "https://elpais.com/escaparate/ofertas-y-descuentos/probamos-calzoncillos-calvin-klein-oferta-amazon-prime-day-2026.html",
+   "source": "El País",
+   "source_id": "elpais",
+   "published": "2026-11-27T08:47:32+00:00",
+   "summary": "Son casi tan deseados como los rostros que aparecen en sus campañas: de Justin Bieber a Jude Bellingham. Ponemos a prueba estos calzoncillos para ver si realmente merecen la pena",
+   "ai_summary": null,
+   "image": "https://imagenes.elpais.com/resizer/v2/IZZD6VLJIJCQXD3QN6VKWVXGVI.png?auth=00e3e44da837e9317d210f5321b9fa7029b5cddf679eeb1f1a0ae094e2ca2b7a",
+   "topics": [
+    "tech"
+   ],
+   "score": 4.714,
+   "also": []
+  },
+  "1b1f214221": {
+   "title": "La 'lista de deseos' de las sociedades científicas médicas para el 29N: más inversión, diálogo y reformas",
+   "url": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261127/la-lista-de-deseos-las-sociedades-cientificas-medicas-para-el-mas-inversion-dialogo-reformas/364946_0.html",
+   "source": "Redacción Médica",
+   "source_id": "redaccionmedica",
+   "published": "2026-11-27T14:45:09+00:00",
+   "summary": "Diferentes instituciones trasladan sus principales reivindicaciones de cara al nuevo Ejecutivo para un mejor funcionamiento del SNS ante la celebración de las elecciones generales Y además: Los pacientes fijan sus prioridades ante el 29N: desbloqueo de la ley y tijeretazo a las listas de espera",
+   "ai_summary": null,
+   "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/154472.jpg?p=c:3584:2021:nowe:199:86/w:1706/h:960&h=cDf-MxmZ",
+   "topics": [
+    "salud",
+    "negocios"
+   ],
+   "score": 4.709,
    "also": []
   },
   "e5180f4a40": {
@@ -1253,22 +1251,7 @@
     "pharma",
     "salud"
    ],
-   "score": 4.725,
-   "also": []
-  },
-  "282206b712": {
-   "title": "PSOE, PP, FA Y VOX, ante el deporte: \"Respetamos las selecciones autonómicas, pero es un disparate que compitan contra España. Revertiremos eso\"",
-   "url": "https://www.elmundo.es/deportes/mas-deporte/2026/11/26/6b086bd3e85ecea12e8b45b5.html",
-   "source": "El Mundo",
-   "source_id": "elmundo",
-   "published": "2026-11-26T21:00:08+00:00",
-   "summary": "Los principales partidos que concurren al 29-N explican su proyecto para el deporte en España y afrontan cuestiones como los deportistas tranas, la final del Mundial 2030 o el deporte femenino Leer",
-   "ai_summary": null,
-   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957175483191.jpg",
-   "topics": [
-    "espana"
-   ],
-   "score": 4.639,
+   "score": 4.703,
    "also": []
   },
   "d58fdcda4c": {
@@ -1285,26 +1268,28 @@
     "pharma",
     "salud"
    ],
-   "score": 4.602,
+   "score": 4.594,
    "also": []
   },
-  "dd67c5f3d7": {
-   "title": "Detenido un hombre que presuntamente había intentando llevarse a un niño por agredir a un policía en Santander",
-   "url": "https://www.elconfidencial.com/espana/2026-11-27/detenido-agredir-agente-intentar-llevarse-nino-1tna-1tps_4473989/",
-   "source": "El Confidencial",
-   "source_id": "elconfidencial",
-   "published": "2026-11-27T09:33:00+00:00",
-   "summary": "El sospechoso se negó a identificarse y lanzó varios puñetazos al ser localizado en un centro comercial de Peñacastillo",
+  "687e8c71f9": {
+   "title": "Advia amplía las capacidades de Vera para ayudar a las marcas a ganar presencia en la IA",
+   "url": "https://www.marketingdirecto.com/digital-general/digital/advia-amplia-capacidades-vera-ayudar-marcas-ganar-presencia-ia",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-26T10:48:32+00:00",
+   "summary": "Coincidiendo con su segundo aniversario, la startup tecnológica presenta su evolución hacia los entornos conversacionales, con nuevas soluciones de posicionamiento orgánico y publicidad en IA La entrada Advia amplía las capacidades de Vera para ayudar a las marcas a ganar presencia en la IA se publicó primero en Marketing Directo .",
    "ai_summary": null,
-   "image": "https://images.ecestaticos.com/mH2b86fSiTMKKJoBKFykV-cK6sY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffab%2F012%2F8b6%2Ffab0128b6bf4bb99b5f5446a1b5917b4.jpg",
+   "image": null,
    "topics": [
-    "negocios"
+    "ia",
+    "marketing",
+    "tech"
    ],
-   "score": 4.589,
+   "score": 4.566,
    "also": []
   },
   "5136ae5bd3": {
-   "title": "Exitosa Noticias. . 🔴🔵 #DRStream 👨‍⚕️🩺 | El oftalmólogo Fernando Soito llegó a Dr Stream para compartir importantes recomendaciones sobre el cuidado de la salud visual. Durante su participación, brindó consejos para proteger nuestra vista y destacó la importancia de adoptar buenos hábitos desde la…",
+   "title": "Exitosa Noticias. . 🔴🔵 #DRStream 👨‍⚕️🩺 | El oftalmólogo Fernando Soito llegó a Dr Stream para compartir importantes recomendaciones sobre el cuidado de la salud visual. Durante su participación, brindó consejos para proteger nuestra vista y destacó la i",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFRTUGNnQWVacmQ2elpPQXcxWlpMeVJMaUNnUXBtd2VWdGhVU2FUWUhhRS1LOGM2c3lUNlVIcW9zbGR4dWpzRHFFY3daNGZZSXo2U01MeXBEd0xXaFdOY2NZZ1RKVlU2YXZFa0JScUY1UWg4SHR6bW4wR0JYYk5xOG1uUFhSbml6dDladkRTZDlzTF9QWW41U0FGX29PUGpJRm5qZlZNc1Izb2h3RlRiZVdqdk1GbkxxZEpGSWZaLVFWZFU4YTNVU0JjZF90b2hKNkNJZXc2cUUzdlRYOEtqU2o3WHVZT3MxQTJkVg?oc=5",
    "source": "Facebook",
    "source_id": "optica_es",
@@ -1315,7 +1300,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.458,
+   "score": 4.446,
    "also": []
   },
   "c9a93d3c93": {
@@ -1331,7 +1316,22 @@
     "salud",
     "pharma"
    ],
-   "score": 4.409,
+   "score": 4.389,
+   "also": []
+  },
+  "f0a42e7c1b": {
+   "title": "King's manufacturing facility produces its first implantable medical device",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkI2ZklnOGFMeTU3VTQyc0pqUFVRZ1EwWU9oTHg2VVJmaFlWZlQ4ZWVWVXRDaEViekl6ZkJLYUN4ZnJMRm5KU0tKTzQwTi04WEpSamZETElQYnl1aVhyTlh1UlRSVlFkR2RpUVE2X1N1N1E3ZUEzbHoxSkwtSHdCY2F4a3FSeEl1N2NocHpWdTlhWTZCckJRS1dRUkVodEgtUW5v?oc=5",
+   "source": "King's College London",
+   "source_id": "medtech_search",
+   "published": "2026-11-26T11:14:21+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "medtech"
+   ],
+   "score": 4.343,
    "also": []
   },
   "a10206dbd7": {
@@ -1346,7 +1346,37 @@
    "topics": [
     "pharma"
    ],
-   "score": 4.28,
+   "score": 4.234,
+   "also": []
+  },
+  "9248ad2af7": {
+   "title": "Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año",
+   "url": "https://www.marketingdirecto.com/marketing-general/agencias/omnicom-media-lleva-batuta-nuevo-negocio-espana-llevamos-ano",
+   "source": "Marketing Directo",
+   "source_id": "marketingdirecto",
+   "published": "2026-11-26T11:24:32+00:00",
+   "summary": "Entre enero y septiembre de 2026 Omnicom Media generó en nuestro país nuevo negocio valorado en 112 millones de dólares. La entrada Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año se publicó primero en Marketing Directo .",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "marketing"
+   ],
+   "score": 4.229,
+   "also": []
+  },
+  "4f06f88895": {
+   "title": "Los ópticos-optometristas llevan la salud visual al debate político sobre el uso de pantallas en menores",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVE9oU0ROcURfMHZtUXVLVHQzQ3A4RVBKOVEzR0lyRmhOc1VzMVhOaFlicVhJSzNNcHp4Mk5QaFdFRldSSWVEdFNyVnpLamZ4a1RTbExtQ1R5S0E1RzhPaXV2dXR6RGpwazJJWV9lMXdPaG9PbVJYVDJCWlRUSjJkdXhaVzhsRmdmWWZqUGhtRTFETmVodEpaeGR6WlN3RmlyUkh4M1BJWXJjczhmUExKXzVidU9Nc2tJRmtJLTVaN3ZFM0d5d0Zz?oc=5",
+   "source": "Modaengafas.com",
+   "source_id": "optica_es",
+   "published": "2026-11-25T12:09:35+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "optica"
+   ],
+   "score": 4.229,
    "also": []
   },
   "2704af33d4": {
@@ -1362,22 +1392,7 @@
     "negocios",
     "salud"
    ],
-   "score": 4.254,
-   "also": []
-  },
-  "9248ad2af7": {
-   "title": "Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año",
-   "url": "https://www.marketingdirecto.com/marketing-general/agencias/omnicom-media-lleva-batuta-nuevo-negocio-espana-llevamos-ano",
-   "source": "Marketing Directo",
-   "source_id": "marketingdirecto",
-   "published": "2026-11-26T11:24:32+00:00",
-   "summary": "Entre enero y septiembre de 2026 Omnicom Media generó en nuestro país nuevo negocio valorado en 112 millones de dólares. La entrada Omnicom Media lleva la batuta del nuevo negocio en España en lo que llevamos de año se publicó primero en Marketing Directo .",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "marketing"
-   ],
-   "score": 4.248,
+   "score": 4.201,
    "also": []
   },
   "aac47d1644": {
@@ -1393,22 +1408,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.238,
-   "also": []
-  },
-  "4f06f88895": {
-   "title": "Los ópticos-optometristas llevan la salud visual al debate político sobre el uso de pantallas en menores",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVE9oU0ROcURfMHZtUXVLVHQzQ3A4RVBKOVEzR0lyRmhOc1VzMVhOaFlicVhJSzNNcHp4Mk5QaFdFRldSSWVEdFNyVnpLamZ4a1RTbExtQ1R5S0E1RzhPaXV2dXR6RGpwazJJWV9lMXdPaG9PbVJYVDJCWlRUSjJkdXhaVzhsRmdmWWZqUGhtRTFETmVodEpaeGR6WlN3RmlyUkh4M1BJWXJjczhmUExKXzVidU9Nc2tJRmtJLTVaN3ZFM0d5d0Zz?oc=5",
-   "source": "Modaengafas.com",
-   "source_id": "optica_es",
-   "published": "2026-11-25T12:09:35+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "optica"
-   ],
-   "score": 4.235,
+   "score": 4.199,
    "also": []
   },
   "31719da306": {
@@ -1423,7 +1423,7 @@
    "topics": [
     "espana"
    ],
-   "score": 4.172,
+   "score": 4.126,
    "also": []
   },
   "f2be24a804": {
@@ -1439,7 +1439,7 @@
     "ia",
     "tech"
    ],
-   "score": 4.07,
+   "score": 4.069,
    "also": []
   },
   "4499caf6a2": {
@@ -1455,7 +1455,7 @@
     "tech",
     "marketing"
    ],
-   "score": 4.046,
+   "score": 4.044,
    "also": []
   },
   "9fba509ad9": {
@@ -1470,7 +1470,7 @@
    "topics": [
     "optica"
    ],
-   "score": 4.034,
+   "score": 3.988,
    "also": []
   },
   "8946d043c4": {
@@ -1486,22 +1486,7 @@
     "tech",
     "marketing"
    ],
-   "score": 3.919,
-   "also": []
-  },
-  "e9da2d6494": {
-   "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
-   "source": "Reuters",
-   "source_id": "reuters",
-   "published": "2026-11-26T17:43:00+00:00",
-   "summary": "",
-   "ai_summary": null,
-   "image": null,
-   "topics": [
-    "economia"
-   ],
-   "score": 3.911,
+   "score": 3.917,
    "also": []
   },
   "6ad05d340f": {
@@ -1517,7 +1502,22 @@
     "pharma",
     "espana"
    ],
-   "score": 3.909,
+   "score": 3.89,
+   "also": []
+  },
+  "e9da2d6494": {
+   "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "source": "Reuters",
+   "source_id": "reuters",
+   "published": "2026-11-26T17:43:00+00:00",
+   "summary": "",
+   "ai_summary": null,
+   "image": null,
+   "topics": [
+    "economia"
+   ],
+   "score": 3.887,
    "also": []
   },
   "25e9c6f22c": {
@@ -1533,7 +1533,7 @@
     "medtech",
     "economia"
    ],
-   "score": 3.894,
+   "score": 3.861,
    "also": []
   },
   "e08a67c02b": {
@@ -1549,7 +1549,7 @@
     "ia",
     "tech"
    ],
-   "score": 3.752,
+   "score": 3.725,
    "also": []
   },
   "8d41e9b628": {
@@ -1565,7 +1565,7 @@
     "marketing",
     "tech"
    ],
-   "score": 3.526,
+   "score": 3.52,
    "also": []
   },
   "273a2e446d": {
@@ -1580,7 +1580,7 @@
    "topics": [
     "optica"
    ],
-   "score": 3.388,
+   "score": 3.382,
    "also": []
   },
   "7c75ea1438": {
@@ -1595,23 +1595,22 @@
    "topics": [
     "optica"
    ],
-   "score": 3.368,
+   "score": 3.362,
    "also": []
   },
-  "cf3770201f": {
-   "title": "El examen de fondo para Anthropic en Wall Street: las 23 fechas de desbloqueo que medirán su pulso bursátil",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObk54WXUwQmY0T2ZRNUtwSHR2VUF0N3ItUGJQeVYweG1HUUhNN1dkZ1hBY2U2dENYUUpQOEhGd3ZFVnVsUnlwaTEtZEh1YXVqRVVzX3cxLUpvZEQwZnplZ3RzUFJ3dFNMSHItUkl0VndMdEJkQm5jcVFlc0ZEZ0FxYkRVYzk4RDFKY3RlanRtSy00QnZHbHFmSzhVWXNHbFRhQ3FGc1NDc0VkWWcyNGhPSDdNdDRnODZ6c29qY3E0VXI4ZVJma0d1OWZJMHJVanMtTDVmMUFBMUR2YkpCbVU2Ujg5X0l2ZmdQZElTSHVQNmI4LTFucE02MFpDaHBpdGsyYXdfRUpYUFE5YVZQU3dibVl4d9IB_gFBVV95cUxPQ1pnT093YkVQcW9aay1aVGZ6U1Y0X0kzaGVoWVgyQnpZdlZTY3hfTk9pRWRRNXlwV2cyZ2JhRklIWlFKRWxUSWdsUklKRGNNakw0eXdGX1VIS0RlQzVDczhjSXdLUURjdEVnTUV4MWk3Q0p0eFBHR01oNXZvQnI1ODliTW41RHBRTVZzOU1XOG1LLXo4VjVmX3B4ckNVRHJHZHYwa0ZRT05SMEp2Wk90aktkSzYtOE94bXdNU24zSnc2TDl4SjZJR1dHVGFfTVplOXFyTExXYzNLMlhUVS1mNllXS1NtMGNZMElYT2FBbEMwS2lQMmNiVGRoRHhfdw?oc=5",
+  "0d6ad112db": {
+   "title": "José Luis Martín Ovejero, experto en comunicación no verbal, analiza a Sánchez y Feijóo antes de las elecciones generales: \"Nunca observé tanta vulnerabilidad\"",
+   "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWEgyTG43cjJWN3FrVVpDUjIzQUZMaW5JQ1hNNDZEY1l0VzQyd1JDcnR4Rm55b1lPV1pKS0d3aEJBamR4VGFONjF2R1IyWTBxUGxxTTVFbTltQjRudGlIQmoxTjJaWTlleDJ1S3Y2UnBBY1FwV2VmcDFmRy1kWVA0ZUZpMWx5aWhzWGRQeFdzMGNUVnNEN0c2SS02ZXBxYU5BUmhwOVlKanUzM09WVTJGdkxrZzdSQnA5a2VVRWFtQkZ4Sy1iVjJpYVhyYS1HYlRGVmlFSmkxR3FmUVoxV2l4T1BqNW5scEp2TlZkZ0NZTUhLZGwyNEhIT3FROW9sd3B1ZHVrVHM3bnZua1hhbE1XUXQ1T0NCVjgxdUJOMFVMcXpIV2d1RkZDM0RwM2xVbkxVVVJLOWVIVXc0YndrZHd1eFkxYl9KVmZkNndlYXdORm9ieEl2ampJYmJhSnc?oc=5",
    "source": "elEconomista",
    "source_id": "eleconomista",
-   "published": "2026-11-26T15:52:30+00:00",
+   "published": "2026-11-26T18:00:42+00:00",
    "summary": "",
    "ai_summary": null,
    "image": null,
    "topics": [
-    "ia",
-    "economia"
+    "espana"
    ],
-   "score": 3.344,
+   "score": 3.122,
    "also": []
   },
   "e8e3695421": {
@@ -1626,7 +1625,7 @@
    "topics": [
     "optica"
    ],
-   "score": 3.12,
+   "score": 3.117,
    "also": []
   },
   "3e4290bd35": {
@@ -1641,7 +1640,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 2.964,
+   "score": 2.946,
    "also": []
   },
   "55d442714c": {
@@ -1656,7 +1655,22 @@
    "topics": [
     "optica"
    ],
-   "score": 2.768,
+   "score": 2.766,
+   "also": []
+  },
+  "be94d14891": {
+   "title": "Las empresas catalanas escriben su 'carta a los Reyes Magos' de la próxima legislatura: menos impuestos y más respaldo público",
+   "url": "https://www.elmundo.es/economia/empresas/2026/11/26/6b082606e4d4d869358b4595.html",
+   "source": "El Mundo",
+   "source_id": "elmundo",
+   "published": "2026-11-26T13:17:41+00:00",
+   "summary": "El XXV Congreso CEDE ha reunido en Barcelona a los primeros ejecutivos de grandes compañías del país a tres días de las elecciones generales Leer",
+   "ai_summary": null,
+   "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956965219272.jpg",
+   "topics": [
+    "negocios"
+   ],
+   "score": 2.709,
    "also": []
   },
   "0ba06f0bd5": {
@@ -1671,7 +1685,7 @@
    "topics": [
     "economia"
    ],
-   "score": 2.508,
+   "score": 2.495,
    "also": []
   },
   "8876a8e90e": {
@@ -1689,7 +1703,7 @@
     "tech",
     "marketing"
    ],
-   "score": 4.193,
+   "score": 4.186,
    "also": []
   },
   "cfe1d18872": {
@@ -1706,7 +1720,7 @@
     "marketing",
     "tech"
    ],
-   "score": 3.941,
+   "score": 3.934,
    "also": []
   },
   "8dc114fd2b": {
@@ -1722,7 +1736,7 @@
     "ia",
     "tech"
    ],
-   "score": 2.015,
+   "score": 2.009,
    "also": []
   },
   "c2193df545": {
@@ -1785,7 +1799,7 @@
    "topics": [
     "marketing"
    ],
-   "score": 1.199,
+   "score": 1.194,
    "also": []
   },
   "86e17d6a37": {
@@ -1832,7 +1846,7 @@
    "id": "elmundo",
    "name": "El Mundo",
    "via": "rss",
-   "count": 84,
+   "count": 85,
    "ok": true,
    "errors": []
   },
@@ -1946,7 +1960,7 @@
    "id": "optica_es",
    "name": "Óptica en prensa española",
    "via": "google-news",
-   "count": 55,
+   "count": 37,
    "ok": true,
    "errors": []
   },
@@ -1970,7 +1984,7 @@
    "id": "reasonwhy",
    "name": "Reason Why",
    "via": "google-news",
-   "count": 7,
+   "count": 6,
    "ok": true,
    "errors": []
   },
@@ -2042,11 +2056,9 @@
    "id": "fiercepharma",
    "name": "Fierce Pharma (marketing)",
    "via": "google-news",
-   "count": 0,
-   "ok": false,
-   "errors": [
-    "google-news: HTTPError: HTTP Error 429: Too Many Requests"
-   ]
+   "count": 6,
+   "ok": true,
+   "errors": []
   },
   {
    "id": "medtechdive",
@@ -2068,7 +2080,7 @@
    "id": "medtech_search",
    "name": "Medical devices en prensa",
    "via": "google-news",
-   "count": 68,
+   "count": 85,
    "ok": true,
    "errors": []
   },

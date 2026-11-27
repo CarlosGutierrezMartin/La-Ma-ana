@@ -1,12 +1,12 @@
 {
  "episodes": [
   {
-   "date": "2026-11-26",
-   "file": "2026-11-26.mp3",
-   "title": "La Mañana - 26 de noviembre de 2026",
-   "duration": 300,
-   "bytes": 2399346,
-   "published": "2026-11-26T15:25:23.361682+00:00",
+   "date": "2026-11-27",
+   "file": "2026-11-27.mp3",
+   "title": "La Mañana del 27 de noviembre de 2026",
+   "duration": 524,
+   "bytes": 4194356,
+   "published": "2026-11-27T15:41:32.965774+00:00",
    "topics": [
     "optica",
     "pharma",
@@ -22,194 +22,194 @@
     "Inteligencia artificial"
    ],
    "stories": [
-    "91695169e3",
-    "1759419ed3",
-    "dd1725c397",
-    "a80fb23a27",
-    "254bead45c",
-    "ab14c8318a",
-    "4caa6ce3bb",
-    "b47f021e12",
-    "dc85126b0a",
+    "1c648f8f7e",
+    "f3c2a5b9c4",
+    "41979f2d15",
+    "11e500ffa6",
+    "9a1fe6462d",
+    "8f67a85581",
+    "93472c1a4d",
+    "7f7fc9eef3",
+    "3a851e04d7",
     "8876a8e90e",
-    "768ca23629",
+    "f2be24a804",
     "c2193df545"
    ],
    "story_items": [
     {
-     "id": "91695169e3",
-     "relevance": 100,
-     "title": "Las peticiones de ópticos-optometristas al nuevo Gobierno: incorporación al SNS y una estrategia estatal de salud visual",
-     "url": "https://www.consalud.es/profesionales/otros-profesionales/las-peticion-de-opticos-optometristas-al-nuevo-gobierno-su-incorporacion-a-la-sanidad-publica-y-una-estrategia-estatal-de-salud-visual.html",
-     "source": "ConSalud",
-     "source_id": "consalud",
-     "published": "2026-11-26T15:08:15+00:00",
-     "summary": "otros profesionales: Las peticiones de ópticos-optometristas al nuevo Gobierno: incorporación al SNS y una estrategia estatal de salud visual",
+     "id": "1c648f8f7e",
+     "relevance": 32,
+     "title": "Pablo Caba, optometrista, explica cómo podría superar Marc Márquez sus problemas de diplopía: “Cuanto más joven, más resultados tienes”",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeHAzaXdrZVVHWTItNWdXdmpXS2FpN05sLVNTcGRSeGExRWQ2ZklUR0hOSEkyczdYNTYxR2lVc1ZESllPRWxHNHU2b0hwcWxZa2hfRjBCUkdvd05Pb00wQS1hM1NvNHN2SGNfUEFnVGNkN2ZNVUFfQUNmeE02WXdaSmlVcm9SaDJnQ283WWFRWWJCNTZGTnZTb3M2SGc2aURlVzRjVmN2SG1JbEg1cjFvVTlyeGFRb3lGYXVzQjN6Ry1BZDViOHh4Y3MtdlNoRGdMemNwdmVRVFJPLVB5amJiYnFOMGJIQnBtb2VDXzBmWndIS2kxZlHSAfYBQVVfeXFMUHdzZ0ZranM0bDFCWExxeFNSY0pEV29acy1WY0dfVS1ld3hBdl9aNUpTVGYwMXd3ZTFha21JWkJkUmJnSEM5SVFMRHdRY1JXTzFwNkU5S3Y1WC14YUlPOHJ4TzMwWlhYWGVGaWhEa1B2Y3BpZXJVMXBiOGtEcVoxaHN6dVZlWXVMSU9LZ2EtWENQTENZTnFzbU9ISmdZSTc4TUYzQVlSeEdpa0tQTUZPcDhqclVyZmJNckJRTEFBeW1NeW05UXNkOW9pQWllS3RKMjc2aDBWTTd3Ykl2bnhmaU1WOVN1RTNTaW9DUHc0T0tsanNNYW5n?oc=5",
+     "source": "MARCA",
+     "source_id": "optica_es",
+     "published": "2026-11-27T13:36:40+00:00",
+     "summary": "",
      "image": null,
      "topics": [
       "optica",
-      "espana",
-      "salud"
+      "negocios"
      ],
-     "score": 11.895,
+     "score": 5.514,
+     "also": []
+    },
+    {
+     "id": "f3c2a5b9c4",
+     "relevance": 52,
+     "title": "El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves",
+     "url": "https://elglobalfarma.com/politica/boe-estatuto-aemps-claves/",
+     "source": "El Global",
+     "source_id": "elglobal",
+     "published": "2026-11-27T11:33:27+00:00",
+     "summary": "Uno de los principales cambios es la creación de una Dirección Adjunta, que asumirá funciones de gestión y coordinación de las relaciones institucionales con las administraciones y organismos competentes The post El BOE publica el nuevo Estatuto de la AEMPS: consulta aquí las claves appeared first on El Globalfarma .",
+     "image": null,
+     "topics": [
+      "pharma"
+     ],
+     "score": 8.985,
      "also": [
       {
-       "source_id": "optica_es",
-       "source": "Infosalus",
-       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGtuakVJZk9jd0V4ZXZ3VWxwamc5cUFTa1ZNU0RtVzhFdGxIZHdGRkR6Wmo0V1MyeXkyTi1WN0FZTlNYTlV5RDVGYzY2YkFFUzdvRS1Bek94cmNDaTBDRG5TT0VKNWo2R1JLOTFrODJCd0J6N0tsSk9HVjBQVzg1OHVmMFFObUZ0aDhGR2xIektQOG9FdDl6YTlWSU5vYjVURjFfTVIzWU5Ob2RyWEVpS254ZjBsSlZZTTBlWGQ5NDRpOTBrNnJobHRGdUJXdmlIbVZsN1JHT2VsVHF0ckE?oc=5",
-       "title": "Los ópticos-optometristas reclaman su incorporación en el SNS y una estrategia estatal de salud visual"
+       "source_id": "consalud",
+       "source": "ConSalud",
+       "url": "https://www.consalud.es/industria/farmaceutica/publicado-en-el-boe-el-nuevo-estatuto-de-la-aemps-por-el-que-se-crea-una-direccion-adjunta.html",
+       "title": "El BOE publica el nuevo Estatuto de la Aemps por el que se crea una Dirección Adjunta"
       }
      ]
     },
     {
-     "id": "1759419ed3",
-     "relevance": 79,
-     "title": "FDA clears DeepHealth's AI tool for 3D mammograms",
-     "url": "https://pharmaphorum.com/news/fda-clears-deephealths-ai-tool-3d-mammograms",
-     "source": "pharmaphorum",
-     "source_id": "pharmaphorum",
-     "published": "2026-11-26T12:27:40+00:00",
-     "summary": "Phil.Taylor Thu, 26/11/2026 - 12:27 Phil.Taylor Thu, 26/11/2026 - 12:27",
-     "image": null,
+     "id": "41979f2d15",
+     "relevance": 36,
+     "title": "Farmaindustria y Cataluña refuerzan la autorregulación de la publicidad de fármacos",
+     "url": "https://diariofarma.com/2026/11/26/farmaindustria-y-cataluna-refuerzan-la-autorregulacion-de-la-publicidad-de-medicamentos",
+     "source": "Diariofarma",
+     "source_id": "diariofarma",
+     "published": "2026-11-26T16:16:13+00:00",
+     "summary": "El Departamento de Salud de Cataluña y Farmaindustria analizan los desafíos de la transformación digital en la promoción sanitaria, en el marco del convenio pionero de autorregulación que ambas entidades mantienen desde noviembre de 2023.",
+     "image": "https://diariofarma.com/wp-content/uploads/2026/11/Gemini_Generated_Image_zch15pzch15pzch1.webp",
      "topics": [
       "pharma",
-      "ia"
+      "marketing"
      ],
-     "score": 9.371,
+     "score": 6.206,
+     "also": []
+    },
+    {
+     "id": "11e500ffa6",
+     "relevance": 100,
+     "title": "UK hospital completes world-first implantation of new Medtronic pacemaker",
+     "url": "https://www.medicaldevice-network.com/news/uk-hospital-completes-world-first-implantation-of-new-medtronic-pacemaker/",
+     "source": "Medical Device Network",
+     "source_id": "mdnetwork",
+     "published": "2026-11-27T13:50:04+00:00",
+     "summary": "Medtronic’s Restoria uses conduction system pacing to directly targets the heart’s natural electrical pathways versus non-selective stimulation as with traditional pacemakers. The post UK hospital completes world-first implantation of new Medtronic pacemaker appeared first on Medical Device Network .",
+     "image": null,
+     "topics": [
+      "medtech",
+      "salud"
+     ],
+     "score": 17.14,
      "also": [
       {
        "source_id": "medtech_search",
-       "source": "HLTH",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHNfZVVPcnVpRWpDNHo4SDBXejVoaXpxVE5pd3N3aUp2X09zV01SSUVybmUyV0Y2QnNfS2hodG51N0dUVWl3aDE5VXpzcWVndlE1amJyNlF5NmxURlc3NlIzWU9FRGJXQ1N2Sy0yWFNkZjVoOEV6ekhzU1U3NVlrNV96UTFrUUtwblhIeWFZNGp2UXBiNTRnWjhsVmQ5a2xYeWxYbk9hVURkdjA0OHVDMUtkUFVSTm8?oc=5",
-       "title": "DeepHealth Receives FDA Clearance for AI Tool Predicting Five-Year Breast Cancer Risk"
+       "source": "Medical Device Network",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXgySjE5Q3JLNE8tWE9oTnJYcHRxS1pSazZtSGtFOTBQd09IOTlKYUNPaWdxZE1TaW5laTFsUGhXOUhKNjVQV2RoaUdVVGZWdHFhc25FSm5lY2loVmpkSUpjN2h6aVdnUENFakhPTzdGaGFlZEllNjRiOGo1a2NtMmlTTUpwWmJSWEIyODJzUG9HbVhWdEFaWlZmQmtJZ1l6TGFvWVhBVXp4Ym1OSTZXMVZfdlBaNWtZ?oc=5",
+       "title": "UK hospital completes world-first implantation of new Medtronic pacemaker"
       }
      ]
     },
     {
-     "id": "dd1725c397",
-     "relevance": 70,
-     "title": "Sanidad ratifica a Pfizer e Hipra como sus elegidas para las vacunas Covid de 2027 y 2028",
-     "url": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261126/sanidad-ratifica-pfizer-hipra-como-sus-elegidas-para-las-vacunas-covid-de/366786_0.html",
-     "source": "Redacción Médica",
-     "source_id": "redaccionmedica",
-     "published": "2026-11-26T11:31:31+00:00",
-     "summary": "Falta por conocer si finalmente Pfizer, única que se ha presentado, se hará con el lote pediátrico de estos fármacos",
-     "image": "https://s1.redaccionmedica.com/k/imgp/cms/sanitaria2000/147759.jpg?p=w:1706/h:960&h=OT57gNym",
-     "topics": [
-      "salud",
-      "pharma"
-     ],
-     "score": 8.362,
-     "also": []
-    },
-    {
-     "id": "a80fb23a27",
-     "relevance": 74,
-     "title": "Cairdac implants autonomous leadless pacemaker in first human study",
-     "url": "https://www.medicaldevice-network.com/news/cairdac-implants-first-human-study/",
+     "id": "9a1fe6462d",
+     "relevance": 59,
+     "title": "Medica 2026: Consumers open to AI-based medtech, but personal touch remains key",
+     "url": "https://www.medicaldevice-network.com/news/medica-2026-consumers-open-to-ai-based-medtech-but-personal-touch-remains-key/",
      "source": "Medical Device Network",
      "source_id": "mdnetwork",
-     "published": "2026-11-26T10:41:05+00:00",
-     "summary": "Cairdac has performed the initial human implantations of its Autonomous Leadless Pacing System (ALPS) under the ASCEND clinical study. The post Cairdac implants autonomous leadless pacemaker in first human study appeared first on Medical Device Network .",
+     "published": "2026-11-27T11:25:28+00:00",
+     "summary": "DNV surveyed 12,500 consumers for their perceived trust and acceptance levels around medical devices and IVDs. The post Medica 2026: Consumers open to AI-based medtech, but personal touch remains key appeared first on Medical Device Network .",
      "image": null,
      "topics": [
-      "medtech"
+      "medtech",
+      "ia"
      ],
-     "score": 8.767,
+     "score": 10.075,
+     "also": [
+      {
+       "source_id": "medtech_search",
+       "source": "Medical Device Network",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX0tTRmZ2djQyQk45RkdZc09TMG5ISEVyV0hTNEdVOTZhb0xoTnhETDNXTWxWWk1weXZzaW82cnFWY3pmaDVFM1lKYm1SVHRNbmNNZXJYYXIyaV82RWlWRkE0RTNGQ3l2eVpQSks2aTdDUjBIaHRvRExySWZfTUVxU1hPUHFGU3cxeTJIZXlkb2tmSVctbU5VZ0lFSW9mQnpyUjZJZlEtY0dNYkhnN2RoMVN6VEY1eXU2TTFqcG9n?oc=5",
+       "title": "Medica 2026: Consumers open to AI-based medtech, but personal touch remains key"
+      }
+     ]
+    },
+    {
+     "id": "8f67a85581",
+     "relevance": 42,
+     "title": "España registra 6.140 donantes de tejidos y 51.247 implantes en 2025, con la incorporación de leche materna y microbiota fecal",
+     "url": "https://www.consalud.es/pacientes/espana-registra-6140-donantes-de-tejidos-y-51247-implantes-en-2025-con-la-incorporacion-de-leche-materna-y-microbiota-fecal.html",
+     "source": "ConSalud",
+     "source_id": "consalud",
+     "published": "2026-11-27T12:18:04+00:00",
+     "summary": "pacientes: España registra 6.140 donantes de tejidos y 51.247 implantes en 2025, con la incorporación de leche materna y microbiota fecal",
+     "image": null,
+     "topics": [
+      "medtech",
+      "salud"
+     ],
+     "score": 7.208,
      "also": []
     },
     {
-     "id": "254bead45c",
-     "relevance": 76,
-     "title": "La industria publicitaria suma un 7% más de empresas en 2025",
-     "url": "https://ipmark.com/industria-publicitaria-suma-mas-empresas-en-2025/",
+     "id": "93472c1a4d",
+     "relevance": 55,
+     "title": "El criterio humano, la ventaja competitiva del marketing frente a la IA",
+     "url": "https://ipmark.com/criterio-humano-ventaja-competitiva-de-marketing-frente-a-ia/",
      "source": "IPMARK",
      "source_id": "ipmark",
-     "published": "2026-11-26T14:05:37+00:00",
-     "summary": "En nuestro país se contabilizan 50.574 compañías, en su mayoría microempresas, de las cuales un 31% tiene menos de un año. El mayor número de agencias contrasta con la menor contribución del sector al PIB nacional, que pasa del 1,22% al 1,15% en 2025. La entrada La industria publicitaria suma un 7% más de empresas en 2025 se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y…",
+     "published": "2026-11-27T11:29:39+00:00",
+     "summary": "Los anunciantes advierten de los riesgos de la homogeneización publicitaria y reclaman mayor supervisión humana y pensamiento crítico. La entrada El criterio humano, la ventaja competitiva del marketing frente a la IA se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
      "image": null,
      "topics": [
       "marketing",
-      "negocios"
+      "ia"
      ],
-     "score": 9.056,
+     "score": 9.419,
      "also": []
     },
     {
-     "id": "ab14c8318a",
-     "relevance": 71,
-     "title": "Ester García Cosín, nueva directora general de PHD Media en España",
-     "url": "https://ipmark.com/ester-garcia-cosin-directora-general-phd-media-espana/",
-     "source": "IPMARK",
-     "source_id": "ipmark",
-     "published": "2026-11-26T13:04:37+00:00",
-     "summary": "La directiva sustituye a Sandra Sotelo, nombrada CEO de PHD para EMEA el pasado octubre, y asume la dirección de la agencia tras su participación en el proceso de integración de Omnicom Media en España. La entrada Ester García Cosín, nueva directora general de PHD Media en España se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
+     "id": "7f7fc9eef3",
+     "relevance": 43,
+     "title": "Addoor firma un acuerdo con Público para gestionar su publicidad nativa",
+     "url": "https://www.marketingdirecto.com/marketing-general/agencias/addoor-firma-acuerdo-publico-gestionar-publicidad-nativa",
+     "source": "Marketing Directo",
+     "source_id": "marketingdirecto",
+     "published": "2026-11-27T12:14:36+00:00",
+     "summary": "La incorporación de Público amplía la cobertura de Addoor en el mercado editorial español y refuerza su apuesta por soluciones de monetización que aportan valor a editores y anunciantes, respetando la experiencia del lector La entrada Addoor firma un acuerdo con Público para gestionar su publicidad nativa se publicó primero en Marketing Directo .",
      "image": null,
      "topics": [
       "marketing"
      ],
-     "score": 8.463,
-     "also": [
-      {
-       "source_id": "reasonwhy",
-       "source": "Reason Why",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1l1aHJkMGUxVWdubHhhM2F4WUJvUFFKWEpvRC1ZVkhiQzlGaTVBYkVjd1RyVlpKZTJMcDlISDQwckhfcXZmTG5JNVZDS3E4MlVXMWNzR0xzOUtScmlIakNfa1BFem5Qc1N6ZlROT0toZUhEUjk3MnozRFlnNmh6N2xhZXlqNUdOTEI1Q1UzZGs3UzFBUENreFNRN3I?oc=5",
-       "title": "Ester García Cosín regresa a la dirección de agencias de medios al frente de PHD España"
-      }
-     ]
-    },
-    {
-     "id": "4caa6ce3bb",
-     "relevance": 62,
-     "title": "La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building»",
-     "url": "https://www.marketingdirecto.com/anunciantes-general/publicaciones/ia-afianza-agenda-cmo-ponen-simultaneamente-ojitos-brand-building",
-     "source": "Marketing Directo",
-     "source_id": "marketingdirecto",
-     "published": "2026-11-26T09:38:16+00:00",
-     "summary": "El 66% de los CMO contempla la IA como el tema más importante con la vista puesta en el futuro en el seno del departamento de marketing. La entrada La IA se afianza en la agenda de los CMO, que ponen simultáneamente ojitos al «brand building» se publicó primero en Marketing Directo .",
-     "image": null,
-     "topics": [
-      "marketing",
-      "ia"
-     ],
-     "score": 7.342,
+     "score": 7.312,
      "also": []
     },
     {
-     "id": "b47f021e12",
-     "relevance": 65,
-     "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-     "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-     "source": "TechCrunch",
-     "source_id": "techcrunch",
-     "published": "2026-11-25T15:41:43+00:00",
-     "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
-     "image": null,
+     "id": "3a851e04d7",
+     "relevance": 47,
+     "title": "DPAM señala a Anthropic y OpenAI entre las grandes perjudicadas por el regreso de Jensen Huang",
+     "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-27/dpam-senala-a-anthropic-y-openai-entre-las-grandes-perjudicadas-por-el-regreso-de-jensen-huang.html",
+     "source": "El País",
+     "source_id": "elpais",
+     "published": "2026-11-27T04:25:00+00:00",
+     "summary": "La gestora cree que a las desarrolladoras les interesa que Nvidia se debilite y surjan más competidores en semiconductores",
+     "image": "https://imagenes.elpais.com/resizer/v2/NNF4KWYIWNO6VKKNRDH6C4YUU4.jpg?auth=0115454a3ef29989f04bc452ff0812c1c15c9b1a90c80d41cdad657fa306864e",
      "topics": [
       "ia"
      ],
-     "score": 7.706,
-     "also": []
-    },
-    {
-     "id": "dc85126b0a",
-     "relevance": 61,
-     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-     "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-     "source": "TechCrunch",
-     "source_id": "techcrunch",
-     "published": "2026-11-25T20:03:27+00:00",
-     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-     "image": null,
-     "topics": [
-      "ia"
-     ],
-     "score": 7.247,
+     "score": 8.064,
      "also": []
     },
     {
      "id": "8876a8e90e",
-     "relevance": 41,
+     "relevance": 24,
      "title": "Beyond The Label: What The HHS AI Roadmap Means For Healthcare",
      "url": "https://www.forrester.com/blogs/beyond-the-label-what-the-hhs-ai-roadmap-means-for-healthcare/",
      "source": "Forrester",
@@ -223,29 +223,29 @@
       "tech",
       "marketing"
      ],
-     "score": 4.932,
+     "score": 4.186,
      "also": []
     },
     {
-     "id": "768ca23629",
-     "relevance": 34,
-     "title": "The 2027 Gartner Strategic Predictions Explain Why AI Adoption Was the Easy Part",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWHFOR1BWVzdsYjdjbGgzSUlHVlQ1bm52NkpOZDZkRU5hc0dVYzZJMElOV2JoSGc4LVNZa084MmotVGRzY1pSd2ZfR2cwQlJlY3lKV1QzMEdRUC1QeWNEamhETjRhR3M5?oc=5",
+     "id": "f2be24a804",
+     "relevance": 24,
+     "title": "AI Context Platforms Close the Agentic AI Value Gap",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFZSQWltQTROTWRVelZiakJBNWx5Y0dNM05heE5JTXZaX2liWDZoak1CVmM1TEpsb0h4eXBhVktxQ2oxdXhDX3AtRU0tb2hHTDBwQkRoQ21jdjZrOEg1TDNReWRid21LSy14VFJxeUFrb0VlNTk5azZvekhEdUlWOEFPbw?oc=5",
      "source": "Gartner",
      "source_id": "gartner",
-     "published": "2026-11-19T22:22:10+00:00",
+     "published": "2026-11-23T15:34:06+00:00",
      "summary": "",
      "image": null,
      "topics": [
       "ia",
       "tech"
      ],
-     "score": 4.051,
+     "score": 4.069,
      "also": []
     },
     {
      "id": "c2193df545",
-     "relevance": 16,
+     "relevance": 11,
      "title": "IQVIA Announces Acquisition of Quotient Sciences",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12NnZrZXp2eVRJRkpIQ2EyV3VyR0Q0elZaZkVRbzA1LUNkNXRhSnhWQzBUbG9xNjFXM0FqLWJTdzdoQzVZQjJHd3dRbUJQdFZfOWpkZUU0QUV3U0NkWkxIYVFQSWdvVzdCTEpYMkY1bGFNYnM1WUZjYUpIaw?oc=5",
      "source": "IQVIA",
@@ -257,1069 +257,107 @@
       "negocios",
       "pharma"
      ],
-     "score": 1.931,
+     "score": 1.908,
      "also": []
     }
    ],
-   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: ConSalud, Forrester, Gartner, IPMARK, IQVIA, Marketing Directo, Medical Device Network, Redacción Médica, TechCrunch, pharmaphorum. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
+   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: ConSalud, Diariofarma, El Global, El País, Forrester, Gartner, IPMARK, IQVIA, MARCA, Marketing Directo, Medical Device Network. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
    "transcript": [
     {
      "speaker": "Lucía",
-     "text": "Buenos días, hoy es jueves, veintiséis de noviembre de dos mil veintiséis."
+     "text": "Buenos días, hoy es viernes 27 de noviembre de 2026 y comenzamos el repaso a las noticias más relevantes de la jornada."
     },
     {
      "speaker": "Álex",
-     "text": "Comenzamos con la sanidad y los ópticos-optometristas, que a pocos días de las elecciones generales del veintinueve de noviembre han presentado al nuevo Gobierno un decálogo."
+     "text": "Comenzamos en el ámbito de la óptica. Según ha publicado el diario Marca, el optometrista Pablo Caba ha explicado cómo el piloto Marc Márquez podría superar sus problemas de diplopía. Caba señala que cuanto más joven se es, más resultados se obtienen en el tratamiento de esta afección."
     },
     {
      "speaker": "Lucía",
-     "text": "Según ConSalud, el Consejo General de Colegios de Ópticos-Optometristas reclama incorporar la salud visual al Sistema Nacional de Salud y crear una Estrategia Estatal."
+     "text": "En la industria farmacéutica, el Boletín Oficial del Estado ha publicado el Real Decreto 1036/2026, de 25 de noviembre, que aprueba el nuevo Estatuto de la Agencia Española de Medicamentos y Productos Sanitarios, la AEMPS. Según informa El Global, medio que coincide con ConSalud, la norma sustituye al real decreto de 2011 y adapta la regulación a la Ley 40/2015 de Régimen Jurídico del Sector Público."
     },
     {
      "speaker": "Álex",
-     "text": "El presidente del Consejo, Andrés Gené, señala que buscan aprovechar su capacidad asistencial en Atención Primaria con protocolos de derivación y colaboración con Oftalmología."
+     "text": "Esta reforma crea una Dirección Adjunta y un Departamento de Tecnologías de la Información, ambos con rango de Subdirección General. La Dirección Adjunta asumirá la gestión de relaciones institucionales, comunicación, auditorías externas y dirigirá el Plan Nacional frente a la Resistencia a los Antimicrobianos. Por su parte, el Departamento de Tecnologías de la Información impulsará la digitalización, la inteligencia artificial y la ciberseguridad."
     },
     {
      "speaker": "Lucía",
-     "text": "También piden actualizar la Ley de Ordenación de las Profesiones Sanitarias para adecuar la regulación a la formación universitaria y a los avances tecnológicos actuales."
+     "text": "Por otra parte, según publica Diariofarma, Farmaindustria y la Generalitat de Cataluña han reforzado su cooperación para promover una publicidad responsable de fármacos. Este avance se presentó en la Tercera Jornada de Publicidad de los Medicamentos de Cataluña, celebrada en la Casa Llotja de Mar de Barcelona, organizada por el Departamento de Salud catalán."
     },
     {
      "speaker": "Álex",
-     "text": "Pasamos a la industria farmacéutica con la Administración de Alimentos y Medicamentos de Estados Unidos, que ha autorizado una herramienta de inteligencia artificial de DeepHealth para mamografías tridimensionales."
+     "text": "El encuentro contó con intervenciones de la vicepresidenta de Farmaindustria, Fina Lladós, la directora de Ordenación Sanitaria de la Generalitat, Clara Pareja, y la directora de Autocontrol, Patricia Zabala. Se consolidó un marco operativo basado en el convenio firmado en noviembre de 2023, que reconoce el sistema de autorregulación como herramienta clave de supervisión y ética publicitaria."
     },
     {
      "speaker": "Lucía",
-     "text": "Según pharmaphorum, la herramienta llamada Mammo Risk predice el riesgo de cáncer de mama a tres, cuatro y cinco años analizando mamografías en tres dimensiones."
+     "text": "Pasamos a los dispositivos médicos con la noticia más relevante del día. Según informa Medical Device Network, el hospital Hammersmith de Londres, gestionado por el Imperial College Healthcare de la sanidad pública británica, ha completado el primer implante mundial del marcapasos Restoria de Medtronic. Se trata de un sistema de estimulación del sistema de conducción cardiaca."
     },
     {
      "speaker": "Álex",
-     "text": "Es la primera solución aprobada para mamografía tridimensional y se ha entrenado con doscientos veinte mil estudios, según la compañía."
+     "text": "Restoria forma parte de la gama Vitalis de Medtronic, junto a los modelos ReSyncra, Refina, Effectra y Confirma, que recibieron el marcado CE europeo el mes pasado. A diferencia de los marcapasos convencionales, que estimulan desde la pared del ventrículo derecho, la estimulación del sistema de conducción se dirige directamente a las vías eléctricas naturales del corazón para regular simultáneamente la frecuencia y la coordinación del latido."
     },
     {
      "speaker": "Lucía",
-     "text": "Un estudio independiente con más de sesenta y cinco mil mamografías en diez centros de Estados Unidos demostró su eficacia en mujeres de raza negra y con mamas densas."
+     "text": "El doctor Daniel Keene, cardiólogo electrofisiólogo del hospital, ha destacado la presencia del monitor de morfología en Restoria. Esta función permite supervisar remotamente el funcionamiento del marcapasos a lo largo del tratamiento y ofrece mayor tolerancia a la radiación en pacientes que necesiten radioterapia en el futuro. Aunque estudios citados señalan mayor tasa de complicaciones perioperatorias frente a la estimulación convencional, su uso fisiológico gana terreno."
     },
     {
      "speaker": "Álex",
-     "text": "En cuanto a vacunas en España, el Instituto Nacional de Gestión Sanitaria ha ratificado la adjudicación a Pfizer e Hipra para el suministro contra la Covid-19 en el periodo dos mil veintisiete y dos mil veintiocho."
+     "text": "En cuanto al mercado de marcapasos, análisis de la consultora GlobalData recogen que Medtronic lideró el mercado estadounidense en 2025 con un 58,7 por ciento de cuota. Le siguieron Abbott con un 35 por ciento y Biotronik con un 3 por ciento. El mercado mundial de marcapasos crece a una tasa anual compuesta del 4,9 por ciento y proyecta alcanzar los 6.200 millones de dólares en 2035."
     },
     {
      "speaker": "Lucía",
-     "text": "Según Redacción Médica, la Mesa de Contratación validó la documentación este veinticinco de noviembre. Pfizer lidera el lote de ARN mensajero con cien puntos y un presupuesto de ciento sesenta y tres millones de euros."
+     "text": "Seguimos en el sector de la tecnología sanitaria. En el marco de Medica 2026, la entidad DNV ha realizado una encuesta a 12.500 consumidores sobre el grado de confianza y aceptación hacia los dispositivos médicos y diagnósticos in vitro basados en inteligencia artificial. El análisis muestra que los usuarios están abiertos a esta tecnología, pero la atención y el contacto personal siguen siendo fundamentales."
     },
     {
      "speaker": "Álex",
-     "text": "Hipra encabeza el lote de proteínas recombinantes con su vacuna Bimervax, alcanzando cien puntos frente a los catorce de Sanofi, con un presupuesto de cuarenta y dos millones."
+     "text": "En España, según datos de la memoria anual de la Organización Nacional de Trasplantes publicados por ConSalud, en 2025 se registraron 6.140 donantes de tejidos y se realizaron 51.247 implantes. Además, 2.930 mujeres donaron leche materna y 48 personas donaron heces para trasplante de microbiota fecal, obteniéndose también 984 calotas para autotrasplante."
     },
     {
      "speaker": "Lucía",
-     "text": "En tecnología médica, la francesa Cairdac ha realizado las primeras implantaciones humanas de su sistema autónomo de estimulación sin cables, conocido como A-L-P-S."
+     "text": "De los 6.140 donantes de tejidos, 5.186 correspondieron a personas fallecidas y 954 a donantes en vida. El tejido osteotendinoso fue el más utilizado, con 2.667 donantes y 56.174 unidades disponibles. Cataluña encabezó la donación tras el fallecimiento con 267,5 donantes por millón de población, seguida de Navarra con 114,7 y Cantabria con 103,4."
     },
     {
      "speaker": "Álex",
-     "text": "Según Medical Device Network, los procedimientos se hicieron en la República Checa dentro del estudio ASCEND por los profesores Petr Neužil y Vivek Reddy."
+     "text": "En materia de publicidad y marketing, el Observatorio de la Publicidad 2026 de la Asociación Española de Anunciantes concluye que el criterio humano es la mayor ventaja competitiva frente a la inteligencia artificial. Según recoge la revista IPMARK, la mayoría de los anunciantes integran ya la inteligencia artificial y priorizan ahora la gobernanza, las reglas de control y la supervisión humana para evitar la homogeneización."
     },
     {
      "speaker": "Lucía",
-     "text": "El dispositivo minúsculo utiliza una tecnología sincronizada con el ritmo cardíaco para capturar energía cinética directamente del movimiento del corazón, evitando la dependencia de baterías convencionales."
+     "text": "Durante la presentación del informe, Javier Coromina, vicepresidente económico de la asociación, subrayó que la IA optimiza procesos pero el criterio estratégico y creativo aporta la diferenciación. Por su parte, Patricia Chávez, de Scopen, recordó la importancia de la intuición frente a los datos, mientras que el profesor José María Lasalle explicó que la IA carece de conciencia y criterio ético, por lo que debe guiarse bajo límites humanos."
     },
     {
      "speaker": "Álex",
-     "text": "Cambiamos a marketing y publicidad. Según el Observatorio de la Publicidad en España dos mil veintiséis de la Asociación Española de Anunciantes, el sector sumó un siete por ciento más de empresas en dos mil veinticinco."
+     "text": "Por otro lado, según informa Marketing Directo, la plataforma de publicidad nativa Addoor ha cerrado un acuerdo con el diario digital Público para gestionar su inventario publicitario. El medio, fundado en 2007 y 100% digital desde 2012, alcanzó en abril de 2026 más de 5,3 millones de navegadores únicos y 20,5 millones de páginas vistas mensuales según OJD Interactiva."
     },
     {
      "speaker": "Lucía",
-     "text": "Según IPMark, el número de empresas de publicidad y estudios de mercado alcanzó las cincuenta y tres mil cuatrocientos cincuenta y dos firmas, representando el uno con seis por ciento del tejido empresarial español."
+     "text": "Esteban Gutiérrez, director general de Addoor, ha señalado que el objetivo es acompañar a los editores en la monetización sostenible respetando la experiencia del lector. Asimismo, Pablo de Zárraga, jefe de operaciones de Público, ha afirmado que la alianza busca desarrollar soluciones publicitarias que aporten valor a los anunciantes y garanticen la sostenibilidad del medio sin perder la confianza de la audiencia."
     },
     {
      "speaker": "Álex",
-     "text": "La repercusión agregada de la publicidad en el Producto Interior Bruto se redujo del uno con veintidós al uno con quince por ciento, situándose en diecinueve mil cuatrocientos cincuenta y cinco millones de euros."
+     "text": "En el sector de la inteligencia artificial, El País publica un análisis de Humberto Nardiello, gestor del fondo DPAM Equities Artificial Intelligence. Nardiello señala que el verdadero duelo del sector contrapone las distintas capas del negocio, desde los modelos hasta los microchips. Afirma que a Nvidia le conviene tener más desarrolladores para diversificar clientes, mientras que desarrolladores como Anthropic buscan mayor oferta de chips para reducir costes."
     },
     {
      "speaker": "Lucía",
-     "text": "En nombramientos del sector, Ester García Cosín es la nueva directora general de P-H-D Media en España, relevando a Sandra Sotelo."
+     "text": "El gestor de DPAM explica también que el regreso de Jensen Huang a Nvidia disparó la acción un 30 por ciento. Nardiello argumenta que el ejecutivo defiende vender chips a China para generar dependencia tecnológica. Además, prevé que en 2027 la oferta de inteligencia artificial se disparará y anticipa un trasvase de valor desde los fabricantes de semiconductores hacia los desarrolladores de aplicaciones finales."
     },
     {
      "speaker": "Álex",
-     "text": "Según IPMark y Reason Why, la directiva cuenta con más de treinta años de experiencia y asumirá la estrategia y el desarrollo de negocio en el mercado español."
+     "text": "Pasando al análisis de mercado, un informe de la consultora Forrester analiza la hoja de ruta de Inteligencia Superclínica del Departamento de Salud de Estados Unidos. La previsión de Forrester destaca cuatro prioridades: ganar la confianza pública, consolidar las bases de datos de salud, establecer regulaciones claras por riesgo y retribuir los resultados de salud en lugar de la cantidad de visitas."
     },
     {
      "speaker": "Lucía",
-     "text": "El nombramiento llega tras registrar un saldo positivo de cincuenta y seis millones de dólares en nuevo negocio en los primeros nueve meses de dos mil veintiséis, según COMvergence."
+     "text": "El estudio de Forrester añade datos de su encuesta de 2026 a responsables de inteligencia artificial en el sector sanitario y farmacéutico. El 30 por ciento señala la seguridad, privacidad y cumplimiento como su mayor preocupación, seguido por un 21 por ciento enfocado en la gestión de riesgos y otro 21 por ciento en la estrategia de gobernanza."
     },
     {
      "speaker": "Álex",
-     "text": "En tendencias de marketing, un informe de Serviceplan Group indica que la inteligencia artificial se afianza en la agenda de los directores de marketing."
+     "text": "También dentro del análisis de mercado, un informe publicado por la consultora Gartner aborda cómo las plataformas de contexto de inteligencia artificial cierran la brecha de valor en la inteligencia artificial agéntica."
     },
     {
      "speaker": "Lucía",
-     "text": "Según Marketing Directo, el sesenta y seis por ciento de los directivos considera la inteligencia artificial el tema más importante para el futuro de sus departamentos."
+     "text": "Finalmente, en el ámbito de los estudios de mercado, la consultora IQVIA ha hecho pública la adquisición de la compañía Quotient Sciences."
     },
     {
      "speaker": "Álex",
-     "text": "Ante un presupuesto hipotético de cien euros, los directores invertirían trece con veintidós euros en inteligencia artificial, superando a las inversiones en motores de búsqueda y construcción de marca."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "En inteligencia artificial y centros de datos, TechCrunch señala que Nvidia no respaldará ningún centro de datos hasta que esté listo para operar."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Empresas como Arizona Land Consulting preparan terrenos con energía y edificios terminados para desarrolladores y laboratorios de inteligencia artificial ante un posible reajuste del sector en dos mil veintisiete."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Por su parte, OpenAI ha comenzado a fusionar las experiencias de chat y trabajo en ChatGPT para un grupo reducido de usuarios."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Según TechCrunch, un portavoz de OpenAI indicó que la mayoría de los usuarios no sufrirá más límites, pero una pequeña fracción de usuarios intensivos podría alcanzar sus topes antes al compartir un medidor único."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "En análisis de mercado sanitario, un informe de Forrester repasa la hoja de ruta de inteligencia artificial del Departamento de Salud y Servicios Humanos de Estados Unidos."
-    },
-    {
-     "speaker": "Álex",
-     "text": "La consultora destaca cuatro prioridades federales: generar confianza pública, crear bases de datos seguras, establecer reglas claras y pagar por resultados efectivos en la atención médica."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Como predicción estratégica, Gartner ha publicado las perspectivas para dos mil veintisiete, señalando que la adopción inicial de la inteligencia artificial era la parte sencilla."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Finalmente, IQVIA ha anunciado la adquisición de Quotient Sciences, según su último comunicado corporativo de análisis y mercado."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Hasta aquí la actualidad de hoy."
-    }
-   ]
-  },
-  {
-   "date": "2026-11-25",
-   "file": "2026-11-25.mp3",
-   "title": "La Mañana: Ensayos clínicos en Europa, compra de Insmed y volatilidad en la IA",
-   "duration": 556,
-   "bytes": 4446302,
-   "published": "2026-11-25T08:48:47.192249+00:00",
-   "topics": [
-    "optica",
-    "pharma",
-    "medtech",
-    "marketing",
-    "ia"
-   ],
-   "topic_names": [
-    "Óptica y optometría",
-    "Industria y marketing farmacéutico",
-    "Medical devices",
-    "Marketing y publicidad",
-    "Inteligencia artificial"
-   ],
-   "stories": [
-    "c6822a935c",
-    "799b2c44da",
-    "32a1c54eec",
-    "440cba59cd",
-    "e1bab506ce",
-    "9fcedf2f66",
-    "bab8680004",
-    "42cb577d7e",
-    "6e5f032fb0",
-    "4499caf6a2",
-    "8f71933902"
-   ],
-   "story_items": [
-    {
-     "id": "c6822a935c",
-     "relevance": 46,
-     "title": "Eschenbach MaxEVENT – Gafas Telescópicas ópticas Para Conciertos, Teatro Y Eventos – Hechas En Alemania – Aumento 2.1x Con Campo De Visión Nítido",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3J4dzRyTG40b2RCMmNGRG9WWDFlblVZaHBudnY5YXY3WV9wM0xzZWw3WmZhWVdkYUNDVlJBc0dXMzJDOWNpaGFxM0tlX2pOUjNYZHRULVhMMHVIeGFVX3c3aVFJaFE5ZUhScjZHeXRId0lXM1Z6UlUxV0h5Y2xGTk43ZGJTeDRzNExmZ01iejVSNmc?oc=5",
-     "source": "MotorVSMotor",
-     "source_id": "optica_es",
-     "published": "2026-11-24T23:17:49+00:00",
-     "summary": "",
-     "image": null,
-     "topics": [
-      "optica"
-     ],
-     "score": 6.368,
-     "also": []
-    },
-    {
-     "id": "799b2c44da",
-     "relevance": 100,
-     "title": "Las medidas de la industria farmacéutica para acelerar los ensayos clínicos en Europa con la futura Biotech Act",
-     "url": "https://elglobalfarma.com/industria/medidas-industria-farmaceutica-acelerar-ensayos-clinicos-europa-biotech-act/",
-     "source": "El Global",
-     "source_id": "elglobal",
-     "published": "2026-11-25T08:40:53+00:00",
-     "summary": "La patronal europea advierte de que acelerar las autorizaciones no es suficiente para garantizar que los pacientes puedan incorporarse antes a los ensayos The post Las medidas de la industria farmacéutica para acelerar los ensayos clínicos en Europa con la futura Biotech Act appeared first on El Globalfarma .",
-     "image": null,
-     "topics": [
-      "pharma"
-     ],
-     "score": 13.98,
-     "also": []
-    },
-    {
-     "id": "32a1c54eec",
-     "relevance": 68,
-     "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
-     "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
-     "source": "STAT",
-     "source_id": "statnews",
-     "published": "2026-11-24T14:27:36+00:00",
-     "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
-     "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
-     "topics": [
-      "pharma",
-      "salud"
-     ],
-     "score": 9.537,
-     "also": [
-      {
-       "source_id": "pharmaphorum",
-       "source": "pharmaphorum",
-       "url": "https://pharmaphorum.com/news/roche-two-two-breast-cancer-approval-wilserdly",
-       "title": "Roche two for two with breast cancer approval for Wilserdly"
-      }
-     ]
-    },
-    {
-     "id": "440cba59cd",
-     "relevance": 51,
-     "title": "Medica 2026: AI’s rise in healthcare will render humans as “data platforms”",
-     "url": "https://www.medicaldevice-network.com/news/medica-2026-ai-rise-in-healthcare-will-render-humans-as-data-platforms/",
-     "source": "Medical Device Network",
-     "source_id": "mdnetwork",
-     "published": "2026-11-24T14:20:55+00:00",
-     "summary": "According to a presentation on AI’s future in healthcare at Medica 2026, the technology is likely to become more deeply entwined with physiological data points. The post Medica 2026: AI’s rise in healthcare will render humans as “data platforms” appeared first on Medical Device Network .",
-     "image": null,
-     "topics": [
-      "ia",
-      "salud",
-      "medtech"
-     ],
-     "score": 7.192,
-     "also": [
-      {
-       "source_id": "medtech_search",
-       "source": "Medical Device Network",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmhUeU9CeVdDcGprRVBscEFuTFFRRElreWdMZGJ6NTZzM0toVkgyWVZrXzZYelBJSFlkQmtzZFVucGhLQVk0aWRFNDNRdUswMDR0Z0xWRTBySzhzMmdqNU53bGMzeG9oMnBLaWw5QjlSRzgxRGRIcnVfYklBaFM4bDdpcWYtR0dVU0l1WWd4N09XRGJ5Ynl4TVU2VEFQZm5FQm9NY0xCUGFGLXlxLUNlaHhmR0o?oc=5",
-       "title": "Medica 2026: AI’s rise in healthcare will render humans as “data platforms”"
-      }
-     ]
-    },
-    {
-     "id": "e1bab506ce",
-     "relevance": 49,
-     "title": "Si la IA va a organizar las vacaciones, como marca ¿qué tengo que saber?",
-     "url": "https://ipmark.com/si-la-ia-va-a-organizar-las-vacaciones-como-marca-que-tengo-que-saber/",
-     "source": "IPMARK",
-     "source_id": "ipmark",
-     "published": "2026-11-25T08:00:00+00:00",
-     "summary": "CASO DE ÉXITO. ONCLUSIVE PARA HILTON. La entrada Si la IA va a organizar las vacaciones, como marca ¿qué tengo que saber? se publicó primero en IPMARK | Información de valor sobre marketing, publicidad, comunicación y tendencias digitales .",
-     "image": null,
-     "topics": [
-      "ia",
-      "marketing"
-     ],
-     "score": 6.861,
-     "also": []
-    },
-    {
-     "id": "9fcedf2f66",
-     "relevance": 40,
-     "title": "Los trucos para anunciarse en ChatGPT: 5 claves para que las marcas no malgasten su inversión",
-     "url": "https://www.marketingdirecto.com/digital-general/digital/trucos-anunciarse-chatgpt-claves-para-marcas-no-malgasten-inversion",
-     "source": "Marketing Directo",
-     "source_id": "marketingdirecto",
-     "published": "2026-11-24T13:39:21+00:00",
-     "summary": "Las primeras campañas en ChatGPT dejan 5 lecciones para las marcas que buscan mejorar sus resultados sin malgastar su inversión publicitaria. La entrada Los trucos para anunciarse en ChatGPT: 5 claves para que las marcas no malgasten su inversión se publicó primero en Marketing Directo .",
-     "image": null,
-     "topics": [
-      "ia",
-      "negocios",
-      "marketing"
-     ],
-     "score": 5.639,
-     "also": []
-    },
-    {
-     "id": "bab8680004",
-     "relevance": 77,
-     "title": "La euforia por las tecnológicas se evapora y regresa el miedo a la IA, arrastrando a Nvidia y Anthropic con caídas del 8%",
-     "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/24/6b05d85be9cf4ad2508b4586.html",
-     "source": "El Mundo",
-     "source_id": "elmundo",
-     "published": "2026-11-24T19:16:13+00:00",
-     "summary": "El cóctel de preocupaciones ya está servido en los parqués: moratorias a los centros de datos, controles a la exportación de chips, investigación a Nvidi, el tono restrictivo de la Fed... ahuyentan a los inversores este martes Leer",
-     "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955455379013.jpg",
-     "topics": [
-      "ia",
-      "tech"
-     ],
-     "score": 10.829,
-     "also": []
-    },
-    {
-     "id": "42cb577d7e",
-     "relevance": 65,
-     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-     "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-     "source": "TechCrunch",
-     "source_id": "techcrunch",
-     "published": "2026-11-24T21:32:38+00:00",
-     "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-     "image": null,
-     "topics": [
-      "ia",
-      "tech"
-     ],
-     "score": 9.13,
-     "also": []
-    },
-    {
-     "id": "6e5f032fb0",
-     "relevance": 52,
-     "title": "Even the best AI agents struggle with everyday life",
-     "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-     "source": "TechCrunch",
-     "source_id": "techcrunch",
-     "published": "2026-11-24T21:33:29+00:00",
-     "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-     "image": null,
-     "topics": [
-      "ia"
-     ],
-     "score": 7.265,
-     "also": []
-    },
-    {
-     "id": "4499caf6a2",
-     "relevance": 39,
-     "title": "Microsoft Ignite 2026 — A Promise To Do Better",
-     "url": "https://www.forrester.com/blogs/microsoft-ignite-2026-a-promise-to-do-better/",
-     "source": "Forrester",
-     "source_id": "forrester",
-     "published": "2026-11-24T14:40:01+00:00",
-     "summary": "This year’s Ignite was all about shoring up trust and reliability. Unlike last year, which focused heavily on a fictitious frontier company for examples, Microsoft brought to the stage Accenture, Alaska Airlines, BlackRock, BNY, Chevron, Publicis Groupe, Unilever, and others. These companies lent real-world credence to the idea that Microsoft remains a trusted enterprise partner […]",
-     "image": null,
-     "topics": [
-      "tech",
-      "marketing"
-     ],
-     "score": 5.432,
-     "also": []
-    },
-    {
-     "id": "8f71933902",
-     "relevance": 36,
-     "title": "AI Agents in Marketing: Scaling With Earned Autonomy",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tdWFFd2o2X01HZGZoTm43cC1kUUEyZlVnc2NnY0JFRGxhNU82WXg3bFBVVVFpczJFcTlBNU1XTElrY09ZWTF0RnZDei1rcW5KWlZQRHotN3BUa3N1cFlzRmdNaDNSbmFURlRkUjA2VWd0a0VrU01MNVZNWQ?oc=5",
-     "source": "Gartner",
-     "source_id": "gartner",
-     "published": "2026-11-23T21:41:01+00:00",
-     "summary": "",
-     "image": null,
-     "topics": [
-      "ia",
-      "marketing",
-      "tech"
-     ],
-     "score": 5.056,
-     "also": []
-    }
-   ],
-   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: El Global, El Mundo, Forrester, Gartner, IPMARK, Marketing Directo, Medical Device Network, MotorVSMotor, STAT, TechCrunch. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
-   "transcript": [
-    {
-     "speaker": "Lucía",
-     "text": "Buenos días, hoy es miércoles veinticinco de noviembre de dos mil veintiséis y les damos la bienvenida a La Mañana."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Comenzamos en el sector de la óptica y la optometría con una novedad recogida por el medio MotorVSMotor."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Se trata de las gafas telescópicas ópticas Eschenbach MaxEVENT, fabricadas en Alemania y diseñadas para conciertos, teatro y eventos, que ofrecen un aumento de dos coma uno por ciento con un campo de visión nítido."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Pasamos a la industria farmacéutica. Según informa El Global, la Federación Europea de Industrias y Asociaciones Farmacéuticas, la EFPIA, ha planteado siete medidas para optimizar los ensayos clínicos en Europa mediante la futura Ley de Biotecnología."
-    },
-    {
-     "speaker": "Álex",
-     "text": "La propuesta busca agilizar y hacer más predecibles las autorizaciones regulatorias y éticas, armonizar requisitos entre países y reforzar la plataforma europea de solicitudes de ensayos clínicos, conocida como CTIS."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Estas medidas se basan en un estudio realizado por Copenhagen Economics para la EFPIA, que compara los plazos de autorización en la Unión Europea y el Espacio Económico Europeo con Estados Unidos y China."
-    },
-    {
-     "speaker": "Álex",
-     "text": "El informe señala que las medidas de la Ley de Biotecnología permitirían reducir los tiempos de autorización en Europa de ciento seis a setenta y cinco días. Si no hay solicitudes adicionales de información, el plazo pasaría de sesenta a cuarenta y siete días."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "¿Y cómo se comparan estas cifras con otras regiones según ese estudio?"
-    },
-    {
-     "speaker": "Álex",
-     "text": "En Estados Unidos el plazo de autorización se sitúa en noventa y seis días, o sesenta sin solicitudes adicionales. En China es de ochenta y cuatro días, o cuarenta y dos sin peticiones extra."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Sin embargo, la EFPIA advierte de que acelerar las autorizaciones no basta por sí solo para que los pacientes accedan antes a los ensayos."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Efectivamente. La norma se centra en la solicitud, pero no aborda todos los pasos necesarios para que los centros estén preparados para reclutar participantes. El proceso completo, desde la solicitud hasta la activación del centro, supone entre doscientos noventa y cuatro y trescientos treinta y nueve días en Europa."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Frente a los ciento sesenta y ocho a doscientos setenta y seis días en Estados Unidos y los ciento veintiséis a doscientos noventa y uno en China."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Por eso la EFPIA propone también una evaluación coordinada con un Estado miembro ponente más fuerte y menos solicitudes de información redundantes."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Seguimos en el sector farmacéutico. El medio STAT, junto con pharmaphorum y El Global, informa de que Sanofi ha acordado la compra de la biotecnológica estadounidense Insmed por treinta y siete mil setecientos ochenta y nueve millones de euros."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Es la mayor adquisición de Sanofi en más de dos décadas y un movimiento de su consejera delegada, Belén Garijo, para compensar la futura pérdida de exclusividad de su medicamento Dupixent."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Sanofi pagará ciento sesenta coma cuarenta y cuatro euros por acción en efectivo, lo que representa una prima del cuarenta y seis por ciento sobre el cierre de Insmed del dieciocho de noviembre."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Belén Garijo ha señalado que la operación podría aportar hasta nueve mil ciento sesenta y ocho millones de euros en ventas máximas a finales de esta década."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "¿Qué productos aporta Insmed a la cartera de Sanofi según el texto?"
-    },
-    {
-     "speaker": "Álex",
-     "text": "Aporta dos tratamientos ya comercializados: Brinsupri, que superó los novecientos diecisiete millones de euros en ventas en su primer año, y Arikayce, para infecciones pulmonares crónicas, que generó trescientos noventa y ocho millones el pasado año."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "El presidente y consejero delegado de Insmed, Will Lewis, ha destacado que la cartera conjunta presenta un potencial de ventas máximas de varios miles de millones de euros en enfermedades respiratorias, inmunología y enfermedades raras."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En el ámbito de los dispositivos médicos, leemos en Medical Device Network que durante la feria Medica dos mil veintiséis se ha presentado una ponencia sobre el futuro de la inteligencia artificial en la salud."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "La presentación sostiene que el auge de esta tecnología convertirá a los seres humanos en plataformas de datos, al estar cada vez más vinculada a los parámetros fisiológicos."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En marketing y publicidad, el medio IPMARK recoge un análisis de la firma Onclusive sobre cómo las marcas turísticas deben analizar su huella GEO en los modelos de lenguaje de inteligencia artificial."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Onclusive analizó la presencia de la cadena hotelera Hilton en motores como ChatGPT, Perplexity, Claude, Gemini y Grok para los mercados de Estados Unidos y Reino Unido."
-    },
-    {
-     "speaker": "Álex",
-     "text": "El análisis muestra que la cuota de voz general de Hilton en estos modelos es del veintinueve por ciento, pero cae al nueve por ciento al preguntar por el mejor hotel para familias en Roma."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "En visibilidad general, Hilton aparece en el ochenta y cinco por ciento de las respuestas relevantes de la IA, pero desciende al cincuenta y ocho por ciento para la consulta concreta de Roma."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Además, en posición media ocupan el tercer lugar a nivel general, pero caen al sexto puesto en la búsqueda de Roma. El informe destaca que el treinta y nueve por ciento de las fuentes consultadas por las IA son artículos de prensa y el treinta y tres por ciento sitios web."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Continuamos en publicidad con una información de Marketing Directo sobre los primeros resultados de las campañas publicitarias dentro de ChatGPT."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Un análisis de la plataforma Adthena entre clientes empresariales que se anunciaron entre julio y septiembre muestra que el cincuenta y dos por ciento gastó más de lo obtenido en beneficios, y un veintidós por ciento logró alcance pero con escasas conversiones."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Por su parte, un veintiséis por ciento igualó o superó sus resultados habituales en Google. Sin embargo, un análisis de la agencia PGM con ocho marcas arrojó resultados más optimistas, ya que siete de ellas mejoraron su rendimiento por dólar invertido."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Adthena señala que los anunciantes deben ofrecer indicaciones con mayor precisión sobre el contexto del usuario en lugar de limitarse a acumular palabras clave amplias, para asegurar que los anuncios aparezcan en conversaciones adecuadas."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Pasamos a la inteligencia artificial y los mercados. Según publica El Mundo, la cotización de las grandes empresas tecnológicas vuelve a sufrir caídas en Wall Street."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Las acciones de Nvidia cayeron un siete por ciento este martes, un día después de haber subido un treinta y uno coma cinco por ciento tras el regreso de su director ejecutivo, Jensen Huang."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Esa subida previa representó la mayor ganancia de capitalización en una sola sesión para la firma, sumando novecientos cincuenta mil millones de dólares."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Sin embargo, el índice Nasdaq retrocedió casi un dos por ciento y el S y P quinientos cayó un cero coma seis por ciento."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "¿Qué factores explican la preocupación de los inversores respecto a Nvidia?"
-    },
-    {
-     "speaker": "Álex",
-     "text": "Jensen Huang dimitió tras revelarse sus relaciones extramatrimoniales con Alice Huang, antigua directiva de Megaspeed, empresa investigada por posible contrabando de chips a China. Su retorno fue impulsado personalmente por Donald Trump, lo que ha generado críticas de medios como Financial Times."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Analistas de la firma XTB advierten de que existe un riesgo evidente si la marcha o regreso de una persona pone en duda la estrategia de una compañía valorada en cuatro billones de dólares."
-    },
-    {
-     "speaker": "Álex",
-     "text": "A esto se añade el temor a una burbuja tecnológica, los elevados costes de los centros de datos y la amenaza de límites regulatorios tras las elecciones de medio término en Estados Unidos."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "En este escenario, Anthropic también registró una caída del siete coma cuatro por ciento en bolsa, situando sus acciones por debajo de los ochenta y tres dólares de su salida al mercado."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En comercio e inteligencia artificial, TechCrunch informa de la alianza entre Walmart y Meta para ofrecer ofertas de Black Friday a través del agente de IA Muse."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Los clientes podrán buscar productos, comparar opciones y crear carritos de compra directamente desde la aplicación Muse iniciando sesión en su cuenta de Walmart."
-    },
-    {
-     "speaker": "Álex",
-     "text": "A diferencia de Amazon, que bloquea a los agentes de IA de terceros, Walmart impulsa esta conexión a través de su plataforma Agent Gateway, lanzada en octubre."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Walmart destaca que Muse no tendrá acceso al historial de compras ni a datos personales de los clientes, permitiendo fijar límites de gasto y supervisar los pedidos."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Además, Walmart ha sumado funciones a su propio asistente Sparky, como convertir listas manuscritas en compras o activar el botón Flash Price Tag para iluminar la etiqueta física en el estante de la tienda."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Seguimos en inteligencia artificial. TechCrunch analiza un estudio sobre la fiabilidad de los agentes personales realizado por The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat y la Universidad de Berkeley."
-    },
-    {
-     "speaker": "Álex",
-     "text": "El informe, llamado ShellBench, evaluó diez millones de interacciones reales de agentes como Muse de Meta, Dots de OpenAI y Claude Duet de Anthropic."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Los datos indican que incluso los modelos más avanzados fallaron más de un tercio de las veces al intentar resolver tareas cotidianas reales."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Un quince coma siete por ciento de los intentos incumplió requisitos de seguridad. El modelo mejor valorado, GPT seis Astra de OpenAI, completó con éxito las tareas en tres intentos seguidos menos de la mitad de las veces."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Entre los fallos concretos, los agentes no gestionaron adecuadamente la recogida escolar de los niños en un setenta y nueve coma cinco por ciento de las ocasiones, y filtraron datos bancarios confidenciales en un dieciocho coma seis por ciento de intentos."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En el ámbito del análisis de mercado, un informe de la consultora Forrester evalúa la conferencia Microsoft Ignite dos mil veintiséis."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Según la valoración de Forrester, Microsoft centró el encuentro en restablecer la confianza tras las recientes caídas del servicio, contando con la participación de socios como Accenture, BlackRock o Unilever."
-    },
-    {
-     "speaker": "Álex",
-     "text": "El informe destaca la Iniciativa de Transparencia de la IA con cuarenta empresas y herramientas como Agent tres sesenta y cinco. También recoge la solución Microsoft IQ, que incluye Work IQ con veinte exabytes de datos almacenados."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Para terminar con el análisis de mercado, la consultora Gartner ha publicado una previsión titulada Agentes de IA en marketing: escalando con autonomía ganada."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Les esperamos mañana con una nueva edición de La Mañana."
-    }
-   ]
-  },
-  {
-   "date": "2026-11-24",
-   "file": "2026-11-24.mp3",
-   "title": "La Mañana: Actualidad de IA, tecnología médica y sector farmacéutico",
-   "duration": 424,
-   "bytes": 3393942,
-   "published": "2026-11-24T08:12:26.573134+00:00",
-   "topics": [
-    "optica",
-    "pharma",
-    "medtech",
-    "marketing",
-    "ia"
-   ],
-   "topic_names": [
-    "Óptica y optometría",
-    "Industria y marketing farmacéutico",
-    "Medical devices",
-    "Marketing y publicidad",
-    "Inteligencia artificial"
-   ],
-   "stories": [
-    "3c6d0a1893",
-    "aefe2fb3f5",
-    "3ce502eefa",
-    "58c2527b36",
-    "79f1c6c3ab",
-    "dc42a73f7e",
-    "27065c561f",
-    "15c28179b2",
-    "49ef9cf508"
-   ],
-   "story_items": [
-    {
-     "id": "3c6d0a1893",
-     "relevance": 32,
-     "title": "EssilorLuxottica Unifies NA Optical Retail, Medical and Surgical Businesses Under New Organization",
-     "url": "http://www.visionmonday.com/business/article/essilorluxottica-unifies-na-optical-retail-medical-and-surgical-businesses-under-new-organization-1/",
-     "source": "Vision Monday",
-     "source_id": "visionmonday",
-     "published": "2026-11-24T05:30:00+00:00",
-     "summary": "NEW YORK— EssilorLuxottica (Reuters: ESLX.PA) has announced a new unified leadership model across its optical retail, medical and surgical businesses in North America, creating a new organization called Optical Retail, Medical & Surgical North America (ORMS). The model aims to connect each step of the patient journey, the company said, from refraction to medical diagnosis, treatment, and, when needed, surgery, while…",
-     "image": null,
-     "topics": [
-      "optica"
-     ],
-     "score": 5.588,
-     "also": []
-    },
-    {
-     "id": "aefe2fb3f5",
-     "relevance": 39,
-     "title": "Los medicamentos examinados por la AEMPS en los IPT desde que García es ministra de Sanidad",
-     "url": "https://elglobalfarma.com/politica/medicamentos-examinados-aemps-ipt-garcia-ministra-sanidad/",
-     "source": "El Global",
-     "source_id": "elglobal",
-     "published": "2026-11-23T08:11:16+00:00",
-     "summary": "Desde su nombramiento como ministra de Sanidad en noviembre de 2023, la AEMPS ha elaborado 276 Informes de Posicionamiento Terapéutico The post Los medicamentos examinados por la AEMPS en los IPT desde que García es ministra de Sanidad appeared first on El Globalfarma .",
-     "image": null,
-     "topics": [
-      "pharma",
-      "salud"
-     ],
-     "score": 6.952,
-     "also": []
-    },
-    {
-     "id": "3ce502eefa",
-     "relevance": 64,
-     "title": "UK’s NIHR backs largest global AI breast cancer screening trial",
-     "url": "https://www.medicaldevice-network.com/news/nihr-backs-ai-breast-cancer-screening-trial-edith/",
-     "source": "Medical Device Network",
-     "source_id": "mdnetwork",
-     "published": "2026-11-23T14:48:20+00:00",
-     "summary": "If successful, EDITH could pave the way for the widespread introduction of AI-assisted breast cancer screening across the NHS. The post UK’s NIHR backs largest global AI breast cancer screening trial appeared first on Medical Device Network .",
-     "image": null,
-     "topics": [
-      "salud",
-      "ia",
-      "medtech"
-     ],
-     "score": 11.345,
-     "also": [
-      {
-       "source_id": "pharmaphorum",
-       "source": "pharmaphorum",
-       "url": "https://pharmaphorum.com/news/uk-launches-worlds-largest-trial-ai-breast-cancer",
-       "title": "UK launches world's largest trial of AI in breast cancer"
-      },
-      {
-       "source_id": "medtech_search",
-       "source": "Medical Device Network",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3VRaDhmbHRUZ21rQklBNmR0UWlONUR5ZmRoWUJfT1hObENBUjBJTmdJNWxJRlVod3owVEdPTkgtRUZkUWlnbTcxdlhpN0hHU01qeUI2dFFpOGJjVi1lZFpmekpwMlBhV2l4cnkzbjJkNWZsc2MtTGh3TFB2M1BEeDdMLUp5OVlYS2ZLS19FV2dscF9EOVdzQQ?oc=5",
-       "title": "UK’s NIHR backs largest global AI breast cancer screening trial"
-      }
-     ]
-    },
-    {
-     "id": "58c2527b36",
-     "relevance": 45,
-     "title": "GE HealthCare introduces new AI tools to streamline radiology workflows",
-     "url": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-new-ai-tools-to-streamline-radiology-workflows/",
-     "source": "Medical Device Network",
-     "source_id": "mdnetwork",
-     "published": "2026-11-23T10:59:51+00:00",
-     "summary": "GE HealthCare's new AI tools are intended to streamline imaging teams’ ability to find answers to protocol-related questions for individual imaging orders. The post GE HealthCare introduces new AI tools to streamline radiology workflows appeared first on Medical Device Network .",
-     "image": null,
-     "topics": [
-      "medtech",
-      "ia",
-      "salud"
-     ],
-     "score": 7.95,
-     "also": [
-      {
-       "source_id": "medtech_search",
-       "source": "Medical Device Network",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3lQR2h6ZVduRlI5OUpicmhlY2EwUmxUU0NfZ0xNQjl1dmpUVENYdm5WZzQwMThaaGUxWmRiNkJndGVhd1ZWSGhVMkRxbUVVX1haa2RMNWpvX0tzWVlMU1A1WXA0cDBxdlJ2YTlYMXhYWXRoQnFsV1VCQ19wYU9RaHJVWnk4SDBKU1ptLUdvTk53ak5pUXlzTWkwV3ZzbzhVbmRfWk5CT21mOTg2NGtPRUJuaF9YZw?oc=5",
-       "title": "GE HealthCare introduces new AI tools to streamline radiology workflows"
-      }
-     ]
-    },
-    {
-     "id": "79f1c6c3ab",
-     "relevance": 79,
-     "title": "¿Qué nos recomienda la IA? Making Science revela las marcas y medios con más visibilidad en los LLMs",
-     "url": "https://www.marketingdirecto.com/especiales/reportajes-a-fondo/marcas-medios-recomienda-ia-making-science-revela-ranking",
-     "source": "Marketing Directo",
-     "source_id": "marketingdirecto",
-     "published": "2026-11-24T07:30:00+00:00",
-     "summary": "Making Science publica el \"LLM Footprint Radar\", un informe que revela los datos de presencia de las marcas y medios en los principales modelos de inteligencia artificial. La entrada ¿Qué nos recomienda la IA? Making Science revela las marcas y medios con más visibilidad en los LLMs se publicó primero en Marketing Directo .",
-     "image": null,
-     "topics": [
-      "ia",
-      "marketing"
-     ],
-     "score": 13.995,
-     "also": []
-    },
-    {
-     "id": "dc42a73f7e",
-     "relevance": 47,
-     "title": "Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas",
-     "url": "https://www.marketingdirecto.com/imprescindibles/inteligencia-artificial/anthropic-asegura-claude-resuelto-mayores-enigmas-matematicas",
-     "source": "Marketing Directo",
-     "source_id": "marketingdirecto",
-     "published": "2026-11-23T10:34:50+00:00",
-     "summary": "Claude podría haber resuelto un problema matemático sin respuesta desde 1859 y la comunidad científica examina la demostración de Anthropic. La entrada Anthropic asegura que Claude ha resuelto uno de los mayores enigmas de las matemáticas se publicó primero en Marketing Directo .",
-     "image": null,
-     "topics": [
-      "ia",
-      "marketing"
-     ],
-     "score": 8.298,
-     "also": []
-    },
-    {
-     "id": "27065c561f",
-     "relevance": 100,
-     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-     "source": "TechCrunch",
-     "source_id": "techcrunch",
-     "published": "2026-11-23T22:05:50+00:00",
-     "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-     "image": null,
-     "topics": [
-      "ia"
-     ],
-     "score": 17.684,
-     "also": [
-      {
-       "source_id": "reuters",
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5",
-       "title": "Anthropic launches Claude Ship to help developers ship code faster"
-      }
-     ]
-    },
-    {
-     "id": "15c28179b2",
-     "relevance": 97,
-     "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-     "source": "The Verge",
-     "source_id": "theverge",
-     "published": "2026-11-23T22:10:32+00:00",
-     "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
-     "image": "https://images.ecestaticos.com/nauHtQcnYe3xhd1SOU71FBO72M4=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1cc%2F103%2F9b5%2F1cc1039b58cbaccdbe5fca7894079cf0.jpg",
-     "topics": [
-      "ia",
-      "negocios"
-     ],
-     "score": 17.066,
-     "also": [
-      {
-       "source_id": "elconfidencial",
-       "source": "El Confidencial",
-       "url": "https://www.elconfidencial.com/tecnologia/2026-11-23/el-consejo-de-nvidia-restituye-a-jensen-huang-como-ceo-_4470790/",
-       "title": "El consejo de Nvidia restituye a Jensen Huang como CEO once días después de su dimisión"
-      },
-      {
-       "source_id": "techcrunch",
-       "source": "TechCrunch",
-       "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
-      },
-      {
-       "source_id": "ft",
-       "source": "Financial Times",
-       "url": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
-       "title": "Huang is back because he left Nvidia no choice"
-      },
-      {
-       "source_id": "eleconomista",
-       "source": "elEconomista",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJuUHhoMGg1SWVKdEZ3V3dLQWNfLWJmd2xyNnhfN3prZ1RpTzZqOHlJWmZlRzhJOERoQVZweFlxMXp4Smloc3RZdDBHOW1LWDY3eFZrdmU1eU1nMVJLN1pKYTN6NEJWcldkQy02b3liZ0FXVHJ6WnFLU3lGRFl6TlkzclMxZm00dy1xSFJ2WmFLQWRzMk80UWpmT1p4QVROZUY5cFdnWEd5RUJ2a3hDazRMQmlwaFF2OERFeWZ1WWVsM1dfbm5DaEV1UVVaeWU3MEE?oc=5",
-       "title": "Nvidia restituye a Jensen Huang como CEO de forma inmediata"
-      },
-      {
-       "source_id": "reuters",
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmN5QUFQSGxDSlRyR3gxZzZQczRFSC1SNjFtY0xtMkM4cjhwbnZndkNaSW5JVDNvVVYxMDdObkhjcVZIMVpVZ2FoVFdNZ3NGQU9hckJhZUx6M0dfMERucTNVZk9aamhpRU85TE96c1pEdGUyTlhyZVRMWlNPNUJ1TG1mLTJadHltZ1Utal85WFlTb09aTXF3MTBXNG1TZ0EzeHYzUFNadw?oc=5",
-       "title": "VIEW Nvidia reinstates Jensen Huang as CEO, igniting tech surge"
-      }
-     ]
-    },
-    {
-     "id": "49ef9cf508",
-     "relevance": 46,
-     "title": "Claude AI can review pull requests and ship fixes on its own now",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-     "source": "The Verge",
-     "source_id": "theverge",
-     "published": "2026-11-23T20:00:00+00:00",
-     "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
-     "image": null,
-     "topics": [
-      "ia"
-     ],
-     "score": 8.149,
-     "also": []
-    }
-   ],
-   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: El Global, Marketing Directo, Medical Device Network, TechCrunch, The Verge, Vision Monday. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
-   "transcript": [
-    {
-     "speaker": "Lucía",
-     "text": "Buenos días, hoy es martes 24 de noviembre de 2026 y comenzamos este resumen informativo en La Mañana."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Comenzamos en el sector de la óptica. Según informa la publicación Vision Monday, la compañía EssilorLuxottica ha anunciado un nuevo modelo de liderazgo unificado en Norteamérica que combina sus áreas minorista, médica y quirúrgica bajo una entidad llamada ORMS."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Esta división busca conectar todo el recorrido del paciente, desde la refracción hasta el diagnóstico y la cirugía. La estructura está encabezada por Alfonso Cerullo, que reportará directamente al consejero delegado Francesco Milleri."
-    },
-    {
-     "speaker": "Álex",
-     "text": "El movimiento integra redes como LensCrafters, Pearle Vision, Target Optical y For Eyes. En los cambios directivos, Tanya Gapic asumirá la gestión general de LensCrafters, con una red de 948 tiendas, y Sofia Caldwell dirigirá Pearle Vision, mientras que Gunjan Kumar deja la empresa de mutuo acuerdo tras casi dos décadas."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Pasamos a la industria farmacéutica. El periódico El Global repasa la actividad de la Agencia Española de Medicamentos y Productos Sanitarios durante el mandato de Mónica García al frente del Ministerio de Sanidad, iniciado en noviembre de 2023."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En este periodo, la agencia ha elaborado 276 Informes de Posicionamiento Terapéutico. Entre los fármacos analizados figuran tratamientos oncológicos como Blincyto de Amgen para leucemia linfoblástica aguda pediátrica, Brukinsa de Beigene con tres informes distintos y Tibsovo de Servier."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "El medio también destaca las evaluaciones de Vanflyta de Daiichi Sankyo para leucemia mieloide aguda, Cabometyx de Ipsen para tumores neuroendocrinos y Retsevmo de Lilly, indicado en tumores avanzados con mutación del gen RET."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En el sector de los dispositivos médicos, Medical Device Network informa de que el Instituto Nacional de Investigación en Salud del Reino Unido ha destinado diez millones de libras al proyecto EDITH, el mayor ensayo mundial sobre el cribado de cáncer de mama con inteligencia artificial."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "La investigación contará con casi 700.000 mujeres en 30 centros británicos, bajo la dirección del Servicio Nacional de Salud y las universidades de Warwick y Cambridge. El objetivo es analizar si la tecnología permite diagnosticar lesiones de menor tamaño y reducir tiempos de revisión."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En la actualidad, el sistema británico realiza mamografías cada tres años a mujeres de 50 a 71 años, analizadas por dos especialistas. Si el ensayo da un resultado positivo, la inteligencia artificial permitiría que las imágenes sean revisadas por un solo especialista, liberando capacidad médica."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "En relación con este tipo de tecnologías, Marissa Fayer, consejera delegada de DeepLook Medical, señala en el mismo artículo que la aplicación de la inteligencia artificial en imagen médica es muy amplia, aunque advierte de que aún falta infraestructura para un despliegue masivo."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Siguiendo con la tecnología médica, Medical Device Network reporta que GE HealthCare ha integrado dos herramientas de inteligencia artificial en su plataforma Imaging 360 para ayudar a los radiólogos en la gestión de protocolos de escaneo."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "La primera de ellas es un asistente para consultas operativas sobre protocolos, mientras que la segunda, denominada protocolo asistido por inteligencia artificial, aporta recomendaciones estandarizadas para orientar la selección del estudio antes de realizar la prueba."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Según datos de la propia empresa, los radiólogos dedican un promedio de 1,3 horas al día a tomar decisiones relativas a protocolos. Ryan Dobbe, directivo de la compañía, explica que buscan aportar mayor eficiencia ante la escasez global de personal especializado."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "A este respecto, análisis de la firma GlobalData estiman que el mercado de la inteligencia artificial aplicada a la salud crece a un ritmo anual del 37% y alcanzará los 57.400 millones de dólares en el año 2029."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En el sector del marketing, el portal Marketing Directo recoge que la consultora Making Science ha publicado el informe titulado LLM Footprint Radar, que analiza la presencia y visibilidad de marcas y medios de comunicación en los principales modelos de lenguaje de inteligencia artificial."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "En el terreno científico, la misma publicación informa de que Levent Alpoge, matemático e investigador de la empresa Anthropic, afirma haber avanzado en la resolución de la hipótesis de Riemann apoyándose en el modelo de inteligencia artificial Claude."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Alpoge difundió una nota de cuatro páginas adjuntando un código escrito en lenguaje Lean para la verificación automática de los cálculos sobre la distribución de los números primos, un problema planteado por Bernhard Riemann en 1859."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "El hallazgo está pendiente de la revisión de otros especialistas. Expertos como James Maynard, de la Universidad de Oxford, señalan una alta probabilidad de que la verificación sea correcta, mientras que Steven Strogatz, de la Universidad de Cornell, ha valorado la colaboración entre el investigador y la herramienta."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Entrando en las novedades de inteligencia artificial, TechCrunch y la agencia Reuters informan del lanzamiento de Claude Ship por parte de Anthropic, un conjunto de agentes diseñados para automatizar la revisión, corrección y aprobación de código informático."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "El producto incluye la función de revisión de código ya existente y dos nuevos agentes en fase beta: PR Steward y Claude Approvals. El primero corrige fallos de integración, resuelve conflictos de fusión y añade notas explicativas sobre los cambios aplicados."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Por su parte, Claude Approvals permite autorizar modificaciones de forma automática según las reglas fijadas por cada equipo en lenguaje natural. La herramienta busca reducir los cuellos de botella generados por la gran cantidad de código que producen los sistemas automatizados."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Anthropic ha habilitado este servicio para los planes Team y Enterprise en la plataforma GitHub, recomendando activar inicialmente el modo de solo observación y configurar límites de gasto mensuales para mantener el control de los repositorios."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Respecto a la actualidad corporativa de esta misma tecnología, medios como The Verge, El Confidencial, Financial Times, elEconomista y Reuters informan sobre el regreso de Jensen Huang a la jefatura ejecutiva de Nvidia."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Huang había dimitido el pasado 12 de noviembre tras iniciarse investigaciones sobre relaciones extramatrimoniales dentro de la compañía, periodo en el que la directora financiera Colette Kress ocupó la dirección de forma interina."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Menos de dos semanas después, el consejo de administración anunció su retorno tras mantener conversaciones con altos cargos del gobierno de Estados Unidos. El presidente Donald Trump llegó a pronunciarse públicamente sobre la situación del directivo en una entrevista radial."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Nvidia, valorada en más de cuatro billones de dólares, constituye un pilar estratégico en la provisión de hardware para inteligencia artificial. En su vuelta a las oficinas, Huang se dirigió a los empleados afirmando que buscará ser un mejor consejero delegado en esta etapa."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Para terminar, la publicación The Verge repasa también las funciones de Claude Ship, recordando que la herramienta de revisión de código se lanzó inicialmente en marzo y pasó a estar disponible de forma general en octubre."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "El medio enfatiza que la incorporación de los agentes en fase beta permite gestionar de forma automática las solicitudes de cambio en GitHub para los clientes de los planes corporativos de Anthropic."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Les esperamos mañana con más información en una nueva edición de La Mañana."
-    }
-   ]
-  },
-  {
-   "date": "2026-11-23",
-   "file": "2026-11-23.mp3",
-   "title": "La Mañana: Jensen Huang vuelve al frente de Nvidia",
-   "duration": 244,
-   "bytes": 1955841,
-   "published": "2026-11-23T16:13:57.380066+00:00",
-   "topics": [
-    "optica",
-    "pharma",
-    "medtech",
-    "marketing",
-    "ia"
-   ],
-   "topic_names": [
-    "Óptica y optometría",
-    "Industria y marketing farmacéutico",
-    "Medical devices",
-    "Marketing y publicidad",
-    "Inteligencia artificial"
-   ],
-   "stories": [
-    "5320043ce8",
-    "aefe2fb3f5",
-    "3ce502eefa",
-    "58c2527b36",
-    "dc42a73f7e",
-    "9c18fd8d23"
-   ],
-   "description": "Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Diario Información, El Global, El Mundo, Marketing Directo, Medical Device Network. Guion y voces generados con IA (Google Gemini) a partir de titulares.",
-   "transcript": [
-    {
-     "speaker": "Lucía",
-     "text": "Buenos días, hoy es lunes 23 de noviembre de 2026."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Empezamos en Alicante, donde el diario Información señala que los ópticos de la provincia se han ofrecido para colaborar con los hospitales públicos y ayudar a aliviar las listas de espera en las consultas de Oftalmología."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "En el sector farmacéutico, según publica El Global, la Agencia Española de Medicamentos y Productos Sanitarios ha elaborado doscientos setenta y seis Informes de Posicionamiento Terapéutico desde que Mónica García fue nombrada ministra de Sanidad el veinte de noviembre de dos mil veintitrés."
-    },
-    {
-     "speaker": "Álex",
-     "text": "El medio repasa los documentos de este periodo, destacando varios tratamientos oncológicos evaluados como Blincyto para leucemia linfloblástica aguda pediátrica, Brukinsa con tres informes diferentes, Tibsovo para leucemia mieloide aguda y Vanflyta para adultos con esta misma patología."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Pasamos a la tecnología médica. El Instituto Nacional de Investigación de Salud del Reino Unido ha aportado diez millones de libras, unos trece millones de dólares, al ensayo EDITH. Según informa Medical Device Network, medio que también cita pharmaphorum, es el mayor estudio global sobre cribado de cáncer de mama asistido por inteligencia artificial."
-    },
-    {
-     "speaker": "Álex",
-     "text": "La investigación incluirá a casi setecientas mil mujeres en treinta centros británicos bajo la dirección de la Universidad de Warwick, la Universidad de Cambridge y su consorcio hospitalario. El estudio evaluará si la tecnología permite diagnosticar antes, detectar signos imperceptibles a la vista o al tacto y reducir el tiempo de revisión de las imágenes radiológicas."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Si el ensayo ofrece resultados positivos, se prevé introducir la inteligencia artificial en el sistema público británico para que un solo especialista revise las imágenes en lugar de dos. Según la secretaria de Salud, Yvette Cooper, esto liberaría a cientos de radiólogos y recortaría los tiempos de diagnóstico en una patología que afecta a cincuenta y cinco mil mujeres al año en el país."
-    },
-    {
-     "speaker": "Álex",
-     "text": "También en dispositivos médicos, GE HealthCare ha presentado dos herramientas de inteligencia artificial para su plataforma Imaging 360, según recoge Medical Device Network."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Se trata de un asistente para resolver dudas de forma operativa y un sistema de protocolizado asistido. Según datos internos de la propia compañía, los radiólogos dedican una media de una hora y veinte minutos al día a decisiones de protocolo, por lo que estas funciones buscan optimizar las operaciones sin modificar los datos de origen."
-    },
-    {
-     "speaker": "Álex",
-     "text": "En información sobre inteligencia artificial, la revista Marketing Directo informa de un avance comunicado por la empresa Anthropic. Su investigador Levent Alpoge afirma haber completado la demostración de la hipótesis de Riemann, un enigma matemático planteado en mil ochocientos cincuenta y nueve, utilizando el modelo Claude."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "Alpoge publicó una nota de cuatro páginas con un enlace a un código en lenguaje Lean para verificar el resultado automáticamente. Matemáticos como James Maynard, de la Universidad de Oxford, otorgan entre un noventa y ocho y un noventa y nueve por ciento de posibilidades de que sea correcto, aunque la demostración aún está siendo examinada por la comunidad científica."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Cerramos con la noticia más relevante del día en la industria tecnológica. El diario El Mundo, junto a medios como El País, Financial Times o The Verge, confirma que el consejo de administración de Nvidia ha restituido a Jensen Huang como presidente y consejero delegado."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "El reingreso se produce solo once días después de forzarse su dimisión por escándalos de espionaje y personales. Tras el anuncio, las acciones de la compañía han subido un treinta y cinco por ciento en media hora, sumando más de ochocientos mil millones de dólares a su valoración bursátil."
-    },
-    {
-     "speaker": "Álex",
-     "text": "El consejo ha votado por unanimidad su regreso tras recibir confirmación de altos funcionarios de Estados Unidos de que la restitución no supone un riesgo para la seguridad nacional. El presidente del consejo, Harvey C. Jones, ha firmado el comunicado oficial comunicando la decisión."
-    },
-    {
-     "speaker": "Lucía",
-     "text": "El propio presidente Donald Trump ha admitido en la cadena CNBC que intervino ante la junta tras reunirse con Huang para dar garantías sobre su vinculación con Pekín. La vuelta del directivo se produce tras presiones de empleados, clientes y proveedores, elevando la valoración global de Nvidia de tres a cuatro billones de dólares."
-    },
-    {
-     "speaker": "Álex",
-     "text": "Así termina la información en el podcast La Mañana de hoy."
+     "text": "Así terminamos el resumen de noticias de hoy en La Mañana, gracias por acompañarnos y que tengan un feliz día."
     }
    ]
   }

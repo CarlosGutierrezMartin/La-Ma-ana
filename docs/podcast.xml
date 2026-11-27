@@ -12,39 +12,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
-      <title>La Mañana - 26 de noviembre de 2026</title>
-      <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: ConSalud, Forrester, Gartner, IPMARK, IQVIA, Marketing Directo, Medical Device Network, Redacción Médica, TechCrunch, pharmaphorum. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
-      <pubDate>Thu, 26 Nov 2026 15:25:23 +0000</pubDate>
-      <guid isPermaLink="false">la-manana-2026-11-26</guid>
-      <enclosure url="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast/2026-11-26.mp3" length="2399346" type="audio/mpeg"/>
-      <itunes:duration>300</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>La Mañana: Ensayos clínicos en Europa, compra de Insmed y volatilidad en la IA</title>
-      <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: El Global, El Mundo, Forrester, Gartner, IPMARK, Marketing Directo, Medical Device Network, MotorVSMotor, STAT, TechCrunch. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
-      <pubDate>Wed, 25 Nov 2026 08:48:47 +0000</pubDate>
-      <guid isPermaLink="false">la-manana-2026-11-25</guid>
-      <enclosure url="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast/2026-11-25.mp3" length="4446302" type="audio/mpeg"/>
-      <itunes:duration>556</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>La Mañana: Actualidad de IA, tecnología médica y sector farmacéutico</title>
-      <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: El Global, Marketing Directo, Medical Device Network, TechCrunch, The Verge, Vision Monday. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
-      <pubDate>Tue, 24 Nov 2026 08:12:26 +0000</pubDate>
-      <guid isPermaLink="false">la-manana-2026-11-24</guid>
-      <enclosure url="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast/2026-11-24.mp3" length="3393942" type="audio/mpeg"/>
-      <itunes:duration>424</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>La Mañana: Jensen Huang vuelve al frente de Nvidia</title>
-      <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: Diario Información, El Global, El Mundo, Marketing Directo, Medical Device Network. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
-      <pubDate>Mon, 23 Nov 2026 16:13:57 +0000</pubDate>
-      <guid isPermaLink="false">la-manana-2026-11-23</guid>
-      <enclosure url="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast/2026-11-23.mp3" length="1955841" type="audio/mpeg"/>
-      <itunes:duration>244</itunes:duration>
+      <title>La Mañana del 27 de noviembre de 2026</title>
+      <description>Temas: Óptica y optometría, Industria y marketing farmacéutico, Medical devices, Marketing y publicidad, Inteligencia artificial. Medios: ConSalud, Diariofarma, El Global, El País, Forrester, Gartner, IPMARK, IQVIA, MARCA, Marketing Directo, Medical Device Network. Guion y voces generados con IA (Google Gemini) a partir de titulares.</description>
+      <pubDate>Fri, 27 Nov 2026 15:41:32 +0000</pubDate>
+      <guid isPermaLink="false">la-manana-2026-11-27</guid>
+      <enclosure url="https://carlosgutierrezmartin.github.io/La-Ma-ana/podcast/2026-11-27.mp3" length="4194356" type="audio/mpeg"/>
+      <itunes:duration>524</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
